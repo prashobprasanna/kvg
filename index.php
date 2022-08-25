@@ -11,7 +11,7 @@
     <header>
    
         <?php
-        include('nav2.php');
+        include('navbar.php');
         ?>
     </header>
     <section class="slider wow fadeIn" data-wow-delay=".2s">
