@@ -1,0 +1,1276 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+
+    <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
+        <div><img src="images/banner/about.jpg" class="img-responsive"></div>
+    </section>
+  
+    <section class="home-facts-bg" id="president">
+        <div class="container">
+            <div class="col-md-12">
+                <h2 class="subheadWhite head"> Founder President<span></span></h2>
+                <style>
+            
+
+.data_more_less_inner {
+    overflow: hidden;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.action_less {
+    display: none;
+}
+
+.less_active .action_less {
+    display: inline-block;
+}
+
+.less_active .action_more {
+    display: none;
+}
+
+.data_more_less:not(.less_active):not(.action_disabled) .data_more_less_inner:after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff',
+            GradientType=0);
+    height: 80px;
+}
+
+.data_more_less.action_disabled .more_less_action {
+    display: none;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+.btn {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 18px;
+    padding: 7px 15px;
+}
+
+.btn:hover {
+    background: rgb(92, 92, 92);
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+/* stat */
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;300;700&display=swap');
+
+ul {
+    list-style: none;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #f7f8fc;
+}
+
+.section {
+    min-height: 50vh;
+    margin: 0 30px;
+}
+
+.container1 {
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+    font-family: 'Anek Bangla', sans-serif;
+    font-weight: bold;
+}
+
+.card {
+    /* background-color: rgb(255, 187, 30); */
+    background-image: linear-gradient(to right bottom, rgb(0, 10, 114), #4c449d);
+    padding: 3rem 3.5rem;
+    border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    max-width: 500px;
+    border: 3px solid black;
+    border-radius: 8px;
+    /* z-index: 0; */
+}
+
+.card::before {
+    content: '';
+    position: absolute;
+    top: -15px;
+    left: 1px;
+    width: 101%;
+    height: 110%;
+    background-image: linear-gradient(to right bottom, #4c449d, rgb(0, 10, 114));
+    z-index: -1;
+    border-radius: 15px;
+    transform: rotate(-8deg);
+    box-shadow: 0 0 45px 5px rgba(0, 0, 0, .2);
+    border: 3px solid black;
+        border-radius: 8px;
+}
+
+.card li {
+    width: 50%;
+    margin: 15px 0;
+}
+
+.card li p {
+    display: flex;
+}
+
+.card li h3 {
+    display: inline-block;
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    vertical-align: top;
+    margin-right: 5px;
+    line-height: 1.2;
+}
+
+.card li .fa {
+    font-size: 18px;
+}
+
+.card li span {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+.clr-up {
+    color: green;
+}
+
+.clr-down {
+    color: red;
+}
+
+@media screen and (max-width: 500px) {
+    .card::before {
+        top: -10px;
+        left: -2px;
+    }
+
+    .card li {
+        width: 100%;
+    }
+
+    .card li:not(:first-of-type) {
+        margin-top: 15px;
+    }
+}
+
+
+
+
+/* HOD Card */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+< !-- body {
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    justify-content: center;
+    background-color: #ADE5F9;
+    min-height: 100vh;
+}
+
+-->img {
+    max-width: 100%;
+    display: block;
+}
+
+ul {
+    list-style: none;
+}
+
+/* Utilities */
+.card1::after,
+.card1 img {
+    border-radius: 2%;
+}
+
+.card1,
+.stats1 {
+    display: flex;
+}
+
+.card1 {
+    padding: 2.5rem 2rem;
+    border-radius: 10px;
+    background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
+    max-width: 90%;
+    box-shadow: 0 0 30px rgba(0, 0, 0, .15);
+    margin: 1rem;
+    position: relative;
+    transform-style: preserve-3d;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.card1::before,
+.card1::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+}
+
+.card1::before {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #FFF;
+    border-radius: 10px;
+    top: -.7rem;
+    left: -.7rem;
+}
+
+.card1::after {
+    height: 15rem;
+    width: 15rem;
+    background-color: #4172f5aa;
+    top: -8rem;
+    right: -8rem;
+    box-shadow: 2rem 6rem 0 -3rem #FFF
+}
+
+.card1 img {
+    float: left;
+    width: 90rem;
+    min-width: 40px;
+    box-shadow: 0 0 0 5px #FFF;
+}
+
+.infos {
+    margin-left: 1.5rem;
+}
+
+.name {
+    margin-bottom: 1rem;
+}
+
+.name h2 {
+    font-size: 1.3rem;
+}
+
+.name h4 {
+    font-size: .8rem;
+    color: #333
+}
+
+.text {
+    font-size: .9rem;
+    margin-bottom: 1rem;
+}
+
+.stats1 {
+    margin-bottom: 1rem;
+}
+
+.stats1 li {
+    min-width: 5rem;
+}
+
+.stats1 li h3 {
+    font-size: .99rem;
+}
+
+.stats1 li h4 {
+    font-size: .75rem;
+}
+
+.links1 button {
+    font-family: 'Poppins', sans-serif;
+    min-width: 120px;
+    padding: .5rem;
+    border: 1px solid #222;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all .25s linear;
+}
+
+.links1 .follow,
+.links1 .view:hover {
+    background-color: #222;
+    color: #FFF;
+}
+
+.links1 .view,
+.links1 .follow:hover {
+    background-color: transparent;
+    color: #222;
+}
+
+@media screen and (max-width: 450px) {
+    .card1 {
+        display: block;
+    }
+
+    .infos {
+        margin-left: 0;
+        margin-top: 1.5rem;
+    }
+
+    .links1 button {
+        min-width: 100px;
+    }
+}
+                </style>
+                  <style>
+                    
+                    /* #myBtn1 {display: none;} */
+                    #myBtn2 {display: none;}
+                    #som{
+                        font-size: 25px;
+                    }
+                 @media (max-width:767px){
+                    #som{
+                        font-size: 14px;
+                    }
+                  /* #nobq{display: none;} */
+                    #more2 {display: none;}
+                    #myBtn2 {display: inline;}
+                    #h3f{
+                        font-size: 16px;
+                        font-weight: solid;
+                        
+                    }
+                }
+    
+                    </style>
+                    <style>
+                    
+                        /* #myBtn1 {display: none;} */
+                        #myBtn1 {display: none;}
+                        #som{
+                            font-size: 25px;
+                        }
+                     @media (max-width:767px){
+                        #som{
+                            font-size: 14px;
+                        }
+                      /* #nobq{display: none;} */
+                        #more1 {display: none;}
+                        #myBtn1 {display: inline;}
+                        #h3f{
+                            font-size: 16px;
+                            font-weight: solid;
+                            
+                        }
+                    }
+        
+                        </style><style>
+                    
+                    /* #myBtn1 {display: none;} */
+                    #myBtn3 {display: none;}
+                    #som{
+                        font-size: 25px;
+                    }
+                 @media (max-width:767px){
+                    #som{
+                        font-size: 14px;
+                    }
+                  /* #nobq{display: none;} */
+                    #more3 {display: none;}
+                    #myBtn3 {display: inline;}
+                    #h3f{
+                        font-size: 16px;
+                        font-weight: solid;
+                        
+                    }
+                }
+    
+                    </style><style>
+                    
+                    /* #myBtn1 {display: none;} */
+                    #myBtn4 {display: none;}
+                    #som{
+                        font-size: 25px;
+                    }
+                 @media (max-width:767px){
+                    #som{
+                        font-size: 14px;
+                    }
+                  /* #nobq{display: none;} */
+                    #more4 {display: none;}
+                    #myBtn4 {display: inline;}
+                    #h3f{
+                        font-size: 16px;
+                        font-weight: solid;
+                        
+                    }
+                }
+    
+                    </style>
+             <center>   <div class="card1">
+                    <div>
+                        <img
+                            src="admin-kvgce/photos/kurunji.jpg" >
+                    </div>
+                    <div class="infos">
+                        <div class="name">
+                        <strong><div class="header-fullname " id="som"> LATE DR. KURUNJI VENKATRAMANA GOWDA</div></strong>
+                            <!-- <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
+                                
+                                <div class="stats-title"> M.Tech., Ph.D.</div>
+                            </div> -->
+                        </div>
+                        <!-- <p class="text">
+                            <strong> ukskvgce@gmail.com &nbsp;&nbsp;&nbsp;08257-231141 Ext: 5137</strong>
+                        </p> -->
+                        <ul class="stats1">
+                            <li>
+                                <blockquote>
+                                    <p style="text-align: justify;"><span id="dots1"></span><span id="more1">  "It takes a lot of courage to release the familiar and seemingly secure, to embrace the new. But there is no real security in what is no longer meaningful. There is more security in the adventurous and exciting, for in movement there is life, and in change there is power." </span></p>
+                                    <button  onclick="myreadmoreFunction()" id="myBtn1">READ MORE</button></blockquote>
+                                    
+                            </li>
+                        </ul>
+                        <div class="links1">
+                            <!-- <button class="follow">Follow</button> -->
+                            <!-- <button class="view">MORE</button> -->
+                        </div>
+                    </div>
+                </div> </center>
+               
+            </div>
+        </div>
+    </section>
+ 
+    <section class="home-facts-bg" id="secretary">
+        <div class="container">
+            <div class="col-md-12">
+                <h2 class="subheadWhite head"> General Secretary<span></span></h2>
+                <style>
+                    
+                </style>
+             <center>   <div class="card1">
+                    <div class="img">
+                        <img
+                            src="admin-kvgce/photos/gen_secretary1.jpg" style="width: 400px;">
+                    </div>
+                    <div class="infos">
+                        <div class="name">
+                        <strong><div class="header-fullname" style="font-size: 25px;">DR. K V RENUKA PRASAD</div></strong>
+                            <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
+                                
+                               
+                            </div>
+                        </div>
+                       
+                        <ul class="stats1">
+                            <li>
+                                <blockquote>
+                                    <p style="text-align: justify;"><span id="dots2"></span><span id="more2">   "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living." </span></p>
+                                    <button  onclick="myreadmoreFunction1()" id="myBtn2">READ MORE</button></blockquote></blockquote>
+                            </li>
+                        </ul>
+                        <div class="links1">
+                            <!-- <button class="follow">Follow</button> -->
+                            <!-- <button class="view">MORE</button> -->
+                        </div>
+                    </div>
+                </div> </center>
+             
+            </div>
+        </div>
+    </section>
+
+
+  
+
+
+    <section class="home-facts-bg" id="ceo">
+        <div class="container">
+            <div class="col-md-12">
+                <h2 class="subheadWhite head"> Chief Executive Officer<span></span></h2>
+                <style>
+                    
+                </style>
+             <center>   <div class="card1">
+                    <div class="img">
+                        <img
+                            src="admin-kvgce/photos/ujwal-sir1.jpg" >
+                    </div>
+                    <div class="infos">
+                        <div class="name">
+                        <strong><div class="header-fullname" style="font-size: 25px;">DR. UJWAL U J</div></strong>
+                            <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
+                                
+                               
+                            </div>
+                        </div>
+                       
+                        <ul class="stats1">
+                            <li>
+                                <blockquote>
+                                    <p style="text-align: justify;"><span id="dots2"></span><span id="more2">   "KVG College of Engineering focuses on addressing the needs of students fromcurricular, co-curricular and extra-curricular point of view. It is the innateprinciple of our institution that every single student must realize her or his goalto be a robust and effective part of the world to solve real world problems and tobe an asset to the society" </span></p>
+                                    <button  onclick="myreadmoreFunction1()" id="myBtn2">READ MORE</button></blockquote></blockquote>
+                            </li>
+                        </ul>
+                        <div class="links1">
+                            <!-- <button class="follow">Follow</button> -->
+                            <!-- <button class="view">MORE</button> -->
+                        </div>
+                    </div>
+                </div> </center>
+             
+            </div>
+        </div>
+    </section>
+  
+    <section class="home-facts-bg" id="prin">
+        <div class="container">
+            <div class="col-md-12">
+                <h2 class="subheadWhite head"> Principal<span></span></h2>
+                <style>
+                    
+                </style>
+             <center>   <div class="card1">
+                    <div class="img">
+                        <img
+                            src="admin-kvgce/photos/suresh.jpg" style="width: 250px;" >
+                    </div>
+                    <div class="infos">
+                        <div class="name">
+                        <strong><div class="header-fullname" style="font-size: 25px;">DR. SURESHA V</div></strong>
+                            <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
+                                
+                               
+                            </div>
+                        </div>
+                       
+                        <ul class="stats1">
+                            <li>
+                                <blockquote>
+                                    <p style="text-align: justify;"><span id="dots2"></span><span id="more2">   " Do not go where the path may lead, go instead where there is no path and leave trail." </span></p>
+                                    <button  onclick="myreadmoreFunction1()" id="myBtn2">READ MORE</button></blockquote></blockquote>
+                            </li>
+                        </ul>
+                        <div class="links1">
+                            <!-- <button class="follow">Follow</button> -->
+                            <!-- <button class="view">MORE</button> -->
+                        </div>
+                    </div>
+                </div> </center>
+             
+            </div>
+        </div>
+    </section>
+  
+
+
+    
+    <script>
+        function myreadmoreFunction() {
+          var dots = document.getElementById("dots1");
+          var moreText = document.getElementById("more1");
+          var btnText = document.getElementById("myBtn1");
+        
+          if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more"; 
+            moreText.style.display = "none";
+          } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less"; 
+            moreText.style.display = "inline";
+          }
+        }
+        </script>
+         <script>
+            function myreadmoreFunction1() {
+              var dots = document.getElementById("dots2");
+              var moreText = document.getElementById("more2");
+              var btnText = document.getElementById("myBtn2");
+            
+              if (dots.style.display === "none") {
+                dots.style.display = "inline";
+                btnText.innerHTML = "Read more"; 
+                moreText.style.display = "none";
+              } else {
+                dots.style.display = "none";
+                btnText.innerHTML = "Read less"; 
+                moreText.style.display = "inline";
+              }
+            }
+            </script>
+             <script>
+                function myreadmoreFunction2() {
+                  var dots = document.getElementById("dots3");
+                  var moreText = document.getElementById("more3");
+                  var btnText = document.getElementById("myBtn3");
+                
+                  if (dots.style.display === "none") {
+                    dots.style.display = "inline";
+                    btnText.innerHTML = "Read more"; 
+                    moreText.style.display = "none";
+                  } else {
+                    dots.style.display = "none";
+                    btnText.innerHTML = "Read less"; 
+                    moreText.style.display = "inline";
+                  }
+                }
+                </script>
+                 <script>
+                    function myreadmoreFunction3() {
+                      var dots = document.getElementById("dots4");
+                      var moreText = document.getElementById("more4");
+                      var btnText = document.getElementById("myBtn4");
+                    
+                      if (dots.style.display === "none") {
+                        dots.style.display = "inline";
+                        btnText.innerHTML = "Read more"; 
+                        moreText.style.display = "none";
+                      } else {
+                        dots.style.display = "none";
+                        btnText.innerHTML = "Read less"; 
+                        moreText.style.display = "inline";
+                      }
+                    }
+                    </script>
+    <!-- footer> -->
+    <footer>
+        <style>
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {}
+    
+            a,
+            a:hover,
+            a:focus,
+            a:active {
+                text-decoration: none;
+                outline: none;
+            }
+    
+            a,
+            a:active,
+            a:focus {
+                color: #333;
+                text-decoration: none;
+                transition-timing-function: ease-in-out;
+                -ms-transition-timing-function: ease-in-out;
+                -moz-transition-timing-function: ease-in-out;
+                -webkit-transition-timing-function: ease-in-out;
+                -o-transition-timing-function: ease-in-out;
+                transition-duration: .2s;
+                -ms-transition-duration: .2s;
+                -moz-transition-duration: .2s;
+                -webkit-transition-duration: .2s;
+                -o-transition-duration: .2s;
+            }
+    
+            ul {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+    
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+    
+            section {
+    
+                padding: 1px 0;
+                /* min-height: 100vh;*/
+            }
+    
+            .footer {
+                background: linear-gradient(105deg, #04192e, #04192e);
+                padding-top: 80px;
+                padding-bottom: 40px;
+            }
+    
+            /*END FOOTER SOCIAL DESIGN*/
+            .single_footer {}
+    
+            @media only screen and (max-width:768px) {
+                .single_footer {
+                    margin-bottom: 30px;
+                }
+            }
+    
+            .single_footer h4 {
+                color: #fff;
+                margin-top: 0;
+                margin-bottom: 25px;
+                font-weight: 700;
+                text-transform: uppercase;
+                font-size: 20px;
+            }
+    
+            .single_footer h4::after {
+                content: "";
+                display: block;
+                height: 2px;
+                width: 40px;
+                background: #fff;
+                margin-top: 20px;
+            }
+    
+            .single_footer p {
+                color: #fff;
+            }
+    
+            .single_footer ul {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+    
+            .single_footer ul li {}
+    
+            .single_footer ul li a {
+                color: #fff;
+                -webkit-transition: all 0.3s ease 0s;
+                transition: all 0.3s ease 0s;
+                line-height: 36px;
+                font-size: 15px;
+                text-transform: capitalize;
+            }
+    
+            .single_footer ul li a:hover {
+                color: #ff3666;
+            }
+    
+            .single_footer_address {}
+    
+            .single_footer_address ul {}
+    
+            .single_footer_address ul li {
+                color: #fff;
+            }
+    
+            .single_footer_address ul li span {
+                font-weight: 400;
+                color: #fff;
+                line-height: 28px;
+            }
+    
+            .contact_social ul {
+                list-style: outside none none;
+                margin: 0;
+                padding: 0;
+            }
+    
+            /*START NEWSLETTER CSS*/
+            .subscribe {
+                display: block;
+                position: relative;
+                margin-top: 15px;
+                width: 100%;
+            }
+    
+            .subscribe__input {
+                background-color: #fff;
+                border: medium none;
+                border-radius: 5px;
+                color: #333;
+                display: block;
+                font-size: 15px;
+                font-weight: 500;
+                height: 60px;
+                letter-spacing: 0.4px;
+                margin: 0;
+                padding: 0 150px 0 20px;
+                text-align: center;
+                text-transform: capitalize;
+                width: 100%;
+            }
+    
+            @media only screen and (max-width:768px) {
+                .subscribe__input {
+                    padding: 0 50px 0 20px;
+                }
+            }
+    
+            .subscribe__btn {
+                background-color: transparent;
+                border-radius: 0 25px 25px 0;
+                color: #01c7e9;
+                cursor: pointer;
+                display: block;
+                font-size: 20px;
+                height: 60px;
+                position: absolute;
+                right: 0;
+                top: 0;
+                width: 60px;
+            }
+    
+            .subscribe__btn i {
+                transition: all 0.3s ease 0s;
+            }
+    
+            @media only screen and (max-width:768px) {
+                .subscribe__btn {
+                    right: 0px;
+                }
+            }
+    
+            .subscribe__btn:hover i {
+                color: #ff3666;
+            }
+    
+            button {
+                padding: 0;
+                border: none;
+                background-color: transparent;
+                -webkit-border-radius: 0;
+                border-radius: 0;
+            }
+    
+            /*END NEWSLETTER CSS*/
+    
+            /*START SOCIAL PROFILE CSS*/
+            .social_profile {
+                margin-top: 40px;
+            }
+    
+            .social_profile ul {
+                list-style: outside none none;
+                margin: 0;
+                padding: 0;
+            }
+    
+            .social_profile ul li {
+                float: left;
+            }
+    
+            .social_profile ul li a {
+                text-align: center;
+                border: 0px;
+                text-transform: uppercase;
+                transition: all 0.3s ease 0s;
+                margin: 0px 5px;
+                font-size: 18px;
+                color: #fff;
+                border-radius: 30px;
+                width: 50px;
+                height: 50px;
+                line-height: 50px;
+                display: block;
+                border: 1px solid rgba(255, 255, 255, 0.2);
+            }
+    
+            @media only screen and (max-width:768px) {
+                .social_profile ul li a {
+                    margin-right: 10px;
+                    margin-bottom: 10px;
+                }
+            }
+    
+            @media only screen and (max-width:480px) {
+                .social_profile ul li a {
+                    width: 40px;
+                    height: 40px;
+                    line-height: 40px;
+                }
+            }
+    
+            .social_profile ul li a:hover {
+                background: #ff3666;
+                border: 1px solid #ff3666;
+                color: #fff;
+                border: 0px;
+            }
+    
+            /*END SOCIAL PROFILE CSS*/
+            .copyright {
+                margin-top: 70px;
+                padding-top: 40px;
+                color: #fff;
+                font-size: 15px;
+                border-top: 1px solid rgba(255, 255, 255, 0.4);
+                text-align: center;
+            }
+    
+            .copyright a {
+                color: #01c7e9;
+                transition: all 0.2s ease 0s;
+            }
+    
+            .copyright a:hover {
+                color: #ff3666;
+            }
+        </style>
+        <div class="footer" style="margin: 1.5%;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-sm-4 col-xs-12">
+                        <div class="single_footer">
+                            <h4>Courses</h4>
+                            <ul>
+                                <li><a href="#">Computer Science and Engineering</a></li>
+                                <li><a href="#">AI & ML</a></li>
+                                <li><a href="#">Electronics and Communication</a></li>
+                                <li><a href="#">Mechanical</a></li>
+                                <li><a href="#">Civil</a></li>
+                                <!-- <li><a href="#">-----------------</a></li>
+                                <li><a href="#">Hostel Facilities</a></li>
+                                <li><a href="#">Campus</a></li>
+                                <li><a href="#">Playground</a></li> -->
+    
+                            </ul>
+                        </div>
+                    </div>
+                    <!--- END COL -->
+                    <div class="col-md-4 col-sm-4 col-xs-12">
+                        <div class="single_footer single_footer_address">
+                            <h4>Page Link</h4>
+                            <ul>
+                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">Our Founder</a></li>
+                                <li><a href="#">Motto,Mission & Vision</a></li>
+                                <li><a href="#">Our President</a></li>
+                                <li><a href="#"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!--- END COL -->
+                    <div class="col-md-4 col-sm-4 col-xs-12">
+                        <div class="single_footer single_footer_address">
+                            <h4>Contact Us</h4>
+                            <div class="signup_form">
+                                <form action="#" class="subscribe">
+                                    <input type="text" class="subscribe__input" placeholder="Enter Email Address">
+                                    <button type="button" class="subscribe__btn"><i class="fas fa-paper-plane"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="social_profile">
+                            <ul>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!--- END COL -->
+                </div>
+                <!--- END ROW -->
+                <div class="row">
+                    <div class="col-lg-12 col-sm-12 col-xs-12">
+                        <p class="copyright">Copyright © 2022 <a href="#">ANASOFT</a>.</p>
+                    </div>
+                    <!--- END COL -->
+                </div>
+                <!--- END ROW -->
+            </div>
+            <!--- END CONTAINER -->
+        </div>
+    </footer>
+    
+    
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47795374-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-47795374-1');
+    </script>
+
+
+    <!-- Google Tag Manager DM Team college on 6th may 2020-->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    '../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NVNRLTG');</script>
+    <!-- End Google Tag Manager --><a href="#" class="back-to-top wow fadeIn">TOP</a>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <script src="js/pushy.min.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/jquery.nicescroll.js"></script>
+    <!-- Wow Animation -->
+    <script type="text/javascript" src="js/wow.min.js"></script>
+    <script type="text/javascript" src="css/magnific/jquery.magnific-popup.js"></script>
+
+    <script>
+        jQuery.noConflict();
+        (function ($) {
+            $(document).ready(function () {
+                // Start Header Animation
+                //var height = $(window).height();
+                var height = 50;
+                $(window).scroll(function () {
+                    if ($(document).scrollTop() > height - 1) {
+                        $('.top-menu').addClass('tiny');
+                    } else {
+                        $('.top-menu').removeClass('tiny');
+                    }
+                });
+                /**back-to-top starts**/
+                var offset = 200;
+                var duration = 900;
+                jQuery(window).scroll(function () {
+                    if (jQuery(this).scrollTop() > offset) {
+                        jQuery('.back-to-top').fadeIn(duration);
+                    } else {
+                        jQuery('.back-to-top').fadeOut(duration);
+                    }
+                });
+
+                jQuery('.back-to-top').click(function (event) {
+                    event.preventDefault();
+                    jQuery('html, body').animate({ scrollTop: 0 }, duration);
+                    return false;
+                })
+                /**back-to-top ends**/
+
+            });
+            //Wow
+            new WOW().init();
+
+            $(document).ready(function () {
+                'use strict';
+                $("html").niceScroll({
+                    cursorcolor: '#075c9f',
+                    cursoropacitymin: '1',
+                    cursorborder: '0px',
+                    cursorborderradius: '5px',
+                    mousescrollstep: 40,
+                    cursorwidth: '4px',
+                    cursorminheight: 60,
+                    horizrailenabled: false,
+                    zindex: 1111
+                });
+
+
+
+                //magnific-popup
+                $('.image-popup-no-margins').magnificPopup({
+                    type: 'image',
+                    closeOnContentClick: true,
+                    closeBtnInside: false,
+                    fixedContentPos: true,
+                    mainClass: 'mfp-no-margins mfp-with-zoom', // class to remove default margin from left and right side
+                    image: {
+                        verticalFit: true
+                    },
+                    zoom: {
+                        enabled: true,
+                        duration: 300 // don't foget to change the duration also in CSS
+                    }
+                });
+                $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+                    disableOn: 700,
+                    type: 'iframe',
+                    mainClass: 'mfp-fade',
+                    removalDelay: 160,
+                    preloader: false,
+
+                    fixedContentPos: false
+                });
+
+                $('.zoom-gallery').magnificPopup({
+                    delegate: 'a',
+                    type: 'image',
+                    closeOnContentClick: false,
+                    closeBtnInside: false,
+                    mainClass: 'mfp-with-zoom mfp-img-mobile',
+
+                    gallery: {
+                        enabled: true
+                    },
+                    zoom: {
+                        enabled: true,
+                        duration: 300, // don't foget to change the duration also in CSS
+                        opener: function (element) {
+                            return element.find('img');
+                        }
+                    }
+
+                });
+
+                $('.popup-gallery').magnificPopup({
+                    delegate: 'a',
+                    type: 'image',
+                    tLoading: 'Loading image #%curr%...',
+                    mainClass: 'mfp-img-mobile',
+                    gallery: {
+                        enabled: true,
+                        navigateByImgClick: true,
+                        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+                    },
+                    image: {
+                        tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                        titleSrc: function (item) {
+                            return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+                        }
+                    }
+                });
+
+                //Multiple galleries
+                $('.gallery').each(function () { // the containers for all your galleries
+                    $(this).magnificPopup({
+                        delegate: 'a', // the selector for gallery item
+                        type: 'image',
+                        gallery: {
+                            enabled: true
+                        }
+                    });
+                });
+
+                /**social strts**/
+                $('.fixedSocialIcon ul li').hover(function () {
+                    $(this).addClass('hover');
+                    $(this).stop(true, false).animate({ left: -60 }, 500);
+                }, function () {
+                    $(this).stop(true, false).animate({ left: 0 }, 500, function () {
+                        $(this).removeClass('hover');
+                    });
+                });
+                /**social end**/
+
+
+            });
+        })(jQuery);
+    </script>
+   
+    <link rel="stylesheet" href="css/pushy.css">
+    <!-- Pushy Menu -->
+    <nav class="pushy pushy-left">
+        <br />
+        <br />
+        <br />
+        <br />
+        <h2 class="form-head">Admission</h2>
+        <form method="post" onSubmit="return validateFormOnSubmit(this);" action="https://www.sjec.ac.in/support.php">
+            <input class="fieldset left-form" placeholder="Name" name="name" id="name" required>
+            <input class="fieldset left-form" placeholder="Email-id" name="email" id="email" required>
+            <input class="fieldset left-form" placeholder="Mobile number" id="contactNumber" name="contactNumber"
+                required pattern="[0-9]{10,15}" onKeyPress="return isNumberKey(event);">
+            <input type="hidden" id="subject" name="subject" value="Enquiry From SJEC WEBSITE" />
+            <input class="fieldset left-form" placeholder="Message" id="comments" name="comments" required type="text">
+      
+            <input class="left-button" value="Submit" type="submit">
+        </form>
+    
+    </nav>
+
+    <!-- Site Overlay -->
+    <div class="site-overlay1"></div>
+    <div class="site-overlay"></div>
+
+  
+    <!-- Pushy Menu end-->
+    <script src="js/menu.js"></script><!-- Grid -->
+    <script type="text/javascript" src="js/masonry.pkgd.min.js"></script>
+    <script type="text/javascript" src="js/imagesloaded.js"></script>
+    <script type="text/javascript" src="js/classie.js"></script>
+
+
+    <!-- Counter -->
+    <script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+    <script type="text/javascript" src="js/waypoints.min.js"></script>
+    <script type="text/javascript" src="js/jquery.easy-ticker.min.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="js/jquery-cabg-circlus.js"></script>
+    <script>
+        jQuery.noConflict();
+        (function ($) {
+            $(document).ready(function () {
+                // Start Header Animation
+                //var height = $(window).height();
+                var height = 50;
+                $(window).scroll(function () {
+                    if ($(document).scrollTop() > height - 1) {
+                        $('.top-menu').addClass('tiny animated fadeInDown');
+                    } else {
+                        $('.top-menu').removeClass('tiny animated fadeInDown');
+                    }
+                });
+                jQuery("footer").circlus({
+                    fps: 30,
+                    scale: 1,
+                    background: false,
+                    items: 25,
+                    itemMinSpeed: 1000,
+                    itemMaxSpeed: 2500,
+                    itemMinSize: 20,
+                    itemMaxSize: 50,
+                    itemShapes: ["circle"],
+                    itemColors: ["#0000ff", "#00ff00", "#00ffff", "#ff0000", "#ff00ff", "#ffff00"],
+                    unique: true,
+                });
+
+                $('.carousel').carousel({
+                    interval: 5500, // in milliseconds
+                    pause: 'none' // set to 'true' to pause slider on mouse hover
+                })
+                    < !--Counter -->
+                        $('.counter').counterUp({
+                            delay: 20,
+                            time: 2000
+                        });
+
+
+
+
+                jQuery(document).on('ready', function () {
+
+                    $('a.page-scroll').on('click', function (e) {
+                        var anchor = $(this);
+                        $('html, body').stop().animate({
+                            scrollTop: $(anchor.attr('href')).offset().top - 50
+                        }, 1500);
+                        e.preventDefault();
+                    });
+
+                });
+
+            });
+        })(jQuery);
+    </script>
+</body>
+
+<!-- Mirrored from www.sjec.ac.in/department-computer-science.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Apr 2022 12:11:44 GMT -->
+
+</html>
