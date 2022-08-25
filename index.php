@@ -9,8 +9,9 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <header>
+   
         <?php
-        include('navbar.php');
+        include('nav2.php');
         ?>
     </header>
     <section class="slider wow fadeIn" data-wow-delay=".2s">
