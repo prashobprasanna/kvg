@@ -51,13 +51,18 @@
     <!-- Google Tag Manager (noscript)Digitall Marketig college may 6th 2020 -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.php?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <header class="main-header top-menu" >
+    <header class="main-header top-menu">
         <!-- <a class="navbar-brand" href="index.php"><img class="media-object" src="images/KVGCE-Logo.png" alt="KVG college of Engineering"></a> -->
+
+        <div style="float: left; position:fixed; z-index:9999999999;">
+            <img src="images/logo-with-clg1.png" alt="">
+        </div>
+
         <!-- <div class="top-content-area"> -->
-            <!-- <ul class="top-right-menu">
+        <!-- <ul class="top-right-menu">
             <li><a href="">Alumni Portal</a></li>
         </ul> -->
-            <!-- <div class="college-name" style="z-index: 100;">
+        <!-- <div class="college-name" style="z-index: 100;">
                 <a class="navbar-brand" href="index.php"><img class="media-object" src="images/KVGCE-Logo.png" alt="KVG college of Engineering"></a>
                 <h2>KVG College Of Engineering </h2>
                 <h4>Affiliated to Visvesvaraya Technological
@@ -66,7 +71,7 @@
             </div> -->
 
         <!-- </div> -->
-        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu" >
+        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu">
 
             <div class="container">
 
@@ -79,21 +84,23 @@
                     </button>
                 </div>
 
-                <div id="navbar" class="collapse navbar-collapse" >
+                <div id="navbar" class="collapse navbar-collapse">
 
-<style>
-    .nav{
-        float: right;
-    }
-    @media(max-width:767px){
-    .nav{
-        float: none;
-        align-items: center;
-        /* justify-content: center; */
-    }}
-</style>
-        
-                    <ul class="nav navbar-nav" >
+                    <style>
+                        .nav {
+                            float: right;
+                        }
+
+                        @media(max-width:767px) {
+                            .nav {
+                                float: none;
+                                align-items: center;
+                                /* justify-content: center; */
+                            }
+                        }
+                    </style>
+
+                    <ul class="nav navbar-nav">
                         <li class="menu-el">
                             <a href="index.php">HOME</a>
                         </li>
@@ -398,7 +405,7 @@
                                         </ul>
 
 
-                                      
+
                                     </ul>
 
                                 </div>
