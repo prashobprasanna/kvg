@@ -54,7 +54,7 @@
     <header class="main-header top-menu">
         <!-- <a class="navbar-brand" href="index.php"><img class="media-object" src="images/KVGCE-Logo.png" alt="KVG college of Engineering"></a> -->
 
-        <div style="float: left; position:fixed; z-index:9999999999;">
+        <div style="float: left; z-index:9999999999;position:fixed;">
             <img src="images/logo-with-clg1.png" alt="">
         </div>
 

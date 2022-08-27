@@ -51,8 +51,7 @@
     <!-- Google Tag Manager (noscript)Digitall Marketig college may 6th 2020 -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.php?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <!-- <header class="main-header top-menu" > -->
-        
+    <header class="main-header top-menu" >
         <!-- <a class="navbar-brand" href="index.php"><img class="media-object" src="images/KVGCE-Logo.png" alt="KVG college of Engineering"></a> -->
         <!-- <div class="top-content-area"> -->
             <!-- <ul class="top-right-menu">
@@ -67,11 +66,11 @@
             </div> -->
 
         <!-- </div> -->
-        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu" style="position: fixed;">
+        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu" >
 
-            <div class="container" >
+            <div class="container">
 
-                <div class="navbar-header" >
+                <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
@@ -454,4 +453,4 @@
                 </div>
             </div>
         </nav>
-    <!-- </header> -->
+    </header>
