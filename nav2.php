@@ -1,13 +1,52 @@
 <html lang="en-US"  class="no-js">
 <head>
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>KVG College of Engineering</title>
+    <link rel="icon" type="image/x-icon" href="/images/KVGCE-Logo.png">
+    <meta name="description" content="KVG Engineering College the only Engineering College in sullia, offers top class education in Engineering, Business Administration and Computer Applications at UG, PG and Research levels">
+    <meta name="keywords" content="Top Engineering College in Mangalore,Top Engineering College in Dakshina kannada, Best Engineering College in Mangalore,Best Engineering College in Dakshina kannada, Top MBA College in Dakshina kannada, Best MBA courses in Dakshina kannada, Top MCA College in Mangalore, Best MCA courses in Dakshina kannada, Btech College in Dakshina kannada, Mtech College in Dakshina kannada">
+    <meta name="copyright" content="Copyright &copy; 2022,K.V.G college of Engineering,Sullia All Rights Reserved">
+    <meta name="author" content="K.V.G college of Engineering">
+    <meta name="zipcode" content="574239">
+    <meta name="city" content="Sulllia">
+    <meta name="country" content="India">
+    <meta name="robots" content="All">
+    <meta name="robots" content="ODP (Default)">
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-53LT9N7');</script>
-<!-- End Google Tag Manager -->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
+
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+
+        body {
+            font-family: "Poppins", sans-serif !important;
+        }
+    </style>
+
+    <!-- <link rel="shortcut icon" href="images/icon.ico" /> -->
+    <link href="fonts/fonts.css" rel="stylesheet">
+    <link href="fonts/font-awesome.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/menu.css" rel="stylesheet">
+    <link href="css/kvgce.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700" rel="stylesheet">
+    <!-- Animation -->
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/magnific/magnific-popup.css">
+    <!-- Owl Stylesheets -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Grid -->
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <!-- <link rel="stylesheet" href="test.css"> -->
+
 
     
 	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -36,29 +75,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta name="doc-class" content="Published" />
 	<meta name="doc-rights" content="Public Domain" />
 	<link href="2021-22/images/favicon.png" rel="shortcut icon" type="image/png">
-	<!-- <title>Sahyadri College of Engineering & Management</title>  -->
+	<title>Sahyadri College of Engineering & Management</title>
 	<link rel="stylesheet" type="text/css" href="2021-22/assets/plugins/goodlayers-core/plugins/combine/style.css"/>	<link rel="stylesheet" type="text/css" href="2021-22/assets/plugins/goodlayers-core/include/css/page-builder.css"/>	<link rel="stylesheet" type="text/css" href="2021-22/assets/plugins/revslider/public/assets/css/settings.css"/>	<link rel="stylesheet" type="text/css" href="2021-22/assets/css/style-core.css"/>	<link rel="stylesheet" type="text/css" href="2021-22/assets/css/kingster-style-custom.css"/>	<link rel="stylesheet" type="text/css" href="2021-22/assets/css/custom-bootstrap-margin-padding.css"/>	<link rel="stylesheet" type="text/css" href="2021-22/assets/css/bootstrap.min.css"/>	<link rel="stylesheet" type="text/css" href="2021-22/assets/css/custom.css"/>	<link rel="stylesheet" type="text/css" href="2021-22/assets/plugins/sweetalert/css/sweetalert.css"/>
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700%2C400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
 	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CABeeZee%3Aregular%2Citalic&amp;subset=latin%2Clatin-ext%2Cdevanagari&amp;ver=5.0.3' type='text/css' media='all' />
 
 
-<body >
+
+<body>
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53LT9N7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<div class="kingster-body-outer-wrapper ">
-	<div class="kingster-body-wrapper clearfix  kingster-with-frame">
+<div class="kingster-body-outer-wrapper1 ">
+	<div class="kingster-body-wrapper1 clearfix1  kingster-with-frame1">
 
 		<!-- HEADER START -->
 		<!--TOP BAR Starts-->
-<div class="kingster-top-bar">
-	<div class="kingster-top-bar-background"></div>
-	<div class="kingster-top-bar-container kingster-container ">
-		<div class="kingster-top-bar-container-inner clearfix">
-			<div class="kingster-top-bar-left kingster-item-pdlr">
+<div class="kingster-top-bar1">
+	<div class="kingster-top-bar1-background1"></div>
+	<div class="kingster-top-bar1-container1 kingster-container1 ">
+		<div class="kingster-top-bar1-container-inner1 clearfix1">
+			<div class="kingster-top-bar1-left1 kingster-item-pdlr">
 				<i class="fa fa-envelope-open-o" style="font-size: 15px ;color: #96a2b8 ;margin-right: 2px ;"></i>
 				sahyadri@sahyadri.edu.in
 				<i class="fa fa-phone" style="font-size: 15px ;color: #96a2b8 ;margin-left: 5px ;margin-right: 2px ;"></i>
@@ -68,17 +108,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<!--<a class="links" style="font-size: 15px ;color: #96a2b8 ;margin-left: 18px ;" href="../Home/mandatory" target="_blank" class="text-white"><i class="fa fa-fighter-jet"></i>Mandatory Disclosures</a>-->
 				<!--<a href="/Home/mandatory">Mandatory Disclosures</a>-->
 			</div>
-			<div class="kingster-top-bar-right kingster-item-pdlr">
-				<ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu">
-				    <li class="menu-item kingster-normal-menu"><a href="/Home/mandatory">Mandatory Disclosures</a></li>
-				    <li class="menu-item kingster-normal-menu"><a href="/files/ARI-I-1469.pdf" target="_blank"">ARIIA-2021 </a></li>
-					<li class="menu-item kingster-normal-menu"><a href="https://mba.sahyadri.edu.in/">MBA </a></li>
-					<!--<li class="menu-item kingster-normal-menu"><a href="/Home/enquiry">Admission Enquiry</a></li>-->
-					<li class="menu-item kingster-normal-menu"><a href="/Home/admission">Admission Procedure</a></li>
+			<div class="kingster-top-bar1-right kingster-item-pdlr">
+				<ul id="kingster-top-bar1-menu" class="sf-menu kingster-top-bar1-menu kingster-top-bar1-right-menu">
+				    <li class="menu-item6 kingster-normal-menu"><a href="/Home/mandatory">Mandatory Disclosures</a></li>
+				    <li class="menu-item6 kingster-normal-menu"><a href="/files/ARI-I-1469.pdf" target="_blank"">ARIIA-2021 </a></li>
+					<li class="menu-item6 kingster-normal-menu"><a href="https://mba.sahyadri.edu.in/">MBA </a></li>
+					<!--<li class="menu-item6 kingster-normal-menu"><a href="/Home/enquiry">Admission Enquiry</a></li>-->
+					<li class="menu-item6 kingster-normal-menu"><a href="/Home/admission">Admission Procedure</a></li>
 				</ul>
-				<div class="kingster-top-bar-right-social"></div>
-				<a class="kingster-top-bar-right-button admission_open" href="/Home/enquiry">ADMISSION OPEN</a></div>
-		        <!--<a class="kingster-top-bar-right-button admission_open" href="/MCEST-2022" target="_blank"">MCEST -2022</a></div>-->
+				<div class="kingster-top-bar1-right-social"></div>
+				<a class="kingster-top-bar1-right-button admission_open" href="/Home/enquiry">ADMISSION OPEN</a></div>
+		        <!--<a class="kingster-top-bar1-right-button admission_open" href="/MCEST-2022" target="_blank"">MCEST -2022</a></div>-->
 		</div>
 	</div>
 </div>
@@ -86,8 +126,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <header class="kingster-header-wrap kingster-header-style-plain  kingster-style-menu-right kingster-sticky-navigation kingster-style-fixed"
 		data-navigation-offset="75px">
 	<div class="kingster-header-background"></div>
-	<div class="kingster-header-container  kingster-container">
-		<div class="kingster-header-container-inner clearfix">
+	<div class="kingster-header-container  kingster-container1">
+		<div class="kingster-header-container-inner clearfix1">
 			<div class="kingster-logo  kingster-item-pdlr">
 				<div class="kingster-logo-inner">
 					<a class="" href="/">
@@ -95,36 +135,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</a>
 				</div>
 			</div>
-			<div class="kingster-navigation kingster-item-pdlr clearfix ">
+			<div class="kingster-navigation kingster-item-pdlr clearfix1 ">
 				<div class="kingster-main-menu" id="kingster-main-menu">
 					<ul id="menu-main-navigation-1" class="sf-menu">
-						<li class="menu-item kingster-normal-menu">
+						<li class="menu-item6 kingster-normal-menu">
 							<a href="/">Home</a>
 						</li>
-						<li class="menu-item menu-item-has-children kingster-mega-menu">
+						<li class="menu-item6 menu-item6-has-children kingster-mega-menu">
 							<a href="javascript:void(0)" class="sf-with-ul-pre sf-with-ul">About</a>
 							<div class="sf-mega sf-mega-full" style="background-image: url(2021-22/images/mega-menu/s1.png);background-position: left bottom;background-repeat: no-repeat;">
 								<div class="sf-mega-section-wrap">
 									<div class="sf-mega-section kingster-column-15">
-										<div class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7010">
+										<div class="sf-mega-section-inner menu-item6 menu-item6-type-custom menu-item6-object-custom menu-item6-has-children menu-item6-7010">
 											<a class="sf-with-ul-pre">About</a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="/Home/About">About College</a></li>
-												<li class="menu-item"><a href="/Home/vision">Vision & Mission</a></li>
-												<li class="menu-item"><a href="/Home/mou">MOU</a></li>
-												<li class="menu-item"><a href="/Home/foundation">Bhandary Foundation</a></li>
-												<li class="menu-item"><a href="/Home/governing">Governing Council</a></li>
-												<li class="menu-item"><a href="/Home/mandatory">Mandatory Disclosures</a></li>
-												<li class="menu-item"><a href="/Home/accreditation">Accreditations &amp; Autonomous</a></li>
-												<li class="menu-item"><a href="/Home/atalRanking">Atal Ranking</a></li>
-												<li class="menu-item"><a href="/Home/milestones">Milestones</a></li>
-												<li class="menu-item"><a href="/Home/testimonial">Testimonal</a></li>
-												<li class="menu-item"><a href="/Home/location">Location</a></li>
+											<ul class="sub-menu6">
+												<li class="menu-item6"><a href="/Home/About">About College</a></li>
+												<li class="menu-item6"><a href="/Home/vision">Vision & Mission</a></li>
+												<li class="menu-item6"><a href="/Home/mou">MOU</a></li>
+												<li class="menu-item6"><a href="/Home/foundation">Bhandary Foundation</a></li>
+												<li class="menu-item6"><a href="/Home/governing">Governing Council</a></li>
+												<li class="menu-item6"><a href="/Home/mandatory">Mandatory Disclosures</a></li>
+												<li class="menu-item6"><a href="/Home/accreditation">Accreditations &amp; Autonomous</a></li>
+												<li class="menu-item6"><a href="/Home/atalRanking">Atal Ranking</a></li>
+												<li class="menu-item6"><a href="/Home/milestones">Milestones</a></li>
+												<li class="menu-item6"><a href="/Home/testimonial">Testimonal</a></li>
+												<li class="menu-item6"><a href="/Home/location">Location</a></li>
 											</ul>
 										</div>
 									</div>
 									<div class="sf-mega-section kingster-column-15">
-										<div class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-7014">
+										<div class="sf-mega-section-inner menu-item6 menu-item6-type-custom menu-item6-object-custom menu-item6-7014">
 											<a href="/Home/chairman" class="sf-with-ul-pre">Chairman</a>
 											<img src="2021-22/images/profile/manunath_bhandary.jpg" class="profile" />
 											<a href="/Home/chairman" class="pt-10">Manjunath Bhandary, <br/>M.Phil, Ph.D.</a>
@@ -133,7 +173,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 									</div>
 									<div class="sf-mega-section kingster-column-15">
-										<div class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-7012">
+										<div class="sf-mega-section-inner menu-item6 menu-item6-type-custom menu-item6-object-custom menu-item6-7012">
 											<a target="_blank" href="/Home/principal" class="sf-with-ul-pre">Principal </a>
 											<img src="2021-22/images/profile/sahyadri princial.jpg"  class="profile" />
 											<a href="/Home/principal" class="pt-10">Dr. Rajesha S, <br/>B.E., M.Tech., Ph.D.(IITR)</a>
@@ -142,56 +182,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 									</div>
 									<div class="sf-mega-section kingster-column-15">
-										<div class="sf-mega-section-inner menu-item menu-item-type-post_type menu-item-object-page menu-item-7013">
+										<div class="sf-mega-section-inner menu-item6 menu-item6-type-post_type menu-item6-object-page menu-item6-7013">
 											<a href="javascript:void(0)" class="sf-with-ul-pre">Administration</a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="/Home/keyfunctions">Key Functionaries</a></li>
-												<li class="menu-item"><a href="/Home/director">Director</a></li>
-												<li class="menu-item"><a href="/Home/administration">Administration Staff</a></li>
+											<ul class="sub-menu6">
+												<li class="menu-item6"><a href="/Home/keyfunctions">Key Functionaries</a></li>
+												<li class="menu-item6"><a href="/Home/director">Director</a></li>
+												<li class="menu-item6"><a href="/Home/administration">Administration Staff</a></li>
 											</ul>
 											<a href="javascript:void(0)" class="sf-with-ul-pre mt-15">Quick Links</a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="/NewsMedia/newsletter">News Letter</a></li>
-												<li class="menu-item"><a href="/NewsMedia/download">Downloads</a></li>
-												<li class="menu-item"><a href="/Home/studentAchivements">1st year achievements</a></li>
-												<li class="menu-item"><a href="/NewsMedia/Daily">Campus Buzz</a></li>
-												<li class="menu-item"><a href="/Innovation/Innovation">Innovation</a></li>
-												<li class="menu-item"><a href="/NewsMedia/pressclippings">Press Clippings</a></li>
+											<ul class="sub-menu6">
+												<li class="menu-item6"><a href="/NewsMedia/newsletter">News Letter</a></li>
+												<li class="menu-item6"><a href="/NewsMedia/download">Downloads</a></li>
+												<li class="menu-item6"><a href="/Home/studentAchivements">1st year achievements</a></li>
+												<li class="menu-item6"><a href="/NewsMedia/Daily">Campus Buzz</a></li>
+												<li class="menu-item6"><a href="/Innovation/Innovation">Innovation</a></li>
+												<li class="menu-item6"><a href="/NewsMedia/pressclippings">Press Clippings</a></li>
 											</ul>
 										</div>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="menu-item menu-item-has-children kingster-mega-menu">
+						<li class="menu-item6 menu-item6-has-children kingster-mega-menu">
 							<a href="javascript:void(0)" class="sf-with-ul-pre">Academics</a>
 							<div class="sf-mega sf-mega-full" style="background-image: url(2021-22/images/mega-menu/s1.png);background-position: right bottom;background-repeat: no-repeat;">
 								<div class="sf-mega-section-wrap">
 									<div class="sf-mega-section kingster-column-15">
-										<div class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7010">
+										<div class="sf-mega-section-inner menu-item6 menu-item6-type-custom menu-item6-object-custom menu-item6-has-children menu-item6-7010">
 											<a class="sf-with-ul-pre" href="javascript:void(0)">Under Graduate </a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="/Department/computer-science">Computer Science & Eng</a></li>
-												<li class="menu-item"><a href="#">AI &amp; Ml</a></li>
-												<li class="menu-item"><a href="#">Data Science</a></li>
-												<li class="menu-item"><a href="/Department/computer-science">Cyber Security</a></li>
-												<li class="menu-item"><a href="/Department/information-science">Information Science &amp; Eng</a></li>
-												<li class="menu-item"><a href="/Department/electronics-communication">Electronics &amp; Com Eng</a></li>
-												<li class="menu-item"><a href="/Department/mechanical-engineering">Mechanical Eng</a></li>
-												<li class="menu-item"><a href="#">AI &amp; DS</a></li>
-												<li class="menu-item"><a href="#">Robotics and Automation</a></li>
+											<ul class="sub-menu6">
+												<li class="menu-item6"><a href="/Department/computer-science">Computer Science & Eng</a></li>
+												<li class="menu-item6"><a href="#">AI &amp; Ml</a></li>
+												<li class="menu-item6"><a href="#">Data Science</a></li>
+												<li class="menu-item6"><a href="/Department/computer-science">Cyber Security</a></li>
+												<li class="menu-item6"><a href="/Department/information-science">Information Science &amp; Eng</a></li>
+												<li class="menu-item6"><a href="/Department/electronics-communication">Electronics &amp; Com Eng</a></li>
+												<li class="menu-item6"><a href="/Department/mechanical-engineering">Mechanical Eng</a></li>
+												<li class="menu-item6"><a href="#">AI &amp; DS</a></li>
+												<li class="menu-item6"><a href="#">Robotics and Automation</a></li>
 											</ul>
 											<a class="sf-with-ul-pre" href="javascript:void(0)">Basic Science </a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="/Department/chemistry">Chemistry</a></li>
-												<li class="menu-item"><a href="/Department/mathematics">Mathematics</a></li>
-												<li class="menu-item"><a href="/Department/Physics">Physics</a></li>
-												<li class="menu-item"><a href="/Department/Humanities">Humanities</a></li>
+											<ul class="sub-menu6">
+												<li class="menu-item6"><a href="/Department/chemistry">Chemistry</a></li>
+												<li class="menu-item6"><a href="/Department/mathematics">Mathematics</a></li>
+												<li class="menu-item6"><a href="/Department/Physics">Physics</a></li>
+												<li class="menu-item6"><a href="/Department/Humanities">Humanities</a></li>
 											</ul>
 										</div>
 									</div>
 									<div class="sf-mega-section kingster-column-15">
-										<div class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-7014">
+										<div class="sf-mega-section-inner menu-item6 menu-item6-type-custom menu-item6-object-custom menu-item6-7014">
 											<a href="https://mba.sahyadri.edu.in/" class="sf-with-ul-pre">Post Graduate</a>
 											<!--<a href="/Mba/faculty" class="sf-with-ul-pre">Post Graduate</a>-->
 											<img src="2021-22/images/mega-menu/pg_courses.jpg" class="profile" />
@@ -206,18 +246,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 									</div>
 									<div class="sf-mega-section kingster-column-15">
-										<div class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-7012">
+										<div class="sf-mega-section-inner menu-item6 menu-item6-type-custom menu-item6-object-custom menu-item6-7012">
 											<a href="javascript:void(0)" class="sf-with-ul-pre">Academics</a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="/Home/courseoffered">Courses Offered</a></li>
-												<li class="menu-item"><a href="/Department/TeachingFaculty">Teaching Faculty</a></li>
-												<li class="menu-item"><a href="/Home/calendar">Calendar of Events</a></li>
-												<li class="menu-item"><a href="/Home/valueadded">Value Added Courses</a></li>
-												<li class="menu-item"><a href="/Research">Research Center</a></li>
-												<li class="menu-item"><a href="/Home/codeofconduct">Code of Conduct</a></li>
-												<li class="menu-item"><a href="/Home/syllabus">Syllabus</a></li>
-												<li class="menu-item"><a href="/Home/usefullink">Useful Links</a></li>
-												<li class="menu-item"><a href="/Home/Library">Library</a></li>
+											<ul class="sub-menu6">
+												<li class="menu-item6"><a href="/Home/courseoffered">Courses Offered</a></li>
+												<li class="menu-item6"><a href="/Department/TeachingFaculty">Teaching Faculty</a></li>
+												<li class="menu-item6"><a href="/Home/calendar">Calendar of Events</a></li>
+												<li class="menu-item6"><a href="/Home/valueadded">Value Added Courses</a></li>
+												<li class="menu-item6"><a href="/Research">Research Center</a></li>
+												<li class="menu-item6"><a href="/Home/codeofconduct">Code of Conduct</a></li>
+												<li class="menu-item6"><a href="/Home/syllabus">Syllabus</a></li>
+												<li class="menu-item6"><a href="/Home/usefullink">Useful Links</a></li>
+												<li class="menu-item6"><a href="/Home/Library">Library</a></li>
 											</ul>
 										</div>
 										<div class="sf-mega-section-inner">
@@ -225,38 +265,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 									</div>
 									<div class="sf-mega-section kingster-column-15">
-										<div class="sf-mega-section-inner menu-item menu-item-type-post_type menu-item-object-page menu-item-7013">
+										<div class="sf-mega-section-inner menu-item6 menu-item6-type-post_type menu-item6-object-page menu-item6-7013">
 											<a href="javascript:void(0)" class="sf-with-ul-pre">Research</a>
 											<img src="2021-22/images/mega-menu/research.jpg" class="profile" />
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="/Research">R&D</a></li>
-												<li class="menu-item"><a href="/Research/cent">CENT</a></li>
-												<li class="menu-item"><a href="/Research/publication">Publications</a></li>
+											<ul class="sub-menu6">
+												<li class="menu-item6"><a href="/Research">R&D</a></li>
+												<li class="menu-item6"><a href="/Research/cent">CENT</a></li>
+												<li class="menu-item6"><a href="/Research/publication">Publications</a></li>
 											</ul>
 										</div>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="menu-item menu-item-has-children kingster-normal-menu"><a href="javascript:void(0)">Admissions</a>
-							<ul class="sub-menu">
-								<li class="menu-item"><a href="/Home/admission">Admission Procedures</a></li>
-								<li class="menu-item"><a href="/Home/enquiry">Apply Online</a></li>
-								<li class="menu-item menu-item-has-children kingster-normal-menu">
+						<li class="menu-item6 menu-item6-has-children kingster-normal-menu"><a href="javascript:void(0)">Admissions</a>
+							<ul class="sub-menu6">
+								<li class="menu-item6"><a href="/Home/admission">Admission Procedures</a></li>
+								<li class="menu-item6"><a href="/Home/enquiry">Apply Online</a></li>
+								<li class="menu-item6 menu-item6-has-children kingster-normal-menu">
 									<a href="javascript:void(0)" class="sf-with-ul-pre">Application Form</a>
-									<ul class="sub-menu">
-										<li class="menu-item"><a href="/files/BE-Application-Form_copy.pdf" target="_blank">BE</a></li>
-										<li class="menu-item"><a href="/files/MBA-Application-Form.pdf" target="_blank">MBA</a></li>
+									<ul class="sub-menu6">
+										<li class="menu-item6"><a href="/files/BE-Application-Form_copy.pdf" target="_blank">BE</a></li>
+										<li class="menu-item6"><a href="/files/MBA-Application-Form.pdf" target="_blank">MBA</a></li>
 									</ul>
 								</li>
-								<li class="menu-item"><a href="/Home/Scholarship">Scholarship</a></li>
-								<li class="menu-item"><a href="/Home/whocanapply">Who can Apply</a></li>
+								<li class="menu-item6"><a href="/Home/Scholarship">Scholarship</a></li>
+								<li class="menu-item6"><a href="/Home/whocanapply">Who can Apply</a></li>
 							</ul>
 						</li>
-						<li class="menu-item kingster-normal-menu">
+						<li class="menu-item6 kingster-normal-menu">
 							<a href="/Home/placements">Placement</a>
 						</li>
-						<li class="menu-item menu-item-has-children kingster-mega-menu">
+						<li class="menu-item6 menu-item6-has-children kingster-mega-menu">
 							<a href="javascript:void(0)" class="sf-with-ul-pre">Life At Sahyadri</a>
 							<div class="sf-mega sf-mega-full">
 								<div class="sf-mega-section-wrap">
@@ -345,11 +385,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</div>
 						</li>
-						<li class="menu-item menu-item-has-children kingster-mega-menu">
+						<li class="menu-item6 menu-item6-has-children kingster-mega-menu">
 							<a href="javascript:void(0)" class="sf-with-ul-pre">Activities</a>
 							<div class="sf-mega sf-mega-full" style="background-image: url(2021-22/images/mega-menu/s1.png);background-position: right bottom;background-repeat: no-repeat;">
-								<ul class="sub-menu">
-									<li class="menu-item menu-item-has-children" data-size="15">
+								<ul class="sub-menu6">
+									<li class="menu-item6 menu-item6-has-children" data-size="15">
 										<a class="sf-with-ul-pre">News & Events</a>
 										<div class="row">
 											<div class="col-lg-12">
@@ -382,49 +422,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<a href="/NewsMedia/news" class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border news_read pt-1 pb-1" id="a_1dd7_0"><span class="gdlr-core-content">More News</span></a>
 										</div>
 									</li>
-									<li class="menu-item menu-item-has-children" data-size="15">
+									<li class="menu-item6 menu-item6-has-children" data-size="15">
 										<a href="#" class="sf-with-ul-pre">Activities</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="/Home/fitIndia">Fit India</a></li>
-											<li class="menu-item"><a href="/onclave">Conclave Update</a></li>
-											<li class="menu-item"><a href="/Home/journals">Journals</a></li>
-											<li class="menu-item"><a href="/NewsMedia/download">Downloads</a></li>
-											<li class="menu-item"><a href="/Home/industryInteraction">Industry Interaction</a></li>
-											<li class="menu-item"><a href="/Home/corporateSocialResponsibility">Corporate Social Responsibility</a></li>
-											<li class="menu-item"><a href="/Home/initiatives">Sahyadri Initiatives</a></li>
-											<li class="menu-item"><a href="/Home/visitsProgrammes">Visits & Programmes</a></li>
-											<li class="menu-item"><a href="/Home/sport">Sports & Clubs</a></li>
-											<li class="menu-item"><a href="/Home/seminarWorkshop">Seminar & Workshops</a></li>
+										<ul class="sub-menu6">
+											<li class="menu-item6"><a href="/Home/fitIndia">Fit India</a></li>
+											<li class="menu-item6"><a href="/onclave">Conclave Update</a></li>
+											<li class="menu-item6"><a href="/Home/journals">Journals</a></li>
+											<li class="menu-item6"><a href="/NewsMedia/download">Downloads</a></li>
+											<li class="menu-item6"><a href="/Home/industryInteraction">Industry Interaction</a></li>
+											<li class="menu-item6"><a href="/Home/corporateSocialResponsibility">Corporate Social Responsibility</a></li>
+											<li class="menu-item6"><a href="/Home/initiatives">Sahyadri Initiatives</a></li>
+											<li class="menu-item6"><a href="/Home/visitsProgrammes">Visits & Programmes</a></li>
+											<li class="menu-item6"><a href="/Home/sport">Sports & Clubs</a></li>
+											<li class="menu-item6"><a href="/Home/seminarWorkshop">Seminar & Workshops</a></li>
 										</ul>
 									</li>
-									<li class="menu-item menu-item-has-children" data-size="15">
+									<li class="menu-item6 menu-item6-has-children" data-size="15">
 										<a href="#" class="sf-with-ul-pre">Achievements</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="/Department/PhysicalEducation">Physical Education</a></li>
-											<li class="menu-item"><a href="/Home/studentAchivements">1st year Student Achievements- 2018</a></li>
-											<li class="menu-item"><a href="/Home/startupAchivements">Startups & Industries Achievements- 2018</a></li>
-											<li class="menu-item"><a href="/Home/artcultural">Art & Culture</a></li>
-											<li class="menu-item"><a href="/Home/nss">NSS</a></li>
-											<li class="menu-item"><a href="/Home/CorpusFund">Sahyadri Corpus Fund</a></li>
-											<li class="menu-item"><a href="/Home/nain">NAIN Centre</a></li>
-											<li class="menu-item"><a href="/Home/spss">SPSS</a></li>
-											<li class="menu-item"><a href="/Home/ssth">SSTH</a></li>
+										<ul class="sub-menu6">
+											<li class="menu-item6"><a href="/Department/PhysicalEducation">Physical Education</a></li>
+											<li class="menu-item6"><a href="/Home/studentAchivements">1st year Student Achievements- 2018</a></li>
+											<li class="menu-item6"><a href="/Home/startupAchivements">Startups & Industries Achievements- 2018</a></li>
+											<li class="menu-item6"><a href="/Home/artcultural">Art & Culture</a></li>
+											<li class="menu-item6"><a href="/Home/nss">NSS</a></li>
+											<li class="menu-item6"><a href="/Home/CorpusFund">Sahyadri Corpus Fund</a></li>
+											<li class="menu-item6"><a href="/Home/nain">NAIN Centre</a></li>
+											<li class="menu-item6"><a href="/Home/spss">SPSS</a></li>
+											<li class="menu-item6"><a href="/Home/ssth">SSTH</a></li>
 										</ul>
 									</li>
-									<li class="menu-item menu-item-has-children" data-size="15">
+									<li class="menu-item6 menu-item6-has-children" data-size="15">
 										<a href="#" class="sf-with-ul-pre">Associations</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="/Association/aences">AENCES</a></li>
-											<li class="menu-item"><a href="/Association/flames">FLAMES</a></li>
-											<li class="menu-item"><a href="/Association/clouds">CLOUDS</a></li>
-											<li class="menu-item"><a href="/Association/space">SPACE</a></li>
-											<li class="menu-item"><a href="/Association/staise">STAISE</a></li>
+										<ul class="sub-menu6">
+											<li class="menu-item6"><a href="/Association/aences">AENCES</a></li>
+											<li class="menu-item6"><a href="/Association/flames">FLAMES</a></li>
+											<li class="menu-item6"><a href="/Association/clouds">CLOUDS</a></li>
+											<li class="menu-item6"><a href="/Association/space">SPACE</a></li>
+											<li class="menu-item6"><a href="/Association/staise">STAISE</a></li>
 										</ul>
 									</li>
 								</ul>
 							</div>
 						</li>
-						<li class="menu-item menu-item-has-children kingster-mega-menu">
+						<li class="menu-item6 menu-item6-has-children kingster-mega-menu">
 							<a href="javascript:void(0)" class="sf-with-ul-pre">Media</a>
 							<div class="sf-mega sf-mega-full">
 								<div class="sf-mega-section-wrap">
@@ -471,7 +511,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</div>
 						</li>
-                        <li class="menu-item kingster-normal-menu">
+                        <li class="menu-item6 kingster-normal-menu">
                             <a href="/Home/recruitment">Recruitment</a>
                         </li>
 					</ul>
@@ -485,7 +525,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="kingster-mobile-header-wrap">
 	<div class="kingster-mobile-header kingster-header-background kingster-style-slide kingster-sticky-mobile-navigation "
 		 id="kingster-mobile-header">
-		<div class="kingster-mobile-header-container kingster-container clearfix">
+		<div class="kingster-mobile-header-container kingster-container1 clearfix1">
 			<div class="kingster-logo  kingster-item-pdlr">
 				<div class="kingster-logo-inner">
 					<a class="" href="/Home">
@@ -498,153 +538,153 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<a class="kingster-mm-menu-button kingster-mobile-menu-button kingster-mobile-button-hamburger" href="#kingster-mobile-menu"><span></span></a>
 					<div class="kingster-mm-menu-wrap kingster-navigation-font" id="kingster-mobile-menu" data-slide="right">
 						<ul id="menu-main-navigation" class="m-menu">
-							<li class="menu-item menu-item-home current-menu-item">
+							<li class="menu-item6 menu-item6-home current-menu-item6">
 								<a href="/Home">Home</a>
 							</li>
-							<li class="menu-item menu-item-home menu-item-has-children">
+							<li class="menu-item6 menu-item6-home menu-item6-has-children">
 								<a href="javascript:void(0)">About</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="/Home/About">About College</a></li>
-									<li class="menu-item"><a href="/Home/vision">Vision & Mission</a></li>
-									<li class="menu-item"><a href="/Home/mou">MOU</a></li>
-									<li class="menu-item"><a href="/Home/foundation">Bhandary Foundation</a></li>
-									<li class="menu-item"><a href="/Home/chairman">The Chairman</a></li>
-									<li class="menu-item"><a href="/Home/principal">The Principal</a></li>
-									<li class="menu-item"><a href="/Home/governing">Governing Council</a></li>
-									<li class="menu-item"><a href="/Home/mandatory">Mandatory Disclosures</a></li>
-									<li class="menu-item"><a href="/Home/accreditation">Accreditation</a></li>
-									<li class="menu-item"><a href="/Home/atalRanking">Atal Ranking</a></li>
-									<li class="menu-item"><a href="/Home/milestones">Milestones</a></li>
-									<li class="menu-item"><a href="/Home/testimonial">Testimonal</a></li>
-									<li class="menu-item"><a href="/Home/location">Location</a></li>
+								<ul class="sub-menu6">
+									<li class="menu-item6"><a href="/Home/About">About College</a></li>
+									<li class="menu-item6"><a href="/Home/vision">Vision & Mission</a></li>
+									<li class="menu-item6"><a href="/Home/mou">MOU</a></li>
+									<li class="menu-item6"><a href="/Home/foundation">Bhandary Foundation</a></li>
+									<li class="menu-item6"><a href="/Home/chairman">The Chairman</a></li>
+									<li class="menu-item6"><a href="/Home/principal">The Principal</a></li>
+									<li class="menu-item6"><a href="/Home/governing">Governing Council</a></li>
+									<li class="menu-item6"><a href="/Home/mandatory">Mandatory Disclosures</a></li>
+									<li class="menu-item6"><a href="/Home/accreditation">Accreditation</a></li>
+									<li class="menu-item6"><a href="/Home/atalRanking">Atal Ranking</a></li>
+									<li class="menu-item6"><a href="/Home/milestones">Milestones</a></li>
+									<li class="menu-item6"><a href="/Home/testimonial">Testimonal</a></li>
+									<li class="menu-item6"><a href="/Home/location">Location</a></li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-home menu-item-has-children">
+							<li class="menu-item6 menu-item6-home menu-item6-has-children">
 								<a href="javascript:void(0)">Academics</a>
-								<ul class="sub-menu">
-									<li class="menu-item menu-item-home menu-item-has-children">
+								<ul class="sub-menu6">
+									<li class="menu-item6 menu-item6-home menu-item6-has-children">
 										<a href="javascript:void(0)">Under Graduate</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="/Department/computer-science">Computer Science & Eng</a></li>
-											<li class="menu-item"><a href="/Department/computer-science">Artificial Intelligence</a></li>
-											<li class="menu-item"><a href="/Department/computer-science">Data Science</a></li>
-											<li class="menu-item"><a href="/Department/information-science">Information Science & Eng</a></li>
-											<li class="menu-item"><a href="/Department/electronics-communication">Electronics & Com Eng</a></li>
-											<li class="menu-item"><a href="/Department/mechanical-engineering">Mechanical Eng</a></li>
-											<li class="menu-item"><a href="/Department/civil-engineering">Civil Eng</a></li>
+										<ul class="sub-menu6">
+											<li class="menu-item6"><a href="/Department/computer-science">Computer Science & Eng</a></li>
+											<li class="menu-item6"><a href="/Department/computer-science">Artificial Intelligence</a></li>
+											<li class="menu-item6"><a href="/Department/computer-science">Data Science</a></li>
+											<li class="menu-item6"><a href="/Department/information-science">Information Science & Eng</a></li>
+											<li class="menu-item6"><a href="/Department/electronics-communication">Electronics & Com Eng</a></li>
+											<li class="menu-item6"><a href="/Department/mechanical-engineering">Mechanical Eng</a></li>
+											<li class="menu-item6"><a href="/Department/civil-engineering">Civil Eng</a></li>
 										</ul>
 									</li>
-									<li class="menu-item menu-item-home menu-item-has-children">
+									<li class="menu-item6 menu-item6-home menu-item6-has-children">
 										<a href="javascript:void(0)">Basic Science </a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="/Department/chemistry">Chemistry</a></li>
-											<li class="menu-item"><a href="/Department/mathematics">Mathematics</a></li>
-											<li class="menu-item"><a href="/Department/Physics">Physics</a></li>
-											<li class="menu-item"><a href="/Department/Humanities">Humanities</a></li>
+										<ul class="sub-menu6">
+											<li class="menu-item6"><a href="/Department/chemistry">Chemistry</a></li>
+											<li class="menu-item6"><a href="/Department/mathematics">Mathematics</a></li>
+											<li class="menu-item6"><a href="/Department/Physics">Physics</a></li>
+											<li class="menu-item6"><a href="/Department/Humanities">Humanities</a></li>
 										</ul>
 									</li>
-									<li class="menu-item menu-item-home menu-item-has-children">
+									<li class="menu-item6 menu-item6-home menu-item6-has-children">
 										<a href="/Mba/faculty">Post Graduate </a>
 									</li>
-									<li class="menu-item"><a href="/Home/courseoffered">Courses Offered</a></li>
-									<li class="menu-item"><a href="/Department/TeachingFaculty">Teaching Faculty</a></li>
-									<li class="menu-item"><a href="/Home/calendar">Calendar of Events</a></li>
-									<li class="menu-item"><a href="/Home/valueadded">Value Added Courses</a></li>
-									<li class="menu-item"><a href="/Home/researchcenter">Research Center</a></li>
-									<li class="menu-item"><a href="/Home/codeofconduct">Code of Conduct</a></li>
-									<li class="menu-item"><a href="/Home/syllabus">Syllabus</a></li>
-									<li class="menu-item"><a href="/Home/usefullink">Useful Links</a></li>
-									<li class="menu-item"><a href="/Home/ibrary">Library</a></li>
+									<li class="menu-item6"><a href="/Home/courseoffered">Courses Offered</a></li>
+									<li class="menu-item6"><a href="/Department/TeachingFaculty">Teaching Faculty</a></li>
+									<li class="menu-item6"><a href="/Home/calendar">Calendar of Events</a></li>
+									<li class="menu-item6"><a href="/Home/valueadded">Value Added Courses</a></li>
+									<li class="menu-item6"><a href="/Home/researchcenter">Research Center</a></li>
+									<li class="menu-item6"><a href="/Home/codeofconduct">Code of Conduct</a></li>
+									<li class="menu-item6"><a href="/Home/syllabus">Syllabus</a></li>
+									<li class="menu-item6"><a href="/Home/usefullink">Useful Links</a></li>
+									<li class="menu-item6"><a href="/Home/ibrary">Library</a></li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-home menu-item-has-children">
+							<li class="menu-item6 menu-item6-home menu-item6-has-children">
 								<a href="javascript:void(0)">Admissions</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="/Home/admission">Admission Procedures</a></li>
-									<li class="menu-item"><a href="/Home/enquiry">Apply Online</a></li>
-									<li class="menu-item menu-item-has-children kingster-normal-menu">
+								<ul class="sub-menu6">
+									<li class="menu-item6"><a href="/Home/admission">Admission Procedures</a></li>
+									<li class="menu-item6"><a href="/Home/enquiry">Apply Online</a></li>
+									<li class="menu-item6 menu-item6-has-children kingster-normal-menu">
 										<a href="javascript:void(0)" class="sf-with-ul-pre">Application Form</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="/files/BE-Application-Form_copy.pdf" target="_blank">BE</a></li>
-											<li class="menu-item"><a href="/files/MBA-Application-Form.pdf" target="_blank">MBA</a></li>
+										<ul class="sub-menu6">
+											<li class="menu-item6"><a href="/files/BE-Application-Form_copy.pdf" target="_blank">BE</a></li>
+											<li class="menu-item6"><a href="/files/MBA-Application-Form.pdf" target="_blank">MBA</a></li>
 										</ul>
 									</li>
-									<li class="menu-item"><a href="/Home/Scholarship">Scholarship</a></li>
-									<li class="menu-item"><a href="/Home/whocanapply">Who can Apply</a></li>
+									<li class="menu-item6"><a href="/Home/Scholarship">Scholarship</a></li>
+									<li class="menu-item6"><a href="/Home/whocanapply">Who can Apply</a></li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-home">
+							<li class="menu-item6 menu-item6-home">
 								<a href="/Home/placements">Placement</a>
 							</li>
-							<li class="menu-item menu-item-home menu-item-has-children">
+							<li class="menu-item6 menu-item6-home menu-item6-has-children">
 								<a href="javascript:void(0)">Life At Sahyadri</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="/Home/Library">Library</a></li>
-									<li class="menu-item"><a href="/Home/Hostel">Hostel</a></li>
-									<li class="menu-item"><a href="/Home/Transportation">Transportation</a></li>
-									<li class="menu-item"><a href="/Home/coreFacilities">Core Facilities</a></li>
-									<li class="menu-item"><a href="/Home/antiSexualHarassment">Anti Sexual Harassment</a></li>
-									<li class="menu-item"><a href="http://sahyadrigrievance.in/" target="_blank">Grievance Redressal Committee</a></li>
-									<li class="menu-item"><a href="/Home/antiRaggingCommittee">Anti Ragging Committee</a></li>
-									<li class="menu-item"><a href="/Home/scStObc">SC/ST/OBC</a></li>
+								<ul class="sub-menu6">
+									<li class="menu-item6"><a href="/Home/Library">Library</a></li>
+									<li class="menu-item6"><a href="/Home/Hostel">Hostel</a></li>
+									<li class="menu-item6"><a href="/Home/Transportation">Transportation</a></li>
+									<li class="menu-item6"><a href="/Home/coreFacilities">Core Facilities</a></li>
+									<li class="menu-item6"><a href="/Home/antiSexualHarassment">Anti Sexual Harassment</a></li>
+									<li class="menu-item6"><a href="http://sahyadrigrievance.in/" target="_blank">Grievance Redressal Committee</a></li>
+									<li class="menu-item6"><a href="/Home/antiRaggingCommittee">Anti Ragging Committee</a></li>
+									<li class="menu-item6"><a href="/Home/scStObc">SC/ST/OBC</a></li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-home menu-item-has-children">
+							<li class="menu-item6 menu-item6-home menu-item6-has-children">
 								<a href="javascript:void(0)">Activities</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="/Home/fitIndia">Fit India</a></li>
-									<li class="menu-item"><a href="/onclave">Conclave Update</a></li>
-									<li class="menu-item"><a href="/Home/journals">Journals</a></li>
-									<li class="menu-item"><a href="/NewsMedia/download">Downloads</a></li>
-									<li class="menu-item"><a href="/Home/industryInteraction">Industry Interaction</a></li>
-									<li class="menu-item"><a href="/Home/corporateSocialResponsibility">Corporate Social Responsibility</a></li>
-									<li class="menu-item"><a href="/Home/initiatives">Sahyadri Initiatives</a></li>
-									<li class="menu-item"><a href="/Home/visitsProgrammes">Visits & Programmes</a></li>
-									<li class="menu-item"><a href="/Home/sport">Sports & Clubs</a></li>
-									<li class="menu-item"><a href="/Home/seminarWorkshop">Seminar & Workshops</a></li>
-									<li class="menu-item menu-item-home menu-item-has-children">
+								<ul class="sub-menu6">
+									<li class="menu-item6"><a href="/Home/fitIndia">Fit India</a></li>
+									<li class="menu-item6"><a href="/onclave">Conclave Update</a></li>
+									<li class="menu-item6"><a href="/Home/journals">Journals</a></li>
+									<li class="menu-item6"><a href="/NewsMedia/download">Downloads</a></li>
+									<li class="menu-item6"><a href="/Home/industryInteraction">Industry Interaction</a></li>
+									<li class="menu-item6"><a href="/Home/corporateSocialResponsibility">Corporate Social Responsibility</a></li>
+									<li class="menu-item6"><a href="/Home/initiatives">Sahyadri Initiatives</a></li>
+									<li class="menu-item6"><a href="/Home/visitsProgrammes">Visits & Programmes</a></li>
+									<li class="menu-item6"><a href="/Home/sport">Sports & Clubs</a></li>
+									<li class="menu-item6"><a href="/Home/seminarWorkshop">Seminar & Workshops</a></li>
+									<li class="menu-item6 menu-item6-home menu-item6-has-children">
 										<a href="javascript:void(0)">Achievements</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="/Department/PhysicalEducation">Physical Education</a></li>
-											<li class="menu-item"><a href="/Home/studentAchivements">1st year Student Achievements- 2018</a></li>
-											<li class="menu-item"><a href="/Home/startupAchivements">Startups & Industries Achievements- 2018</a></li>
-											<li class="menu-item"><a href="/Home/artcultural">Art & Culture</a></li>
-											<li class="menu-item"><a href="/Home/nss">NSS</a></li>
-											<li class="menu-item"><a href="/Home/CorpusFund">Sahyadri Corpus Fund</a></li>
-											<li class="menu-item"><a href="/Home/nain">NAIN Centre</a></li>
-											<li class="menu-item"><a href="/Home/spss">SPSS</a></li>
-											<li class="menu-item"><a href="/Home/ssth">SSTH</a></li>
+										<ul class="sub-menu6">
+											<li class="menu-item6"><a href="/Department/PhysicalEducation">Physical Education</a></li>
+											<li class="menu-item6"><a href="/Home/studentAchivements">1st year Student Achievements- 2018</a></li>
+											<li class="menu-item6"><a href="/Home/startupAchivements">Startups & Industries Achievements- 2018</a></li>
+											<li class="menu-item6"><a href="/Home/artcultural">Art & Culture</a></li>
+											<li class="menu-item6"><a href="/Home/nss">NSS</a></li>
+											<li class="menu-item6"><a href="/Home/CorpusFund">Sahyadri Corpus Fund</a></li>
+											<li class="menu-item6"><a href="/Home/nain">NAIN Centre</a></li>
+											<li class="menu-item6"><a href="/Home/spss">SPSS</a></li>
+											<li class="menu-item6"><a href="/Home/ssth">SSTH</a></li>
 										</ul>
 									</li>
-									<li class="menu-item menu-item-home menu-item-has-children">
+									<li class="menu-item6 menu-item6-home menu-item6-has-children">
 										<a href="javascript:void(0)">Associations</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="/Association/aences">AENCES</a></li>
-											<li class="menu-item"><a href="/Association/flames">FLAMES</a></li>
-											<li class="menu-item"><a href="/Association/clouds">CLOUDS</a></li>
-											<li class="menu-item"><a href="/Association/space">SPACE</a></li>
-											<li class="menu-item"><a href="/Association/staise">STAISE</a></li>
+										<ul class="sub-menu6">
+											<li class="menu-item6"><a href="/Association/aences">AENCES</a></li>
+											<li class="menu-item6"><a href="/Association/flames">FLAMES</a></li>
+											<li class="menu-item6"><a href="/Association/clouds">CLOUDS</a></li>
+											<li class="menu-item6"><a href="/Association/space">SPACE</a></li>
+											<li class="menu-item6"><a href="/Association/staise">STAISE</a></li>
 										</ul>
 									</li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-home menu-item-has-children">
+							<li class="menu-item6 menu-item6-home menu-item6-has-children">
 								<a href="javascript:void(0)">Media</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="/Home/gallery">Album</a></li>
-									<li class="menu-item"><a href="/Home/gallery">Gallery</a></li>
-									<li class="menu-item"><a href="/Home/gallery">Video</a></li>
+								<ul class="sub-menu6">
+									<li class="menu-item6"><a href="/Home/gallery">Album</a></li>
+									<li class="menu-item6"><a href="/Home/gallery">Gallery</a></li>
+									<li class="menu-item6"><a href="/Home/gallery">Video</a></li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-home menu-item-has-children">
+							<li class="menu-item6 menu-item6-home menu-item6-has-children">
 								<a href="javascript:void(0)">Research</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="/Research">R&D</a></li>
-									<li class="menu-item"><a href="/Research/cent">CENT</a></li>
-									<li class="menu-item"><a href="/Research/publication">Publications</a></li>
+								<ul class="sub-menu6">
+									<li class="menu-item6"><a href="/Research">R&D</a></li>
+									<li class="menu-item6"><a href="/Research/cent">CENT</a></li>
+									<li class="menu-item6"><a href="/Research/publication">Publications</a></li>
 								</ul>
 							</li>
-                            <li class="menu-item kingster-normal-menu">
+                            <li class="menu-item6 kingster-normal-menu">
                                 <a href="/Home/recruitment">Recruitment</a>
                             </li>
 						</ul>

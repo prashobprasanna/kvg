@@ -1,7 +1,7 @@
 a{
 	text-decoration: unset;
 }
-.kingster-top-bar .admission_open{
+.kingster-top-bar1 .admission_open{
 	animation: blinker 1s linear infinite;
 }
 @keyframes blinker {
@@ -9,7 +9,7 @@ a{
 		opacity: 0;
 	}
 }
-.kingster-top-bar .cet_code{
+.kingster-top-bar1 .cet_code{
 	font-size: 14px;
 	font-weight: 700;
 	color: #fff;
@@ -17,7 +17,7 @@ a{
 .kingster-logo-inner {
 	max-width: 380px;
 }
-.kingster-top-bar{
+.kingster-top-bar1{
 	padding: 8px 0;
 }
 .kingster-item-pdlr{
@@ -444,7 +444,7 @@ ol, ul{
 .department_page .dept_quick_links_div a{
 	color: #FFFFFF !important;
 }
-.kingster-body-outer-wrapper,.kingster-header-wrap{
+.kingster-body-outer-wrapper1,.kingster-header-wrap{
 	width: 100%;
 	margin-right: auto;
 	margin-left: auto;
