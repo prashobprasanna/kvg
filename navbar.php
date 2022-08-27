@@ -52,7 +52,7 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.php?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <header class="main-header top-menu" >
-        <!-- <a class="navbar-brand" href="index.php"><img class="media-object" src="images/KVGCE-Logo.png" alt="KVG college of Engineering"></a> -->
+        
         <!-- <div class="top-content-area"> -->
             <!-- <ul class="top-right-menu">
             <li><a href="">Alumni Portal</a></li>
@@ -67,7 +67,11 @@
 
         <!-- </div> -->
         <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu" >
+        <!-- <div style="float: left;">
+                        <img src="images/logo-with-clg1.png" alt="">
+                       </div> -->
 
+        <!-- <a class="navbar-brand" href="index.php"><img class="" src="images/logo-with-clg1.png" alt="KVG college of Engineering" style="z-index: 100;width:100%"></a> -->
             <div class="container">
 
                 <div class="navbar-header">
@@ -79,7 +83,7 @@
                     </button>
                 </div>
 
-                <div id="navbar" class="collapse navbar-collapse" >
+                <!-- <div id="navbar" class="collapse navbar-collapse" > -->
 
 <style>
     .nav{
@@ -92,8 +96,13 @@
         /* justify-content: center; */
     }}
 </style>
+<!-- <img src="images/logo-with-clg.png" alt=""  > -->
+
         
                     <ul class="nav navbar-nav" >
+                       
+                           
+                     
                         <li class="menu-el">
                             <a href="index.php">HOME</a>
                         </li>
