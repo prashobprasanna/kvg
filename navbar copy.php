@@ -51,7 +51,8 @@
     <!-- Google Tag Manager (noscript)Digitall Marketig college may 6th 2020 -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.php?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <header class="main-header top-menu" >
+   <!-- <div style="position: fixed; width:100%;z-index:99999999" > -->
+    <header class="main-header top-menu" style="position:fixed;" >
         <!-- <a class="navbar-brand" href="index.php"><img class="media-object" src="images/KVGCE-Logo.png" alt="KVG college of Engineering"></a> -->
         <!-- <div class="top-content-area"> -->
             <!-- <ul class="top-right-menu">
@@ -64,11 +65,13 @@
                     University-Belgaum & Recognized by AICTE</h4>
 
             </div> -->
-
+            <a href="index.php"> <div style="float: left;z-index:9999999999; position: sticky;top:0%;">
+                        <img src="images/logo-with-clg1.png" alt="">
+                       </div></a> 
         <!-- </div> -->
-        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu" >
+        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu" style="position:fixed;top:0%">
 
-            <div class="container">
+            <div class="container" >
 
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -454,3 +457,4 @@
             </div>
         </nav>
     </header>
+    <!-- </div> -->
