@@ -5,267 +5,332 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" />
-    <link rel="stylesheet" href="assets/css/styles.css" />
     <title>Document</title>
 </head>
 
 <body>
+    <!-- Latest compiled and minified CSS -->
+    <!-- https://xstore.8theme.com/demos/hosting/-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-</body>
-<style>
-    /*=============== GOOGLE FONTS ===============*/
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700&subset=latin-ext" rel="stylesheet">
 
-    /*=============== VARIABLES CSS ===============*/
-    :root {
-        /*========== Colors ==========*/
-        --hue: 240;
-        --first-color: hsl(var(--hue), 16%, 18%);
-        --first-color-alt: hsl(var(--hue), 16%, 12%);
-        --title-color: hsl(var(--hue), 8%, 15%);
-        --text-color: hsl(var(--hue), 8%, 35%);
-        --body-color: hsl(var(--hue), 100%, 99%);
-        --container-color: #FFF;
-
-        /*========== Font and typography ==========*/
-        --body-font: 'Poppins', sans-serif;
-        --big-font-size: 1.5rem;
-        --normal-font-size: .938rem;
-
-        /*========== z index ==========*/
-        --z-modal: 1000;
-    }
-
-    @media screen and (min-width: 968px) {
-        :root {
-            --big-font-size: 1.75rem;
-            --normal-font-size: 1rem;
-        }
-    }
-
-    /*=============== BASE ===============*/
-    * {
-        box-sizing: border-box;
-        padding: 0;
-        margin: 0;
-    }
-
-    button {
-        font-family: var(--body-font);
-        font-size: var(--normal-font-size);
-    }
-
-    /* body {
-            background-color: var(--body-color);
-            color: var(--text-color);
-            position: relative;
-        } */
-
-    button {
-        cursor: pointer;
-        border: none;
-        outline: none;
-    }
-
-    img {
-        max-width: 100%;
-        height: auto;
-    }
-
-    /*=============== MODAL ===============*/
-    .container {
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-
-    .modal {
-        /* height: 100vh; */
-        display: grid;
-        place-items: center;
-    }
-
-    .modal__button {
-        display: inline-block;
-        background-color: #0a2b3a;
-        color: #FFF;
-        padding: 1rem 1.25rem;
-        border-radius: .5rem;
-        transition: .3s;
-    }
-
-    .modal__button:hover {
-        background-color: #320836;
-    }
-
-    .modal__container {
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-color: hsla(var(--hue), 18%, 75%, .8);
-        width: 100%;
-        height: 100%;
-        display: grid;
-        align-items: flex-end;
-        overflow: hidden;
-        transition: all .3s;
-        z-index: var(--z-modal);
-        visibility: hidden;
-        opacity: 0;
-
-    }
-
-    .modal__content {
-        position: relative;
-        background-color: var(--container-color);
-        text-align: center;
-        padding: 3rem 2rem 2rem;
-        border-radius: 1rem 1rem 0 0;
-        transition: all .3s;
-
-        transform: translateY(10%);
-
-    }
-
-    .modal__img {
-        width: 150px;
-        margin-bottom: .75rem;
-    }
-
-    .modal__close {
-        display: inline-flex;
-        background-color: #7b0e85;
-        border-radius: .25rem;
-        color: #FFF;
-        font-size: 1.5rem;
-        position: absolute;
-        top: 2rem;
-        right: 2rem;
-        cursor: pointer;
-    }
-
-    .modal__title {
-        font-size: 1.4rem;
-        color: var(--title-color);
-        font-weight: 500;
-    }
-
-    .modal__description {
-        margin-bottom: 1.5rem;
-    }
-
-    .modal__button-width {
-        width: 50%;
-    }
-
-    .modal__button-link {
-        display: block;
-        margin: 1rem auto 0;
-        background-color: transparent;
-        color: var(--first-color);
-        font-weight: 500;
-    }
-
-    /* Show modal */
-    .show-modal {
-        visibility: visible;
-        opacity: 1;
-    }
-
-
-    .show-modal .modal__content {
-
-        transform: translateY(0);
-
-
-    }
-
-
-    /*=============== BREAKPOINTS ===============*/
-    /* For small devices */
-    @media screen and (min-width: 576px) {
-        .modal__content {
-            margin: auto;
-            width: 380px;
-            border-radius: 1.25rem;
+    <style>
+        #slider-text {
+            padding-top: 40px;
+            display: block;
         }
 
-        .modal__img {
-            width: 170px;
+        #slider-text .col-md-6 {
+            overflow: hidden;
         }
-    }
 
-    .reg {
-        padding: 1rem;
+        #slider-text h2 {
+            font-family: 'Josefin Sans', sans-serif;
+            font-weight: 400;
+            font-size: 30px;
+            letter-spacing: 3px;
+            margin: 30px auto;
+            padding-left: 40px;
+        }
 
-        border-radius: 0.5rem;
-        padding: 1rem 1.25rem;
-        border: none;
-        margin-top: 1rem;
+        #slider-text h2::after {
+            border-top: 2px solid #c7c7c7;
+            content: "";
+            position: absolute;
+            bottom: 35px;
+            width: 100%;
+        }
 
-        transition: .3s;
-        width: 100%;
-        margin-bottom: 1rem;
-        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-    }
+        #itemslider h4 {
+            font-family: 'Josefin Sans', sans-serif;
+            font-weight: 400;
+            font-size: 12px;
+            margin: 10px auto 3px;
+        }
 
-    .reg:focus {
-        border: 0.5px solid #7b0e85;
-        outline-offset: 0px;
-        outline: none;
-    }
+        #itemslider h5 {
+            font-family: 'Josefin Sans', sans-serif;
+            font-weight: bold;
+            font-size: 12px;
+            margin: 3px auto 2px;
+        }
 
-    ::placeholder {
-        color: #aaaaaa;
-        font-size: 0.875rem;
-    }
-</style>
+        #itemslider h6 {
+            font-family: 'Josefin Sans', sans-serif;
+            font-weight: 300;
+            ;
+            font-size: 10px;
+            margin: 2px auto 5px;
+        }
 
-<section class="modal" style="">
-    <button class="modal__button" id="open-modal">
-        Open Modal
-    </button>
+        .badge {
+            background: #b20c0c;
+            position: absolute;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            line-height: 31px;
+            font-family: 'Josefin Sans', sans-serif;
+            font-weight: 300;
+            font-size: 14px;
+            border: 2px solid #FFF;
+            box-shadow: 0 0 0 1px #b20c0c;
+            top: 5px;
+            right: 25%;
+        }
 
-    <div class="modal__container" id="modal-container">
-        <div class="modal__content">
-            <div class="modal__close close-modal" title="Close">
-                <i class="bx bx-x"></i>
+        #slider-control img {
+            padding-top: 60%;
+            margin: 0 auto;
+        }
+
+        @media screen and (max-width: 992px) {
+            #slider-control img {
+                padding-top: 70px;
+                margin: 0 auto;
+            }
+        }
+
+        .carousel-showmanymoveone .carousel-control {
+            width: 4%;
+            background-image: none;
+        }
+
+        .carousel-showmanymoveone .carousel-control.left {
+            margin-left: 5px;
+        }
+
+        .carousel-showmanymoveone .carousel-control.right {
+            margin-right: 5px;
+        }
+
+        .carousel-showmanymoveone .cloneditem-1,
+        .carousel-showmanymoveone .cloneditem-2,
+        .carousel-showmanymoveone .cloneditem-3,
+        .carousel-showmanymoveone .cloneditem-4,
+        .carousel-showmanymoveone .cloneditem-5 {
+            display: none;
+        }
+
+        @media all and (min-width: 768px) {
+
+            .carousel-showmanymoveone .carousel-inner>.active.left,
+            .carousel-showmanymoveone .carousel-inner>.prev {
+                left: -50%;
+            }
+
+            .carousel-showmanymoveone .carousel-inner>.active.right,
+            .carousel-showmanymoveone .carousel-inner>.next {
+                left: 50%;
+            }
+
+            .carousel-showmanymoveone .carousel-inner>.left,
+            .carousel-showmanymoveone .carousel-inner>.prev.right,
+            .carousel-showmanymoveone .carousel-inner>.active {
+                left: 0;
+            }
+
+            .carousel-showmanymoveone .carousel-inner .cloneditem-1 {
+                display: block;
+            }
+        }
+
+        @media all and (min-width: 768px) and (transform-3d),
+        all and (min-width: 768px) and (-webkit-transform-3d) {
+
+            .carousel-showmanymoveone .carousel-inner>.item.active.right,
+            .carousel-showmanymoveone .carousel-inner>.item.next {
+                -webkit-transform: translate3d(50%, 0, 0);
+                transform: translate3d(50%, 0, 0);
+                left: 0;
+            }
+
+            .carousel-showmanymoveone .carousel-inner>.item.active.left,
+            .carousel-showmanymoveone .carousel-inner>.item.prev {
+                -webkit-transform: translate3d(-50%, 0, 0);
+                transform: translate3d(-50%, 0, 0);
+                left: 0;
+            }
+
+            .carousel-showmanymoveone .carousel-inner>.item.left,
+            .carousel-showmanymoveone .carousel-inner>.item.prev.right,
+            .carousel-showmanymoveone .carousel-inner>.item.active {
+                -webkit-transform: translate3d(0, 0, 0);
+                transform: translate3d(0, 0, 0);
+                left: 0;
+            }
+        }
+
+        @media all and (min-width: 992px) {
+
+            .carousel-showmanymoveone .carousel-inner>.active.left,
+            .carousel-showmanymoveone .carousel-inner>.prev {
+                left: -16.666%;
+            }
+
+            .carousel-showmanymoveone .carousel-inner>.active.right,
+            .carousel-showmanymoveone .carousel-inner>.next {
+                left: 16.666%;
+            }
+
+            .carousel-showmanymoveone .carousel-inner>.left,
+            .carousel-showmanymoveone .carousel-inner>.prev.right,
+            .carousel-showmanymoveone .carousel-inner>.active {
+                left: 0;
+            }
+
+            .carousel-showmanymoveone .carousel-inner .cloneditem-2,
+            .carousel-showmanymoveone .carousel-inner .cloneditem-3,
+            .carousel-showmanymoveone .carousel-inner .cloneditem-4,
+            .carousel-showmanymoveone .carousel-inner .cloneditem-5,
+            .carousel-showmanymoveone .carousel-inner .cloneditem-6 {
+                display: block;
+            }
+        }
+
+        @media all and (min-width: 992px) and (transform-3d),
+        all and (min-width: 992px) and (-webkit-transform-3d) {
+
+            .carousel-showmanymoveone .carousel-inner>.item.active.right,
+            .carousel-showmanymoveone .carousel-inner>.item.next {
+                -webkit-transform: translate3d(16.666%, 0, 0);
+                transform: translate3d(16.666%, 0, 0);
+                left: 0;
+            }
+
+            .carousel-showmanymoveone .carousel-inner>.item.active.left,
+            .carousel-showmanymoveone .carousel-inner>.item.prev {
+                -webkit-transform: translate3d(-16.666%, 0, 0);
+                transform: translate3d(-16.666%, 0, 0);
+                left: 0;
+            }
+
+            .carousel-showmanymoveone .carousel-inner>.item.left,
+            .carousel-showmanymoveone .carousel-inner>.item.prev.right,
+            .carousel-showmanymoveone .carousel-inner>.item.active {
+                -webkit-transform: translate3d(0, 0, 0);
+                transform: translate3d(0, 0, 0);
+                left: 0;
+            }
+        }
+    </style>
+
+    <!--Item slider text-->
+
+
+    <div class="container">
+        <div class="row" id="slider-text">
+            <div class="col-md-6">
+                <h2>NEW COLLECTION</h2>
             </div>
-
-            <i class='bx bxs-edit'></i>
-            <h1 class="modal__title">Register Your Number</h1>
-
-            <input type="text" placeholder="Enter Your Number" class="reg" />
-
-            <button class="modal__button modal__button-width">Proceed <i class="bx bx-chevrons-right bx-fade-right"></i></button>
         </div>
     </div>
-</section>
-<script>
-    /*=============== SHOW MODAL ===============*/
-    const showModal = (openButton, modalContent) => {
-        const openBtn = document.getElementById(openButton),
-            modalContainer = document.getElementById(modalContent)
 
-        if (openBtn && modalContainer) {
-            openBtn.addEventListener('click', () => {
-                modalContainer.classList.add('show-modal')
-            })
-        }
-    }
-    showModal('open-modal', 'modal-container')
+    <!-- Item slider-->
+    <div class="container-fluid">
 
-    /*=============== CLOSE MODAL ===============*/
-    const closeBtn = document.querySelectorAll('.close-modal')
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="carousel carousel-showmanymoveone slide" id="itemslider">
+                    <div class="carousel-inner">
 
-    function closeModal() {
-        const modalContainer = document.getElementById('modal-container')
-        modalContainer.classList.remove('show-modal')
-    }
-    closeBtn.forEach(c => c.addEventListener('click', closeModal))
-</script>
+                        <div class="item active">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="https://images.unsplash.com/photo-1539840093138-9b3e230e5206?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=765a2eb222b1851840a4a157780fb487&auto=format&fit=crop&w=1534&q=80" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAYORAL SUKNJA</h4>
+                                <h5 class="text-center">200,00 TK</h5>
+                            </div>
+                        </div>
 
-<!--=============== MAIN JS ===============-->
-<script src="assets/js/main.js"></script>
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="https://images.unsplash.com/photo-1524010349062-860def6649c3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e725946a3f177dce83a705d4b12019c2&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAYORAL KOŠULJA</h4>
+                                <h5 class="text-center">800 TK</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="https://images.unsplash.com/photo-1511556820780-d912e42b4980?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=04aebe9a22884efa1a5f61e434215597&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
+                                <span class="badge">10%</span>
+                                <h4 class="text-center">PANTALONE TERI 2</h4>
+                                <h5 class="text-center">4000,00 TK</h5>
+                                <h6 class="text-center">5000,00 TK</h6>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="https://images.unsplash.com/photo-1531925470851-1b5896b67dcd?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=91fe0ca1b5d72338a8aac04935b52148&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
+                                <h4 class="text-center">CVETNA HALJINA</h4>
+                                <h5 class="text-center">4000,00 RSD</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="https://images.unsplash.com/photo-1516961642265-531546e84af2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=74065eec3c2f6a8284bbe30402432f1d&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAJICA FOTO</h4>
+                                <h5 class="text-center">40,00 TK</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="https://images.unsplash.com/photo-1532086853747-99450c17fa2e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=61a42a11f627b0d21d0df757d9b8fe23&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAJICA MAYORAL</h4>
+                                <h5 class="text-center">100,00 TK</h5>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div id="slider-control">
+                        <a class="left carousel-control" href="#itemslider" data-slide="prev"><img src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_402-512.png" alt="Left" class="img-responsive"></a>
+                        <a class="right carousel-control" href="#itemslider" data-slide="next"><img src="http://pixsector.com/cache/81183b13/avcc910c4ee5888b858fe.png" alt="Right" class="img-responsive"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Item slider end-->
+    <br /><br />
+    <footer class="bg-info">
+        <p class="text-center">
+            <!--&copy; <a href="https://www.facebook.com/maruf.al.bashir" target="_blank" >Maruf-Al Bashir 2020</a>-->
+        </p>
+    </footer>
+    <script>
+        $(document).ready(function() {
+
+            $('#itemslider').carousel({
+                interval: 1000
+            });
+
+            $('.carousel-showmanymoveone .item').each(function() {
+                var itemToClone = $(this);
+
+                for (var i = 1; i < 6; i++) {
+                    itemToClone = itemToClone.next();
+
+                    if (!itemToClone.length) {
+                        itemToClone = $(this).siblings(':first');
+                    }
+
+                    itemToClone.children(':first-child').clone()
+                        .addClass("cloneditem-" + (i))
+                        .appendTo($(this));
+                }
+            });
+        });
+    </script>
+</body>
 
 </html>

@@ -56,7 +56,10 @@
     <!-- Google Tag Manager (noscript)Digitall Marketig college may 6th 2020 -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
+    
     <header>
+
+    
         <?php
         include('navbar.php');
         ?>
