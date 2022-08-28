@@ -628,7 +628,7 @@
     <!-- <div class="alert alert-info" style="font-size:25px; font-weight: bold;">
         Addmission
     </div> -->
-    <a href="#" data-target="#login" data-toggle="modal"> <button class="alert alert-info swing " style="background-color: #ffc800;
+    <!-- <a href="#" data-target="#login" data-toggle="modal"> <button class="alert alert-info swing " style="background-color: #ffc800;
                 border:2px solid black;
                 border-color: #000;
                 color: rgb(0, 0, 0);
@@ -639,7 +639,7 @@
                 text-decoration: none;
                 display: inline-block;
                 
-                margin: 4px 2px; border-radius: 50px; "><strong>Admission</strong></button> </a>
+                margin: 4px 2px; border-radius: 50px; "><strong>Admission</strong></button> </a> -->
     <!-- <div class="alert alert-info total"> 
                     <div class="all-wrap">  
                       <div class="all">
