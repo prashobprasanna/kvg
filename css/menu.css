@@ -1399,6 +1399,7 @@ body {
 }
 
 .navbar {
+
     border-radius: 0;
     margin-bottom: 0;
     background: 0 0;
@@ -1446,6 +1447,7 @@ body {
 }
 
 .navbar-nav {
+
     margin-top: 0
     
 }
@@ -1524,7 +1526,7 @@ body {
     background-color: #653A70 !important
 }
 
-:#mdf_menu * {
+#mdf_menu * {
     box-sizing: border-box
 }
 
