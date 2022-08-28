@@ -29,7 +29,17 @@
                 <li data-target="#carousel-example-generic" data-slide-to="9"></li> -->
 
             </ol>
+            <style>
+                .carousel {
+                    margin-top: 71px;
+                }
 
+                @media(max-width:767px) {
+                    .carousel {
+                        margin-top: 0px;
+                    }
+                }
+            </style>
 
 
 
