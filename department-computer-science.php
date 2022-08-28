@@ -11,7 +11,7 @@
     <!-- End Google Tag Manager (noscript) -->
     <header>
         <?php
-        include('navbar.php');
+        include('navbar copy 2.php');
         ?>
     </header>
 
