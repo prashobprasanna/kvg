@@ -2019,6 +2019,17 @@
 
         <!-- endgallery1 -->
         <br><br>
+
+
+<!-- slide gallery -->
+
+
+<!-- end slide gallery -->
+
+
+
+
+
         <!-- logo slider begin -->
 
         <style>
