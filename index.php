@@ -624,22 +624,22 @@
     <div id="container">
         <!-- Menu Button -->
 
-        <div class="menu-btn">
+        <div class="menu-btn" style="z-index: 99999999999999999999999;">
             <img src="images/get-quote-button.jpg" alt="get a quote">
         </div>
         <!-- Menu Button -->
         <div class="clearfix"></div>
         <!-- Menu Button -->
         <div class="menu-btncont">
-            <p><a href="tel:+919972932972">+91 99729 32972</a><br>
-                <a href="tel:+918242868155">+91 824 2868155</a>
+            <p><a href="tel:+919972932972">+91 9845866528</a><br>
+                <a href="tel:+918242868155"></a>
             </p>
             <img src="images/call.jpg" alt="Call">
         </div>
         <div class="clearfix"></div>
         <div class="menu-btncont topmenu">
             <p>Mail To<br>
-                <a href="mailto:admissions@sjec.ac.in">admissions@sjec.ac.in</a>
+                <a href="mailto:office@kvgengg.com">office@kvgengg.com</a>
             </p>
             <img src="images/mail.jpg" alt="Mail">
         </div>
@@ -822,7 +822,7 @@
             Courses Offered</div>
     </strong>
 
-    <div class="content-wrapper">
+    <div class="content-wrapper" style="z-index: 99999999999999999999;">
 
         <div class="news-card">
             <a href="department-computer-science.php" class="news-card__card-link"></a>
