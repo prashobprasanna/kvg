@@ -1534,7 +1534,7 @@
 
                                     <style>
                                         @media screen and (min-width:767px) {
-                                            .header-fullname{
+                                            .header-fullname {
                                                 font-size: 18px;
                                             }
                                         }
@@ -2021,10 +2021,10 @@
         <br><br>
 
 
-<!-- slide gallery -->
+        <!-- slide gallery -->
 
 
-<!-- end slide gallery -->
+        <!-- end slide gallery -->
 
 
 
@@ -2090,64 +2090,64 @@
             <div class="clients-wrap">
                 <ul id="clients-list" class="clearfix">
                     <li>
-                        <img src="images/Clients/Ample.gif" alt="Black Ace">
+                        <img src="images/Clients/Ample.gif" alt="Ample">
                     </li>
                     <li>
-                        <img src="images/Clients/Bosch.png" alt="First State Bank">
+                        <img src="images/Clients/Bosch.png" alt="Bosch">
                     </li>
                     <li>
-                        <img src="images/Clients/Global Edge.jpg" alt="Custom Aire">
+                        <img src="images/Clients/Global Edge.jpg" alt="Global Edge">
                     </li>
                     <li>
-                        <img src="images/Clients/HP.jpg" alt="First State Bank">
+                        <img src="images/Clients/HP.jpg" alt="HP">
                     </li>
                     <!-- <li>
-                    <img src="images/Clients/Huawei.jpg" alt="Dakota Molding">
+                    <img src="images/Clients/Huawei.jpg" alt="Huawei">
                 </li> -->
                     <li>
-                        <img src="images/Clients/IBM.jpg" alt="Dakota Peat">
+                        <img src="images/Clients/IBM.jpg" alt="IBM">
                     </li>
                     <li>
-                        <img src="images/Clients/Indian Army.gif" alt="First State Bank">
+                        <img src="images/Clients/Indian Army.gif" alt="Indian Army">
                     </li>
                     <li>
-                        <img src="images/Clients/Infosys.jpg" alt="Eastbay Campground">
+                        <img src="images/Clients/Infosys.jpg" alt="Infosys">
                     </li>
                     <li>
-                        <img src="images/Clients/JSW.jpg" alt="First State Bank">
+                        <img src="images/Clients/JSW.jpg" alt="JSW">
                     </li>
                     <li>
-                        <img src="images/Clients/Larsen Toubro.jpg" alt="First State Bank">
+                        <img src="images/Clients/Larsen Toubro.jpg" alt="Larsen Toubro">
                     </li>
                     <li>
-                        <img src="images/Clients/Magna Infotech.gif" alt="First State Bank">
+                        <img src="images/Clients/Magna Infotech.gif" alt="Magna Infotech">
                     </li>
                     <li>
-                        <img src="images/Clients/Mindtree.png" alt="First State Bank">
+                        <img src="images/Clients/Mindtree.png" alt="Mindtree">
                     </li>
                     <li>
-                        <img src="images/Clients/MU Sigma.jpg" alt="First State Bank">
+                        <img src="images/Clients/MU Sigma.jpg" alt="MU Sigma">
                     </li>
                     <li>
-                        <img src="images/Clients/Neo Bytes.jpg" alt="First State Bank">
+                        <img src="images/Clients/Neo Bytes.jpg" alt="Neo Bytes">
                     </li>
                     <li>
-                        <img src="images/Clients/Quinnox.png" alt="First State Bank">
+                        <img src="images/Clients/Quinnox.png" alt="Quinnox">
                     </li>
                     <li>
-                        <img src="images/Clients/Robosoft.jpeg" alt="First State Bank">
+                        <img src="images/Clients/Robosoft.jpeg" alt="Robosoft">
                     </li>
                     <li>
-                        <img src="images/Clients/Sankalp.gif" alt="First State Bank">
+                        <img src="images/Clients/Sankalp.gif" alt="Sankalp">
                     </li>
                     <li>
-                        <img src="images/Clients/Sasken.png" alt="First State Bank">
+                        <img src="images/Clients/Sasken.png" alt="Sasken">
                     </li>
                     <li>
-                        <img src="images/Clients/SLK Software.jpg" alt="First State Bank">
+                        <img src="images/Clients/SLK Software.jpg" alt="SLK Software">
                     </li>
                     <li>
-                        <img src="images/Clients/Tech Jini.png" alt="First State Bank">
+                        <img src="images/Clients/Tech Jini.png" alt="Tech Jini">
                     </li>
                 </ul>
             </div>
