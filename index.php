@@ -120,7 +120,7 @@
                     background: #06D85F;
                 }
 
-                .overlay {
+                .overlay1 {
                     position: fixed;
                     top: 0;
                     bottom: 0;
@@ -132,12 +132,12 @@
                     opacity: 0;
                 }
 
-                .overlay:target {
+                .overlay1:target {
                     visibility: visible;
                     opacity: 1;
                 }
 
-                .popup {
+                .popup12 {
                     margin: 70px auto;
                     padding: 20px;
                     background: #fff;
@@ -147,13 +147,13 @@
                     transition: all 5s ease-in-out;
                 }
 
-                .popup h2 {
+                .popup12 h2 {
                     margin-top: 0;
                     color: #333;
                     font-family: Tahoma, Arial, sans-serif;
                 }
 
-                .popup .close {
+                .popup12 .close {
                     position: absolute;
                     top: 20px;
                     right: 30px;
@@ -164,11 +164,11 @@
                     color: #333;
                 }
 
-                .popup .close:hover {
+                .popup12 .close:hover {
                     color: #06D85F;
                 }
 
-                .popup .content {
+                .popup12 .content {
                     max-height: 30%;
                     overflow: auto;
                 }
@@ -185,8 +185,8 @@
             </style>
 
 
-            <div id="popup1" class="overlay" style="z-index: 99999; position: fixed;">
-                <div class="popup" style="top:30%; z-index: 999999;float: left;">
+            <div id="popup1" class="overlay1" style="z-index: 999999999999999; position: fixed;">
+                <div class="popup12" style="top:30%; z-index: 999999999999999;float: left;">
                     <center>
                         <div style="background-color: #005049;
                 border: none;
@@ -246,7 +246,7 @@
 
 
         </div>
-        <a id="menu-toggle" href="#popup1" class="hidde-xs">
+        <a id="menu-toggle" href="#popup1" class="">
             <div class="parent">
                 <span onclick="fireCredit()"><i class="fa fa-bell"></i></span>
             </div>
