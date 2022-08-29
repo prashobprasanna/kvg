@@ -246,11 +246,11 @@
 
 
         </div>
-        <a id="menu-toggle" href="#popup1" class="hidde-xs">
+        <!-- <a id="menu-toggle" href="#popup1" class="hidde-xs">
             <div class="parent" >
                 <span onclick="fireCredit()"><i class="fa fa-bell"></i></span>
             </div>
-        </a>
+        </a> -->
 
 
     </section>
