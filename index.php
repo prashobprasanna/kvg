@@ -1157,13 +1157,13 @@
                                 <h2 class="u-text u-text-1">Agniveer Road Race</h2>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-2"> Our proud First year CS student TISHAN A M. participated in Agniveer 3Km road race(madikeri)on
                                     7-08-2022. won the ( 2nd place) silver medal. Out of 106 participants</p>
-                                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a>
+                                <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a> -->
                             </div>
                         </div>
                         <div class="u-carousel-item u-container1-style u-slide">
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
-                                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
+                                <!-- <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067"> -->
                                 <h2 class="u-text u-text-3">FAREWELL-2022</h2>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-4">Great is the art of beginning,but
                                     greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
@@ -1173,7 +1173,7 @@
                                     the chief guest of the function,along with the C E O of K V G C E Dr
                                     Ujwal U J, Principal Dr Suresha V & Vice-prinipal Dr shreedhar K
                                     shared the dais</p>
-                                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
+                                <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a> -->
                             </div>
                         </div>
                         <div class="u-carousel-item u-container1-style u-slide">
@@ -1186,7 +1186,7 @@
                                     The program was presided by CEO of KVGCE Dr Ujwal U J & the program
                                     was initiated by Dr Yashodha Ramachandra,Principal KVG AJPUC Sullia,
                                     with lighting the lamp.</p>
-                                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
+                                <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a> -->
                             </div>
                         </div>
                     </div>
