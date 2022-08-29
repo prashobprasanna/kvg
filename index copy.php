@@ -491,8 +491,7 @@
     </div>
 
 
-
-    <!-- social media -->
+<!-- social media -->
     <!-- <link rel="stylesheet" href="./style.css"> -->
     <style>
         /* Code By Webdevtrick ( https://webdevtrick.com ) */
@@ -637,6 +636,8 @@
         </li>
 
     </ul>
+
+
 
 
     <!-- <-- puthiyath-->
