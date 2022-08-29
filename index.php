@@ -484,33 +484,33 @@
   background: #e6e6e6; */
         /* } */
         #social-sidebar {
-            left: 0;
+            right: 0;
             position: fixed;
-            top: 70%;
+            top: 20%;
             z-index: 989898;
             /* opacity: 0.7; */
         }
 
         @media (max-width:767px) {
             #social-sidebar {
-                left: 0;
+                right: 0;
                 position: fixed;
-                top: 55%;
+                top: 30%;
                 z-index: 989898;
                 /* opacity: 0.7; */
             }
         }
 
         #social-sidebar li:first-child a {
-            border-top-right-radius: 5px;
+            border-top-left-radius: 5px;
         }
 
         #social-sidebar li:last-child a {
-            border-bottom-right-radius: 5px;
+            border-bottom-left-radius: 5px;
         }
 
         #social-sidebar a {
-            background: rgba(0, 0, 0, 0.637);
+            background: #07294e;
             color: #fff;
             text-decoration: none;
             display: block;
@@ -524,16 +524,16 @@
         }
 
         #social-sidebar a:hover span {
-            left: 120%;
+            right: 120%;
             opacity: 1;
         }
 
         #social-sidebar a span {
             font: 12px "Open Sans", sans-serif;
             text-transform: uppercase;
-            border-radius: 3px;
+            border-radius: 0px;
             line-height: 24px;
-            left: -100%;
+            right: -100%;
             margin-top: -16px;
             opacity: 0;
             padding: 4px 8px;
@@ -548,7 +548,7 @@
             display: block;
             height: 8px;
             width: 8px;
-            left: -4px;
+            right: -4px;
             margin-top: -4px;
             position: absolute;
             top: 50%;
@@ -600,7 +600,7 @@
 
     <ul id="social-sidebar">
         <li>
-            <a class="entypo-twitter"><span>Tweeter</span></a>
+            <a class="entypo-twitter"><span>Twitter</span></a>
         </li>
 
         <li>
