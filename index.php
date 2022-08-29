@@ -525,7 +525,7 @@
 
         #social-sidebar a:hover span {
             left: 120%;
-            opacity: 0;
+            opacity: 1;
         }
 
         #social-sidebar a span {
@@ -600,7 +600,7 @@
 
     <ul id="social-sidebar">
         <li>
-            <a class="entypo-twitter"><span>Twitter</span></a>
+            <a class="entypo-twitter"><span>Tweeter</span></a>
         </li>
 
         <li>
@@ -616,16 +616,38 @@
 
 
 
-<!-- admission open popup -->
-<!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script> -->
-<!-- <div class="elfsight-app-f940885a-ad3b-4772-9c04-408d15d4fc92"></div> -->
+    <!-- admission open popup -->
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    <!-- <div class="elfsight-app-f940885a-ad3b-4772-9c04-408d15d4fc92"></div> -->
+
+
+    <div id="container">
+        <!-- Menu Button -->
+
+        <div class="menu-btn">
+            <img src="images/get-quote-button.jpg" alt="get a quote">
+        </div>
+        <!-- Menu Button -->
+        <div class="clearfix"></div>
+        <!-- Menu Button -->
+        <div class="menu-btncont">
+            <p><a href="tel:+919972932972">+91 99729 32972</a><br>
+                <a href="tel:+918242868155">+91 824 2868155</a>
+            </p>
+            <img src="images/call.jpg" alt="Call">
+        </div>
+        <div class="clearfix"></div>
+        <div class="menu-btncont topmenu">
+            <p>Mail To<br>
+                <a href="mailto:admissions@sjec.ac.in">admissions@sjec.ac.in</a>
+            </p>
+            <img src="images/mail.jpg" alt="Mail">
+        </div>
+    </div>
 
 
 
-
-
-
-<!-- admission open popup close -->
+    <!-- admission open popup close -->
 
 
 
@@ -1116,10 +1138,10 @@
     <body>
 
         <section class="u-clearfix u-section-2" id="sec-96fa">
-        <strong>
-        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            News & Events</div>
-    </strong>
+            <strong>
+                <div class="header-fullname" style="font-size: 30px;text-align: center;">
+                    News & Events</div>
+            </strong>
             <div class="u-clearfix u-sheet u-sheet-1">
                 <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
                     <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
@@ -1134,7 +1156,7 @@
                                 <img src="images/newsandevents/tishan.jpeg" alt="" class="u-image u-image-default u-image-1" data-image-width="720" data-image-height="1080">
                                 <h2 class="u-text u-text-1">Agniveer Road Race</h2>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-2"> Our proud First year CS student TISHAN A M. participated in Agniveer 3Km road race(madikeri)on
-                                                    7-08-2022. won the ( 2nd place) silver medal. Out of 106 participants</p>
+                                    7-08-2022. won the ( 2nd place) silver medal. Out of 106 participants</p>
                                 <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a>
                             </div>
                         </div>
@@ -1144,13 +1166,13 @@
                                 <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
                                 <h2 class="u-text u-text-3">FAREWELL-2022</h2>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-4">Great is the art of beginning,but
-                                                    greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
-                                                    of 2022 batch was conducted in the college auditorium on 21st July 2022.The function was presided by
-                                                    general secretary of A O L E(R) Dr Renukaprasad K V and Mr
-                                                    .Sadashiva M B ,former district governor ,Lions international was
-                                                    the chief guest of the function,along with the C E O of K V G C E Dr
-                                                    Ujwal U J, Principal Dr Suresha V & Vice-prinipal Dr shreedhar K
-                                                    shared the dais</p>
+                                    greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
+                                    of 2022 batch was conducted in the college auditorium on 21st July 2022.The function was presided by
+                                    general secretary of A O L E(R) Dr Renukaprasad K V and Mr
+                                    .Sadashiva M B ,former district governor ,Lions international was
+                                    the chief guest of the function,along with the C E O of K V G C E Dr
+                                    Ujwal U J, Principal Dr Suresha V & Vice-prinipal Dr shreedhar K
+                                    shared the dais</p>
                                 <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
                             </div>
                         </div>
@@ -1160,10 +1182,10 @@
                                 <img src="images/newsandevents/expo1.jpeg" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
                                 <h2 class="u-text u-text-3">EXPO-2K22</h2>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-4">Here K V G C E is providing platform for students to showcase their
-                                                    talent Presenting "EXPO-2K22" The student project exhibition.
-                                                    The program was presided by CEO of KVGCE Dr Ujwal U J & the program
-                                                    was initiated by Dr Yashodha Ramachandra,Principal KVG AJPUC Sullia,
-                                                    with lighting the lamp.</p>
+                                    talent Presenting "EXPO-2K22" The student project exhibition.
+                                    The program was presided by CEO of KVGCE Dr Ujwal U J & the program
+                                    was initiated by Dr Yashodha Ramachandra,Principal KVG AJPUC Sullia,
+                                    with lighting the lamp.</p>
                                 <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
                             </div>
                         </div>
@@ -1566,7 +1588,7 @@
 
                                     <style>
                                         @media screen and (min-width:767px) {
-                                            .header-fullname{
+                                            .header-fullname {
                                                 font-size: 18px;
                                             }
                                         }
@@ -1910,103 +1932,106 @@
     </main> -->
 
         <!-- few word1 end -->
-     
+
         <br><br>
 
 
-<!-- slide gallery -->
-<style>
-    @charset "utf-8";
+        <!-- slide gallery -->
+        <style>
+            @charset "utf-8";
 
 
-.sliderfk img {
-    width:100%;
-    height:auto;
-}
+            .sliderfk img {
+                width: 100%;
+                height: auto;
+            }
 
 
-.sliderfk .slick-slide {
-    margin:0 10px;
-}
-
-
-
-
-body{
-	background:#eee;
-}
-
-h2,p {
-    text-align:center;
-    padding:20px;
-}
-
-ul{
-	margin:0;
-	padding: 0;
-	list-style: none;
-}
-
-a{
-	color: #333;
-}
-
-a:hover,
-a:active{
-	text-decoration: none;
-}
-</style>
-
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="utf-8">
-
-
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-<!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/reset.css"> -->
-<link rel="stylesheet" type="text/css" href="css/slick.css">
-<!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/css/6-1-8.css"> -->
-
-</head>
-
-
-
-<strong>
-        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            Gallery</div>
-    </strong>
-
-<ul class="sliderfk">
-	<li><img src="images/gallery/first.jpg" alt=""></li>
-	<li><img src="images/gallery/two.jpg" alt=""></li>
-	<li><img src="images/gallery/civil1.jpg" alt=""></li>
-	<li><img src="images/gallery/civil2.jpg" alt=""></li>
-	<li><img src="images/gallery/cs1.jpg" alt=""></li>
-	<li><img src="images/gallery/cs2.jpg" alt=""></li>
-    <li><img src="images/gallery/ec1.jpg" alt=""></li>
-    <li><img src="images/gallery/ec2.jpg" alt=""></li>
-    <li><img src="images/gallery/mech1.jpg" alt=""></li>
-    <li><img src="images/gallery/mech2.jpg" alt=""></li>
-
-<!--/sliderfk--></ul>
-
-
-
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-<script src="js/slick.js"></script>
-<script src="js/slder2.js"></script>
-
-
-<!-- end slide gallery -->
+            .sliderfk .slick-slide {
+                margin: 0 10px;
+            }
 
 
 
 
+            body {
+                background: #eee;
+            }
 
-      
+            h2,
+            p {
+                text-align: center;
+                padding: 20px;
+            }
+
+            ul {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+
+            a {
+                color: #333;
+            }
+
+            a:hover,
+            a:active {
+                text-decoration: none;
+            }
+        </style>
+
+        <!DOCTYPE html>
+        <html lang="ja">
+
+        <head>
+            <meta charset="utf-8">
+
+
+
+            <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+            <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/reset.css"> -->
+            <link rel="stylesheet" type="text/css" href="css/slick.css">
+            <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/css/6-1-8.css"> -->
+
+        </head>
+
+
+
+        <strong>
+            <div class="header-fullname" style="font-size: 30px;text-align: center;">
+                Gallery</div>
+        </strong>
+
+        <ul class="sliderfk">
+            <li><img src="images/gallery/first.jpg" alt=""></li>
+            <li><img src="images/gallery/two.jpg" alt=""></li>
+            <li><img src="images/gallery/civil1.jpg" alt=""></li>
+            <li><img src="images/gallery/civil2.jpg" alt=""></li>
+            <li><img src="images/gallery/cs1.jpg" alt=""></li>
+            <li><img src="images/gallery/cs2.jpg" alt=""></li>
+            <li><img src="images/gallery/ec1.jpg" alt=""></li>
+            <li><img src="images/gallery/ec2.jpg" alt=""></li>
+            <li><img src="images/gallery/mech1.jpg" alt=""></li>
+            <li><img src="images/gallery/mech2.jpg" alt=""></li>
+
+            <!--/sliderfk-->
+        </ul>
+
+
+
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <script src="js/slick.js"></script>
+        <script src="js/slder2.js"></script>
+
+
+        <!-- end slide gallery -->
+
+
+
+
+
+
         <br>
 
 
@@ -2069,10 +2094,10 @@ a:active{
             <?php include 'testi.php'; ?>
             <div class="container">
                 <div class="row">
-                     <strong>
-        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            Testimonials</div>
-    </strong>
+                    <strong>
+                        <div class="header-fullname" style="font-size: 30px;text-align: center;">
+                            Testimonials</div>
+                    </strong>
 
                     <div class="col-md-12 col-lg-4">
                         <div class="pn_testimonial_box mt-4">
@@ -2109,7 +2134,7 @@ a:active{
             </div>
         </section>
 
-          <!-- logo slider begin -->
+        <!-- logo slider begin -->
 
         <style>
             /*Logo carousel*/
@@ -2166,9 +2191,9 @@ a:active{
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <strong>
-        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-           Our Recruiters</div>
-    </strong>
+            <div class="header-fullname" style="font-size: 30px;text-align: center;">
+                Our Recruiters</div>
+        </strong>
         <div id="clients">
             <div class="clients-wrap">
                 <ul id="clients-list" class="clearfix">
