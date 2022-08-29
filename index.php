@@ -614,7 +614,23 @@
     </ul>
 
 
-    <!-- <-- puthiyath-->
+
+
+<!-- admission open popup -->
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-f940885a-ad3b-4772-9c04-408d15d4fc92"></div>
+
+
+
+
+
+
+<!-- admission open popup close -->
+
+
+
+
+    <!--  puthiyath-->
 
     <style>
         * {
