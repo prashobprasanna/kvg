@@ -486,7 +486,7 @@
         #social-sidebar {
             left: 0;
             position: fixed;
-            top: 30%;
+            top: 70%;
             z-index: 989898;
             /* opacity: 0.7; */
         }
@@ -495,9 +495,9 @@
             #social-sidebar {
                 left: 0;
                 position: fixed;
-                top: 35%;
+                top: 55%;
                 z-index: 989898;
-                opacity: 0.7;
+                /* opacity: 0.7; */
             }
         }
 
