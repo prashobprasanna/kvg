@@ -1033,7 +1033,7 @@ section {
 }
 
 .home-facts-bg:before {
-    background: rgba(7, 41, 77, 0.6);
+    background: rgb(247 247 247);;
     content: "";
     height: 100%;
     left: 0;
@@ -1355,7 +1355,7 @@ footer a {
 }
 
 .home-why-sjec-bg:before {
-    background: rgba(7, 41, 77, 0.6);
+    background: rgb(247 247 247);;
     content: "";
     height: 100%;
     left: 0;

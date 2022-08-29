@@ -1261,7 +1261,9 @@
         <section class="home-facts-bg">
             <div class="container">
                 <div class="col-md-12">
-                    <h2 class="subheadWhite head">KVG College of Engineering<span></span></h2>
+                    <strong>
+                        <h2 class="subheadWhite head" style="color: black;">KVG College of Engineering<span></span></h2>
+                    </strong>
                     <style>
                         .data_more_less_inner {
                             overflow: hidden;
