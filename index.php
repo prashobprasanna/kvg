@@ -31,7 +31,7 @@
             </ol>
             <style>
                 .carousel {
-                    margin-top: 71px;
+                    margin-top: 81px;
                 }
 
                 @media(max-width:767px) {

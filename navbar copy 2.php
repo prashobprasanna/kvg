@@ -102,7 +102,7 @@
                         }
                     </style>
 
-                    <ul class="nav navbar-nav" >
+                    <ul class="nav navbar-nav">
                         <li class="menu-el">
                             <a href="index.php">HOME</a>
                         </li>
@@ -462,4 +462,15 @@
                 </div>
             </div>
         </nav>
+        <style>
+            .inner-banner {
+                margin-top: 71px;
+            }
+
+            @media(max-width:767px) {
+                .inner-banner {
+                    margin-top: 0px;
+                }
+            }
+        </style>
     </header>
