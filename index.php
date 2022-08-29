@@ -631,8 +631,8 @@
         <div class="clearfix"></div>
         <!-- Menu Button -->
         <div class="menu-btncont">
-            <p><a href="tel:+919972932972">+91 9845866528</a><br>
-                <a href="tel:+918242868155"></a>
+            <p><a href="tel:+919845866528">+91 9845866528</a><br>
+                <a href="tel:08257231141">08257-231141</a>
             </p>
             <img src="images/call.jpg" alt="Call">
         </div>

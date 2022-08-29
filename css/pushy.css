@@ -66,7 +66,7 @@
 	position: fixed;
 	width: 300px;
 	height: 100%;
-	top: 0;
+	top: 85px;
 	z-index: 109;
 	/* background: url(../images/get-quote-bg.jpg) center center no-repeat; */
 	background-size: cover;
@@ -80,7 +80,7 @@
 }
 
 .pushy:before {
-	background: rgba(0, 0, 0, 0.5);
+	background: rgb(0 0 0 / 73%);
 	content: "";
 	height: 100%;
 	left: 0;
