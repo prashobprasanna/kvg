@@ -73,7 +73,7 @@
             </div> -->
 
         <!-- </div> -->
-        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu" >
+        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu">
 
             <div class="container">
 
@@ -462,4 +462,16 @@
                 </div>
             </div>
         </nav>
+
+        <style>
+            .inner-banner {
+                margin-top: 71px;
+            }
+
+            @media(max-width:767px) {
+                .inner-banner {
+                    margin-top: 0px;
+                }
+            }
+        </style>
     </header>

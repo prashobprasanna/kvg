@@ -314,7 +314,7 @@
 
     <!-- dept sec  -->
     <br><br><br>
-    
+
 
     <!-- <div class="name">
         <strong>
@@ -429,17 +429,17 @@
 
                                 </div>
                             </div> -->
-                            <!--- END COL -->
-                        <!-- </div> -->
-                        <!--- END ROW -->
-                    <!-- </div>
+    <!--- END COL -->
+    <!-- </div> -->
+    <!--- END ROW -->
+    <!-- </div>
                 </section> -->
 
 
-            <!-- </div> -->
+    <!-- </div> -->
 
 
-            <!-- <style>
+    <!-- <style>
                 .responstable {
                     border-radius: 18px;
                 }
@@ -837,550 +837,748 @@
 
     <!-- puthiyath close -->
 
-<br><br>
+    <br><br>
 
-<!-- news -->
+    <!-- news -->
 
-<style class="u-style">.u-section-2 .u-sheet-1 {min-height: 500px}
-.u-section-2 .u-slider-1 {width: 1140px; margin-top: 63px; margin-bottom: 60px; min-height: 375px}
-.u-section-2 .u-carousel-indicators-1 {position: absolute; bottom: 10px}
-.u-section-2 .u-container1-layout-1 {padding: 30px 60px}
-.u-section-2 .u-shape-1 {width: 272px; height: 272px; background-image: none; margin: 0 auto 0 0}
-.u-section-2 .u-image-1 {width: 276px; height: 276px; margin: -236px auto 0 38px}
-.u-section-2 .u-text-1 {font-size: 3rem; margin: -276px 0 0 375px}
-.u-section-2 .u-text-2 {margin: 20px 0 0 375px}
-.u-section-2 .u-btn-1 {margin: 20px auto 0 284px; padding: 10px 76px 10px 75px}
-.u-section-2 .u-container1-layout-2 {padding: 30px 60px}
-.u-section-2 .u-shape-2 {width: 272px; height: 272px; background-image: none; margin: 0 auto 0 0}
-.u-section-2 .u-image-2 {width: 276px; height: 276px; margin: -236px auto 0 38px}
-.u-section-2 .u-text-3 {font-size: 3rem; margin: -276px 0 0 377px}
-.u-section-2 .u-text-4 {margin: 20px 0 0 377px}
-.u-section-2 .u-btn-2 {margin: 20px auto 0 284px; padding: 10px 76px 10px 75px}
-.u-section-2 .u-carousel-control-1 {width: 50px; height: 50px}
-.u-section-2 .u-carousel-control-2 {width: 50px; height: 50px; left: auto; position: absolute; right: 0} 
-@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 430px}
-.u-section-2 .u-slider-1 {width: 940px}
-.u-section-2 .u-text-1 {width: auto; margin-left: 350px}
-.u-section-2 .u-text-2 {width: auto; margin-left: 350px}
-.u-section-2 .u-btn-1 {margin-left: 261px}
-.u-section-2 .u-text-3 {width: auto; margin-left: 350px}
-.u-section-2 .u-text-4 {width: auto; margin-left: 350px}
-.u-section-2 .u-btn-2 {margin-left: 272px} }
-@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 353px}
-.u-section-2 .u-slider-1 {width: 720px}
-.u-section-2 .u-container1-layout-1 {padding-left: 55px}
-.u-section-2 .u-text-1 {margin-left: 334px; font-size: 2.25rem}
-.u-section-2 .u-text-2 {margin-left: 334px}
-.u-section-2 .u-btn-1 {margin-left: 101px}
-.u-section-2 .u-text-3 {margin-left: 334px; font-size: 2.25rem}
-.u-section-2 .u-text-4 {margin-left: 334px}
-.u-section-2 .u-btn-2 {margin-left: 112px} }
-@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 760px}
-.u-section-2 .u-slider-1 {min-height: 635px; height: auto; width: auto}
-.u-section-2 .u-container1-layout-1 {padding-left: 10px; padding-right: 10px}
-.u-section-2 .u-text-1 {margin-top: 36px; margin-left: 50px}
-.u-section-2 .u-text-2 {margin-left: 50px}
-.u-section-2 .u-btn-1 {margin-left: 0}
-.u-section-2 .u-container1-layout-2 {padding-left: 10px; padding-right: 10px}
-.u-section-2 .u-text-3 {margin-top: 20px; margin-left: 50px}
-.u-section-2 .u-text-4 {margin-left: 50px}
-.u-section-2 .u-btn-2 {margin-left: 0} }
-@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 578px}
-.u-section-2 .u-text-1 {margin-left: 0; font-size: 1.5rem}
-.u-section-2 .u-text-2 {margin-left: 0}
-.u-section-2 .u-text-3 {margin-left: 0; font-size: 1.5rem}
-.u-section-2 .u-text-4 {margin-left: 0} }</style>
+    <style class="u-style">
+        .u-section-2 .u-sheet-1 {
+            min-height: 500px
+        }
 
-    
+        .u-section-2 .u-slider-1 {
+            width: 1140px;
+            margin-top: 63px;
+            margin-bottom: 60px;
+            min-height: 375px
+        }
+
+        .u-section-2 .u-carousel-indicators-1 {
+            position: absolute;
+            bottom: 10px
+        }
+
+        .u-section-2 .u-container1-layout-1 {
+            padding: 30px 60px
+        }
+
+        .u-section-2 .u-shape-1 {
+            width: 272px;
+            height: 272px;
+            background-image: none;
+            margin: 0 auto 0 0
+        }
+
+        .u-section-2 .u-image-1 {
+            width: 276px;
+            height: 276px;
+            margin: -236px auto 0 38px
+        }
+
+        .u-section-2 .u-text-1 {
+            font-size: 3rem;
+            margin: -276px 0 0 375px
+        }
+
+        .u-section-2 .u-text-2 {
+            margin: 20px 0 0 375px
+        }
+
+        .u-section-2 .u-btn-1 {
+            margin: 20px auto 0 284px;
+            padding: 10px 76px 10px 75px
+        }
+
+        .u-section-2 .u-container1-layout-2 {
+            padding: 30px 60px
+        }
+
+        .u-section-2 .u-shape-2 {
+            width: 272px;
+            height: 272px;
+            background-image: none;
+            margin: 0 auto 0 0
+        }
+
+        .u-section-2 .u-image-2 {
+            width: 276px;
+            height: 276px;
+            margin: -236px auto 0 38px
+        }
+
+        .u-section-2 .u-text-3 {
+            font-size: 3rem;
+            margin: -276px 0 0 377px
+        }
+
+        .u-section-2 .u-text-4 {
+            margin: 20px 0 0 377px
+        }
+
+        .u-section-2 .u-btn-2 {
+            margin: 20px auto 0 284px;
+            padding: 10px 76px 10px 75px
+        }
+
+        .u-section-2 .u-carousel-control-1 {
+            width: 50px;
+            height: 50px
+        }
+
+        .u-section-2 .u-carousel-control-2 {
+            width: 50px;
+            height: 50px;
+            left: auto;
+            position: absolute;
+            right: 0
+        }
+
+        @media (max-width: 1199px) {
+            .u-section-2 .u-sheet-1 {
+                min-height: 430px
+            }
+
+            .u-section-2 .u-slider-1 {
+                width: 940px
+            }
+
+            .u-section-2 .u-text-1 {
+                width: auto;
+                margin-left: 350px
+            }
+
+            .u-section-2 .u-text-2 {
+                width: auto;
+                margin-left: 350px
+            }
+
+            .u-section-2 .u-btn-1 {
+                margin-left: 261px
+            }
+
+            .u-section-2 .u-text-3 {
+                width: auto;
+                margin-left: 350px
+            }
+
+            .u-section-2 .u-text-4 {
+                width: auto;
+                margin-left: 350px
+            }
+
+            .u-section-2 .u-btn-2 {
+                margin-left: 272px
+            }
+        }
+
+        @media (max-width: 991px) {
+            .u-section-2 .u-sheet-1 {
+                min-height: 353px
+            }
+
+            .u-section-2 .u-slider-1 {
+                width: 720px
+            }
+
+            .u-section-2 .u-container1-layout-1 {
+                padding-left: 55px
+            }
+
+            .u-section-2 .u-text-1 {
+                margin-left: 334px;
+                font-size: 2.25rem
+            }
+
+            .u-section-2 .u-text-2 {
+                margin-left: 334px
+            }
+
+            .u-section-2 .u-btn-1 {
+                margin-left: 101px
+            }
+
+            .u-section-2 .u-text-3 {
+                margin-left: 334px;
+                font-size: 2.25rem
+            }
+
+            .u-section-2 .u-text-4 {
+                margin-left: 334px
+            }
+
+            .u-section-2 .u-btn-2 {
+                margin-left: 112px
+            }
+        }
+
+        @media (max-width: 767px) {
+            .u-section-2 .u-sheet-1 {
+                min-height: 760px
+            }
+
+            .u-section-2 .u-slider-1 {
+                min-height: 635px;
+                height: auto;
+                width: auto
+            }
+
+            .u-section-2 .u-container1-layout-1 {
+                padding-left: 10px;
+                padding-right: 10px
+            }
+
+            .u-section-2 .u-text-1 {
+                margin-top: 36px;
+                margin-left: 50px
+            }
+
+            .u-section-2 .u-text-2 {
+                margin-left: 50px
+            }
+
+            .u-section-2 .u-btn-1 {
+                margin-left: 0
+            }
+
+            .u-section-2 .u-container1-layout-2 {
+                padding-left: 10px;
+                padding-right: 10px
+            }
+
+            .u-section-2 .u-text-3 {
+                margin-top: 20px;
+                margin-left: 50px
+            }
+
+            .u-section-2 .u-text-4 {
+                margin-left: 50px
+            }
+
+            .u-section-2 .u-btn-2 {
+                margin-left: 0
+            }
+        }
+
+        @media (max-width: 575px) {
+            .u-section-2 .u-sheet-1 {
+                min-height: 578px
+            }
+
+            .u-section-2 .u-text-1 {
+                margin-left: 0;
+                font-size: 1.5rem
+            }
+
+            .u-section-2 .u-text-2 {
+                margin-left: 0
+            }
+
+            .u-section-2 .u-text-3 {
+                margin-left: 0;
+                font-size: 1.5rem
+            }
+
+            .u-section-2 .u-text-4 {
+                margin-left: 0
+            }
+        }
+    </style>
+
+
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     <link rel="stylesheet" href="css/nicepage.css" media="screen">
-   
-  
-</head>
-  <body >
-    
-    <section class="u-clearfix u-section-2" id="sec-96fa">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
-          <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
-            <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="0"></li>
-            <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="1"></li>
-            <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="2"></li>
-          </ol>
-          <div class="u-carousel-inner" role="listbox">
-            <div class="active u-active u-carousel-item u-container1-style u-slide">
-              <div class="u-container1-layout u-valign-top u-container1-layout-1">
-                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
-                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/2289b709ea7f564db3a0f67e/Untitled-5.jpg?version=" alt="" class="u-image u-image-default u-image-1" data-image-width="720" data-image-height="1080">
-                <h2 class="u-text u-text-1">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
-                <p class="u-text u-text-palette-5-dark-1 u-text-2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a>
-              </div>
+
+
+    </head>
+
+    <body>
+
+        <section class="u-clearfix u-section-2" id="sec-96fa">
+            <div class="u-clearfix u-sheet u-sheet-1">
+                <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
+                    <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
+                        <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="0"></li>
+                        <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="1"></li>
+                        <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="2"></li>
+                    </ol>
+                    <div class="u-carousel-inner" role="listbox">
+                        <div class="active u-active u-carousel-item u-container1-style u-slide">
+                            <div class="u-container1-layout u-valign-top u-container1-layout-1">
+                                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
+                                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/2289b709ea7f564db3a0f67e/Untitled-5.jpg?version=" alt="" class="u-image u-image-default u-image-1" data-image-width="720" data-image-height="1080">
+                                <h2 class="u-text u-text-1">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a>
+                            </div>
+                        </div>
+                        <div class="u-carousel-item u-container1-style u-slide">
+                            <div class="u-container1-layout u-valign-top u-container1-layout-2">
+                                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
+                                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
+                                <h2 class="u-text u-text-3">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
+                            </div>
+                        </div>
+                        <div class="u-carousel-item u-container1-style u-slide">
+                            <div class="u-container1-layout u-valign-top u-container1-layout-2">
+                                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
+                                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
+                                <h2 class="u-text u-text-3">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-spacing-5 u-text-palette-1-base u-carousel-control-1" href="#carousel-cbd7" role="button" data-u-slide="prev">
+                        <span aria-hidden="true">
+                            <svg viewBox="0 0 477.175 477.175">
+                                <path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+                    c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path>
+                            </svg>
+                        </span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-spacing-5 u-text-palette-1-base u-carousel-control-2" href="#carousel-cbd7" role="button" data-u-slide="next">
+                        <span aria-hidden="true">
+                            <svg viewBox="0 0 477.175 477.175">
+                                <path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+                    c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path>
+                            </svg>
+                        </span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
             </div>
-            <div class="u-carousel-item u-container1-style u-slide">
-              <div class="u-container1-layout u-valign-top u-container1-layout-2">
-                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
-                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
-                <h2 class="u-text u-text-3">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
-                <p class="u-text u-text-palette-5-dark-1 u-text-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
-              </div>
-            </div>
-            <div class="u-carousel-item u-container1-style u-slide">
-              <div class="u-container1-layout u-valign-top u-container1-layout-2">
-                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
-                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
-                <h2 class="u-text u-text-3">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
-                <p class="u-text u-text-palette-5-dark-1 u-text-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
-              </div>
-            </div>
-          </div>
-          
-          <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-spacing-5 u-text-palette-1-base u-carousel-control-1" href="#carousel-cbd7" role="button" data-u-slide="prev">
-            <span aria-hidden="true">
-              <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
-                    c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path></svg>
-            </span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-spacing-5 u-text-palette-1-base u-carousel-control-2" href="#carousel-cbd7" role="button" data-u-slide="next">
-            <span aria-hidden="true">
-              <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
-                    c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path></svg>
-            </span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-      </div>
-    </section>
-    
+        </section>
 
 
 
 
 
 
-<!-- end news -->
 
-    <!-- fews word  -->
-    <section class="home-facts-bg">
-        <div class="container">
-            <div class="col-md-12">
-                <h2 class="subheadWhite head">KVG College of Engineering<span></span></h2>
-                <style>
-                    .data_more_less_inner {
-                        overflow: hidden;
-                        margin-bottom: 20px;
-                        position: relative;
-                    }
+        <!-- end news -->
 
-                    .action_less {
-                        display: none;
-                    }
-
-                    .less_active .action_less {
-                        display: inline-block;
-                    }
-
-                    .less_active .action_more {
-                        display: none;
-                    }
-
-                    .data_more_less:not(.less_active):not(.action_disabled) .data_more_less_inner:after {
-                        content: '';
-                        display: block;
-                        position: absolute;
-                        bottom: 0;
-                        left: 0;
-                        width: 100%;
-                        background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                        background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                        background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff',
-                                GradientType=0);
-                        height: 80px;
-                    }
-
-                    .data_more_less.action_disabled .more_less_action {
-                        display: none;
-                    }
-
-                    h1 {
-                        margin-bottom: 0px;
-                    }
-
-                    .btn {
-                        color: rgb(0, 0, 0);
-                        text-decoration: none;
-                        border: 1px solid rgb(0, 0, 0);
-                        border-radius: 18px;
-                        padding: 7px 15px;
-                    }
-
-                    .btn:hover {
-                        background: rgb(92, 92, 92);
-                        color: rgb(255, 255, 255);
-                    }
-
-
-
-
-                    /* stat */
-
-
-
-                    @import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;300;700&display=swap');
-
-                    ul {
-                        list-style: none;
-                    }
-
-                    body {
-                        min-height: 100vh;
-                        background-color: #f7f8fc;
-                    }
-
-                    .section {
-                        min-height: 50vh;
-                        margin: 0 30px;
-                    }
-
-                    .container1 {
-                        padding-left: 25px;
-                        padding-right: 25px;
-                        display: flex;
-                        align-items: center;
-                        justify-content: center;
-                        height: fit-content;
-                        font-family: 'Anek Bangla', sans-serif;
-                        font-weight: bold;
-                    }
-
-                    .card {
-                        /* background-color: rgb(255, 187, 30); */
-                        background-image: linear-gradient(to right bottom, rgb(0, 10, 114), #4c449d);
-                        padding: 3rem 3.5rem;
-                        border-radius: 15px;
-                        display: flex;
-                        flex-wrap: wrap;
-                        position: relative;
-                        max-width: 500px;
-                        border: 3px solid black;
-                        border-radius: 8px;
-                        /* z-index: 0; */
-                    }
-
-                    .card::before {
-                        content: '';
-                        position: absolute;
-                        top: -15px;
-                        left: 1px;
-                        width: 101%;
-                        height: 110%;
-                        background-image: linear-gradient(to right bottom, #4c449d, rgb(0, 10, 114));
-                        z-index: -1;
-                        border-radius: 15px;
-                        transform: rotate(-8deg);
-                        box-shadow: 0 0 45px 5px rgba(0, 0, 0, .2);
-                        border: 3px solid black;
-                        border-radius: 8px;
-                    }
-
-                    .card li {
-                        width: 50%;
-                        margin: 15px 0;
-                    }
-
-                    .card li p {
-                        display: flex;
-                    }
-
-                    .card li h3 {
-                        display: inline-block;
-                        font-size: 2rem;
-                        color: rgb(255, 255, 255);
-                        vertical-align: top;
-                        margin-right: 5px;
-                        line-height: 1.2;
-                    }
-
-                    .card li .fa {
-                        font-size: 18px;
-                    }
-
-                    .card li span {
-                        color: #ffffff;
-                        font-weight: bold;
-                        font-size: 14px;
-                    }
-
-
-                    .clr-up {
-                        color: green;
-                    }
-
-                    .clr-down {
-                        color: red;
-                    }
-
-                    @media screen and (max-width: 500px) {
-                        .card::before {
-                            top: -10px;
-                            left: -2px;
+        <!-- fews word  -->
+        <section class="home-facts-bg">
+            <div class="container">
+                <div class="col-md-12">
+                    <h2 class="subheadWhite head">KVG College of Engineering<span></span></h2>
+                    <style>
+                        .data_more_less_inner {
+                            overflow: hidden;
+                            margin-bottom: 20px;
+                            position: relative;
                         }
 
-                        .card li {
-                            width: 100%;
-                        }
-
-                        .card li:not(:first-of-type) {
-                            margin-top: 15px;
-                        }
-                    }
-
-
-
-
-                    /* HOD Card */
-
-                    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;700&display=swap');
-
-                    * {
-                        margin: 0;
-                        padding: 0;
-                        box-sizing: border-box;
-                    }
-
-                    < !-- body {
-                        font-family: 'Poppins', sans-serif;
-                        align-items: center;
-                        justify-content: center;
-                        background-color: #ADE5F9;
-                        min-height: 100vh;
-                    }
-
-                    -->img {
-                        max-width: 100%;
-                        display: block;
-                    }
-
-                    ul {
-                        list-style: none;
-                    }
-
-                    /* Utilities */
-                    .card1::after,
-                    .card1 img {
-                        border-radius: 2%;
-                    }
-
-                    .card1,
-                    .stats1 {
-                        display: flex;
-                    }
-
-                    .card1 {
-                        padding: 2.5rem 2rem;
-                        border-radius: 10px;
-                        background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
-                        max-width: 90%;
-                        box-shadow: 0 0 30px rgba(0, 0, 0, .15);
-                        margin: 1rem;
-                        position: relative;
-                        transform-style: preserve-3d;
-                        overflow: hidden;
-                        justify-content: center;
-                    }
-
-                    .card1::before,
-                    .card1::after {
-                        content: '';
-                        position: absolute;
-                        z-index: -1;
-                    }
-
-                    .card1::before {
-                        width: 100%;
-                        height: 100%;
-                        border: 1px solid #FFF;
-                        border-radius: 10px;
-                        top: -.7rem;
-                        left: -.7rem;
-                    }
-
-                    .card1::after {
-                        height: 15rem;
-                        width: 15rem;
-                        background-color: #4172f5aa;
-                        top: -8rem;
-                        right: -8rem;
-                        box-shadow: 2rem 6rem 0 -3rem #FFF
-                    }
-
-                    .card1 img {
-                        float: left;
-                        width: 150rem;
-                        min-width: 80px;
-                        box-shadow: 0 0 0 5px #FFF;
-                    }
-
-                    .infos {
-                        margin-left: 1.5rem;
-                    }
-
-                    .name {
-                        margin-bottom: 1rem;
-                    }
-
-                    .name h2 {
-                        font-size: 1.3rem;
-                    }
-
-                    .name h4 {
-                        font-size: .8rem;
-                        color: #333
-                    }
-
-                    .text {
-                        font-size: .9rem;
-                        margin-bottom: 1rem;
-                    }
-
-                    .stats1 {
-                        margin-bottom: 1rem;
-                    }
-
-                    .stats1 li {
-                        min-width: 5rem;
-                    }
-
-                    .stats1 li h3 {
-                        font-size: .99rem;
-                    }
-
-                    .stats1 li h4 {
-                        font-size: .75rem;
-                    }
-
-                    .links1 button {
-                        font-family: 'Poppins', sans-serif;
-                        min-width: 120px;
-                        padding: .5rem;
-                        border: 1px solid #222;
-                        border-radius: 5px;
-                        font-weight: bold;
-                        cursor: pointer;
-                        transition: all .25s linear;
-                    }
-
-                    .links1 .follow,
-                    .links1 .view:hover {
-                        background-color: #222;
-                        color: #FFF;
-                    }
-
-                    .links1 .view,
-                    .links1 .follow:hover {
-                        background-color: transparent;
-                        color: #222;
-                    }
-
-                    @media screen and (max-width: 450px) {
-                        .card1 {
-                            display: block;
-                        }
-
-                        .infos {
-                            margin-left: 0;
-                            margin-top: 1.5rem;
-                        }
-
-                        .links1 button {
-                            min-width: 100px;
-                        }
-                    }
-                </style>
-                <style>
-                    /* #myBtn1 {display: none;} */
-                    #myBtn1 {
-                        display: none;
-                    }
-
-                    @media (max-width:767px) {
-
-                        /* #nobq{display: none;} */
-                        #more1 {
+                        .action_less {
                             display: none;
                         }
 
-                        #myBtn1 {
-                            display: inline;
+                        .less_active .action_less {
+                            display: inline-block;
                         }
-                    }
-                </style>
-                <center>
-                    <div class="card1">
-                        <div class="img">
-                            <img src="images/KVGCE-Logo.png" style="margin-bottom: 50px">
-                        </div>
-                        <div class="infos">
-                            <div class="name">
 
-                                <strong>
-                                    <div class="header-fullname" style="font-size: 20px;">A Few Words
-                                        About the KVG college of engineering sullia</div>
-                                </strong>
+                        .less_active .action_more {
+                            display: none;
+                        }
 
+                        .data_more_less:not(.less_active):not(.action_disabled) .data_more_less_inner:after {
+                            content: '';
+                            display: block;
+                            position: absolute;
+                            bottom: 0;
+                            left: 0;
+                            width: 100%;
+                            background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+                            background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+                            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+                            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff',
+                                    GradientType=0);
+                            height: 80px;
+                        }
+
+                        .data_more_less.action_disabled .more_less_action {
+                            display: none;
+                        }
+
+                        h1 {
+                            margin-bottom: 0px;
+                        }
+
+                        .btn {
+                            color: rgb(0, 0, 0);
+                            text-decoration: none;
+                            border: 1px solid rgb(0, 0, 0);
+                            border-radius: 18px;
+                            padding: 7px 15px;
+                        }
+
+                        .btn:hover {
+                            background: rgb(92, 92, 92);
+                            color: rgb(255, 255, 255);
+                        }
+
+
+
+
+                        /* stat */
+
+
+
+                        @import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;300;700&display=swap');
+
+                        ul {
+                            list-style: none;
+                        }
+
+                        body {
+                            min-height: 100vh;
+                            background-color: #f7f8fc;
+                        }
+
+                        .section {
+                            min-height: 50vh;
+                            margin: 0 30px;
+                        }
+
+                        .container1 {
+                            padding-left: 25px;
+                            padding-right: 25px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            height: fit-content;
+                            font-family: 'Anek Bangla', sans-serif;
+                            font-weight: bold;
+                        }
+
+                        .card {
+                            /* background-color: rgb(255, 187, 30); */
+                            background-image: linear-gradient(to right bottom, rgb(0, 10, 114), #4c449d);
+                            padding: 3rem 3.5rem;
+                            border-radius: 15px;
+                            display: flex;
+                            flex-wrap: wrap;
+                            position: relative;
+                            max-width: 500px;
+                            border: 3px solid black;
+                            border-radius: 8px;
+                            /* z-index: 0; */
+                        }
+
+                        .card::before {
+                            content: '';
+                            position: absolute;
+                            top: -15px;
+                            left: 1px;
+                            width: 101%;
+                            height: 110%;
+                            background-image: linear-gradient(to right bottom, #4c449d, rgb(0, 10, 114));
+                            z-index: -1;
+                            border-radius: 15px;
+                            transform: rotate(-8deg);
+                            box-shadow: 0 0 45px 5px rgba(0, 0, 0, .2);
+                            border: 3px solid black;
+                            border-radius: 8px;
+                        }
+
+                        .card li {
+                            width: 50%;
+                            margin: 15px 0;
+                        }
+
+                        .card li p {
+                            display: flex;
+                        }
+
+                        .card li h3 {
+                            display: inline-block;
+                            font-size: 2rem;
+                            color: rgb(255, 255, 255);
+                            vertical-align: top;
+                            margin-right: 5px;
+                            line-height: 1.2;
+                        }
+
+                        .card li .fa {
+                            font-size: 18px;
+                        }
+
+                        .card li span {
+                            color: #ffffff;
+                            font-weight: bold;
+                            font-size: 14px;
+                        }
+
+
+                        .clr-up {
+                            color: green;
+                        }
+
+                        .clr-down {
+                            color: red;
+                        }
+
+                        @media screen and (max-width: 500px) {
+                            .card::before {
+                                top: -10px;
+                                left: -2px;
+                            }
+
+                            .card li {
+                                width: 100%;
+                            }
+
+                            .card li:not(:first-of-type) {
+                                margin-top: 15px;
+                            }
+                        }
+
+
+
+
+                        /* HOD Card */
+
+                        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;700&display=swap');
+
+                        * {
+                            margin: 0;
+                            padding: 0;
+                            box-sizing: border-box;
+                        }
+
+                        < !-- body {
+                            font-family: 'Poppins', sans-serif;
+                            align-items: center;
+                            justify-content: center;
+                            background-color: #ADE5F9;
+                            min-height: 100vh;
+                        }
+
+                        -->img {
+                            max-width: 100%;
+                            display: block;
+                        }
+
+                        ul {
+                            list-style: none;
+                        }
+
+                        /* Utilities */
+                        .card1::after,
+                        .card1 img {
+                            border-radius: 2%;
+                        }
+
+                        .card1,
+                        .stats1 {
+                            display: flex;
+                        }
+
+                        .card1 {
+                            padding: 2.5rem 2rem;
+                            border-radius: 10px;
+                            background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
+                            max-width: 90%;
+                            box-shadow: 0 0 30px rgba(0, 0, 0, .15);
+                            margin: 1rem;
+                            position: relative;
+                            transform-style: preserve-3d;
+                            overflow: hidden;
+                            justify-content: center;
+                        }
+
+                        .card1::before,
+                        .card1::after {
+                            content: '';
+                            position: absolute;
+                            z-index: -1;
+                        }
+
+                        .card1::before {
+                            width: 100%;
+                            height: 100%;
+                            border: 1px solid #FFF;
+                            border-radius: 10px;
+                            top: -.7rem;
+                            left: -.7rem;
+                        }
+
+                        .card1::after {
+                            height: 15rem;
+                            width: 15rem;
+                            background-color: #4172f5aa;
+                            top: -8rem;
+                            right: -8rem;
+                            box-shadow: 2rem 6rem 0 -3rem #FFF
+                        }
+
+                        .card1 img {
+                            float: left;
+                            width: 150rem;
+                            min-width: 80px;
+                            box-shadow: 0 0 0 5px #FFF;
+                        }
+
+                        .infos {
+                            margin-left: 1.5rem;
+                        }
+
+                        .name {
+                            margin-bottom: 1rem;
+                        }
+
+                        .name h2 {
+                            font-size: 1.3rem;
+                        }
+
+                        .name h4 {
+                            font-size: .8rem;
+                            color: #333
+                        }
+
+                        .text {
+                            font-size: .9rem;
+                            margin-bottom: 1rem;
+                        }
+
+                        .stats1 {
+                            margin-bottom: 1rem;
+                        }
+
+                        .stats1 li {
+                            min-width: 5rem;
+                        }
+
+                        .stats1 li h3 {
+                            font-size: .99rem;
+                        }
+
+                        .stats1 li h4 {
+                            font-size: .75rem;
+                        }
+
+                        .links1 button {
+                            font-family: 'Poppins', sans-serif;
+                            min-width: 120px;
+                            padding: .5rem;
+                            border: 1px solid #222;
+                            border-radius: 5px;
+                            font-weight: bold;
+                            cursor: pointer;
+                            transition: all .25s linear;
+                        }
+
+                        .links1 .follow,
+                        .links1 .view:hover {
+                            background-color: #222;
+                            color: #FFF;
+                        }
+
+                        .links1 .view,
+                        .links1 .follow:hover {
+                            background-color: transparent;
+                            color: #222;
+                        }
+
+                        @media screen and (max-width: 450px) {
+                            .card1 {
+                                display: block;
+                            }
+
+                            .infos {
+                                margin-left: 0;
+                                margin-top: 1.5rem;
+                            }
+
+                            .links1 button {
+                                min-width: 100px;
+                            }
+                        }
+                    </style>
+                    <style>
+                        /* #myBtn1 {display: none;} */
+                        #myBtn1 {
+                            display: none;
+                        }
+
+                        @media (max-width:767px) {
+
+                            /* #nobq{display: none;} */
+                            #more1 {
+                                display: none;
+                            }
+
+                            #myBtn1 {
+                                display: inline;
+                            }
+                        }
+                    </style>
+                    <center>
+                        <div class="card1">
+                            <div class="img">
+                                <img src="images/KVGCE-Logo.png" style="margin-bottom: 50px">
                             </div>
+                            <div class="infos">
+                                <div class="name">
 
-                            <ul class="stats1">
-                                <li>
-                                    <blockquote id="nobq">
-                                        <p style="text-align: justify;"><span id="dots1"></span><span id="more1"> "KVG
-                                                College of Engineering is one of the most reputed engineering colleges
-                                                in Karnataka, India. The engineering college, started in 1986, was one
-                                                of the first private sector initiatives in technical education in
-                                                Dakshina Kannada District.
-                                                Popularly known as KVGCE, it is located in Kurunjibhag, Sullia, Dakshina
-                                                Kannada. K.V.G. College of Engineering sponsored by Academy of Liberal
-                                                Education (R) Sullia D.K. and is one of the largest mega educational
-                                                complexes in India."</span></p>
-                                        <button onclick="myreadmoreFunction()" id="myBtn1">Read more...</button>
-                </center>
-                </blockquote>
-                <center>
+                                    <strong>
+                                        <div class="header-fullname" style="font-size: 20px;">A Few Words
+                                            About the KVG college of engineering sullia</div>
+                                    </strong>
+
+                                </div>
+
+                                <ul class="stats1">
+                                    <li>
+                                        <blockquote id="nobq">
+                                            <p style="text-align: justify;"><span id="dots1"></span><span id="more1"> "KVG
+                                                    College of Engineering is one of the most reputed engineering colleges
+                                                    in Karnataka, India. The engineering college, started in 1986, was one
+                                                    of the first private sector initiatives in technical education in
+                                                    Dakshina Kannada District.
+                                                    Popularly known as KVGCE, it is located in Kurunjibhag, Sullia, Dakshina
+                                                    Kannada. K.V.G. College of Engineering sponsored by Academy of Liberal
+                                                    Education (R) Sullia D.K. and is one of the largest mega educational
+                                                    complexes in India."</span></p>
+                                            <button onclick="myreadmoreFunction()" id="myBtn1">Read more...</button>
+                    </center>
+                    </blockquote>
+                    <center>
 
 
-                    </li>
-                    </ul>
+                        </li>
+                        </ul>
 
+
+                </div>
+            </div>
+            </div>
+            </center>
 
             </div>
-        </div>
-        </div>
-        </center>
+            </div>
+            <script>
+                function myreadmoreFunction() {
+                    var dots = document.getElementById("dots1");
+                    var moreText = document.getElementById("more1");
+                    var btnText = document.getElementById("myBtn1");
 
-        </div>
-        </div>
-        <script>
-            function myreadmoreFunction() {
-                var dots = document.getElementById("dots1");
-                var moreText = document.getElementById("more1");
-                var btnText = document.getElementById("myBtn1");
-
-                if (dots.style.display === "none") {
-                    dots.style.display = "inline";
-                    btnText.innerHTML = "Read more";
-                    moreText.style.display = "none";
-                } else {
-                    dots.style.display = "none";
-                    btnText.innerHTML = "Read less";
-                    moreText.style.display = "inline";
+                    if (dots.style.display === "none") {
+                        dots.style.display = "inline";
+                        btnText.innerHTML = "Read more";
+                        moreText.style.display = "none";
+                    } else {
+                        dots.style.display = "none";
+                        btnText.innerHTML = "Read less";
+                        moreText.style.display = "inline";
+                    }
                 }
-            }
-        </script>
-    </section>
+            </script>
+        </section>
 
 
 
@@ -1389,252 +1587,252 @@
 
 
 
-    <!-- few word1 -->
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
+        <!-- few word1 -->
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
 
-        body {
-            font-family: 'Manrope', sans-serif;
-            font-size: 13px;
-            width: 100%;
-            /* height: 100vh; */
-            padding: 0px;
-            margin: 0px;
-            /* display: flex; */
-            flex-direction: row;
-            align-items: center;
-            justify-content: center;
-            background: hsl(210, 46%, 95%);
-            background-color: whitesmoke;
-        }
-
-        .fw-5 {
-            font-weight: 500;
-        }
-
-        .fw-7 {
-            font-weight: 700;
-        }
-
-        main {
-            width: 800px;
-            box-sizing: border-box;
-            border-radius: 8px;
-            background: white;
-            box-shadow: 0px 0px 14px #80808047;
-            margin-left: 23%;
-            margin-top: 2%;
-            margin-bottom: 2%;
-        }
-
-        .card7 {
-            display: flex;
-            flex-direction: row;
-            width: 100%;
-        }
-
-        .card7 .card7-left {
-            width: 40%;
-        }
-
-        .card7 .card7-left .card7-img {
-            width: 100%;
-            height: 310px;
-            position: relative;
-        }
-
-        .card7 .card7-left .card7-img::before {
-            content: "";
-            background: url(https://rvs-article-preview-component.netlify.app/images/drawers.jpg);
-            width: 100%;
-            height: 100%;
-            background-repeat: no-repeat;
-            background-size: cover;
-            display: block;
-            border-radius: 8px 0px 0px 8px;
-        }
-
-        .card7 .card7-left .card7-img img {
-            width: 100%;
-        }
-
-        .card7 .card7-right {
-            width: 60%;
-            display: flex;
-            flex-direction: column;
-            padding: 40px;
-            box-sizing: border-box;
-        }
-
-        .card7 .card7-right .card7-title {
-            font-size: 20px;
-            color: hsl(214, 17%, 51%);
-        }
-
-        .card7 .card7-right .card7-text {
-            font-size: 14px;
-            color: hsl(212, 23%, 69%);
-            margin-top: 20px;
-        }
-
-        .card7 .card7-right .card7-right-body {
-            display: flex;
-            margin-top: 26px;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-1 {
-            flex-grow: 1;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-1 img {
-            width: 45px;
-            border-radius: 50%;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-2 {
-            flex-grow: 7;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            row-gap: 3px;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-2 .card7-rb-2-title {
-            color: hsl(214, 17%, 51%);
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-2 .card7-rb-2-text {
-            color: hsl(212, 23%, 69%);
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-3 {
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner {
-            background: url(https://rvs-article-preview-component.netlify.app/images/icon-share.svg) hsl(210, 46%, 95%);
-            width: 35px;
-            height: 35px;
-            background-repeat: no-repeat;
-            background-size: 50%;
-            background-position: center;
-            border-radius: 50%;
-            cursor: pointer;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner:hover {
-            background: url(https://rvs-article-preview-component.netlify.app/images/icon-share-white.svg) hsl(217, 19%, 35%);
-            background-repeat: no-repeat;
-            background-size: 50%;
-            background-position: center;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before {
-            position: absolute;
-            width: 275px;
-            height: 55px;
-            background: hsl(217, 19%, 35%);
-            border-radius: 10px;
-            display: flex;
-            flex-direction: row;
-            color: white;
-            box-sizing: border-box;
-            align-items: center;
-            top: -80px;
-            left: -110px;
-            opacity: 0;
-            justify-content: center;
-            padding: 0px 20px;
-            z-index: 2;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before::after {
-            content: "";
-            position: absolute;
-            top: 40px;
-            left: 50%;
-            width: 40px;
-            height: 40px;
-            background: hsl(217, 19%, 35%);
-            transform: translate(-50%, -50%) rotate(45deg);
-            z-index: -1;
-        }
-
-        .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner:hover+.card7-rb-3-inner-before {
-            opacity: 1;
-        }
-
-        .before-1 {
-            flex-grow: 2;
-            letter-spacing: 7px;
-            color: hsl(212, 23%, 69%);
-            display: flex;
-            justify-content: center;
-        }
-
-        .before-2 {
-            flex-grow: 1;
-        }
-
-        .before-3 {
-            flex-grow: 1;
-        }
-
-        .before-4 {
-            flex-grow: 1;
-        }
-
-        @media screen and (max-width: 850px) {
             body {
-                height: 100%;
-                /* margin: 70px auto; */
+                font-family: 'Manrope', sans-serif;
+                font-size: 13px;
+                width: 100%;
+                /* height: 100vh; */
+                padding: 0px;
+                margin: 0px;
+                /* display: flex; */
+                flex-direction: row;
+                align-items: center;
+                justify-content: center;
+                background: hsl(210, 46%, 95%);
+                background-color: whitesmoke;
+            }
+
+            .fw-5 {
+                font-weight: 500;
+            }
+
+            .fw-7 {
+                font-weight: 700;
             }
 
             main {
-                width: 95%;
-                margin-top: 5%;
-                margin-left: 2%;
-                margin-right: 2%;
+                width: 800px;
+                box-sizing: border-box;
+                border-radius: 8px;
+                background: white;
+                box-shadow: 0px 0px 14px #80808047;
+                margin-left: 23%;
+                margin-top: 2%;
+                margin-bottom: 2%;
             }
 
             .card7 {
-                flex-direction: column;
+                display: flex;
+                flex-direction: row;
+                width: 100%;
             }
 
             .card7 .card7-left {
+                width: 40%;
+            }
+
+            .card7 .card7-left .card7-img {
+                width: 100%;
+                height: 310px;
+                position: relative;
+            }
+
+            .card7 .card7-left .card7-img::before {
+                content: "";
+                background: url(https://rvs-article-preview-component.netlify.app/images/drawers.jpg);
+                width: 100%;
+                height: 100%;
+                background-repeat: no-repeat;
+                background-size: cover;
+                display: block;
+                border-radius: 8px 0px 0px 8px;
+            }
+
+            .card7 .card7-left .card7-img img {
                 width: 100%;
             }
 
             .card7 .card7-right {
-                width: 100%;
-                padding: 40px 25px 20px;
+                width: 60%;
+                display: flex;
+                flex-direction: column;
+                padding: 40px;
+                box-sizing: border-box;
             }
 
-            .card7 .card7-left .card7-img {
-                height: 210px;
+            .card7 .card7-right .card7-title {
+                font-size: 20px;
+                color: hsl(214, 17%, 51%);
             }
 
-            .card7 .card7-left .card7-img::before {
-                border-radius: 8px 8px 0px 0px;
+            .card7 .card7-right .card7-text {
+                font-size: 14px;
+                color: hsl(212, 23%, 69%);
+                margin-top: 20px;
+            }
+
+            .card7 .card7-right .card7-right-body {
+                display: flex;
+                margin-top: 26px;
+            }
+
+            .card7 .card7-right .card7-right-body .card7-rb-1 {
+                flex-grow: 1;
+            }
+
+            .card7 .card7-right .card7-right-body .card7-rb-1 img {
+                width: 45px;
+                border-radius: 50%;
+            }
+
+            .card7 .card7-right .card7-right-body .card7-rb-2 {
+                flex-grow: 7;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                row-gap: 3px;
+            }
+
+            .card7 .card7-right .card7-right-body .card7-rb-2 .card7-rb-2-title {
+                color: hsl(214, 17%, 51%);
+            }
+
+            .card7 .card7-right .card7-right-body .card7-rb-2 .card7-rb-2-text {
+                color: hsl(212, 23%, 69%);
+            }
+
+            .card7 .card7-right .card7-right-body .card7-rb-3 {
+                flex-grow: 1;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                position: relative;
+            }
+
+            .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner {
+                background: url(https://rvs-article-preview-component.netlify.app/images/icon-share.svg) hsl(210, 46%, 95%);
+                width: 35px;
+                height: 35px;
+                background-repeat: no-repeat;
+                background-size: 50%;
+                background-position: center;
+                border-radius: 50%;
+                cursor: pointer;
+            }
+
+            .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner:hover {
+                background: url(https://rvs-article-preview-component.netlify.app/images/icon-share-white.svg) hsl(217, 19%, 35%);
+                background-repeat: no-repeat;
+                background-size: 50%;
+                background-position: center;
             }
 
             .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before {
-                top: -3px;
-                left: -235px;
-                width: 230px;
+                position: absolute;
+                width: 275px;
+                height: 55px;
+                background: hsl(217, 19%, 35%);
+                border-radius: 10px;
+                display: flex;
+                flex-direction: row;
+                color: white;
+                box-sizing: border-box;
+                align-items: center;
+                top: -80px;
+                left: -110px;
+                opacity: 0;
+                justify-content: center;
+                padding: 0px 20px;
+                z-index: 2;
             }
 
             .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before::after {
-                content: unset;
+                content: "";
+                position: absolute;
+                top: 40px;
+                left: 50%;
+                width: 40px;
+                height: 40px;
+                background: hsl(217, 19%, 35%);
+                transform: translate(-50%, -50%) rotate(45deg);
+                z-index: -1;
             }
-        }
-    </style>
-    <!-- <body>
+
+            .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner:hover+.card7-rb-3-inner-before {
+                opacity: 1;
+            }
+
+            .before-1 {
+                flex-grow: 2;
+                letter-spacing: 7px;
+                color: hsl(212, 23%, 69%);
+                display: flex;
+                justify-content: center;
+            }
+
+            .before-2 {
+                flex-grow: 1;
+            }
+
+            .before-3 {
+                flex-grow: 1;
+            }
+
+            .before-4 {
+                flex-grow: 1;
+            }
+
+            @media screen and (max-width: 850px) {
+                body {
+                    height: 100%;
+                    /* margin: 70px auto; */
+                }
+
+                main {
+                    width: 95%;
+                    margin-top: 5%;
+                    margin-left: 2%;
+                    margin-right: 2%;
+                }
+
+                .card7 {
+                    flex-direction: column;
+                }
+
+                .card7 .card7-left {
+                    width: 100%;
+                }
+
+                .card7 .card7-right {
+                    width: 100%;
+                    padding: 40px 25px 20px;
+                }
+
+                .card7 .card7-left .card7-img {
+                    height: 210px;
+                }
+
+                .card7 .card7-left .card7-img::before {
+                    border-radius: 8px 8px 0px 0px;
+                }
+
+                .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before {
+                    top: -3px;
+                    left: -235px;
+                    width: 230px;
+                }
+
+                .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before::after {
+                    content: unset;
+                }
+            }
+        </style>
+        <!-- <body>
 <main id="about">
         <div class="card7">
             <div class="card7-left">
@@ -1665,420 +1863,420 @@
         </div>
     </main> -->
 
-    <!-- few word1 end -->
-    <!-- gallery1 -->
-    <div class="imageContainer">
-        <style>
-            .imageContainer>img:hover {
-                width: 500px;
-                height: 200px;
-            }
-        </style>
-        <div class="row">
-
+        <!-- few word1 end -->
+        <!-- gallery1 -->
+        <div class="imageContainer">
             <style>
-                .row {
-                    display: flex;
-                    flex-wrap: wrap;
-                    padding: 0 4px;
-                }
-
-                /* Create four equal columns that sits next to each other */
-                .column {
-                    flex: 25%;
-                    max-width: 25%;
-                    padding: 0 4px;
-                }
-
-                .column img {
-                    margin-top: 8px;
-                    vertical-align: middle;
-                    width: 100%;
-                }
-
-                /* Responsive layout - makes a two column-layout instead of four columns */
-                @media screen and (max-width: 800px) {
-                    .column {
-                        flex: 50%;
-                        max-width: 50%;
-                    }
-                }
-
-                /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-                @media screen and (max-width: 600px) {
-                    .column {
-                        flex: 100%;
-                        max-width: 100%;
-                    }
+                .imageContainer>img:hover {
+                    width: 500px;
+                    height: 200px;
                 }
             </style>
+            <div class="row">
+
+                <style>
+                    .row {
+                        display: flex;
+                        flex-wrap: wrap;
+                        padding: 0 4px;
+                    }
+
+                    /* Create four equal columns that sits next to each other */
+                    .column {
+                        flex: 25%;
+                        max-width: 25%;
+                        padding: 0 4px;
+                    }
+
+                    .column img {
+                        margin-top: 8px;
+                        vertical-align: middle;
+                        width: 100%;
+                    }
+
+                    /* Responsive layout - makes a two column-layout instead of four columns */
+                    @media screen and (max-width: 800px) {
+                        .column {
+                            flex: 50%;
+                            max-width: 50%;
+                        }
+                    }
+
+                    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+                    @media screen and (max-width: 600px) {
+                        .column {
+                            flex: 100%;
+                            max-width: 100%;
+                        }
+                    }
+                </style>
 
 
 
-            <div class="column">
+                <div class="column">
 
 
-                <img src="images/department/cs/wifli.jpg">
+                    <img src="images/department/cs/wifli.jpg">
 
 
-                <img src="images/department/cs/lib.jpg">
+                    <img src="images/department/cs/lib.jpg">
 
-                <img src="images/department/cs/group1.jpg">
+                    <img src="images/department/cs/group1.jpg">
 
-                <img src="images/department/cs/1styesar.jpg">
+                    <img src="images/department/cs/1styesar.jpg">
+                </div>
+                <div class="column">
+                    <img src="images/department/cs/1year2.jpg">
+
+
+                    <img src="images/department/cs/civil1.jpg">
+
+                    <img src="images/department/cs/civil2.jpg">
+
+
+
+                    <img src="images/department/cs/placement.jpg">
+                </div>
+                <div class="column">
+
+                    <img src="images/department/cs/ec1.jpg">
+
+                    <img src="images/department/cs/mba1.jpg">
+
+                    <img src="images/department/cs/placement2.jpg">
+
+                    <img src="images/department/cs/campus.jpg">
+
+                </div>
+                <div class="column">
+
+                    <img src="images/department/cs/mba2.jpg">
+
+                    <img src="images/department/cs/management.jpg">
+
+
+                    <img src="images/department/cs/first1.jpg">
+
+                    <img src="images/department/cs/first2.jpg">
+
+                    <img src="images/department/cs/first3.jpg">
+                </div>
             </div>
-            <div class="column">
-                <img src="images/department/cs/1year2.jpg">
 
-
-                <img src="images/department/cs/civil1.jpg">
-
-                <img src="images/department/cs/civil2.jpg">
-
-
-
-                <img src="images/department/cs/placement.jpg">
-            </div>
-            <div class="column">
-
-                <img src="images/department/cs/ec1.jpg">
-
-                <img src="images/department/cs/mba1.jpg">
-
-                <img src="images/department/cs/placement2.jpg">
-
-                <img src="images/department/cs/campus.jpg">
-
-            </div>
-            <div class="column">
-
-                <img src="images/department/cs/mba2.jpg">
-
-                <img src="images/department/cs/management.jpg">
-
-
-                <img src="images/department/cs/first1.jpg">
-
-                <img src="images/department/cs/first2.jpg">
-
-                <img src="images/department/cs/first3.jpg">
-            </div>
         </div>
-
-    </div>
-    <script>
-        let item2s = document.querySelectorAll(".item2"),
-            viewer23 = document.querySelector(".viewer23 img");
-        document.querySelector(".viewer23 .close23").onclick = () => {
-            document.querySelector("body").classList.toggle("overlay23ed");
-        };
-        item2s.forEach((item2) => {
-            item2.onclick = () => {
-                let content = item2.querySelector(".img img");
-                viewer23.setAttribute("src", content.getAttribute("src"));
-                document.querySelector(".viewer23 .alt1").innerHTML = item2.querySelector(
-                    ".title2"
-                ).innerHTML;
+        <script>
+            let item2s = document.querySelectorAll(".item2"),
+                viewer23 = document.querySelector(".viewer23 img");
+            document.querySelector(".viewer23 .close23").onclick = () => {
                 document.querySelector("body").classList.toggle("overlay23ed");
             };
-        });
+            item2s.forEach((item2) => {
+                item2.onclick = () => {
+                    let content = item2.querySelector(".img img");
+                    viewer23.setAttribute("src", content.getAttribute("src"));
+                    document.querySelector(".viewer23 .alt1").innerHTML = item2.querySelector(
+                        ".title2"
+                    ).innerHTML;
+                    document.querySelector("body").classList.toggle("overlay23ed");
+                };
+            });
 
-        ["load", "scroll"].forEach((eventName) => {
-            window.addEventListener(eventName, (event) => {
-                document.querySelectorAll(".fluid-container1").forEach((item2) => {
-                    if (isScrolledIntoView(item2)) {
-                        item2.classList.add("inScreen");
-                    } else {
-                        item2.classList.remove("inScreen");
-                    }
+            ["load", "scroll"].forEach((eventName) => {
+                window.addEventListener(eventName, (event) => {
+                    document.querySelectorAll(".fluid-container1").forEach((item2) => {
+                        if (isScrolledIntoView(item2)) {
+                            item2.classList.add("inScreen");
+                        } else {
+                            item2.classList.remove("inScreen");
+                        }
+                    });
                 });
             });
-        });
 
-        function isScrolledIntoView(el) {
-            let rect = el.getBoundingClientRect();
-            let elemTop = rect.top;
-            let elemBottom = rect.bottom;
-            let isVisible = elemTop >= -300 && elemBottom <= screen.height + 300;
-            return isVisible;
-        }
-    </script>
+            function isScrolledIntoView(el) {
+                let rect = el.getBoundingClientRect();
+                let elemTop = rect.top;
+                let elemBottom = rect.bottom;
+                let isVisible = elemTop >= -300 && elemBottom <= screen.height + 300;
+                return isVisible;
+            }
+        </script>
 
 
-    <!-- endgallery1 -->
-    <br><br>
-    <!-- logo slider begin -->
+        <!-- endgallery1 -->
+        <br><br>
+        <!-- logo slider begin -->
 
-    <style>
-        /*Logo carousel*/
+        <style>
+            /*Logo carousel*/
 
-        #clients {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
+            #clients {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
 
-        #clients .clients-wrap {
-            display: block;
-            width: 100%;
-            margin: 0 auto;
-            overflow: hidden;
-        }
+            #clients .clients-wrap {
+                display: block;
+                width: 100%;
+                margin: 0 auto;
+                overflow: hidden;
+            }
 
-        #clients .clients-wrap ul {
-            display: block;
-            list-style: none;
-            position: relative;
-            margin-left: auto;
-            margin-right: auto;
-        }
+            #clients .clients-wrap ul {
+                display: block;
+                list-style: none;
+                position: relative;
+                margin-left: auto;
+                margin-right: auto;
+            }
 
-        #clients .clients-wrap ul li {
-            display: block;
-            float: left;
-            position: relative;
-            width: 220px;
-            height: 100px;
-            line-height: 100px;
-            text-align: center;
-        }
+            #clients .clients-wrap ul li {
+                display: block;
+                float: left;
+                position: relative;
+                width: 220px;
+                height: 100px;
+                line-height: 100px;
+                text-align: center;
+            }
 
-        #clients .clients-wrap ul li img {
-            vertical-align: middle;
-            max-width: 100%;
-            max-height: 100%;
-            -webkit-transition: 0 linear left;
-            -moz-transition: 0 linear left;
-            transition: 0 linear left;
-            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
-            filter: alpha(opacity=65);
-            opacity: 1.0;
-        }
+            #clients .clients-wrap ul li img {
+                vertical-align: middle;
+                max-width: 100%;
+                max-height: 100%;
+                -webkit-transition: 0 linear left;
+                -moz-transition: 0 linear left;
+                transition: 0 linear left;
+                -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+                filter: alpha(opacity=65);
+                opacity: 1.0;
+            }
 
-        #clients .clients-wrap ul li img:hover {
-            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-            filter: alpha(opacity=75);
-            opacity: 0.75;
-        }
-    </style>
+            #clients .clients-wrap ul li img:hover {
+                -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+                filter: alpha(opacity=75);
+                opacity: 0.75;
+            }
+        </style>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <div id="clients">
-        <div class="clients-wrap">
-            <ul id="clients-list" class="clearfix">
-                <li>
-                    <img src="images/Clients/Ample.gif" alt="Black Ace">
-                </li>
-                <li>
-                    <img src="images/Clients/Bosch.png" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Global Edge.jpg" alt="Custom Aire">
-                </li>
-                <li>
-                    <img src="images/Clients/HP.jpg" alt="First State Bank">
-                </li>
-                <!-- <li>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <div id="clients">
+            <div class="clients-wrap">
+                <ul id="clients-list" class="clearfix">
+                    <li>
+                        <img src="images/Clients/Ample.gif" alt="Black Ace">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Bosch.png" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Global Edge.jpg" alt="Custom Aire">
+                    </li>
+                    <li>
+                        <img src="images/Clients/HP.jpg" alt="First State Bank">
+                    </li>
+                    <!-- <li>
                     <img src="images/Clients/Huawei.jpg" alt="Dakota Molding">
                 </li> -->
-                <li>
-                    <img src="images/Clients/IBM.jpg" alt="Dakota Peat">
-                </li>
-                <li>
-                    <img src="images/Clients/Indian Army.gif" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Infosys.jpg" alt="Eastbay Campground">
-                </li>
-                <li>
-                    <img src="images/Clients/JSW.jpg" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Larsen Toubro.jpg" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Magna Infotech.gif" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Mindtree.png" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/MU Sigma.jpg" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Neo Bytes.jpg" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Quinnox.png" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Robosoft.jpeg" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Sankalp.gif" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Sasken.png" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/SLK Software.jpg" alt="First State Bank">
-                </li>
-                <li>
-                    <img src="images/Clients/Tech Jini.png" alt="First State Bank">
-                </li>
-            </ul>
+                    <li>
+                        <img src="images/Clients/IBM.jpg" alt="Dakota Peat">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Indian Army.gif" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Infosys.jpg" alt="Eastbay Campground">
+                    </li>
+                    <li>
+                        <img src="images/Clients/JSW.jpg" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Larsen Toubro.jpg" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Magna Infotech.gif" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Mindtree.png" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/MU Sigma.jpg" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Neo Bytes.jpg" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Quinnox.png" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Robosoft.jpeg" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Sankalp.gif" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Sasken.png" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/SLK Software.jpg" alt="First State Bank">
+                    </li>
+                    <li>
+                        <img src="images/Clients/Tech Jini.png" alt="First State Bank">
+                    </li>
+                </ul>
+            </div>
         </div>
-    </div>
-    <script>
-        $(function() {
-            // vars for clients list carousel
-            // http://stackoverflow.com/questions/6759494/jquery-function-definition-in-a-carousel-script
-            var $clientcarousel = $('#clients-list');
-            var clients = $clientcarousel.children().length;
-            var clientwidth = (clients * 220); // 140px width for each client item 
-            $clientcarousel.css('width', clientwidth);
+        <script>
+            $(function() {
+                // vars for clients list carousel
+                // http://stackoverflow.com/questions/6759494/jquery-function-definition-in-a-carousel-script
+                var $clientcarousel = $('#clients-list');
+                var clients = $clientcarousel.children().length;
+                var clientwidth = (clients * 220); // 140px width for each client item 
+                $clientcarousel.css('width', clientwidth);
 
-            var rotating = true;
-            var clientspeed = 0;
-            var seeclients = setInterval(rotateClients, clientspeed);
+                var rotating = true;
+                var clientspeed = 0;
+                var seeclients = setInterval(rotateClients, clientspeed);
 
-            $(document).on({
-                mouseenter: function() {
-                    rotating = true; // turn off rotation when hovering
-                },
-                mouseleave: function() {
-                    rotating = true;
-                }
-            }, '#clients');
+                $(document).on({
+                    mouseenter: function() {
+                        rotating = true; // turn off rotation when hovering
+                    },
+                    mouseleave: function() {
+                        rotating = true;
+                    }
+                }, '#clients');
 
-            function rotateClients() {
-                if (rotating != false) {
-                    var $first = $('#clients-list li:first');
-                    $first.animate({
-                        'margin-left': '-220px'
-                    }, 2000, function() {
-                        $first.remove().css({
-                            'margin-left': '0px'
+                function rotateClients() {
+                    if (rotating != false) {
+                        var $first = $('#clients-list li:first');
+                        $first.animate({
+                            'margin-left': '-220px'
+                        }, 2000, function() {
+                            $first.remove().css({
+                                'margin-left': '0px'
+                            });
+                            $('#clients-list li:last').after($first);
                         });
-                        $('#clients-list li:last').after($first);
-                    });
+                    }
+                }
+            });
+        </script>
+
+        <!-- logo slider end -->
+        <br>
+
+
+
+
+
+
+
+
+        <script>
+            // Get the elements with class="column"
+            var elements = document.getElementsByClassName("column");
+
+            // Declare a loop variable
+            var i;
+
+            // // Full-width images
+            // function one() {
+            //     for (i = 0; i < elements.length; i++) {
+            //     elements[i].style.msFlex = "100%";  // IE10
+            //     elements[i].style.flex = "100%";
+            //   }
+            // }
+
+            // // Two images side by side
+            //     function two() {
+            //         for (i = 0; i < elements.length; i++) {
+            //     elements[i].style.msFlex = "50%";  // IE10
+            //     elements[i].style.flex = "50%";
+            //   }
+            //     }
+            // Four images side by side
+            function four() {
+                for (i = 0; i < elements.length; i++) {
+                    elements[i].style.msFlex = "25%"; // IE10
+                    elements[i].style.flex = "25%";
                 }
             }
-        });
-    </script>
 
-    <!-- logo slider end -->
-    <br>
-
-
-
-
-
-
-
-
-    <script>
-        // Get the elements with class="column"
-        var elements = document.getElementsByClassName("column");
-
-        // Declare a loop variable
-        var i;
-
-        // // Full-width images
-        // function one() {
-        //     for (i = 0; i < elements.length; i++) {
-        //     elements[i].style.msFlex = "100%";  // IE10
-        //     elements[i].style.flex = "100%";
-        //   }
-        // }
-
-        // // Two images side by side
-        //     function two() {
-        //         for (i = 0; i < elements.length; i++) {
-        //     elements[i].style.msFlex = "50%";  // IE10
-        //     elements[i].style.flex = "50%";
-        //   }
-        //     }
-        // Four images side by side
-        function four() {
-            for (i = 0; i < elements.length; i++) {
-                elements[i].style.msFlex = "25%"; // IE10
-                elements[i].style.flex = "25%";
+            // Add active class to the current button (highlight it)
+            var header = document.getElementById("myHeader");
+            var btns = header.getElementsByClassName("btn");
+            for (var i = 0; i < btns.length; i++) {
+                btns[i].addEventListener("click", function() {
+                    var current = document.getElementsByClassName("active");
+                    current[0].className = current[0].className.replace(" active", "");
+                    this.className += " active";
+                });
             }
-        }
-
-        // Add active class to the current button (highlight it)
-        var header = document.getElementById("myHeader");
-        var btns = header.getElementsByClassName("btn");
-        for (var i = 0; i < btns.length; i++) {
-            btns[i].addEventListener("click", function() {
-                var current = document.getElementsByClassName("active");
-                current[0].className = current[0].className.replace(" active", "");
-                this.className += " active";
-            });
-        }
-    </script>
+        </script>
 
 
 
-    </div>
-    </div>
-    </section>
+        </div>
+        </div>
+        </section>
 
 
-    <section class="pn_reviews my-5">
-        <?php include 'testi.php'; ?>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h1 class="text-center pb-5">Testimonials</h1>
-                </div>
+        <section class="pn_reviews my-5">
+            <?php include 'testi.php'; ?>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="text-center pb-5">Testimonials</h1>
+                    </div>
 
-                <div class="col-md-12 col-lg-4">
-                    <div class="pn_testimonial_box mt-4">
-                        <p class="text-justify">KVG college of engineering, Sullia provides a blend of learning, enjoyment & extracurricular activities. As a student I had an effervescent life during my 4 years of campus. My sincere heartfelt gratitude to Training and Placement Department for their efforts in importing quality technical and aptitude training which made me to grab job apportiunities in TCS, Infosys and IBM.
-                        </p>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="pn_testimonial_box mt-4">
+                            <p class="text-justify">KVG college of engineering, Sullia provides a blend of learning, enjoyment & extracurricular activities. As a student I had an effervescent life during my 4 years of campus. My sincere heartfelt gratitude to Training and Placement Department for their efforts in importing quality technical and aptitude training which made me to grab job apportiunities in TCS, Infosys and IBM.
+                            </p>
 
-                        <div class="row pt-3">
-                            <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ashwitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
-                            <div class="col-md-6 pn_review_rating d-flex justify-content-end"> Ashwini H K &nbsp; <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
+                            <div class="row pt-3">
+                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ashwitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
+                                <div class="col-md-6 pn_review_rating d-flex justify-content-end"> Ashwini H K &nbsp; <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-12 col-lg-4">
-                    <div class="pn_testimonial_box mt-4">
-                        <p class="text-justify">Its gives me an immense pleasure to say that I am a proud alumina of KVG college of engineering, Sullia. I graduated back in 2017. I couldn’t be happier about my way the carrier path is progressing. I am over big share gratitude to this institution. I am really thankful and grateful to each and every faculty who has helped me and nurtured me to be what I am today. Just as a same goes one cannot clap without two hands
-                        </p>
-                        <div class="row pt-3">
-                            <div class="col-md-6 pn_review_profile"><img src="images/testimonials/arpitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
-                            <div class="col-md-6 pn_review_rating d-flex justify-content-end"> Arpitha K S &nbsp; <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="pn_testimonial_box mt-4">
+                            <p class="text-justify">Its gives me an immense pleasure to say that I am a proud alumina of KVG college of engineering, Sullia. I graduated back in 2017. I couldn’t be happier about my way the carrier path is progressing. I am over big share gratitude to this institution. I am really thankful and grateful to each and every faculty who has helped me and nurtured me to be what I am today. Just as a same goes one cannot clap without two hands
+                            </p>
+                            <div class="row pt-3">
+                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/arpitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
+                                <div class="col-md-6 pn_review_rating d-flex justify-content-end"> Arpitha K S &nbsp; <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-12 col-lg-4">
-                    <div class="pn_testimonial_box mt-4">
-                        <p class="text-justify">My overall experience has been amazing, and the college is having a good infrastructure. It has provided me with a number of opportunities to grow and explore my skills. I have always found a positive and healthy environment and the faculties were highly supportive. My heartfelt gratitude to Training and Placement cell for their immense support which made me to get placed in Talentpace,Cognitive Clouds and Capgemimi.
-                        </p>
-                        <div class="row pt-3">
-                            <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ajna.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
-                            <div class="col-md-6 pn_review_rating d-flex justify-content-end"> Ajna H M &nbsp; <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="stars image" /> </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="pn_testimonial_box mt-4">
+                            <p class="text-justify">My overall experience has been amazing, and the college is having a good infrastructure. It has provided me with a number of opportunities to grow and explore my skills. I have always found a positive and healthy environment and the faculties were highly supportive. My heartfelt gratitude to Training and Placement cell for their immense support which made me to get placed in Talentpace,Cognitive Clouds and Capgemimi.
+                            </p>
+                            <div class="row pt-3">
+                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ajna.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
+                                <div class="col-md-6 pn_review_rating d-flex justify-content-end"> Ajna H M &nbsp; <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="stars image" /> </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
 
-    <!-- footer> -->
+        <!-- footer> -->
 
-    <?php include('footer.php') ?>
+        <?php include('footer.php') ?>
 
-    <!-- endfooter -->
+        <!-- endfooter -->
 
 
 
-</body>
+    </body>
 
 
 </html>
