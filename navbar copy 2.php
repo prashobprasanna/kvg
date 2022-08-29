@@ -336,16 +336,9 @@
                                             <li><a href="">CICC</a></li>
                                             <li><a href="Compliant Committee.php">Grievances and Reddressal Cell</a>
                                             </li>
-                                            <li><a href="">Women Empowerment Wing</a></li>
-                                            <li><a href="">Student Mentoring Wing</a></li>
-                                            <li><a href="">Anti Ragging Cell</a></li>
-                                            <li><a href="">Banking </a></li>
-                                            <li><a href="">Xerox Centre</a></li>
+                                            
                                             <!--<li><a href="department-information-science.php">Information Science &amp; Engineering</a></li>-->
-
-
                                         </ul>
-
 
                                         <!-- <ul class="mdf_child_menu">
                                                 <div class="cl-title">
@@ -357,6 +350,23 @@
         
                                             </ul> -->
                                     </ul>
+                                </div>
+
+                                <div class="col-sm-4 col-xs-12">
+                                    
+                                    <ul class="mdf_child_menu">
+
+                                    <ul >
+    <li><a href="">Women Empowerment Wing</a></li>
+                                            <li><a href="">Student Mentoring Wing</a></li>
+                                            <li><a href="">Anti Ragging Cell</a></li>
+                                            <li><a href="">Banking </a></li>
+                                            <li><a href="">Xerox Centre</a></li>
+</ul>
+
+                                    </ul>
+
+
                                 </div>
                                 <!-- <div class="col-sm-4 col-xs-12">
                                         <div class="cl-title">

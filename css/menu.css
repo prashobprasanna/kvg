@@ -1766,7 +1766,7 @@ a.navbar-brand img {
 }
 
 #mdf_menu ul.mdf_child_menu.dropdown a {
-    display: block
+    display: block;
 }
 
 #mdf_menu ul li:hover .mdf_sub_wrap.mdf_expand {
@@ -1775,7 +1775,7 @@ a.navbar-brand img {
     -moz-transform: none;
     -ms-transform: none;
     -o-transform: none;
-    transform: none
+    transform: none;
 }
 
 #mdf_menu ul li:hover .dropdown,
@@ -1784,6 +1784,9 @@ a.navbar-brand img {
     visibility: visible;
     opacity: 1;
     height: auto;
+    width: 70%;
+   padding-left:0% ;
+   padding-right: 0%;
     z-index: 99999
 }
 
@@ -1802,6 +1805,7 @@ a.navbar-brand img {
 }
 
 #mdf_menu ul li:hover .mdf_fall {
+    padding: 0%;
     transform: rotateX(0);
     -o-transform: rotateX(0);
     -moz-transform: rotateX(0);
@@ -1957,7 +1961,8 @@ a.navbar-brand img {
 
 #mdf_menu ul li div.row {
     margin-right: 0;
-    margin-left: 0
+    margin-left: 10%;
+    
 }
 
 #mdf_menu .mdf_slide,
@@ -2600,6 +2605,7 @@ input {
     .mdf_fall a:before {
         height: 2em;
         width: 100%;
+        padding: 0%;
         position: absolute;
         visibility: hidden;
         opacity: 0;
@@ -2618,6 +2624,7 @@ input {
     #mdf_menu .dropdown,
     .mdf_fall {
         display: none;
+        padding: 0%;
         transform: translateY(15%);
         -o-transform: translateY(15%);
         -moz-transform: translateY(15%);

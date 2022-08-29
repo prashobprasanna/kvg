@@ -797,7 +797,7 @@
     </style>
     <strong>
         <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            COURSES WE OFFER</div>
+            Courses Offered</div>
     </strong>
 
     <div class="content-wrapper">
@@ -1102,10 +1102,10 @@
             }
         }
     </style>
-    <strong>
+    <!-- <strong>
         <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            NEWS AND EVENTS</div>
-    </strong>
+            News & Events</div>
+    </strong> -->
 
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     <link rel="stylesheet" href="css/nicepage.css" media="screen">
@@ -1116,6 +1116,10 @@
     <body>
 
         <section class="u-clearfix u-section-2" id="sec-96fa">
+        <strong>
+        <div class="header-fullname" style="font-size: 30px;text-align: center;">
+            News & Events</div>
+    </strong>
             <div class="u-clearfix u-sheet u-sheet-1">
                 <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
                     <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
@@ -1127,9 +1131,10 @@
                         <div class="active u-active u-carousel-item u-container1-style u-slide">
                             <div class="u-container1-layout u-valign-top u-container1-layout-1">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
-                                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/2289b709ea7f564db3a0f67e/Untitled-5.jpg?version=" alt="" class="u-image u-image-default u-image-1" data-image-width="720" data-image-height="1080">
-                                <h2 class="u-text u-text-1">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
-                                <p class="u-text u-text-palette-5-dark-1 u-text-2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                <img src="images/newsandevents/tishan.jpeg" alt="" class="u-image u-image-default u-image-1" data-image-width="720" data-image-height="1080">
+                                <h2 class="u-text u-text-1">Agniveer Road Race</h2>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-2"> Our proud First year CS student TISHAN A M. participated in Agniveer 3Km road race(madikeri)on
+                                                    7-08-2022. won the ( 2nd place) silver medal. Out of 106 participants</p>
                                 <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a>
                             </div>
                         </div>
@@ -1137,17 +1142,28 @@
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
                                 <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
-                                <h2 class="u-text u-text-3">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
-                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                <h2 class="u-text u-text-3">FAREWELL-2022</h2>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Great is the art of beginning,but
+                                                    greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
+                                                    of 2022 batch was conducted in the college auditorium on 21st July 2022.The function was presided by
+                                                    general secretary of A O L E(R) Dr Renukaprasad K V and Mr
+                                                    .Sadashiva M B ,former district governor ,Lions international was
+                                                    the chief guest of the function,along with the C E O of K V G C E Dr
+                                                    Ujwal U J, Principal Dr Suresha V & Vice-prinipal Dr shreedhar K
+                                                    shared the dais</p>
                                 <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
                             </div>
                         </div>
                         <div class="u-carousel-item u-container1-style u-slide">
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
-                                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
-                                <h2 class="u-text u-text-3">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
-                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                <img src="images/newsandevents/expo1.jpeg" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
+                                <h2 class="u-text u-text-3">EXPO-2K22</h2>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Here K V G C E is providing platform for students to showcase their
+                                                    talent Presenting "EXPO-2K22" The student project exhibition.
+                                                    The program was presided by CEO of KVGCE Dr Ujwal U J & the program
+                                                    was initiated by Dr Yashodha Ramachandra,Principal KVG AJPUC Sullia,
+                                                    with lighting the lamp.</p>
                                 <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
                             </div>
                         </div>
@@ -1958,15 +1974,23 @@ a:active{
 
 
 
-<h2>hhhhhh</h2>
+<strong>
+        <div class="header-fullname" style="font-size: 30px;text-align: center;">
+            Gallery</div>
+    </strong>
 
 <ul class="sliderfk">
-	<li><img src="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/img/img_01.jpg" alt=""></li>
-	<li><img src="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/img/img_02.jpg" alt=""></li>
-	<li><img src="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/img/img_03.jpg" alt=""></li>
-	<li><img src="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/img/img_04.jpg" alt=""></li>
-	<li><img src="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/img/img_05.jpg" alt=""></li>
-	<li><img src="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/img/img_06.jpg" alt=""></li>
+	<li><img src="images/gallery/first.jpg" alt=""></li>
+	<li><img src="images/gallery/two.jpg" alt=""></li>
+	<li><img src="images/gallery/civil1.jpg" alt=""></li>
+	<li><img src="images/gallery/civil2.jpg" alt=""></li>
+	<li><img src="images/gallery/cs1.jpg" alt=""></li>
+	<li><img src="images/gallery/cs2.jpg" alt=""></li>
+    <li><img src="images/gallery/ec1.jpg" alt=""></li>
+    <li><img src="images/gallery/ec2.jpg" alt=""></li>
+    <li><img src="images/gallery/mech1.jpg" alt=""></li>
+    <li><img src="images/gallery/mech2.jpg" alt=""></li>
+
 <!--/sliderfk--></ul>
 
 
@@ -2045,9 +2069,10 @@ a:active{
             <?php include 'testi.php'; ?>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
-                        <h1 class="text-center pb-5">Testimonials</h1>
-                    </div>
+                     <strong>
+        <div class="header-fullname" style="font-size: 30px;text-align: center;">
+            Testimonials</div>
+    </strong>
 
                     <div class="col-md-12 col-lg-4">
                         <div class="pn_testimonial_box mt-4">
@@ -2140,6 +2165,10 @@ a:active{
         </style>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <strong>
+        <div class="header-fullname" style="font-size: 30px;text-align: center;">
+           Our Recruiters</div>
+    </strong>
         <div id="clients">
             <div class="clients-wrap">
                 <ul id="clients-list" class="clearfix">
