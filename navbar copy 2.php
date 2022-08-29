@@ -73,7 +73,7 @@
             </div> -->
 
         <!-- </div> -->
-        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu" style="top:80px">
+        <nav id="mdf_menu" class="navbar navbar-inverse navbar-fixed-top main-menu">
 
             <div class="container">
 
