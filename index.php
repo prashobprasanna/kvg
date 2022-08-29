@@ -779,7 +779,10 @@
             color: yellow;
         }
     </style>
-
+    <strong>
+        <div class="header-fullname" style="font-size: 30px;text-align: center;">
+            COURSES WE OFFER</div>
+    </strong>
 
     <div class="content-wrapper">
 
@@ -1083,7 +1086,10 @@
             }
         }
     </style>
-
+    <strong>
+        <div class="header-fullname" style="font-size: 30px;text-align: center;">
+            NEWS AND EVENTS</div>
+    </strong>
 
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     <link rel="stylesheet" href="css/nicepage.css" media="screen">
@@ -1165,7 +1171,7 @@
         <section class="home-facts-bg">
             <div class="container">
                 <div class="col-md-12">
-                    <h2 class="subheadWhite head">KVG College of Engineering<span></span></h2>
+                    <h2 class="subheadWhite head" style="color:black">KVG College of Engineering<span></span></h2>
                     <style>
                         .data_more_less_inner {
                             overflow: hidden;
@@ -1381,7 +1387,7 @@
                         .card1 {
                             padding: 2.5rem 2rem;
                             border-radius: 10px;
-                            background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
+                            background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
                             max-width: 90%;
                             box-shadow: 0 0 30px rgba(0, 0, 0, .15);
                             margin: 1rem;
@@ -1413,12 +1419,13 @@
                             background-color: #4172f5aa;
                             top: -8rem;
                             right: -8rem;
-                            box-shadow: 2rem 6rem 0 -3rem #FFF
+                            box-shadow: 2rem 6rem 0 -3rem #c3daff;
+                            border-radius: 50%;
                         }
 
                         .card1 img {
                             float: left;
-                            width: 150rem;
+                            width: 100%;
                             min-width: 80px;
                             box-shadow: 0 0 0 5px #FFF;
                         }
@@ -1525,8 +1532,15 @@
                             <div class="infos">
                                 <div class="name">
 
+                                    <style>
+                                        @media screen and (min-width:767px) {
+                                            .header-fullname{
+                                                font-size: 18px;
+                                            }
+                                        }
+                                    </style>
                                     <strong>
-                                        <div class="header-fullname" style="font-size: 20px;">A Few Words
+                                        <div class="header-fullname">A Few Words
                                             About the KVG college of engineering sullia</div>
                                     </strong>
 
@@ -1535,7 +1549,7 @@
                                 <ul class="stats1">
                                     <li>
                                         <blockquote id="nobq">
-                                            <p style="text-align: justify;"><span id="dots1"></span><span id="more1"> "KVG
+                                            <p style="text-align: left;"><span id="dots1"></span><span id="more1"> "KVG
                                                     College of Engineering is one of the most reputed engineering colleges
                                                     in Karnataka, India. The engineering college, started in 1986, was one
                                                     of the first private sector initiatives in technical education in
