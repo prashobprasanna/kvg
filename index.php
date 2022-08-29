@@ -256,7 +256,7 @@
     </section>
 
     <!--Copy this into your website or website generator, in the HTML section.-->
-    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
     <style>
         .news-container {
             display: flex;
@@ -307,16 +307,16 @@
                 font-size: 30px;
             }
         }
-    </style>
+    </style> -->
 
 
 
 
     <!-- dept sec  -->
     <br><br><br>
-    <!-- news and Events -->
+    
 
-    <div class="name">
+    <!-- <div class="name">
         <strong>
             <div class="header-fullname" style="font-size: 30px;text-align: center;">
                 News & Events</div>
@@ -428,25 +428,25 @@
 
 
                                 </div>
-                            </div>
+                            </div> -->
                             <!--- END COL -->
-                        </div>
+                        <!-- </div> -->
                         <!--- END ROW -->
-                    </div>
-                </section>
+                    <!-- </div>
+                </section> -->
 
 
-            </div>
+            <!-- </div> -->
 
 
-            <style>
+            <!-- <style>
                 .responstable {
                     border-radius: 18px;
                 }
             </style>
 
 
-        </div>
+        </div> -->
 
 
 
@@ -463,7 +463,7 @@
 
 
 
-    </div>
+    <!-- </div> -->
 
 
 
@@ -837,7 +837,131 @@
 
     <!-- puthiyath close -->
 
+<br><br>
 
+<!-- news -->
+
+<style class="u-style">.u-section-2 .u-sheet-1 {min-height: 500px}
+.u-section-2 .u-slider-1 {width: 1140px; margin-top: 63px; margin-bottom: 60px; min-height: 375px}
+.u-section-2 .u-carousel-indicators-1 {position: absolute; bottom: 10px}
+.u-section-2 .u-container1-layout-1 {padding: 30px 60px}
+.u-section-2 .u-shape-1 {width: 272px; height: 272px; background-image: none; margin: 0 auto 0 0}
+.u-section-2 .u-image-1 {width: 276px; height: 276px; margin: -236px auto 0 38px}
+.u-section-2 .u-text-1 {font-size: 3rem; margin: -276px 0 0 375px}
+.u-section-2 .u-text-2 {margin: 20px 0 0 375px}
+.u-section-2 .u-btn-1 {margin: 20px auto 0 284px; padding: 10px 76px 10px 75px}
+.u-section-2 .u-container1-layout-2 {padding: 30px 60px}
+.u-section-2 .u-shape-2 {width: 272px; height: 272px; background-image: none; margin: 0 auto 0 0}
+.u-section-2 .u-image-2 {width: 276px; height: 276px; margin: -236px auto 0 38px}
+.u-section-2 .u-text-3 {font-size: 3rem; margin: -276px 0 0 377px}
+.u-section-2 .u-text-4 {margin: 20px 0 0 377px}
+.u-section-2 .u-btn-2 {margin: 20px auto 0 284px; padding: 10px 76px 10px 75px}
+.u-section-2 .u-carousel-control-1 {width: 50px; height: 50px}
+.u-section-2 .u-carousel-control-2 {width: 50px; height: 50px; left: auto; position: absolute; right: 0} 
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 430px}
+.u-section-2 .u-slider-1 {width: 940px}
+.u-section-2 .u-text-1 {width: auto; margin-left: 350px}
+.u-section-2 .u-text-2 {width: auto; margin-left: 350px}
+.u-section-2 .u-btn-1 {margin-left: 261px}
+.u-section-2 .u-text-3 {width: auto; margin-left: 350px}
+.u-section-2 .u-text-4 {width: auto; margin-left: 350px}
+.u-section-2 .u-btn-2 {margin-left: 272px} }
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 353px}
+.u-section-2 .u-slider-1 {width: 720px}
+.u-section-2 .u-container1-layout-1 {padding-left: 55px}
+.u-section-2 .u-text-1 {margin-left: 334px; font-size: 2.25rem}
+.u-section-2 .u-text-2 {margin-left: 334px}
+.u-section-2 .u-btn-1 {margin-left: 101px}
+.u-section-2 .u-text-3 {margin-left: 334px; font-size: 2.25rem}
+.u-section-2 .u-text-4 {margin-left: 334px}
+.u-section-2 .u-btn-2 {margin-left: 112px} }
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 760px}
+.u-section-2 .u-slider-1 {min-height: 635px; height: auto; width: auto}
+.u-section-2 .u-container1-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-text-1 {margin-top: 36px; margin-left: 50px}
+.u-section-2 .u-text-2 {margin-left: 50px}
+.u-section-2 .u-btn-1 {margin-left: 0}
+.u-section-2 .u-container1-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-text-3 {margin-top: 20px; margin-left: 50px}
+.u-section-2 .u-text-4 {margin-left: 50px}
+.u-section-2 .u-btn-2 {margin-left: 0} }
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 578px}
+.u-section-2 .u-text-1 {margin-left: 0; font-size: 1.5rem}
+.u-section-2 .u-text-2 {margin-left: 0}
+.u-section-2 .u-text-3 {margin-left: 0; font-size: 1.5rem}
+.u-section-2 .u-text-4 {margin-left: 0} }</style>
+
+    
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    <link rel="stylesheet" href="css/nicepage.css" media="screen">
+   
+  
+</head>
+  <body >
+    
+    <section class="u-clearfix u-section-2" id="sec-96fa">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
+          <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
+            <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="0"></li>
+            <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="1"></li>
+            <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="2"></li>
+          </ol>
+          <div class="u-carousel-inner" role="listbox">
+            <div class="active u-active u-carousel-item u-container1-style u-slide">
+              <div class="u-container1-layout u-valign-top u-container1-layout-1">
+                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
+                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/2289b709ea7f564db3a0f67e/Untitled-5.jpg?version=" alt="" class="u-image u-image-default u-image-1" data-image-width="720" data-image-height="1080">
+                <h2 class="u-text u-text-1">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
+                <p class="u-text u-text-palette-5-dark-1 u-text-2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a>
+              </div>
+            </div>
+            <div class="u-carousel-item u-container1-style u-slide">
+              <div class="u-container1-layout u-valign-top u-container1-layout-2">
+                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
+                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
+                <h2 class="u-text u-text-3">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
+                <p class="u-text u-text-palette-5-dark-1 u-text-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
+              </div>
+            </div>
+            <div class="u-carousel-item u-container1-style u-slide">
+              <div class="u-container1-layout u-valign-top u-container1-layout-2">
+                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
+                <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
+                <h2 class="u-text u-text-3">Elite&nbsp;Personal Training&nbsp;Studio‎</h2>
+                <p class="u-text u-text-palette-5-dark-1 u-text-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a>
+              </div>
+            </div>
+          </div>
+          
+          <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-spacing-5 u-text-palette-1-base u-carousel-control-1" href="#carousel-cbd7" role="button" data-u-slide="prev">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+                    c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path></svg>
+            </span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-spacing-5 u-text-palette-1-base u-carousel-control-2" href="#carousel-cbd7" role="button" data-u-slide="next">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+                    c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path></svg>
+            </span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </section>
+    
+
+
+
+
+
+
+<!-- end news -->
 
     <!-- fews word  -->
     <section class="home-facts-bg">

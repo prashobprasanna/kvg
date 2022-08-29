@@ -14,7 +14,9 @@
     <meta name="robots" content="All">
     <meta name="robots" content="ODP (Default)">
 
-
+    <!-- <link rel="stylesheet" href="css/nicepage.css?version=4241644b-6d49-4498-8461-c2f9e531e46b" media="screen"> -->
+    <script class="u-script" type="text/javascript" src="js/jquery-1.9.1.min.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
 
