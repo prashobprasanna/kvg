@@ -94,7 +94,7 @@
 
 
             <style>
-                .box {
+                .box12 {
                     width: 40%;
                     margin: 0 auto;
                     background: rgba(255, 255, 255, 0.2);
@@ -105,7 +105,7 @@
                     text-align: center;
                 }
 
-                .button {
+                .button12 {
                     font-size: 1em;
                     padding: 10px;
                     color: #fff;
@@ -116,7 +116,7 @@
                     transition: all 0.3s ease-out;
                 }
 
-                .button:hover {
+                .button12:hover {
                     background: #06D85F;
                 }
 
@@ -174,19 +174,19 @@
                 }
 
                 @media screen and (max-width: 700px) {
-                    .box {
+                    .box12 {
                         width: 70%;
                     }
 
-                    .popup {
+                    .popup12 {
                         width: 70%;
                     }
                 }
             </style>
 
 
-            <div id="popup1" class="overlay1" style="z-index: 999999999999999; position: fixed;">
-                <div class="popup12" style="top:30%; z-index: 999999999999999;float: left;">
+            <div id="popup1" class="overlay1" style="z-index:2147483647; position: fixed;">
+                <div id="popup12" class="popup12" style="top:30%; z-index: 2147483647;float: left;">
                     <center>
                         <div style="background-color: #005049;
                 border: none;
@@ -246,8 +246,8 @@
 
 
         </div>
-        <a id="menu-toggle" href="#popup1" class="">
-            <div class="parent">
+        <a id="menu-toggle" href="#popup1" class="hidde-xs">
+            <div class="parent" >
                 <span onclick="fireCredit()"><i class="fa fa-bell"></i></span>
             </div>
         </a>
@@ -621,7 +621,7 @@
     <!-- <div class="elfsight-app-f940885a-ad3b-4772-9c04-408d15d4fc92"></div> -->
 
 
-    <div id="container" style="top:8%; border-radius:18px;">
+    <div id="container">
         <!-- Menu Button -->
 
         <div class="menu-btn" style="z-index: 99999999999999999999999;">
