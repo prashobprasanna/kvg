@@ -693,7 +693,14 @@
 
             </div>
         </div>
+        <div class="news-card">
+            <a href="department-civil.php" class="news-card__card-link"></a>
+            <img src="admin-kvgce/photos/slider/mba.jpg" alt="" class="news-card__image">
+            <div class="news-card__text-wrapper">
+                <h3 class="news-card__title">Master In Bussiness Administration</h3>
 
+            </div>
+        </div>
 
 
     </div>
