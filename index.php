@@ -1138,7 +1138,7 @@
     <body>
 
         <section class="u-clearfix u-section-2" id="sec-96fa">
-            <strong>
+            <strong><br>
                 <div class="header-fullname" style="font-size: 30px;text-align: center;">
                     News & Events</div>
             </strong>
@@ -1410,7 +1410,7 @@
                             box-sizing: border-box;
                         }
 
-                        < !-- body {
+                        body {
                             font-family: 'Poppins', sans-serif;
                             align-items: center;
                             justify-content: center;
@@ -1418,7 +1418,7 @@
                             min-height: 100vh;
                         }
 
-                        -->img {
+                        img {
                             max-width: 100%;
                             display: block;
                         }
@@ -1581,7 +1581,7 @@
                     <center>
                         <div class="card1">
                             <div class="img">
-                                <img src="images/KVGCE-Logo.png" style="margin-bottom: 50px">
+                                <img src="images/kvgce-logo.svg" style="margin-bottom: 50px">
                             </div>
                             <div class="infos">
                                 <div class="name">
@@ -1603,7 +1603,7 @@
                                 <ul class="stats1">
                                     <li>
                                         <blockquote id="nobq">
-                                            <p style="text-align: left;"><span id="dots1"></span><span id="more1"> "KVG
+                                            <p style="text-align: left;"><span id="dots1"></span><span id="more1">"KVG
                                                     College of Engineering is one of the most reputed engineering colleges
                                                     in Karnataka, India. The engineering college, started in 1986, was one
                                                     of the first private sector initiatives in technical education in
@@ -1611,23 +1611,24 @@
                                                     Popularly known as KVGCE, it is located in Kurunjibhag, Sullia, Dakshina
                                                     Kannada. K.V.G. College of Engineering sponsored by Academy of Liberal
                                                     Education (R) Sullia D.K. and is one of the largest mega educational
-                                                    complexes in India."</span></p>
+                                                    complexes in India."</span>
+                                            </p>
                                             <button onclick="myreadmoreFunction()" id="myBtn1">Read more...</button>
+                                        </blockquote>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
                     </center>
-                    </blockquote>
-                    <center>
-
-
-                        </li>
-                        </ul>
-
-
                 </div>
-            </div>
-            </div>
-            </center>
 
-            </div>
+
+
+
+
+
+
+
             </div>
             <script>
                 function myreadmoreFunction() {

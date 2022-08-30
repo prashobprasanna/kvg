@@ -56,10 +56,9 @@
     <header class="main-header top-menu">
         <!-- <a class="navbar-brand" href="index.php"><img class="media-object" src="images/KVGCE-Logo.png" alt="KVG college of Engineering"></a> -->
 
-        <div style="float: left; z-index:9999999999;position:fixed; top:10px;">
-            <img src="images/logo-with-clg1.png" alt="">
+        <div style="float: left; z-index:9999999999;position:fixed; top: 6px;">
+            <img src="images/logo-with-clg1.svg" alt="">
         </div>
-
         <!-- <div class="top-content-area"> -->
         <!-- <ul class="top-right-menu">
             <li><a href="">Alumni Portal</a></li>
