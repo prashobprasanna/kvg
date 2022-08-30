@@ -43,7 +43,7 @@
 
 
 
-            <div class="carousel-inner">
+            <div class="carousel-inner" >
 
 
 
@@ -313,7 +313,7 @@
 
 
     <!-- dept sec  -->
-    <br><br><br>
+    <br>
 
 
     <!-- <div class="name">

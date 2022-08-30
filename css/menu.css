@@ -2908,6 +2908,7 @@ input {
 .carousel-inner>.item>img {
     min-width: 100%;
     height: auto
+    /* max-height:450px; */
 }
 
 .carousel-inner {
