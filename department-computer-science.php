@@ -11,18 +11,68 @@
     <!-- End Google Tag Manager (noscript) -->
     <header>
         <?php
-        include('navbar copy 2.php');
+        include('navbar.php');
         ?>
     </header>
+    
 
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
         <div><img src="images/banner/cs.jpg" class="img-responsive"></div>
     </section>
+    <style>
+        div.poco{
+            
+  position: fixed;
+  top: 15%;
+  padding: 5px;
+  height: fit-content;
+  /* padding-top: 0%; */
+  padding-bottom: 0%;
+  background-color: #000000;
+  color: white;
+  font-size: large;
+  /* border: 2px solid #4CAF50; */
+z-index: 999;
+        }
+        @media (max-width:500px) {
+            div.poco{ 
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size: small;
+            /* border: 2px solid #4CAF50; */
+          z-index: 999;
+        }}
+        @media (max-width:300px) {
+            div.poco{ 
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size:smaller;
+            /* border: 2px solid #4CAF50; */
+          z-index: 999;
+        }
+    }
+    </style>
+    <div class="poco" >
 
+        
+        <p> Computer Science & Engineering</p>
+        </div>
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
-                <h2 class="subheadWhite head">HEAD OF DEPARTMENT<span></span></h2>
+                <h2 class="subheadWhite head" style="color: black;">HEAD OF DEPARTMENT<span></span></h2>
                 <style>
                     .data_more_less_inner {
                         overflow: hidden;

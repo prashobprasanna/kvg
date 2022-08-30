@@ -482,4 +482,186 @@
                 }
             }
         </style>
+        <!-- admission open popup -->
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    <!-- <div class="elfsight-app-f940885a-ad3b-4772-9c04-408d15d4fc92"></div> -->
+
+
+    <div id="container">
+        <!-- Menu Button -->
+
+        <div class="menu-btn" style="z-index: 99999999999999999999999;">
+            <img src="images/get-quote-button.jpg" alt="get a quote">
+        </div>
+        <!-- Menu Button -->
+        <div class="clearfix"></div>
+        <!-- Menu Button -->
+        <div class="menu-btncont">
+            <p><a href="tel:+919845866528">+91 9845866528</a><br>
+                <a href="tel:08257231141">08257-231141</a>
+            </p>
+            <img src="images/call.jpg" alt="Call">
+        </div>
+        <div class="clearfix"></div>
+        <div class="menu-btncont topmenu">
+            <p>Mail To<br>
+                <a href="mailto:office@kvgengg.com">office@kvgengg.com</a>
+            </p>
+            <img src="images/mail.jpg" alt="Mail">
+        </div>
+    </div>
+
+
+
+    <!-- admission open popup close -->
+
+
+    <!-- social media -->
+    <!-- <link rel="stylesheet" href="./style.css"> -->
+    <style>
+        /* Code By Webdevtrick ( https://webdevtrick.com ) */
+        @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+        @import url(https://weloveiconfonts.com/api/?family=entypo);
+        @import url(https://icongr.am/entypo/instagram.svg?size=78&color=currentColor);
+
+
+        [class^="entypo-"]:before {
+            font-family: 'entypo', sans-serif;
+        }
+
+        /* body {
+  background: #e6e6e6; */
+        /* } */
+        #social-sidebar {
+            right: 0;
+            position: fixed;
+            top: 20%;
+            z-index: 989898;
+            /* opacity: 0.7; */
+        }
+
+        @media (max-width:767px) {
+            #social-sidebar {
+                right: 0;
+                position: fixed;
+                top: 30%;
+                z-index: 989898;
+                /* opacity: 0.7; */
+            }
+        }
+
+        #social-sidebar li:first-child a {
+            border-top-left-radius: 5px;
+        }
+
+        #social-sidebar li:last-child a {
+            border-bottom-left-radius: 5px;
+        }
+
+        #social-sidebar a {
+            background: #07294e;
+            color: #fff;
+            text-decoration: none;
+            display: block;
+            height: 50px;
+            width: 50px;
+            font-size: 24px;
+            line-height: 50px;
+            position: relative;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        #social-sidebar a:hover span {
+            right: 120%;
+            opacity: 1;
+        }
+
+        #social-sidebar a span {
+            font: 12px "Open Sans", sans-serif;
+            text-transform: uppercase;
+            border-radius: 0px;
+            line-height: 24px;
+            right: -100%;
+            margin-top: -16px;
+            opacity: 0;
+            padding: 4px 8px;
+            position: absolute;
+            transition: opacity .3s, left .4s;
+            top: 50%;
+            z-index: -1;
+        }
+
+        #social-sidebar a span:before {
+            content: "";
+            display: block;
+            height: 8px;
+            width: 8px;
+            right: -4px;
+            margin-top: -4px;
+            position: absolute;
+            top: 50%;
+            transform: rotate(45deg);
+        }
+
+        #social-sidebar a[class*="twitter"]:hover,
+        #social-sidebar a[class*="twitter"] span,
+        #social-sidebar a[class*="twitter"] span:before {
+            background: #00aced;
+        }
+
+        #social-sidebar a[class*="facebook"]:hover,
+        #social-sidebar a[class*="facebook"] span,
+        #social-sidebar a[class*="facebook"] span:before {
+            background: #3B5998;
+        }
+
+        #social-sidebar a[class*="gplus"]:hover,
+        #social-sidebar a[class*="gplus"] span,
+        #social-sidebar a[class*="gplus"] span:before {
+            background: #E34429;
+        }
+
+        #social-sidebar a[class*="dribbble"]:hover,
+        #social-sidebar a[class*="dribbble"] span,
+        #social-sidebar a[class*="dribbble"] span:before {
+            background: #ea4c89;
+        }
+
+        #social-sidebar a[class*="dropbox"]:hover,
+        #social-sidebar a[class*="dropbox"] span,
+        #social-sidebar a[class*="dropbox"] span:before {
+            background: #8DC5F2;
+        }
+
+        #social-sidebar a[class*="github"]:hover,
+        #social-sidebar a[class*="github"] span,
+        #social-sidebar a[class*="github"] span:before {
+            background: #9C7A5B;
+        }
+
+        #social-sidebar a[class*="instagrem"]:hover,
+        #social-sidebar a[class*="instagrem"] span,
+        #social-sidebar a[class*="instagrem"] span:before {
+            background: #f62782;
+        }
+    </style>
+
+    <ul id="social-sidebar">
+        <li>
+            <a class="entypo-twitter"><span>Twitter</span></a>
+        </li>
+
+        <li>
+            <a class="entypo-facebook" href="https://www.facebook.com/KVG-College-of-Engineering-105686592193925/?ref=page_internal" target="_blank"><span>Facebook</span></a>
+        </li>
+
+        <li>
+            <a href="https://www.instagram.com/p/Cf5jQe2p1Bb/?utm_source=ig_web_button_share_sheet" class="entypo-instagrem" target="_blank"><span>instagram</span></a>
+        </li>
+
+    </ul>
+<!--End social media -->
+
+
     </header>

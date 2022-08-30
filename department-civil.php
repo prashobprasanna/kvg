@@ -18,7 +18,56 @@
         <div><img src="images/banner/civil2.jpg" class="img-responsive"></div>
     </section>
 
+    <style>
+        div.poco{
+            
+  position: fixed;
+  top: 15%;
+  padding: 5px;
+  height: fit-content;
+  /* padding-top: 0%; */
+  padding-bottom: 0%;
+  background-color: #000000;
+  color: white;
+  font-size: large;
+  /* border: 2px solid #4CAF50; */
+z-index: 999;
+        }
+        @media (max-width:500px) {
+            div.poco{ 
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size: small;
+            /* border: 2px solid #4CAF50; */
+          z-index: 999;
+        }}
+        @media (max-width:300px) {
+            div.poco{ 
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size:smaller;
+            /* border: 2px solid #4CAF50; */
+          z-index: 999;
+        }
+    }
+    </style>
+    <div class="poco" >
 
+        
+        <p>Civil Engineering</p>
+        </div>
 
     <section class="home-facts-bg">
         <div class="container">

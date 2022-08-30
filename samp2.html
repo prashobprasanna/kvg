@@ -1,0 +1,537 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Teko:wght@600;700&display=swap');
+
+@-ms-viewport {
+	width: device-width;
+}
+
+
+.mlctr-popup {
+	/* master mandatory container, required by Mailocator */
+	/* z-index must be higher in DOM structure */
+	z-index: 109999999;
+  font-family: proxima-nova, 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+.mlctr-popup .mlctr-popup-stripe {
+	/* customize stripe */
+	text-align: center;
+	height: 50px;
+	/* min-height: calc(30px ); */
+	background-color: #2ac2dd;
+  -webkit-transition: height ease-out 0.2s;
+  -moz-transition: height ease-out 0.2s;
+	transition: height ease-out 0.2s;
+	/* stripe defaults */
+	position: fixed;
+  border-top: 5px solid #fff;
+	padding: 0 50px 0 30px;
+	bottom: 0px;
+	width: 100%;
+  z-index: 109999999;
+  box-sizing: border-box;
+}
+.mlctr-popup .mlctr-popup-stripe > a {
+	/* stripe roll-up button must be an anchor */
+	display: block;
+	text-align: left;
+	text-decoration: none;
+  padding: 15px 0 10px 0;
+  padding-top: calc(10px + 1.3vw);
+  padding-bottom: calc(10px + 1.2vw);
+  font-size: calc(14px + 2vw);
+  line-height: calc(16px + 2vw);
+  font-weight: 400;
+	color: #ffffff;
+}
+.mlctr-popup .mlctr-popup-stripe .mlctr-popup-content {
+	/* popup content is by default in hidden state */
+	display: none;
+}
+.mlctr-popup .mlctr-popup-stripe a.mlctr-close-icon {
+	display: block;
+	position: absolute;
+	right: 0px;
+	top: 50%;
+  font-size: 22px;
+  line-height: 36px;
+  margin-top: -20px;
+  padding: 0;
+}
+.mlctr-popup .mlctr-popup-stripe img.mlctr-close-icon {
+	max-width: calc(16px + 2vw);
+}
+.mlctr-popup .mlctr-popup-stripe a.mlctr-up {
+	display: block;
+	position: absolute;
+	left: 0px;
+	top: calc(-20px - 1.2vw);
+  margin: 0;
+  padding: 0;
+}
+.mlctr-popup .mlctr-popup-stripe img.mlctr-up {
+	max-width: calc(40px + 4vw);
+}
+/* ON CLICK */
+/* .mlctr-popup .mlctr-popup-stripe:target {
+  height: 100%;
+  background-color: RGBA(0,0,0,0.8);
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+.mlctr-popup .mlctr-popup-stripe:target > a {
+	display: none!important;
+}
+.mlctr-popup .mlctr-popup-stripe:target .mlctr-popup-content {
+	display: block;
+} */
+/* Close via CSS;alternative to mailocator.action.do('close') */
+/* .mlctr-popup:target {
+	display: none;
+	visibility: hidden;
+} */
+/* customizable popup content... */
+/* .mlctr-popup-content {
+  position: relative;
+	width: 100%;
+  height: 100%;
+	margin: 0;
+  padding: 0px;
+	text-align: center;
+	color: #000000;
+	box-sizing: border-box;
+}
+.mlctr-content-row {
+  position: relative;
+	width: 100%;
+  margin: 0;
+}
+.mlctr-form-box {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 100%;
+  max-width: 440px;
+  min-width: 220px;
+  min-height: 660px;
+  background: url(https://www.mlcdn.eu/data/rafiki/Bkg-m.jpg) center top no-repeat;
+  background-size: 100% auto;
+  background-color: #ffffff;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%) scale(1.0, 1.0);
+  -webkit-font-smoothing: subpixel-antialiased;
+  border: 0;
+	margin: 0px auto;
+  padding: 0;
+	-webkit-box-shadow: 0px 4px 16px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 4px 16px rgba(0,0,0,0.2);
+	box-shadow: 0px 4px 16px rgba(0,0,0,0.2);
+	text-align: center;
+}
+.mlctr-popup-content * {
+	box-sizing: border-box;
+}
+.mlctr-popup-content a {
+	color: #ffffff;
+}
+.mlctr-popup-content form {
+	width: 100%;
+	border: none;
+}
+.mlctr-headline {
+  position: relative;
+	width: 100%;
+  padding: 9% 0 0 0;
+	height: 360px;
+}
+.mlctr-content {
+  position: relative;
+	height: 138px;
+}
+.mlctr-popup-content h1 {
+	width: 100%;
+  font-family: 'Teko', Helvetica, Arial, sans-serif;
+  font-size: 100px;
+  line-height: 80px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #fff;
+  padding: 0 8%;
+  margin: 0 0 -2% 0;
+  text-shadow: 0px 1px 12px #000000;
+	box-sizing: border-box;
+}
+.mlctr-popup-content h1 span {
+  font-size: 0.65em;
+}
+.mlctr-popup-content h2 {
+  position: relative;
+	width: 100%;
+  text-align: left;
+  font-family: 'Teko', Helvetica, Arial, sans-serif;
+  color: #fff;
+  padding: 0 8%;
+  font-size: 38px;
+  line-height: 42px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-shadow: 0px 1px 8px #000000;
+  margin: 0;
+	box-sizing: border-box;
+}
+.mlctr-popup-content h2 span {
+  font-size: 1.2em;
+}
+.mlctr-popup-content p {
+	width: 100%;
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+  color: #fff;
+  padding: 0 8%;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  margin: 0;
+  text-shadow: 0px 1px 8px #000000;
+	box-sizing: border-box;
+}
+.mlctr-popup-content p.mlctr-star:before {
+  position: absolute;
+	content: '*';
+  color: #fff;
+  border: 0;
+  font-size: 18px;
+  font-weight: 400;
+  top: 4%;
+  left: 5.5%;
+}
+.mlctr-message-error {
+  display: block;
+  min-height: 15px;
+  font-size: 15px;
+  line-height: 16px;
+  margin: 1% 0 2% 0;
+  padding: 0 8%;
+  font-weight: bold;
+  text-align: left;
+  text-shadow: 0px 1px 8px #000000;
+  color: #ff6767;
+}
+.mlctr-popup-content input[type=text] {
+	height: 40px;
+  width: 100%;
+  max-width: 380px;
+	font-size: 18px;
+	color: rgba(0, 0, 0, 1);
+	padding: 4px 4%;
+	margin: 0;
+  font-family: proxima-nova, 'Open Sans', Helvetica, Arial, sans-serif;
+	background-color: #ffffff;
+	border: 1px solid #cacaca;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+  -webkit-transition: border ease-in-out .15s;
+  -moz-transition: border ease-in-out .15s;
+  transition: border ease-in-out .15s;
+  text-align: left;
+	box-sizing: border-box;
+	display: inline-block;
+  outline: 0;
+}
+.mlctr-popup-content input[type="text"]:focus {
+	border: 1px solid #e60000;
+  outline: 0;
+}
+.mlctr-popup-content input[type="submit"], .mlctr-popup-content input[type="button"] {
+	height: 54px;
+  width: 100%;
+  max-width: 380px;
+  font-size: 22px;
+  line-height: 24px;
+  padding: 0 0 3px 0;
+  margin: 8px 0 0 0;
+  background-color: #ddb62a;
+	border: 0;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+  color: #ffffff;
+	-webkit-transition: background-color .25s;
+	-moz-transition: background-color .25s;
+	transition: background-color .25s;
+  cursor: pointer;
+  font-family: proxima-nova, 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  box-sizing: border-box;
+	display: inline-block;
+  outline: 0;
+}
+.mlctr-popup-content input[type="button"] {
+  padding: 0;
+  margin: 8% 0 0 0;
+}
+.mlctr-popup-content input[type="submit"]:active, .mlctr-popup-content input[type="button"]:active {
+  font-size: 21.5px;
+  line-height: 25px;
+	-webkit-box-shadow: inset 2px 2px 6px rgba(0,0,0,0.65);
+	-moz-box-shadow: inset 2px 2px 6px rgba(0,0,0,0.65);
+	box-shadow: inset 2px 2px 6px rgba(0,0,0,0.65);
+  outline: 0;
+}
+.mlctr-privacy {
+  display: block;
+  background: none;
+  margin: 0;
+  height: auto;
+}
+a.mlctr-close {
+  display: block;
+  position: fixed;
+  right: 0px;
+  top: 0px;
+	width: calc(24px + 2.5vw);
+	max-width: 42px;
+  background: none;
+  opacity: 0.8;
+  cursor: pointer;
+}
+img.mlctr-close {
+	width: 100%;
+}
+.mlctr-close:active {
+  opacity: 1;
+}
+
+@media screen and (max-aspect-ratio: 9/10) and (max-width: 500px) {
+.mlctr-form-box {
+  width: 85%;
+  height: 130vw;
+  min-height: 332px;
+}
+.mlctr-headline {
+	height: calc(72vw - 14px);
+}
+.mlctr-content {
+	height: 27vw;
+}
+.mlctr-popup-content h1 {
+  font-size: calc(10px + 18vw);
+  line-height: calc(8px + 14.5vw);
+}
+.mlctr-popup-content h2 {
+  font-size: calc(4px + 6.6vw);
+  line-height: calc(5px + 6.8vw);
+}
+.mlctr-popup-content p {
+  font-size: calc(4px + 1.9vw);
+  line-height: calc(6px + 2.4vw);
+}
+.mlctr-popup-content p.mlctr-star:before {
+  font-size: calc(4px + 3vw);
+}
+.mlctr-message-error {
+  font-size: calc(8px + 1.2vw);
+  line-height: calc(10px + 1.5vw);
+  min-height: calc(2vw + 8px);
+}
+.mlctr-popup-content input[type=text] {
+  max-width: 88%;
+  font-size: calc(4px + 2.6vw);
+	height: calc(4px + 6.5vw);
+}
+.mlctr-popup-content input[type="submit"], .mlctr-popup-content input[type="button"] {
+  max-width: 88%;
+	height: calc(6px + 9vw);
+  font-size: calc(8px + 3vw);
+  line-height: calc(9px + 3.2vw);
+}
+.mlctr-popup-content input[type="submit"]:active, .mlctr-popup-content input[type="button"]:active {
+  font-size: calc(7.5px + 3vw);
+  line-height: calc(10px + 3.2vw);
+}
+a.mlctr-close {
+	width: calc(6px + 6vw);
+	height: calc(6px + 6vw);
+}
+}
+@media screen and (max-width: 255px) {
+.mlctr-headline {
+	height: 171px;
+}
+.mlctr-content {
+	height: 69px;
+}
+.mlctr-popup-content h1 {
+  font-size: 56px;
+  line-height: 45px;
+}
+.mlctr-popup-content h2 {
+  font-size: 21px;
+  line-height: 22px;
+}
+.mlctr-popup-content p {
+  font-size: 9px;
+  line-height: 12px;
+}
+.mlctr-popup-content p.mlctr-star:before {
+  font-size: 11px;
+}
+.mlctr-message-error {
+  font-size: 11px;
+  line-height: 14px;
+  min-height: 14px;
+}
+.mlctr-popup-content input[type=text] {
+  font-size: 11px;
+	height: 21px;
+}
+.mlctr-popup-content input[type="submit"], .mlctr-popup-content input[type="button"] {
+	height: 29px;
+  font-size: 16px;
+  line-height: 17px;
+}
+.mlctr-popup-content input[type="submit"]:active, .mlctr-popup-content input[type="button"]:active {
+  font-size: 15.5px;
+  line-height: 17px;
+}
+a.mlctr-close {
+	width: calc(6px + 6vw);
+	height: calc(6px + 6vw);
+}
+}
+@media screen and (min-aspect-ratio: 9/10) and (max-aspect-ratio: 5/4) {
+.mlctr-form-box {
+	top: calc(15% - 50px);
+}
+} */
+/* 
+@media (min-aspect-ratio: 5/4) {
+.mlctr-ls-hide {
+  display: none!important;
+}
+.mlctr-form-box {
+  max-width: 880px;
+  min-height: 500px;
+  background: url(https://www.mlcdn.eu/data/rafiki/Bkg.jpg) center top no-repeat;
+  background-size: 100% auto;
+  background-color: #fff;
+  padding: 0;
+}
+.mlctr-headline {
+  padding: 7% 0 0 0;
+	height: 290px;
+}
+.mlctr-content {
+	height: 96px;
+}
+.mlctr-popup-content h1 {
+  font-size: 140px;
+  line-height: 120px;
+  padding: 0 8%;
+}
+.mlctr-popup-content h2 {
+  font-size: 50px;
+  line-height: 52px;
+  letter-spacing: 0;
+  padding: 0 8%;
+}
+.mlctr-popup-content p {
+  padding: 0 35% 0 8%;
+  font-size: 19px;
+  line-height: 24px;
+  top: 10px;
+}
+.mlctr-popup-content p.mlctr-star:before {
+  font-size: 24px;
+  top: 2%;
+  left: 6%;
+}
+.mlctr-message-error {
+  font-size: 17px;
+  margin: 1% 0 1% 0;
+}
+.mlctr-popup-content input[type=text] {
+  width: 55%;
+  max-width: 55%;
+  padding-top: 4px;
+	max-height: 54px;
+	height: 54px;
+}
+.mlctr-popup-content input[type="submit"], .mlctr-popup-content input[type="button"]  {
+  width: 30%;
+	max-height: 54px;
+	height: 54px;
+  margin: 0 0 0 1.3%;
+}
+.mlctr-popup-content input[type="button"] {
+  margin: 4% 55% 0 0;
+}
+a.mlctr-close {
+	width: calc(8px + 3vw);
+	height: calc(8px + 3vw);
+  max-width: 50px;
+}
+}
+
+@media screen and (max-height: 600px) and (min-aspect-ratio: 5/4) {
+.mlctr-form-box {
+  max-width: 146vh;
+  min-height: 84vh;
+  padding: 0;
+}
+.mlctr-headline {
+	height: 48vh;
+}
+.mlctr-content {
+	height: 16vh;
+}
+.mlctr-popup-content h1 {
+  font-size: 24vh;
+  line-height: 19vh;
+}
+.mlctr-popup-content p {
+  font-size: calc(1px + 3vh);
+  line-height: calc(3px + 3.2vh);
+  padding: 0 30% 0 8%;
+}
+.mlctr-popup-content p.mlctr-star:before {
+  font-size: calc(1px + 4vh);
+}
+.mlctr-popup-content h2 {
+  font-size: 8.4vh;
+  line-height: 9.6vh;
+}
+.mlctr-message-error {
+  font-size: 3vh;
+  line-height: 3vh;
+  min-height: 3vh;
+}
+.mlctr-popup-content input[type=text] {
+  font-size: 3vh;
+  line-height: 3vh;
+  padding-top: 3px;
+  height: 9vh;
+}
+.mlctr-popup-content input[type="submit"], .mlctr-popup-content input[type="button"] {
+  font-size: 4vh;
+  line-height: 4vh;
+  height: 9vh;
+}
+.mlctr-popup-content input[type="submit"]:active, .mlctr-popup-content input[type="button"]:active {
+  font-size: calc(4vh - 0.5px);
+  line-height: 4vh;
+}} */
+</style>
+<body>
+    <div class="mlctr-popup" >
+		<div class="mlctr-popup-stripe"  >
+      <h2 style="color: white;">Department of Computer Science & Engineering</h2>
+     <br>
+		</div>
+</div>
+
+</body>
