@@ -469,10 +469,10 @@ z-index: 999;
                                     </blockquote>
                                 </li>
                             </ul>
-                            <div class="links1">
-                                <!-- <button class="follow">Follow</button> -->
-                                <button class="view">View Profile</button>
-                            </div>
+                            <!-- <div class="links1">
+                                <button class="follow">Follow</button> -->
+                                <!-- <button class="view">View Profile</button>
+                            </div>  -->
                         </div>
                     </div>
                 </center>

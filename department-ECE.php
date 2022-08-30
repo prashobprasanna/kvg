@@ -467,10 +467,10 @@ z-index: 999;
                                     </blockquote>
                                 </li>
                             </ul>
-                            <div class="links1">
+                            <!-- <div class="links1"> -->
                                 <!-- <button class="follow">Follow</button> -->
-                                <a href="profile/ec/Dr. Kusumadhara S.pdf" target="_blank"> <button class="view">View Profile</button></a>
-                            </div>
+                                <!-- <a href="profile/ec/Dr. Kusumadhara S.pdf" target="_blank"> <button class="view">View Profile</button></a>
+                            </div> -->
                         </div>
                     </div>
                 </center>
