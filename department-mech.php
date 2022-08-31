@@ -259,7 +259,7 @@
                         box-sizing: border-box;
                     }
 
-                    < !-- body {
+                    body {
                         font-family: 'Poppins', sans-serif;
                         align-items: center;
                         justify-content: center;
@@ -267,7 +267,7 @@
                         min-height: 100vh;
                     }
 
-                    -->img {
+                    img {
                         max-width: 100%;
                         display: block;
                     }
@@ -322,12 +322,13 @@
                         background-color: #4172f5aa;
                         top: -8rem;
                         right: -8rem;
-                        box-shadow: 2rem 6rem 0 -3rem #FFF
+                        box-shadow: 2rem 6rem 0 -3rem #c3daff;
+                        border-radius: 50%;
                     }
 
                     .card1 img {
                         float: left;
-                        width: 150rem;
+                        width: 100%;
                         min-width: 80px;
                         box-shadow: 0 0 0 5px #FFF;
                     }
@@ -405,37 +406,6 @@
 
                         .links1 button {
                             min-width: 100px;
-                        }
-                    }
-                </style>
-                <style>
-                    /* #myBtn1 {display: none;} */
-                    #myBtn1 {
-                        display: none;
-                    }
-
-                    #som {
-                        font-size: 25px;
-                    }
-
-                    @media (max-width:767px) {
-                        #som {
-                            font-size: 14px;
-                        }
-
-                        /* #nobq{display: none;} */
-                        #more1 {
-                            display: none;
-                        }
-
-                        #myBtn1 {
-                            display: inline;
-                        }
-
-                        #h3f {
-                            font-size: 16px;
-                            font-weight: solid;
-
                         }
                     }
                 </style>
