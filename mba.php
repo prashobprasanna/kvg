@@ -719,10 +719,10 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mrs. Immaculate Mary</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
+                                                                <h6 style="color:white"></h6>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/MBA/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>

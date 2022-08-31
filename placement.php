@@ -15,7 +15,7 @@
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
-                <h2 class="subheadWhite head">Training & Placement Officer<span></span></h2>
+                <h2 class="subheadWhite head" style="color: black;">Training & Placement Officer<span></span></h2>
                 <style>
                     .data_more_less_inner {
                         overflow: hidden;
@@ -103,13 +103,6 @@
                         height: fit-content;
                         font-family: 'Anek Bangla', sans-serif;
                         font-weight: bold;
-                    }
-
-                    .container {
-                        padding-right: 0px;
-                        padding-left: 0px;
-                        margin-right: auto;
-                        margin-left: auto;
                     }
 
                     .card {
@@ -207,7 +200,7 @@
                         box-sizing: border-box;
                     }
 
-                    < !-- body {
+                    body {
                         font-family: 'Poppins', sans-serif;
                         align-items: center;
                         justify-content: center;
@@ -215,7 +208,7 @@
                         min-height: 100vh;
                     }
 
-                    -->img {
+                    img {
                         max-width: 100%;
                         display: block;
                     }
@@ -238,7 +231,7 @@
                     .card1 {
                         padding: 2.5rem 2rem;
                         border-radius: 10px;
-                        background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
+                        background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
                         max-width: 90%;
                         box-shadow: 0 0 30px rgba(0, 0, 0, .15);
                         margin: 1rem;
@@ -270,19 +263,19 @@
                         background-color: #4172f5aa;
                         top: -8rem;
                         right: -8rem;
-                        box-shadow: 2rem 6rem 0 -3rem #FFF
+                        box-shadow: 2rem 6rem 0 -3rem #c3daff;
+                        border-radius: 50%;
                     }
 
                     .card1 img {
                         float: left;
-                        width: 150rem;
+                        width: 100%;
                         min-width: 80px;
                         box-shadow: 0 0 0 5px #FFF;
                     }
 
                     .infos {
                         margin-left: 1.5rem;
-                        margin-top: 8%;
                     }
 
                     .name {
@@ -741,7 +734,7 @@
 
 
                     </div>
-
+                    <br><br><br><br>
 
 
                     <div class="tab-pane fade" id="Faculty">
@@ -1016,7 +1009,7 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div>
-                                    <img src="images/placement/1.jpg" >
+                                    <img src="images/placement/1.jpg">
                                 </div>
                             </div>
                             <div class="col-md-4">
@@ -1051,6 +1044,548 @@
                             </div> -->
 
                         </div>
+                        <h3>Computer Science & Engineering</h3>
+                        <div class="row">
+                            <style>
+                                #customers {
+                                    font-family: Arial, Helvetica, sans-serif;
+                                    border-collapse: collapse;
+                                    width: 100%;
+                                }
+
+                                #customers td,
+                                #customers th {
+                                    border: 1px solid #ddd;
+                                    padding: 8px;
+                                }
+
+                                #customers tr:nth-child(even) {
+                                    background-color: #f2f2f2;
+                                }
+
+                                #customers tr:hover {
+                                    background-color: #ddd;
+                                }
+
+                                #customers th {
+                                    padding-top: 12px;
+                                    padding-bottom: 12px;
+                                    text-align: left;
+                                    background-color: #04AA6D;
+                                    color: white;
+                                }
+                            </style>
+                            <table id="customers">
+                                <tr>
+                                    <th>SL.NO</th>
+                                    <th>Name</th>
+                                    <th>Company</th>
+
+
+                                </tr>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Ashwini H K</td>
+                                    <td>Tata Consultancy Services, Infosys,IBM </td>
+
+
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Akash D R</td>
+
+                                    <td>Tata Consultancy Services, Wipfli,ChipSync </td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Shwetha A</td>
+                                    <td>Tata Consultancy Services </td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>Vyshna V</td>
+                                    <td>Tata Consultancy Services </td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>Raksha M</td>
+                                    <td>Sasken </td>
+
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>Nikhil A L</td>
+                                    <td>Infosys, SignDesk </td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>Ajna H M</td>
+                                    <td>Talentpace, Cognitive clouds, Palle Technologies, Capgemini </td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>Ambika P</td>
+                                    <td>Cognitive clouds, Teachnook, Accord Glogal Technological Solution</td>
+
+                                </tr>
+                                <tr>
+                                    <td>9</td>
+                                    <td>Chandana B</td>
+                                    <td>Capgemini, Robosoft Technologies, Teachnook, Accord Glogal Technological Solution </td>
+
+                                </tr>
+                                <tr>
+                                    <td>10</td>
+                                    <td>Smitha Bantwal</td>
+                                    <td>Global Quest Technologies, Teachnook</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>11</td>
+                                    <td>Nishmitha M N</td>
+                                    <td>Global Quest Technologies, Teachnook, Pentagon Space, Brigosha Technologies</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>12</td>
+                                    <td>Apoorva P R</td>
+
+                                    <td>Palle Technologies, Code Craft Technologies, Accord Glogal Technological Solution </td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>13</td>
+                                    <td>Harshith Rai Y N</td>
+                                    <td>Palle Technologies</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>14</td>
+                                    <td>Krishna Shravan</td>
+                                    <td>Palle Technologies, Wipfli</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>15</td>
+                                    <td>Manoj S G</td>
+                                    <td>Palle Technologies, Capgemini</td>
+                                </tr>
+                                <tr>
+                                    <td>16</td>
+                                    <td>Kedar S P</td>
+                                    <td>Palle Technologies, Capgemini</td>
+                                </tr>
+
+                                <tr>
+                                    <td>17</td>
+                                    <td>Sushmitha N V</td>
+                                    <td>Palle Technologies, Wipfli, Accord Glogal Technological Solution</td>
+                                </tr>
+
+                                <tr>
+                                    <td>18</td>
+                                    <td>Arshriya R N</td>
+                                    <td>Accord Glogal Technological Solution, QSpiders</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>19</td>
+                                    <td>Nidhi T S</td>
+                                    <td>QSpiders</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>20/td>
+                                    <td>Nithish N Devadiga</td>
+                                    <td>QSpiders</td>
+                                </tr>
+
+                                <tr>
+                                    <td>21</td>
+                                    <td>Pavan B B</td>
+                                    <td>QSpiders</td>
+                                </tr>
+
+                                <tr>
+                                    <td>22</td>
+                                    <td>Prajna T N</td>
+                                    <td>QSpiders</td>
+                                </tr>
+
+                                <tr>
+                                    <td>23</td>
+                                    <td>Yashaswini</td>
+                                    <td>QSpiders</td>
+                                </tr>
+                                <tr>
+                                    <td>24</td>
+                                    <td>Shreya M C</td>
+                                    <td>QSpiders,Code Craft Technologies,Capgemini</td>
+                                </tr>
+
+                                <tr>
+                                    <td>25</td>
+                                    <td>Dhanya P R</td>
+                                    <td>QSpiders, Teachnook, Skolar, Wipfli, Accord Glogal Technological Solution</td>
+                                </tr>
+
+                                <tr>
+                                    <td>26</td>
+                                    <td>Namrutha K R</td>
+                                    <td>QSpiders,Teachnook</td>
+                                </tr>
+
+                                <tr>
+                                    <td>27</td>
+                                    <td>Nishmitha KV</td>
+                                    <td>Teachnook,Continental</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>28</td>
+                                    <td>Prashanthi K G </td>
+                                    <td>QSpiders, Teachnook</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>29</td>
+                                    <td>Shreya A </td>
+                                    <td>Teachnook, Capgemini</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>29</td>
+                                    <td>Shamitha J Rai </td>
+                                    <td>Skolar</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>30</td>
+                                    <td>Faiza M B</td>
+                                    <td>Skolar</td>
+
+                                </tr>
+                                <tr>
+                                    <td>31</td>
+                                    <td>Darshan B</td>
+                                    <td>Wipfli</td>
+
+                                </tr>
+                                <tr>
+                                    <td>32</td>
+                                    <td>Mahammad Sinan B H</td>
+                                    <td>Wipfli</td>
+
+                                </tr>
+                                <tr>
+                                    <td>33</td>
+                                    <td>Preethika M P</td>
+                                    <td>Wipfli</td>
+
+                                </tr>
+                                <tr>
+                                    <td>34</td>
+                                    <td>Priya C R</td>
+                                    <td>Wipfli,ChipSync</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>35</td>
+                                    <td>Druva K N</td>
+                                    <td>KodNest</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>36</td>
+                                    <td>Harinandan Praveen</td>
+                                    <td>KodNest</td>
+
+                                </tr>
+                                <tr>
+                                    <td>37</td>
+                                    <td>Abdul Basheer M</td>
+                                    <td>KodNest</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>38</td>
+                                    <td>Madhura A K</td>
+                                    <td>KodNest</td>
+
+                                </tr>
+                                <tr>
+                                    <td>39</td>
+                                    <td>Madhura U S</td>
+                                    <td>KodNest</td>
+
+                                </tr>
+                                <tr>
+                                    <td>40</td>
+                                    <td>Sahana</td>
+                                    <td>TAP Academy</td>
+
+                                </tr>
+                                <tr>
+                                    <td>41</td>
+                                    <td>Sahana</td>
+                                    <td>TAP Academy</td>
+
+                                </tr>
+
+                            </table>
+                        </div>
+
+                        <h3>Electronics & Communication Engineering</h3>
+
+                        <div class="row">
+                            <style>
+                                #customers {
+                                    font-family: Arial, Helvetica, sans-serif;
+                                    border-collapse: collapse;
+                                    width: 100%;
+                                }
+
+                                #customers td,
+                                #customers th {
+                                    border: 1px solid #ddd;
+                                    padding: 8px;
+                                }
+
+                                #customers tr:nth-child(even) {
+                                    background-color: #f2f2f2;
+                                }
+
+                                #customers tr:hover {
+                                    background-color: #ddd;
+                                }
+
+                                #customers th {
+                                    padding-top: 12px;
+                                    padding-bottom: 12px;
+                                    text-align: left;
+                                    background-color: #04AA6D;
+                                    color: white;
+                                }
+                            </style>
+                            <table id="customers">
+                                <tr>
+                                    <th>SL.NO</th>
+                                    <th>Name</th>
+                                    <th>Company</th>
+
+                                </tr>
+                                <tr>
+                                    <td>1</td>
+                                    <td>MAHIMA KAMATH N</td>
+                                    <td>SLK SOFTWARE</td>
+
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>ABHILASH K GEORGE</td>
+                                    <td>ROBOSFT TECHNOLOGY</td>
+
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>PRAKASH NAYAK P</td>
+                                    <td>ROBOSFT TECHNOLOGY & CHEGG INDIA PVT. LTD.</td>
+
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>VINEETH K H</td>
+                                    <td>TECHNOLOGICS GLOBAL PVT. LTD. & LAURUS INFOSYSTEMS (India) PVT. LTD</td>
+
+
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>SAGAR GOPAL NAIK</td>
+                                    <td>INFOSYS & CHEGG INDIA PVT. LTD.</td>
+
+
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>SUJITH RAI M</td>
+                                    <td>CHEGG INDIA PVT. LTD. & EPIANCE SOFTWARE PVT. LTD.</td>
+
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>AHMED RAZA</td>
+                                    <td>DIYA SYSTEMS & NTT DATA</td>
+
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>BHAVISHA K H</td>
+                                    <td>SANESQUARE TECHNOLOGY PVT. LTD. & NTT DATA</td>
+
+                                </tr>
+                                <tr>
+                                    <td>9</td>
+                                    <td>DEEKSHA AMIN</td>
+                                    <td>Jspider & DXC TECHNOLOGY</td>
+
+                                </tr>
+                                <tr>
+                                    <td>10</td>
+                                    <td>GAGANA</td>
+                                    <td>QSPIDERS</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>11</td>
+                                    <td>JAHNAVI J</td>
+                                    <td>Jspider & DXC TECHNOLOGY</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>12</td>
+                                    <td>JASMITHA P S</td>
+                                    <td>QSPIDERS</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>13</td>
+                                    <td>KAVYASHREE K P</td>
+                                    <td>QSPIDERS</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>14</td>
+                                    <td>NAMRATHA S</td>
+                                    <td>QSPIDERS & Alchemy</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>15</td>
+                                    <td>NIREEKSHA M J</td>
+                                    <td>QSPIDERS & NTT DATA</td>
+
+                                </tr>
+                                <tr>
+                                    <td>16</td>
+                                    <td>SHAILESH M S</td>
+                                    <td>SANESQUARE TECHNOLOGY & L&T Technology Servive</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>17</td>
+                                    <td>SHREEJA RAI M</td>
+                                    <td>QSPIDERS & INFOSYS</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>18</td>
+                                    <td>PRUTHVI K</td>
+                                    <td>INFOSYS</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>19</td>
+                                    <td>SNEHA A G</td>
+                                    <td>QSPIDERS</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>20/td>
+                                    <td>SPOORTHI B G</td>
+                                    <td>QSPIDERS & Informatica Business Solutions Pvt. Ltd.</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>21</td>
+                                    <td>THRUPTHI K K</td>
+                                    <td>World Line Global</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>22</td>
+                                    <td>VINOD ISHWAR PATGAR</td>
+                                    <td>QSPIDERS & Chegg India Pvt. Ltd. & NTT DATA & L&T Technology Servive</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>23</td>
+                                    <td>K. R SHISHIR KRISHNA</td>
+                                    <td>NTT DATA</td>
+
+                                </tr>
+                                <tr>
+                                    <td>24</td>
+                                    <td>ABDUL SABAD A G</td>
+                                    <td>NTT DATA</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>25</td>
+                                    <td>LAKSHMI D K</td>
+                                    <td>NTT DATA & ARIS GLOBAL</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>26</td>
+                                    <td>Krithika Shagrith AS</td>
+                                    <td>Harman Connected Services</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>27</td>
+                                    <td>Raveesha N</td>
+                                    <td>CHEGG INDIA PVT. LTD.</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>28</td>
+                                    <td>YAJNESH N U </td>
+                                    <td>INFOSYS & CAPGEMINI.</td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>29</td>
+                                    <td>SINCHANA A </td>
+                                    <td>TATA CNSULTANCY SERVICES</td>
+
+                                </tr>
+                            </table>
+                        </div>
+
+
+
                     </div>
 
                     <style>
