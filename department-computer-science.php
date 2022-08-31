@@ -32,7 +32,7 @@
             color: white;
             font-size: large;
             /* border: 2px solid #4CAF50; */
-            z-index: 999;
+            z-index: 979;
         }
 
         @media (max-width:500px) {
@@ -47,7 +47,7 @@
                 color: white;
                 font-size: small;
                 /* border: 2px solid #4CAF50; */
-                z-index: 999;
+                z-index: 979;
             }
         }
 
@@ -63,7 +63,7 @@
                 color: white;
                 font-size: smaller;
                 /* border: 2px solid #4CAF50; */
-                z-index: 999;
+                z-index: 979;
             }
         }
     </style>
