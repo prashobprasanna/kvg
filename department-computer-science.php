@@ -853,7 +853,7 @@
 
 
                         </div>
-<br><br><br><br>
+                        <br><br><br><br>
                         <div class="tab-pane fade" id="Faculty">
                             <!-- <ul class="nav nav-tabs tabtop tabsetting">
                                     <li class="active">
@@ -976,11 +976,30 @@
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/ujwal sir.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Dr. Ujwal U J</h4>
+                                                                <h5 style="color:white">Professor</h5>
+                                                                <h5 style="color:white">MCA,Ph.D</h5>
+                                                                <div class="social-links">
+
+                                                                    <a href="profile\cs\Dr_Ujwal.pdf"><i class="fab fa-creative-commons-by"></i></a>
+
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
                                                                 <img src="admin-kvgce/photos/faculty/smitha-mam.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. Smitha M L</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">MCA, Ph.D</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Faculty_Smitha.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -998,7 +1017,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. Savitha C K</h4>
-                                                                <h6 style="color:white">Date of Join : 23-8-2004</h6>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">MCA, Ph.D</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Savitha_Faculty.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1016,7 +1036,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. Prajna M R</h4>
-                                                                <h6 style="color:white">Date of Join : 8-9-2005</h6>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">M.Tech, Ph.D</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Faculty_Prajna.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1033,7 +1054,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Bhagyajyothi K L</h4>
-                                                                <h6 style="color:white">Date of Join :23-08-2004</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">MCA, Ph.D</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Bhagya_faculty.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1049,7 +1071,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Divya A K</h4>
-                                                                <h6 style="color:white">Date of Join :14-6-2012</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">M.Tech, (Ph.D)</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/DIVYA AK.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1085,7 +1108,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Balapradeep K N</h4>
-                                                                <h6 style="color:white">Date of Join :13-08-2007</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">M.Tech, (Ph.D)</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Faculty_Balapradeep.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1101,7 +1125,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Kishore Kumar K</h4>
-                                                                <h6 style="color:white">Date of Join :15-08-2006</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Faculty_Kishor.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1116,7 +1141,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Venkatesh U C</h4>
-                                                                <h6 style="color:white">Date of Join :17-08-2007</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">M.Tech, (Ph.D)</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Facultyvenktesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1131,7 +1157,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Sindhu Venkatesh</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1146,7 +1173,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Yashaswini K L</h4>
-                                                                <h6 style="color:white">Date of Join :15-07-2013</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Faculty_Yashaswini (1).pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1161,7 +1189,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Bhavya P S</h4>
-                                                                <h6 style="color:white">Date of Join :08-08-2017</h6>
+                                                                <h5 style="color:white">Associate Proffessor</h5>
+                                                                <h5 style="color:white">M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/bhavya_faculty_profile.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1176,20 +1205,112 @@
 
 
 
-                                                    <!-- <div class="col-lg-3 col-md-6">
+                                                    <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/sonia-mam.jpg" class="img-fluid" alt="">
+                                                                <img src="profile/cs/non teaching/ganesh.JPG" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Prof. Sonia Peal K P</h4>
+                                                                <h4>Mr.Ganesh</h4>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="profile/cs"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div> -->
+                                                    </div>
+
+
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="profile/cs/non teaching/harish.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr.Harish</h4>
+                                                                <span></span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/cs"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="profile\cs\non teaching\lokesh.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr.Lokesh</h4>
+                                                                <span></span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/cs"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="profile\cs\non teaching\murali.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr.Murali</h4>
+                                                                <span></span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/cs"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="profile\cs\non teaching\rekha.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mrs.Rekha M V</h4>
+                                                                <span></span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/cs"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="profile\cs\non teaching\theerthram.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr.Theertharam</h4>
+                                                                <span></span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/cs"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="profile\cs\non teaching\vinay.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr.Vinay Kumar S</h4>
+                                                                <span></span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/cs"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
 
                                                 </div>
                                             </div>
@@ -1592,29 +1713,65 @@
                                 <div class="department-activities">
                                     <h2>CENSA has organized cultural event “ERROR” Compile-Run-Have Fun on 1st January 2022</h2>
                                     <div class="department-activities-img gallery">
-
-
                                         <img src="images/newsandevents/act1.png" class="img-responsive" style="max-width:350px">
-
-
-
-
                                     </div>
-
-
-
-
-
-
-
-
                                     <span style="font-size: 12pt; line-height: 107%; font-family: " times="" new="" roman",="" serif;"="">CENSA has organized cultural event “ERROR” Compile-Run-Have Fun on 1st January 2022.</span> </p>
                                 </div>
                             </div>
 
+                            <div class="department-activities-box">
+                                <div class="department-activities">
+                                    <h2> CS&E Department has organized a Webinar on “Intellectual Property
+                                        Rights” on 27th May, 2021.</h2>
+                                    <div class="department-activities-img gallery">
+                                        <img src="images/newsandevents/act1.png" class="img-responsive" style="max-width:350px">
+                                    </div>
+                                    <span style="font-size: 12pt; line-height: 107%; font-family: " times="" new="" roman",="" serif;"="">Dr. G B Krishnappa, Deen R & D, Professor,
+                                        Department of Mechanical Engineering, VVCE, Mysuru engaged as
+                                        resource person..</span> </p>
+                                </div>
+                            </div>
 
+                            <div class="department-activities-box">
+                                <div class="department-activities">
+                                    <h2>CS&E Department has organized a Webinar on “Employability Skills for
 
+                                        the Future” on 19th Jun, 2021.</h2>
+                                    <div class="department-activities-img gallery">
+                                        <img src="images/newsandevents/act1.png" class="img-responsive" style="max-width:350px">
+                                    </div>
+                                    <span style="font-size: 12pt; line-height: 107%; font-family: " times="" new="" roman",="" serif;"="">Mr. Venkatesh Neelam, Deputy Manager-
+                                        HR, Volvo engaged as resource person.</span> </p>
+                                </div>
+                            </div>
 
+                            <div class="department-activities-box">
+                                <div class="department-activities">
+                                    <h2>CS&E Department has organized a Webinar on “Understanding
+                                        Entrepreneurship and Startup Ecosystem” on 1st July, 2021.</h2>
+                                    <div class="department-activities-img gallery">
+                                        <img src="images/newsandevents/act1.png" class="img-responsive" style="max-width:350px">
+                                    </div>
+                                    <span style="font-size: 12pt; line-height: 107%; font-family: " times="" new="" roman",="" serif;"="">Mr. Vijay
+                                        D R, Founder and Director, Herowin Technologies Private Limited,
+                                        Mysuru engaged as resource person..</span> </p>
+                                </div>
+                            </div>
+
+                            <div class="department-activities-box">
+                                <div class="department-activities">
+                                    <h2>CS&E Department has organized a Skill Development Program on
+                                        “Application Development using Android Studio” for 6th semester CS&E
+                                        students on 23rd and 24th August, 2021.</h2>
+                                    <div class="department-activities-img gallery">
+                                        <img src="images/newsandevents/act1.png" class="img-responsive" style="max-width:350px">
+                                    </div>
+                                    <span style="font-size: 12pt; line-height: 107%; font-family: " times="" new="" roman",="" serif;"="">Mr. Nithin Kumar, Assistant
+                                        Professor, Dept.of CSE, VVCE, Mysuru and Mrs. Usha C S, Assistant
+                                        Professor, Dept.of CSE, VVCE, Mysuru were engaged as resource
+                                        person.</span> </p>
+                                </div>
+                            </div>
 
 
                         </div>
