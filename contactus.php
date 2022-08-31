@@ -641,20 +641,20 @@
                 <form action="/Contact" enctype="multipart/form-data" method="post">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <label for="name">
+                            <label for="name" style="color:white;">
                                 Name
                             </label>
                             <div class="input-group" style="height: 45px;">
                                 <span class="input-group-addon">
                                     <span class="glyphicon glyphicon-user"></span>
                                 </span>
-                                <input class="form-control textbx" id="fname" name="fname" placeholder="Name" required="required" style="height: 45px;" type="text" value="">
+                                <input class="form-control textbx" id="name" name="fname" placeholder="Name" required="required" style="height: 45px;" type="text" value="">
 
                                 <!--<input class="form-control textbx" id="fname" name="fname" required="required" type="text" value="" />-->
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="email">
+                            <label for="phno" style="color:white;">
                                 Phone Number
                             </label>
                             <div class="input-group" style="height: 45px;">
@@ -668,7 +668,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="email">
+                            <label for="email" style="color:white;">
                                 Email Address
                             </label>
                             <div class="input-group" style="height: 45px;">
@@ -685,14 +685,14 @@
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                            <label for="name">
+                            <label for="name" style="color:white;">
                                 Message
                             </label>
                             <div class="input-group" style="height: 223px;">
                                 <span class="input-group-addon">
                                     <span class="glyphicon glyphicon-pencil"></span>
                                 </span>
-                                <textarea class="form-control" cols="25" id="mesg" name="mesg" placeholder="Messages" required="required" rows="11"></textarea>
+                                <textarea class="form-control" cols="25" id="msg" name="mesg" placeholder="Messages" required="required" rows="11" style="color:black;"></textarea>
 
 
                                 <!--<textarea class="form-control" cols="30" id="Message" name="mesg" required="required" rows="8" style="min-height: 183px;">
@@ -700,12 +700,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="clearfix"></div>
-                    <div class="col-md-12">
-                        <button type="submit" class="btn btn-primary pull-right" id="btnContactUs" style="box-shadow: inset 0 -6px 40px rgba(255, 152, 0, 0);width: 100px;">
-                            Send...
-                        </button>
-                    </div>
+                    <!-- <div class="clearfix"></div> -->
+                    <!-- <div class="col-md-12"> -->
+                    <button type="button" class="subscribe__btn" onclick="gotowhatsappcontact()"><i class="fa fa-paper-plane-o"></i></button>
+                            
+                    <!-- </div> -->
                 </form>
             </div><br>
         </div>
@@ -720,6 +719,40 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3894.4559022269727!2d75.38274951437012!3d12.552161991132033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba4f2f67e5da441%3A0x551d1a165657bfc4!2sK.V.G.+College+of+Engineering!5e0!3m2!1sen!2sin!4v1514556790073" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
         </div><br>
     </section>
+
+
+
+
+<!-- whatsapp -->
+<script>
+    function gotowhatsappcontact() {
+
+        // var name = document.getElementById("name").value;
+        // var phone = document.getElementById("phone").value;
+        var name = document.getElementById("name").value;
+        var phno = document.getElementById("phno").value;
+        var email = document.getElementById("email").value;
+        var msg = document.getElementById("msg").value;
+        // var service = document.getElementById("service").value;
+        // https://api.whatsapp.com/send?text
+        var url = "https://api.whatsapp.com/send?phone=7618752850&text=" +
+            "Contacting KVGCE:" + "%0a"+
+
+            
+            "Name: " + name + "%0a"+
+            "Phno: " + Phno + "%0a"+
+            "Email: " + email + "%0a"+
+            "Message: " + msg + "%0a";
+        // + "Service: " + service +"\n";
+
+
+        window.open(url, '_blank').focus();
+    }
+</script>
+
+
+
+<!-- whatsapp end -->
 
     <!-- footer> -->
     <?php include('footer.php') ?>

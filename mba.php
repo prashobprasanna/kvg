@@ -745,7 +745,7 @@
 >>>>>>> Stashed changes
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/MBA/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/MBA/MARY.pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -758,8 +758,12 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mr. Manohara A N</h4>
+<<<<<<< Updated upstream
                                                                 <h5 style="color:white">Assistant Professor</h5>
                                                                 <h5 style="color:white">M.Sc.,MBA</h5>
+=======
+                                                                <h6 style="color:white"></h6>
+>>>>>>> Stashed changes
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -775,11 +779,15 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mrs. Srimani K</h4>
+<<<<<<< Updated upstream
                                                                 <h5 style="color:white">Assistant Professor</h5>
                                                                 <h5 style="color:white">MBA</h5>
+=======
+                                                                <h6 style="color:white"></h6>
+>>>>>>> Stashed changes
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/MBA/shrimani.pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>

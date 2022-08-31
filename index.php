@@ -698,7 +698,7 @@
             </div>
         </div>
         <div class="news-card">
-            <a href="mba.php" class="news-card__card-link"></a>
+            <a href="department-civil.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/mba.jpg" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
                 <h3 class="news-card__title">Master In Bussiness Administration</h3>
@@ -750,7 +750,7 @@
         }
 
         .u-section-2 .u-text-1 {
-            font-size: 3rem;
+            font-size: 2rem;
             margin: -276px 0 0 375px
         }
 
@@ -781,7 +781,7 @@
         }
 
         .u-section-2 .u-text-3 {
-            font-size: 3rem;
+            font-size: 2rem;
             margin: -276px 0 0 377px
         }
 
@@ -987,7 +987,7 @@
                             <div class="u-container1-layout u-valign-top u-container1-layout-1">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
                                 <img src="images/newsandevents/tishan.jpeg" alt="" class="u-image u-image-default u-image-1" data-image-width="720" data-image-height="1080">
-                                <h2 class="u-text u-text-1">Agniveer Road Race</h2>
+                                <h3 class="u-text u-text-1">Agniveer Road Race</h3>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-2"> Our proud First year CS student TISHAN A M. participated in Agniveer 3Km road race(madikeri)on
                                     7-08-2022. won the ( 2nd place) silver medal. Out of 106 participants</p>
                                 <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a> -->
@@ -997,7 +997,7 @@
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
                                 <!-- <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067"> -->
-                                <h2 class="u-text u-text-3">FAREWELL-2022</h2>
+                                <h3 class="u-text u-text-3">FAREWELL-2022</h3>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-4">Great is the art of beginning,but
                                     greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
                                     of 2022 batch was conducted in the college auditorium on 21st July 2022.The function was presided by
@@ -1013,7 +1013,7 @@
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
                                 <img src="images/newsandevents/expo1.jpeg" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
-                                <h2 class="u-text u-text-3">EXPO-2K22</h2>
+                                <h3 class="u-text u-text-3">EXPO-2K22</h3>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-4">Here K V G C E is providing platform for students to showcase their
                                     talent Presenting "EXPO-2K22" The student project exhibition.
                                     The program was presided by CEO of KVGCE Dr Ujwal U J & the program
@@ -1830,15 +1830,7 @@
 
         </head>
 
-<style>
-    .centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 99999999;
-}
-</style>
+
 
         <strong>
             <div class="header-fullname" style="font-size: 30px;text-align: center;">
@@ -1846,8 +1838,9 @@
         </strong>
 
         <ul class="sliderfk">
+
            <figure><li><img src="images/gallery/first.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure> 
-            <!-- <div class="centered">Centered</div> -->
+        
             <figure><li><img src="images/gallery/two.jpg" alt=""></li><figcaption><strong> Your label goes here</strong></figcaption></figure>
             <figure><li><img src="images/gallery/civil1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
             <figure><li><img src="images/gallery/civil2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
@@ -1858,7 +1851,8 @@
             <figure><li><img src="images/gallery/mech1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
             <figure><li><img src="images/gallery/mech2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
 
-            <!--/sliderfk-->
+
+            
         </ul>
 
 
@@ -1877,7 +1871,7 @@
 
         <br>
 
-
+       
 
 
 

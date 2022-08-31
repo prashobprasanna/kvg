@@ -600,9 +600,9 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li>Impart Education in the ﬁeld of Mechanical Engineering and Allied Sciences through Teaching- Learning Process.</li>
-                                                                    <li>Implement thriving environment for interaction with Industry for Enriching Knowledge in Mechanical Engineering.</li>
-                                                                    <li>Encourage our Students to practice interpersonal Skills and Ethics through Social Outreach.</li>
+                                                                    <li><B>ME 01: </B>Impart Education in the ﬁeld of Mechanical Engineering and Allied Sciences through Teaching- Learning Process.</li>
+                                                                    <li><B>ME 02: </B>Implement thriving environment for interaction with Industry for Enriching Knowledge in Mechanical Engineering.</li>
+                                                                    <li><B>ME 03: </B>Encourage our Students to practice interpersonal Skills and Ethics through Social Outreach.</li>
                                                                 </ul>
                                                                 </p>
                                                             </div>
@@ -616,11 +616,11 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li>Proficiency in the field of mechanical engineering and allied sciences and to apply them in effective design, analysis and development of product and process.
+                                                                    <li><b>PE 01: </b>Proficiency in the field of mechanical engineering and allied sciences and to apply them in effective design, analysis and development of product and process.
                                                                     </li>
-                                                                    <li>Motivation to pursue research and challenging projects in various avenues of Mechanical Engineering.</li>
-                                                                    <li>Imbibe communication, teamwork and leadership skills along with persistence and perseverance to solve challenging problems in the physical world.</li>
-                                                                    <li>Commitment towards social and ethical responsibilities with fervor for lifelong learning.
+                                                                    <li><b>PE 02: </b>Motivation to pursue research and challenging projects in various avenues of Mechanical Engineering.</li>
+                                                                    <li><b>PE 03: </b>Imbibe communication, teamwork and leadership skills along with persistence and perseverance to solve challenging problems in the physical world.</li>
+                                                                    <li><b>PE 04: </b>Commitment towards social and ethical responsibilities with fervor for lifelong learning.
                                                                     </li>
                                                                 </ul>
                                                                 </p>
@@ -636,46 +636,46 @@
                                                                 <p>
                                                                 <ul class="list">
 
-                                                                    <li>Engineering Knowledge: To apply the knowledge of mathematics, science,
+                                                                    <li><b>PO1: </b>Engineering Knowledge: To apply the knowledge of mathematics, science,
                                                                         engineering fundamentals, and an engineering specialization to the solution
                                                                         of complex engineering problems</li>
-                                                                    <li>Problem Analysis: Identify, formulate, review research literature, and
+                                                                    <li><b>PO2: </b>Problem Analysis: Identify, formulate, review research literature, and
                                                                         analyze complex Engineering problems reaching substantiated conclusions
                                                                         using first principles of mathematics, natural sciences, and engineering
                                                                         sciences.</li>
-                                                                    <li>Design/Development of Solutions: Design solutions for complex engineering
+                                                                    <li><b>PO3: </b>Design/Development of Solutions: Design solutions for complex engineering
                                                                         problems and design system components or processes that meet the specified
                                                                         needs with appropriate considerations for the public health and safety, and
                                                                         the cultural, societal, and environmental considerations</li>
-                                                                    <li>Use research-based knowledge and research methods including design of
+                                                                    <li><b>PO4: </b>Use research-based knowledge and research methods including design of
                                                                         experiments, analysis and interpretation of data, and synthesis of the
                                                                         information to provide valid conclusions.</li>
-                                                                    <li>Create, select, and apply appropriate techniques, resources, and modern
+                                                                    <li><b>PO5: </b>Create, select, and apply appropriate techniques, resources, and modern
                                                                         engineering and IT tools including prediction and modeling to complex
                                                                         engineering activities with an understanding of the limitations.</li>
-                                                                    <li>Apply reasoning informed by the contextual knowledge to assess societal,
+                                                                    <li><b>PO6: </b>Apply reasoning informed by the contextual knowledge to assess societal,
                                                                         health, safety, legal and cultural issues and the consequent
                                                                         responsibilities relevant to the professional engineering practice.</li>
-                                                                    <li>Understand the impact of the professional engineering solutions in societal
+                                                                    <li><b>PO7: </b>Understand the impact of the professional engineering solutions in societal
                                                                         and environmental contexts, and demonstrate the knowledge of, and need for
                                                                         sustainable development.</li>
-                                                                    <li>Apply ethical principles and commit to professional ethics and
+                                                                    <li><b>PO8: </b>Apply ethical principles and commit to professional ethics and
                                                                         responsibilities
                                                                         and norms of the engineering practice.</li>
-                                                                    <li>Function effectively as an individual, and as a member or leader in diverse
+                                                                    <li><b>PO9: </b>Function effectively as an individual, and as a member or leader in diverse
                                                                         teams, and in multidisciplinary settings.</li>
-                                                                    <li>Communicate effectively on complex engineering activities with the
+                                                                    <li><b>PO10: </b>Communicate effectively on complex engineering activities with the
                                                                         engineering
                                                                         community and with society at large, such as, being able to comprehend and
                                                                         write
                                                                         effective reports and design documentation, make effective presentations,
                                                                         give and receive clear instructions.</li>
-                                                                    <li>Demonstrate knowledge and understanding of the engineering and management
+                                                                    <li><b>PO11: </b>Demonstrate knowledge and understanding of the engineering and management
                                                                         principles
                                                                         and apply these to one’s own work, as a member and leader in a team, to
                                                                         manage projects
                                                                         and in multidisciplinary environments.</li>
-                                                                    <li>Recognize the need for, and have the preparation and ability to engage in
+                                                                    <li><b>PO12: </b>Recognize the need for, and have the preparation and ability to engage in
                                                                         independent and life-long learning in the broadest context of technological
                                                                         change.</li>
                                                                 </ul>
@@ -692,12 +692,12 @@
                                                                 <p>
                                                                 <ul class="list">
 
-                                                                    <li>PROBLEM SOLVING SKILLS Specify, design, build and test analog, digital and
+                                                                    <li><b>PSO1: </b>PROBLEM SOLVING SKILLS Specify, design, build and test analog, digital and
                                                                         embedded systems for signal processing</li>
-                                                                    <li>PROFESSIONAL SKILLSUnderstand and architect wired and wireless analog and
+                                                                    <li><b>PSO2: </b>PROFESSIONAL SKILLSUnderstand and architect wired and wireless analog and
                                                                         digital communication systems as per specifications, and determine their
                                                                         performance</li>
-                                                                    <li>ETHICS AND CAREER DEVELOPMENTExhibit skills required for a successful career
+                                                                    <li><b>PSO3: </b>ETHICS AND CAREER DEVELOPMENTExhibit skills required for a successful career
                                                                         in the industry based on principles of software project management,
                                                                         teamwork, ethical practices, develop the spirit of free enterprise and
                                                                         provide innovative ideas towards analysis.
