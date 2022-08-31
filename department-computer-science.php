@@ -694,11 +694,11 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li>Impart students with strong fundamental concepts, analytical capability,
+                                                                    <li><b>M1: </b>Impart students with strong fundamental concepts, analytical capability,
                                                                         programming and problem solving skills.</li>
-                                                                    <li>Encourage an ambience of education through faculty training, self learning,
+                                                                    <li><b>M2: </b>Encourage an ambience of education through faculty training, self learning,
                                                                         sound academic practices and Industry related endeavors.</li>
-                                                                    <li>Imbibe environment Conciseness, social awareness and responsibility in
+                                                                    <li><b>M3: </b>Imbibe environment Conciseness, social awareness and responsibility in
                                                                         students to serve the society.</li>
                                                                 </ul>
                                                                 </p>
@@ -713,16 +713,16 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li>Apply Engineering Basics Analyze Engineering Challenges through application
+                                                                    <li><b>PEO 1: </b>Apply Engineering Basics Analyze Engineering Challenges through application
                                                                         of mathematical and Algorithmic principles for real life technology
                                                                         projects.
                                                                     </li>
-                                                                    <li>Engineering Skills and techniques Apply skills like Analyzing, Designing,
+                                                                    <li><b>PEO 2: </b>Engineering Skills and techniques Apply skills like Analyzing, Designing,
                                                                         Implementing and Testing of Major and Minor Projects</li>
-                                                                    <li>Individual and Team Work Exhibit collaborative abilities in the engineering
+                                                                    <li><b>PEO 3: </b>Individual and Team Work Exhibit collaborative abilities in the engineering
                                                                         projects like Communication Skill, work as individual or in a team with a
                                                                         sense of Social Responsibility</li>
-                                                                    <li>Life Long Learning Initiate technological and skills required for
+                                                                    <li><b>PEO 4: </b>Life Long Learning Initiate technological and skills required for
                                                                         comprehensive contribution as experts in the Chosen Profession.</li>
                                                                 </ul>
                                                                 </p>
