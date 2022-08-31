@@ -22,7 +22,7 @@
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
-                <h2 class="subheadWhite head">Head of Department<span></span></h2>
+                <h2 class="subheadWhite head" style="color:black;">Head of Department<span></span></h2>
                 <style>
                     .data_more_less_inner {
                         overflow: hidden;
@@ -68,7 +68,7 @@
                     .btn {
                         color: rgb(0, 0, 0);
                         text-decoration: none;
-                        border: 1px solid rgb(0, 0, 0);
+                        border-left: 5px solid #969696;
                         border-radius: 18px;
                         padding: 7px 15px;
                     }
@@ -207,7 +207,7 @@
                         box-sizing: border-box;
                     }
 
-                    < !-- body {
+                    body {
                         font-family: 'Poppins', sans-serif;
                         align-items: center;
                         justify-content: center;
@@ -215,7 +215,7 @@
                         min-height: 100vh;
                     }
 
-                    -->img {
+                    img {
                         max-width: 100%;
                         display: block;
                     }
@@ -238,7 +238,7 @@
                     .card1 {
                         padding: 2.5rem 2rem;
                         border-radius: 10px;
-                        background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
+                        background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
                         max-width: 90%;
                         box-shadow: 0 0 30px rgba(0, 0, 0, .15);
                         margin: 1rem;
@@ -270,12 +270,13 @@
                         background-color: #4172f5aa;
                         top: -8rem;
                         right: -8rem;
-                        box-shadow: 2rem 6rem 0 -3rem #FFF
+                        box-shadow: 2rem 6rem 0 -3rem #c3daff;
+                        border-radius: 50%;
                     }
 
                     .card1 img {
                         float: left;
-                        width: 150rem;
+                        width: 100%;
                         min-width: 80px;
                         box-shadow: 0 0 0 5px #FFF;
                     }
@@ -285,6 +286,7 @@
                     }
 
                     .name {
+                        font-size: large;
                         margin-bottom: 1rem;
                     }
 
@@ -298,7 +300,7 @@
                     }
 
                     .text {
-                        font-size: .9rem;
+                        font-size: 1.5rem;
                         margin-bottom: 1rem;
                     }
 

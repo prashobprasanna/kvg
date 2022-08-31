@@ -627,6 +627,7 @@
             </div>
     </section>
     <!--End Contact Address Area-->
+    
 
     <!--Start contact form area-->
     <section style="background:url(http://www.kvgengg.com/Images/Common/contact-bg.jpg) fixed;background-size:cover;">
@@ -638,7 +639,7 @@
                 <div class="clearfix"></div>
                 <br>
 
-                <form action="/Contact" enctype="multipart/form-data" method="post">
+                <form onsubmit="gotowhatsapp2()" >
                     <div class="col-md-6">
                         <div class="form-group">
                             <label for="name" style="color:white;">
@@ -648,7 +649,7 @@
                                 <span class="input-group-addon">
                                     <span class="glyphicon glyphicon-user"></span>
                                 </span>
-                                <input class="form-control textbx" id="name" name="fname" placeholder="Name" required="required" style="height: 45px;" type="text" value="">
+                                <input class="form-control textbx" id="name" name="name" placeholder="Name" required="required" style="height: 45px;" type="text" value="">
 
                                 <!--<input class="form-control textbx" id="fname" name="fname" required="required" type="text" value="" />-->
                             </div>
@@ -661,7 +662,7 @@
                                 <span class="input-group-addon">
                                     <span class="glyphicon glyphicon-phone"></span>
                                 </span>
-                                <input class="form-control textbx" id="phno" maxlength="15" name="phno" pattern="[+0-9]{10,15}" placeholder="Phone Number" required="required" style="height: 45px;" type="tel" value="">
+                                <input class="form-control textbx" id="phno" name="phno" maxlength="15" pattern="[+0-9]{10,15}" placeholder="Phone Number" required="required" style="height: 45px;" type="tel" value="">
 
 
                                 <!--<input class="form-control textbx" id="Phone" name="phno" required="required" type="text" value="" />-->
@@ -692,7 +693,7 @@
                                 <span class="input-group-addon">
                                     <span class="glyphicon glyphicon-pencil"></span>
                                 </span>
-                                <textarea class="form-control" cols="25" id="msg" name="mesg" placeholder="Messages" required="required" rows="11" style="color:black;"></textarea>
+                                <textarea class="form-control" cols="25" id="msg" name="msg"  placeholder="Messages" required="required" rows="11" style="color:black;"></textarea>
 
 
                                 <!--<textarea class="form-control" cols="30" id="Message" name="mesg" required="required" rows="8" style="min-height: 183px;">
@@ -702,8 +703,9 @@
                     </div>
                     <!-- <div class="clearfix"></div> -->
                     <!-- <div class="col-md-12"> -->
-                    <button type="button" class="subscribe__btn" onclick="gotowhatsappcontact()"><i class="fa fa-paper-plane-o"></i></button>
-                            
+                   <input type="submit" class="btn btn-primary pull-right"  style="box-shadow: inset 0 -6px 40px rgba(255, 152, 0, 0);width: 100px;" onclick="gotowhatsapp2()">
+                          
+                
                     <!-- </div> -->
                 </form>
             </div><br>
@@ -725,7 +727,7 @@
 
 <!-- whatsapp -->
 <script>
-    function gotowhatsappcontact() {
+    function gotowhatsapp2() {
 
         // var name = document.getElementById("name").value;
         // var phone = document.getElementById("phone").value;
@@ -735,12 +737,12 @@
         var msg = document.getElementById("msg").value;
         // var service = document.getElementById("service").value;
         // https://api.whatsapp.com/send?text
-        var url = "https://api.whatsapp.com/send?phone=7618752850&text=" +
-            "Contacting KVGCE:" + "%0a"+
+        var url = "https://api.whatsapp.com/send?phone=+919845866528&text=" +
+            "Contacting KVGCE:" + "%0a"
 
-            
+            +
             "Name: " + name + "%0a"+
-            "Phno: " + Phno + "%0a"+
+            "Phno: " + phno + "%0a"+
             "Email: " + email + "%0a"+
             "Message: " + msg + "%0a";
         // + "Service: " + service +"\n";
@@ -749,7 +751,6 @@
         window.open(url, '_blank').focus();
     }
 </script>
-
 
 
 <!-- whatsapp end -->
