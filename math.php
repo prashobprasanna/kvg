@@ -598,7 +598,7 @@
 
 
                         </div>
-
+                        <br><br><br><br>
                         <div class="tab-pane  fade " id="Faculty">
                             <!-- <ul class="nav nav-tabs tabtop tabsetting">
                                     <li class="active">
@@ -721,7 +721,7 @@
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text</p>
                     </div>
                 </div> -->
-                <div class="row" style="align-items:center">
+                                                <div class="row" style="align-items:center">
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -740,44 +740,44 @@
                                                     </div>
 
                                                     <div class="row" style="align-items:center">
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/basic/kiran.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Kirana B</h4>
-                                                                <h5 style="color:white">Assistant Professor</h5>
-                                                                <h5 style="color:white">B.Sc,B.Ed,M.Sc</h5>
-                                                                <div class="social-links">
+                                                        <div class="col-lg-3 col-md-6">
+                                                            <div class="member">
+                                                                <div class="member-img">
+                                                                    <img src="admin-kvgce/photos/faculty/basic/kiran.jpg" class="img-fluid" alt="">
+                                                                </div>
+                                                                <div class="member-info">
+                                                                    <h4>Prof. Kirana B</h4>
+                                                                    <h5 style="color:white">Assistant Professor</h5>
+                                                                    <h5 style="color:white">B.Sc,B.Ed,M.Sc</h5>
+                                                                    <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                        <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
 
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/basic/prajna.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Prajna V T</h4>
-                                                                <h5 style="color:white">Assistant Professor</h5>
-                                                                <h5 style="color:white">B.Sc,B.Ed,M.Sc</h5>
-                                                                <div class="social-links">
+                                                        <div class="col-lg-3 col-md-6">
+                                                            <div class="member">
+                                                                <div class="member-img">
+                                                                    <img src="admin-kvgce/photos/faculty/basic/prajna.jpg" class="img-fluid" alt="">
+                                                                </div>
+                                                                <div class="member-info">
+                                                                    <h4>Prof. Prajna V T</h4>
+                                                                    <h5 style="color:white">Assistant Professor</h5>
+                                                                    <h5 style="color:white">B.Sc,B.Ed,M.Sc</h5>
+                                                                    <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                        <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
+
+
+
                                                     </div>
-
-                                                 
-
                                                 </div>
-                                            </div>
                                         </section>
                                     </div>
                                 </div>
@@ -810,7 +810,7 @@
 
 
     <!-- endfooter -->
-    
+
 </body>
 
 <!-- Mirrored from www.sjec.ac.in/department-computer-science.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Apr 2022 12:11:44 GMT -->
