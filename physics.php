@@ -722,14 +722,32 @@
                     </div>
                 </div> -->
                                                 <div class="row" style="align-items:center">
+                                                <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/basic/praveen.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>DR.Praveena S D</h4>
+                                                                <h5 style="color:white">Professor and Head of the department</h5>
+                                                                <h5 style="color:white">B.Sc,M.Sc.,Ph.D</h5>
+                                                                <div class="social-links">
+
+                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
                                                                 <img src="admin-kvgce/photos/faculty/basic/lava.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4></h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
+                                                                <h4>lava</h4>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.Sc,M.Sc.,(Ph.D)</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -745,7 +763,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Manjula B</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.Sc,M.Sc.,(Ph.D)</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
