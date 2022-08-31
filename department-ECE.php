@@ -436,7 +436,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" id="som" style="font-size:larger;">DR. KUSUMADHAR S</div>
+                                    <div class="header-fullname" id="som" style="font-size:larger;">Dr. KUSUMADHAR S</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 
