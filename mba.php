@@ -68,7 +68,7 @@
                     .btn {
                         color: rgb(0, 0, 0);
                         text-decoration: none;
-                        border-left: 5px solid #969696;
+                        border: 1px solid rgb(0, 0, 0);
                         border-radius: 18px;
                         padding: 7px 15px;
                     }
@@ -286,7 +286,6 @@
                     }
 
                     .name {
-                        font-size: large;
                         margin-bottom: 1rem;
                     }
 
@@ -300,7 +299,7 @@
                     }
 
                     .text {
-                        font-size: 1.5rem;
+                        font-size: .9rem;
                         margin-bottom: 1rem;
                     }
 
@@ -384,7 +383,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" id="som" style="font-size:larger;">Prof. Krishnananda A</div>
+                                    <div class="header-fullname" id="som">Prof. Krishnananda A</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 
@@ -713,6 +712,7 @@
                     </div>
                 </div> -->
                                                 <div class="row" style="align-items:center">
+                                                <h2>Teaching Staff</h2><br>
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -724,85 +724,88 @@
                                                                 <h5 style="color:white">MA,M.Phil,MBA (Ph.D)</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/MBA/HOD , Krishnananda.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    
+                                              
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/mba/mary.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mrs. Immaculate Mary</h4>
+
+                                                                <h6 style="color:white"></h6>
+
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">MBA,DCM</h5>
+
+                                                                <div class="social-links">
+
+                                                                    <a href="profile/MBA/MARY.pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
 
-                                                    <div class="row" style="align-items:center">
-                                                        <div class="col-lg-3 col-md-6">
-                                                            <div class="member">
-                                                                <div class="member-img">
-                                                                    <img src="admin-kvgce/photos/mba/mary.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="member-info">
-                                                                    <h4>Mrs. Immaculate Mary</h4>
-                                                                    <<<<<<< Updated upstream <h6 style="color:white">
-                                                                        </h6>
-                                                                        =======
-                                                                        <h5 style="color:white">Assistant Professor</h5>
-                                                                        <h5 style="color:white">MBA,DCM</h5>
-                                                                        >>>>>>> Stashed changes
-                                                                        <div class="social-links">
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/mba/manohar.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr. Manohara A N</h4>
 
-                                                                            <a href="profile/MBA/MARY.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                        </div>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">M.Sc.,MBA</h5>
+
+                                                                <h6 style="color:white"></h6>
+
+                                                                <div class="social-links">
+
+                                                                    <a href="profile/MBA/MANOHAR.pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
-
-                                                        <div class="col-lg-3 col-md-6">
-                                                            <div class="member">
-                                                                <div class="member-img">
-                                                                    <img src="admin-kvgce/photos/mba/manohar.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="member-info">
-                                                                    <h4>Mr. Manohara A N</h4>
-                                                                    <<<<<<< Updated upstream <h5 style="color:white">Assistant Professor</h5>
-                                                                        <h5 style="color:white">M.Sc.,MBA</h5>
-                                                                        =======
-                                                                        <h6 style="color:white"></h6>
-                                                                        >>>>>>> Stashed changes
-                                                                        <div class="social-links">
-
-                                                                            <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                        </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-                                                        <div class="col-lg-3 col-md-6">
-                                                            <div class="member">
-                                                                <div class="member-img">
-                                                                    <img src="admin-kvgce/photos/mba/srimani.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="member-info">
-                                                                    <h4>Mrs. Srimani K</h4>
-                                                                    <<<<<<< Updated upstream <h5 style="color:white">Assistant Professor</h5>
-                                                                        <h5 style="color:white">MBA</h5>
-                                                                        =======
-                                                                        <h6 style="color:white"></h6>
-                                                                        >>>>>>> Stashed changes
-                                                                        <div class="social-links">
-
-                                                                            <a href="profile/MBA/shrimani.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                        </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-
-
-
-
-
-
-
-
-
                                                     </div>
                                                 </div>
+                                                <div class="row" style="align-items:center">
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/mba/srimani.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mrs. Srimani K</h4>
+
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">MBA</h5>
+
+                                                                <h6 style="color:white"></h6>
+
+                                                                <div class="social-links">
+
+                                                                    <a href="profile/MBA/shrimani.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                        </div>
+
+
+
+
+
+
+
+
+                                                </div>
+                                            </div>
                                         </section>
                                     </div>
                                 </div>

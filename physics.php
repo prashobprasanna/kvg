@@ -24,7 +24,7 @@
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
-                <h2 class="subheadWhite head" style="color: black;">HEAD OF DEPARTMENT<span></span></h2>
+                <h2 class="subheadWhite head">HEAD OF DEPARTMENT<span></span></h2>
                 <style>
                     .data_more_less_inner {
                         overflow: hidden;
@@ -70,7 +70,7 @@
                     .btn {
                         color: rgb(0, 0, 0);
                         text-decoration: none;
-                        border-left: 5px solid #969696;
+                        border: 1px solid rgb(0, 0, 0);
                         border-radius: 18px;
                         padding: 7px 15px;
                     }
@@ -209,7 +209,7 @@
                         box-sizing: border-box;
                     }
 
-                    body {
+                    < !-- body {
                         font-family: 'Poppins', sans-serif;
                         align-items: center;
                         justify-content: center;
@@ -217,7 +217,7 @@
                         min-height: 100vh;
                     }
 
-                    img {
+                    -->img {
                         max-width: 100%;
                         display: block;
                     }
@@ -240,7 +240,7 @@
                     .card1 {
                         padding: 2.5rem 2rem;
                         border-radius: 10px;
-                        background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
+                        background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
                         max-width: 90%;
                         box-shadow: 0 0 30px rgba(0, 0, 0, .15);
                         margin: 1rem;
@@ -272,13 +272,12 @@
                         background-color: #4172f5aa;
                         top: -8rem;
                         right: -8rem;
-                        box-shadow: 2rem 6rem 0 -3rem #c3daff;
-                        border-radius: 50%;
+                        box-shadow: 2rem 6rem 0 -3rem #FFF
                     }
 
                     .card1 img {
                         float: left;
-                        width: 100%;
+                        width: 150rem;
                         min-width: 80px;
                         box-shadow: 0 0 0 5px #FFF;
                     }
@@ -288,7 +287,6 @@
                     }
 
                     .name {
-                        font-size: large;
                         margin-bottom: 1rem;
                     }
 
@@ -302,7 +300,7 @@
                     }
 
                     .text {
-                        font-size: 1.5rem;
+                        font-size: .9rem;
                         margin-bottom: 1rem;
                     }
 
@@ -366,7 +364,14 @@
                         display: none;
                     }
 
+                    #som {
+                        font-size: 25px;
+                    }
+
                     @media (max-width:767px) {
+                        #som {
+                            font-size: 14px;
+                        }
 
                         /* #nobq{display: none;} */
                         #more1 {
@@ -375,6 +380,12 @@
 
                         #myBtn1 {
                             display: inline;
+                        }
+
+                        #h3f {
+                            font-size: 16px;
+                            font-weight: solid;
+
                         }
                     }
                 </style>
@@ -386,7 +397,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" id="som" style="font-size:larger;">DR. PRAVEENA S D</div>
+                                    <div class="header-fullname" id="som">DR. PRAVEENA S D</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 
@@ -587,7 +598,7 @@
 
 
                         </div>
-                        <br><br><br><br>
+
                         <div class="tab-pane  fade " id="Faculty">
                             <!-- <ul class="nav nav-tabs tabtop tabsetting">
                                     <li class="active">
@@ -711,39 +722,39 @@
                     </div>
                 </div> -->
                                                 <div class="row" style="align-items:center">
-                                                    <div class="col-lg-3 col-md-6">
+                                                <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
                                                                 <img src="admin-kvgce/photos/faculty/basic/praveen.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>DR.Praveena S D</h4>
-                                                                <h5 style="color:white">Professor and Head of the department</h5>
-                                                                <h5 style="color:white">B.Sc,M.Sc.,Ph.D</h5>
+                                                                <h4>Dr. Praveena S D</h4>
+                                                                     <h5 style="color:white">Professor & HOD</h5>
+                                                                <h5 style="color:white">B.Sc, M.Sc., Ph.D</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/basic/Dr. Praveen S D (2).pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
 
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
+                                                    <!-- <div class="col-lg-3 col-md-6">
+                                                        <div class="me mber">
                                                             <div class="member-img">
                                                                 <img src="admin-kvgce/photos/faculty/basic/lava.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>lava</h4>
+                                                                <h4></h4>
                                                                 <h5 style="color:white">Associate Professor</h5>
-                                                                <h5 style="color:white">B.Sc,M.Sc.,(Ph.D)</h5>
-                                                                <div class="social-links">
+                                                                <h5 style="color:white">B.Sc, M.Sc.,(Ph.D)</h5>
+                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
+                                                                    <a href=""><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div> 
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
 
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
@@ -753,109 +764,16 @@
                                                             <div class="member-info">
                                                                 <h4>Prof. Manjula B</h4>
                                                                 <h5 style="color:white">Associate Professor</h5>
-                                                                <h5 style="color:white">B.Sc,M.Sc.,(Ph.D)</h5>
+                                                                <h5 style="color:white">B.Sc, M.Sc.,(Ph.D)</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href=""><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
 
-                                                    <!--  <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/ajith.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Ajith B T</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/shruthi.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Shruthi P J</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/Vishnu.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Vishnu Bhat N</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/krishnaraj.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Krishnaraj M V</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/ashwija.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Ashwija K C</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/mujeeb.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Abdul Mujeeb</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div> -->
+                                                
 
                                                 </div>
                                             </div>
@@ -891,7 +809,7 @@
 
 
     <!-- endfooter -->
-
+    
 </body>
 
 <!-- Mirrored from www.sjec.ac.in/department-computer-science.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Apr 2022 12:11:44 GMT -->
