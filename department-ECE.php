@@ -941,7 +941,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech,Ph.d,MISTE</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Dr. Kusumadhara S.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -997,7 +997,7 @@
                                                                 <h5 style="color:white">M.Tech,Ph.d,MISTE</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Bhagya H K.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1016,7 +1016,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech,MISTE</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Vijay kumar.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1034,7 +1034,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <!-- <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a> -->
 
 
                                                                 </div>
@@ -1053,7 +1053,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Jagadeesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1072,7 +1072,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href=""><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1091,7 +1091,7 @@
                                                                 <h5 style="color:white">B.Tech,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Aruna PG.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1109,7 +1109,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Lokesh P C.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1127,7 +1127,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Satyjith.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1145,7 +1145,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Adarsha.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1800,7 +1800,26 @@
 
                         <div class="tab-pane fade" id="newsletter">
                             <div class="row">
-
+                            <div class="col-md-2">
+                                    <a href="images/department/ec/Abhivyakthi 2019-20 (1).pdf" target="_blank"><button style="background-color:#2FA4E7;padding:8px;border-radius:8px;color:white;border:#006199;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Abhivyakthi 2019-20 (1)</button>
+                                    <!-- <h4> Newsletter 2018 - 2019</h4> -->
+                                    </a>
+                                </div>
+                                <div class="col-md-2">
+                                    <a href="images/department/ec/ABHIVYAKTHI 2019-20(2).pdf" target="_blank"><button style="background-color:#2FA4E7;padding:8px;border-radius:8px;color:white;border:#006199;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Abhivyakthi 2019-20 (2)</button>
+                                        <!-- <h4> Newsletter 2019 - 2020</h4> -->
+                                    </a>
+                                </div>
+                                <div class="col-md-2">
+                                    <a href="images/department/ec/abhivyakthi 2020-21(1).pdf" target="_blank"><button style="background-color:#2FA4E7;padding:8px;border-radius:8px;color:white;border:#006199;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Abhivyakthi 2020-21(1)</button>
+                                        <!-- <h4> Newsletter 2020 - 2021</h4> -->
+                                    </a>
+                                </div>
+                                <div class="col-md-2">
+                                    <a href="images/department/ec/Abhivyakthi 2020-21(2).pdf" target="_blank"><button style="background-color:#2FA4E7;padding:8px;border-radius:8px;color:white;border:#006199;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Abhivyakthi 2020-21(2)</button>
+                                        <!-- <h4> Newsletter 2020 - 2021</h4> -->
+                                    </a>
+                                </div>
                             </div>
                         </div>
 
