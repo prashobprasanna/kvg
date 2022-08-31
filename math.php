@@ -19,7 +19,59 @@
         <div><img src="images/banner/math.jpg" class="img-responsive"></div>
     </section>
 
+    <style>
+        div.poco {
 
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size: large;
+            /* border: 2px solid #4CAF50; */
+            z-index: 979;
+        }
+
+        @media (max-width:500px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: small;
+                /* border: 2px solid #4CAF50; */
+                z-index: 979;
+            }
+        }
+
+        @media (max-width:300px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: smaller;
+                /* border: 2px solid #4CAF50; */
+                z-index: 979;
+            }
+        }
+    </style>
+    <div class="poco">
+
+
+        <p>Mathematics</p>
+    </div>
 
     <section class="home-facts-bg">
         <div class="container">
@@ -411,10 +463,10 @@
                                     </blockquote>
                                 </li>
                             </ul>
-                            <div class="links1">
+                            <!-- <div class="links1"> -->
                                 <!-- <button class="follow">Follow</button> -->
-                                <button class="view">View Profile</button>
-                            </div>
+                                <!-- <button class="view">View Profile</button>
+                            </div> -->
                         </div>
                     </div>
                 </center>

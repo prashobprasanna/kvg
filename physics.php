@@ -18,13 +18,65 @@
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
         <div><img src="images/banner/phy.jpg" class="img-responsive"></div>
     </section>
+    <style>
+        div.poco {
 
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size: large;
+            /* border: 2px solid #4CAF50; */
+            z-index: 979;
+        }
+
+        @media (max-width:500px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: small;
+                /* border: 2px solid #4CAF50; */
+                z-index: 979;
+            }
+        }
+
+        @media (max-width:300px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: smaller;
+                /* border: 2px solid #4CAF50; */
+                z-index: 979;
+            }
+        }
+    </style>
+    <div class="poco">
+
+
+        <p>Physics</p>
+    </div>
 
 
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
-                <h2 class="subheadWhite head">HEAD OF DEPARTMENT<span></span></h2>
+                <h2 class="subheadWhite head" style="color: black;">HEAD OF DEPARTMENT<span></span></h2>
                 <style>
                     .data_more_less_inner {
                         overflow: hidden;
@@ -407,13 +459,13 @@
                                                 is able to contribute to the society and the socio-economic development of the
                                                 country.
                                             </span></p>
-                                        <!-- <button onclick="myreadmoreFunction()" id="myBtn1">READ MORE</button> -->
+                                        <button onclick="myreadmoreFunction()" id="myBtn1">READ MORE</button>
                                     </blockquote>
                                 </li>
                             </ul>
                             <div class="links1">
                                 <!-- <button class="follow">Follow</button> -->
-                                <button class="view">View Profile</button>
+                                <!-- <button class="view">View Profile</button> -->
                             </div>
                         </div>
                     </div>

@@ -14,7 +14,59 @@
         include('navbar.php');
         ?>
     </header>
+    <style>
+        div.poco {
 
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size: large;
+            /* border: 2px solid #4CAF50; */
+            z-index: 979;
+        }
+
+        @media (max-width:500px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: small;
+                /* border: 2px solid #4CAF50; */
+                z-index: 979;
+            }
+        }
+
+        @media (max-width:300px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: smaller;
+                /* border: 2px solid #4CAF50; */
+                z-index: 979;
+            }
+        }
+    </style>
+    <div class="poco">
+
+
+        <p>MBA</p>
+    </div>
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
         <div><img src="images/banner/mba.jpg" class="img-responsive"></div>
     </section>
@@ -405,7 +457,7 @@
                                                 is able to contribute to the society and the socio-economic development of the
                                                 country.
                                             </span></p>
-                                        <!-- <button onclick="myreadmoreFunction()" id="myBtn1">READ MORE</button> -->
+                                        <button onclick="myreadmoreFunction()" id="myBtn1">READ MORE</button>
                                     </blockquote>
                                 </li>
                             </ul>
