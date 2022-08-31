@@ -405,7 +405,7 @@
                                                 is able to contribute to the society and the socio-economic development of the
                                                 country.
                                             </span></p>
-                                        <!-- <button onclick="myreadmoreFunction()" id="myBtn1">READ MORE</button> -->
+                                        <button onclick="myreadmoreFunction()" id="myBtn1">READ MORE</button>
                                     </blockquote>
                                 </li>
                             </ul>
