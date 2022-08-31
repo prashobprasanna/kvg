@@ -627,6 +627,31 @@
             </div>
     </section>
     <!--End Contact Address Area-->
+    <script>
+    function badboy() {
+
+        // var name = document.getElementById("name").value;
+        // var phone = document.getElementById("phone").value;
+        var name = document.getElementById("name").value;
+        var phno = document.getElementById("phno").value;
+        var email = document.getElementById("email").value;
+        var msg = document.getElementById("msg").value;
+        // var service = document.getElementById("service").value;
+        // https://api.whatsapp.com/send?text
+        var url = "https://api.whatsapp.com/send?phone=7618752850&text=" +
+            "Contacting KVGCE:" + "%0a"
+
+            +
+            "Name: " + name + "%0a"+
+            "Phno: " + Phno + "%0a"+
+            "Email: " + email + "%0a"+
+            "Message: " + msg + "%0a";
+        // + "Service: " + service +"\n";
+
+
+        window.open(url, '_blank').focus();
+    }
+</script>
 
     <!--Start contact form area-->
     <section style="background:url(http://www.kvgengg.com/Images/Common/contact-bg.jpg) fixed;background-size:cover;">
@@ -702,8 +727,9 @@
                     </div>
                     <!-- <div class="clearfix"></div> -->
                     <!-- <div class="col-md-12"> -->
-                    <button type="button" class="subscribe__btn" onclick="gotowhatsappcontact()"><i class="fa fa-paper-plane-o"></i></button>
-                            
+                   <input type="button" class="btn btn-primary pull-right"   value="Click Here" style="box-shadow: inset 0 -6px 40px rgba(255, 152, 0, 0);width: 100px;" onClick="badboy()" >
+                          
+                
                     <!-- </div> -->
                 </form>
             </div><br>
@@ -724,31 +750,6 @@
 
 
 <!-- whatsapp -->
-<script>
-    function gotowhatsappcontact() {
-
-        // var name = document.getElementById("name").value;
-        // var phone = document.getElementById("phone").value;
-        var name = document.getElementById("name").value;
-        var phno = document.getElementById("phno").value;
-        var email = document.getElementById("email").value;
-        var msg = document.getElementById("msg").value;
-        // var service = document.getElementById("service").value;
-        // https://api.whatsapp.com/send?text
-        var url = "https://api.whatsapp.com/send?phone=7618752850&text=" +
-            "Contacting KVGCE:" + "%0a"+
-
-            
-            "Name: " + name + "%0a"+
-            "Phno: " + Phno + "%0a"+
-            "Email: " + email + "%0a"+
-            "Message: " + msg + "%0a";
-        // + "Service: " + service +"\n";
-
-
-        window.open(url, '_blank').focus();
-    }
-</script>
 
 
 
