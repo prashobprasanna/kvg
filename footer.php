@@ -348,7 +348,7 @@
         var email = document.getElementById("email12").value;
         // var service = document.getElementById("service").value;
         // https://api.whatsapp.com/send?text
-        var url = "https://api.whatsapp.com/send?phone=7618752850&text=" +
+        var url = "https://api.whatsapp.com/send?phone=+919845866528&text=" +
             "Question:" + "%0a"
 
             +
