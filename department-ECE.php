@@ -591,23 +591,7 @@
                                                             undergraduate degree courses offered by the department provide a
                                                             comprehensive foundation in the core topics of ECE coupled with areas of
                                                             interdisciplinary specialization relevant to emerging engineering challenges. </p>
-                                                        <h2>Salient features of the department
-                                                        </h2>
-                                                        <ul>
-                                                            <li>Adequate infrastructure & Well-Equipped Laboratories</li>
-                                                            <li>Well-qualified, self-motivated, experienced and dedicated faculties.</li>
-                                                            <li>Highest campus placement from elite core and software companies.</li>
-                                                            <li>VTU Research Centre [Ph.D.]</li>
-                                                            <li>Department Association ENCEA (Electronics and Communication
-                                                                Engineering Association)</li>
-                                                            <li>Karnataka State Council for Science & Technology (KSCST) and VTU
-                                                                funded UG projects.</li>
-                                                            <li>o Department Library with more than 1400 Books</li>
-                                                            <li>Industrial Projects & Internships</li>
-                                                            <li>MoU with companies</li>
-                                                            <li>“Amara Kannada Sahithya Vedike”- a forum to encourage the students
-                                                                and staff to involve in activities relevant to Kannada literature</li>
-                                                        </ul>
+                                                       
                                                     </div>
                                                 </div>
                                                 <a href="#" class="action_more" style="border-radius: 18px;"><button type="button" class="btn btn-outline-primary">Read More</button></a>
@@ -793,13 +777,19 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li> Experienced and dedicated faculty members</li>
-                                                                    <li> Recognized research Centre (VTU-Ph.D)</li>
-                                                                    <li> Well equipped laboratories with more than 150 computers</li>
-                                                                    <li>Separate department library with more than 700 books</li>
-                                                                    <li>Department association CENSA (Computer Engineering Students Association)</li>
-                                                                    <li>Wi-Fi Internet connection for students and faculties with 200Mbps</li>
-                                                                    <li>Classrooms with Power Point Projector</li>
+                                                                <li>Adequate infrastructure & Well-Equipped Laboratories</li>
+                                                            <li>Well-qualified, self-motivated, experienced and dedicated faculties.</li>
+                                                            <li>Highest campus placement from elite core and software companies.</li>
+                                                            <li>VTU Research Centre [Ph.D.]</li>
+                                                            <li>Department Association ENCEA (Electronics and Communication
+                                                                Engineering Association)</li>
+                                                            <li>Karnataka State Council for Science & Technology (KSCST) and VTU
+                                                                funded UG projects.</li>
+                                                            <li>o Department Library with more than 1400 Books</li>
+                                                            <li>Industrial Projects & Internships</li>
+                                                            <li>MoU with companies</li>
+                                                            <li>“Amara Kannada Sahithya Vedike”- a forum to encourage the students
+                                                                and staff to involve in activities relevant to Kannada literature</li>
 
 
                                                                 </ul>
