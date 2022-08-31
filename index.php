@@ -45,10 +45,14 @@
 
             <div class="carousel-inner" >
 
+            <div class="item active slide3"><img data-src="admin-kvgce\images\banner\college.jpg" src="admin-kvgce/images/banner/colege.jpg" alt="college pic">
+                    <!-- <div class="carousel-caption carousel-caption-1">
+                    </div> -->
+                </div>
 
 
 
-                <div class="item active slide1"><img data-src="admin-kvgce\images\banner\11.jpg" src="admin-kvgce/images/banner/11.jpg">
+                <div class="item  slide2"><img data-src="admin-kvgce\images\banner\11.jpg" src="admin-kvgce/images/banner/11.jpg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
@@ -57,7 +61,7 @@
 
 
 
-                <div class="item slide4"> <img data-src="admin-kvgce/images/banner/2.jpg" src="admin-kvgce/images/banner/2.jpg">
+                <div class="item slide1"> <img data-src="admin-kvgce/images/banner/2.jpg" src="admin-kvgce/images/banner/2.jpg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
@@ -65,7 +69,7 @@
 
 
 
-                <div class="item   slide3"> <img data-src="admin-kvgce/images/banner/3.jpg" src="admin-kvgce/images/banner/3.jpg">
+                <div class="item   slide4"> <img data-src="admin-kvgce/images/banner/3.jpg" src="admin-kvgce/images/banner/3.jpg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
