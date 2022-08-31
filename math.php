@@ -721,7 +721,25 @@
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text</p>
                     </div>
                 </div> -->
-                                                <div class="row" style="align-items:center">
+                <div class="row" style="align-items:center">
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/basic/Sridhar.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>DR.Shreedhar K</h4>
+                                                                <h5 style="color:white">Professor and Head of the department</h5>
+                                                                <h5 style="color:white">M.Sc,M.Phil,Ph.D</h5>
+                                                                <div class="social-links">
+
+                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="row" style="align-items:center">
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -729,7 +747,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Kirana B</h4>
-                                                                <h6 style="color:white">Date of Join :18-07-2011</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.Sc,B.Ed,M.Sc</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -745,7 +764,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Prajna V T</h4>
-                                                                <h6 style="color:white">Date of Join :02-02-2015</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.Sc,B.Ed,M.Sc</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
