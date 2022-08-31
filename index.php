@@ -694,7 +694,7 @@
             </div>
         </div>
         <div class="news-card">
-            <a href="department-civil.php" class="news-card__card-link"></a>
+            <a href="mba.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/mba.jpg" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
                 <h3 class="news-card__title">Master In Bussiness Administration</h3>
@@ -1826,7 +1826,15 @@
 
         </head>
 
-
+<style>
+    .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99999999;
+}
+</style>
 
         <strong>
             <div class="header-fullname" style="font-size: 30px;text-align: center;">
@@ -1834,16 +1842,17 @@
         </strong>
 
         <ul class="sliderfk">
-            <li><img src="images/gallery/first.jpg" alt=""></li>
-            <li><img src="images/gallery/two.jpg" alt=""></li>
-            <li><img src="images/gallery/civil1.jpg" alt=""></li>
-            <li><img src="images/gallery/civil2.jpg" alt=""></li>
-            <li><img src="images/gallery/cs1.jpg" alt=""></li>
-            <li><img src="images/gallery/cs2.jpg" alt=""></li>
-            <li><img src="images/gallery/ec1.jpg" alt=""></li>
-            <li><img src="images/gallery/ec2.jpg" alt=""></li>
-            <li><img src="images/gallery/mech1.jpg" alt=""></li>
-            <li><img src="images/gallery/mech2.jpg" alt=""></li>
+           <figure><li><img src="images/gallery/first.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure> 
+            <!-- <div class="centered">Centered</div> -->
+            <figure><li><img src="images/gallery/two.jpg" alt=""></li><figcaption><strong> Your label goes here</strong></figcaption></figure>
+            <figure><li><img src="images/gallery/civil1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
+            <figure><li><img src="images/gallery/civil2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
+            <figure><li><img src="images/gallery/cs1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
+            <figure> <li><img src="images/gallery/cs2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
+            <figure><li><img src="images/gallery/ec1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
+            <figure> <li><img src="images/gallery/ec2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
+            <figure><li><img src="images/gallery/mech1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
+            <figure><li><img src="images/gallery/mech2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
 
             <!--/sliderfk-->
         </ul>
