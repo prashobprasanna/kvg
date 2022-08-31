@@ -950,8 +950,27 @@
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text</p>
                     </div>
                 </div> -->
-                                                <div class="row" style="align-items:center">
-                                                    <h2>Teaching</h2><br>
+                <div class="row" style="align-items:center">
+                                                <h2>Teaching</h2><br>
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/ece/kusuma.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Dr. KUSUMADHARA S</h4>
+                                                                <h5 style="color:white">Professor and Head of the department</h5>
+                                                                <h5 style="color:white">B.E,M.Tech,Ph.d,MISTE</h5>
+                                                                <div class="social-links">
+
+                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -959,7 +978,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. Savitha M</h4>
-                                                                <h6 style="color:white">Date of Join : 10-05-1999</h6>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech,Ph.d,MISTE</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -995,7 +1015,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. Bhagya H K</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">M.Tech,Ph.d,MISTE</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1013,7 +1034,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Vijaya Kumar K</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech,MISTE</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1030,7 +1052,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Rekha A A</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1048,7 +1071,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Jagadeesh M </h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1066,7 +1090,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Rekha M B</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1084,7 +1109,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Aruna P G</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.Tech,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1101,7 +1127,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Lokesh P C</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1118,7 +1145,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Sathyajith M</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1135,7 +1163,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Adarsha D</h4>
-                                                                <h6 style="color:white">Date of Join : 25-09-2001</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1145,7 +1174,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                        </div>
                                                 <h2>Non Teaching</h2>
                                                 <br>
                                                 <div class="row" style="align-items:center">

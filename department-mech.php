@@ -873,9 +873,26 @@
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text</p>
                     </div>
                 </div> -->
-                                                <div class="row" style="align-items:center">
-                                                    <h2>Teaching</h2>
-                                                    <br>
+                <div class="row" style="align-items:center">
+                                                <h2>Teaching</h2>
+                                                <br>
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/mech/umashanker.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Dr. UMASHANKAR K S</h4>
+                                                                <h5 style="color:white">Professor and Head of the department </h5>
+                                                                <h5 style="color:white">B.E,M.Tech,Ph.D</h5>
+                                                                <div class="social-links">
+
+                                                                    <a href="profile/mech/sunil.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -883,7 +900,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. Sunil Kumar M</h4>
-                                                                <h6 style="color:white">Date of Join :02-02-1996</h6>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech,Ph.D</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/mech/sunil.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -899,7 +917,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Yuvaraj K B</h4>
-                                                                <h6 style="color:white">Date of Join :08-08-2011</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech,(Ph.D)</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/mech/yuvaraj.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -915,7 +934,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Sudeer K V</h4>
-                                                                <h6 style="color:white">Date of Join :01-08-2014</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/mech/sudheer.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -931,7 +951,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Hitesh M S</h4>
-                                                                <h6 style="color:white">Date of Join :06-08-2015</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/mech/hitesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -946,7 +967,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Prashanth K </h4>
-                                                                <h6 style="color:white">Date of Join :01-08-2016</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/mech/prashanth.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -962,7 +984,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Abhijna B B </h4>
-                                                                <h6 style="color:white">Date of Join :01-08-2016</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/mech/abhijna.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -970,8 +993,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
-
+                                        </div>
 
                                                 <h2>Non Teaching</h2>
                                                 <br>

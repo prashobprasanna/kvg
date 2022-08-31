@@ -893,8 +893,26 @@
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text</p>
                     </div>
                 </div> -->
-                                                <div class="row" style="align-items:center">
+                                            
+                <div class="row" style="align-items:center">
                                                     <h2>Teaching</h2><br>
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/civil/Chandra.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>DR. CHANDRASHEKARA A</h4>
+                                                                <h5 style="color:white">Professor and Head of the department</h5>
+                                                                <h5 style="color:white">B.E., M.Tech., MIT, Ph.D., MISTE</h5>
+                                                                <span></span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/civil/Mr. ARUNKUMAR H.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -902,6 +920,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Aruna Kumar H</h4>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.E., M.Tech.</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="profile/civil/Mr. ARUNKUMAR H.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
@@ -917,6 +937,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. Lekha B M</h4>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.E., M.Tech.,Ph.D.</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="profile/civil/Dr  LEKHA B M.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
@@ -932,6 +954,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Ajith B T</h4>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.E., M.Tech.</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="profile/civil/Mr. AJITH B T.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
@@ -961,6 +985,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Vishnu Bhat N</h4>
+                                                                <h5 style="color:white">Associate Professor</h5>
+                                                                <h5 style="color:white">B.E., M.Tech.</h5>
                                                                 <span>Web Designer</span>
                                                                 <div class="social-links">
                                                                     <a href="profile/civil/Mr. Vishnu Bhat N.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
@@ -976,6 +1002,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Krishnaraj M V</h4>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E., M.Tech.</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="profile//civil/Mr. KRISHNARAJ  M.V.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
@@ -991,6 +1019,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Ashwija K C</h4>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E., M.Tech.</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="profile/civil/Mrs. Ashwija K.C.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
@@ -1006,6 +1036,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Abdul Mujeeb</h4>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E., M.Tech.</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="profile/civil/Mr. ABDUL MUJEEB.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
@@ -1021,6 +1053,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Prof. Lakshminarayana N</h4>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">B.E., M.Tech.</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="profile/civil/Mr. Lakshminarayana  N.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
@@ -1031,6 +1065,7 @@
 
 
                                                 </div>
+
 
                                                 <h2>Non Teaching</h2>
                                                 <br>

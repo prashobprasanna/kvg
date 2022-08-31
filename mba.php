@@ -409,8 +409,8 @@
                                 </li>
                             </ul>
                             <!-- <div class="links1"> -->
-                                <!-- <button class="follow">Follow</button> -->
-                                <!-- <button class="view">View Profile</button>
+                            <!-- <button class="follow">Follow</button> -->
+                            <!-- <button class="view">View Profile</button>
                             </div> -->
                         </div>
                     </div>
@@ -588,7 +588,7 @@
 
 
                         </div>
-
+                        <br><br><br><br>
                         <div class="tab-pane  fade " id="Faculty">
                             <!-- <ul class="nav nav-tabs tabtop tabsetting">
                                     <li class="active">
@@ -845,7 +845,7 @@
 
 
     <!-- endfooter -->
-    
+
 </body>
 
 <!-- Mirrored from www.sjec.ac.in/department-computer-science.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Apr 2022 12:11:44 GMT -->
