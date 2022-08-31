@@ -14,417 +14,420 @@
         include('navbar.php');
         ?>
     </header>
-    
+
 
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
         <div><img src="images/banner/cs.jpg" class="img-responsive"></div>
     </section>
     <style>
-        div.poco{
-            
-  position: fixed;
-  top: 15%;
-  padding: 5px;
-  height: fit-content;
-  /* padding-top: 0%; */
-  padding-bottom: 0%;
-  background-color: #000000;
-  color: white;
-  font-size: large;
-  /* border: 2px solid #4CAF50; */
-z-index: 999;
-        }
-        @media (max-width:500px) {
-            div.poco{ 
-            position: fixed;
-            top: 15%;
-            padding: 5px;
-            height: fit-content;
-            /* padding-top: 0%; */
-            padding-bottom: 0%;
-            background-color: #000000;
-            color: white;
-            font-size: small;
-            /* border: 2px solid #4CAF50; */
-          z-index: 999;
-        }}
-        @media (max-width:300px) {
-            div.poco{ 
-            position: fixed;
-            top: 15%;
-            padding: 5px;
-            height: fit-content;
-            /* padding-top: 0%; */
-            padding-bottom: 0%;
-            background-color: #000000;
-            color: white;
-            font-size:smaller;
-            /* border: 2px solid #4CAF50; */
-          z-index: 999;
-        }
-    }
-    </style>
-    <div class="poco" >
+        div.poco {
 
-        
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size: large;
+            /* border: 2px solid #4CAF50; */
+            z-index: 999;
+        }
+
+        @media (max-width:500px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: small;
+                /* border: 2px solid #4CAF50; */
+                z-index: 999;
+            }
+        }
+
+        @media (max-width:300px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: smaller;
+                /* border: 2px solid #4CAF50; */
+                z-index: 999;
+            }
+        }
+    </style>
+    <div class="poco">
+
+
         <p> Computer Science & Engineering</p>
-        </div>
+    </div>
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
                 <h2 class="subheadWhite head" style="color: black;">HEAD OF DEPARTMENT<span></span></h2>
                 <style>
-                        .data_more_less_inner {
-                            overflow: hidden;
-                            margin-bottom: 20px;
-                            position: relative;
-                        }
+                    .data_more_less_inner {
+                        overflow: hidden;
+                        margin-bottom: 20px;
+                        position: relative;
+                    }
 
-                        .action_less {
-                            display: none;
-                        }
+                    .action_less {
+                        display: none;
+                    }
 
-                        .less_active .action_less {
-                            display: inline-block;
-                        }
+                    .less_active .action_less {
+                        display: inline-block;
+                    }
 
-                        .less_active .action_more {
-                            display: none;
-                        }
+                    .less_active .action_more {
+                        display: none;
+                    }
 
-                        .data_more_less:not(.less_active):not(.action_disabled) .data_more_less_inner:after {
-                            content: '';
-                            display: block;
-                            position: absolute;
-                            bottom: 0;
-                            left: 0;
-                            width: 100%;
-                            background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                            background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff',
-                                    GradientType=0);
-                            height: 80px;
-                        }
+                    .data_more_less:not(.less_active):not(.action_disabled) .data_more_less_inner:after {
+                        content: '';
+                        display: block;
+                        position: absolute;
+                        bottom: 0;
+                        left: 0;
+                        width: 100%;
+                        background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+                        background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+                        background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+                        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff',
+                                GradientType=0);
+                        height: 80px;
+                    }
 
-                        .data_more_less.action_disabled .more_less_action {
-                            display: none;
-                        }
+                    .data_more_less.action_disabled .more_less_action {
+                        display: none;
+                    }
 
-                        h1 {
-                            margin-bottom: 0px;
-                        }
+                    h1 {
+                        margin-bottom: 0px;
+                    }
 
-                        .btn {
-                            color: rgb(0, 0, 0);
-                            text-decoration: none;
-                            border: 1px solid rgb(0, 0, 0);
-                            border-radius: 18px;
-                            padding: 7px 15px;
-                        }
+                    .btn {
+                        color: rgb(0, 0, 0);
+                        text-decoration: none;
+                        border: 1px solid rgb(0, 0, 0);
+                        border-radius: 18px;
+                        padding: 7px 15px;
+                    }
 
-                        .btn:hover {
-                            background: rgb(92, 92, 92);
-                            color: rgb(255, 255, 255);
-                        }
-
-
-
-
-                        /* stat */
+                    .btn:hover {
+                        background: rgb(92, 92, 92);
+                        color: rgb(255, 255, 255);
+                    }
 
 
 
-                        @import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;300;700&display=swap');
 
-                        ul {
-                            list-style: none;
-                        }
+                    /* stat */
 
-                        body {
-                            min-height: 100vh;
-                            background-color: #f7f8fc;
-                        }
 
-                        .section {
-                            min-height: 50vh;
-                            margin: 0 30px;
-                        }
 
-                        .container1 {
-                            padding-left: 25px;
-                            padding-right: 25px;
-                            display: flex;
-                            align-items: center;
-                            justify-content: center;
-                            height: fit-content;
-                            font-family: 'Anek Bangla', sans-serif;
-                            font-weight: bold;
-                        }
+                    @import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;300;700&display=swap');
 
-                        .card {
-                            /* background-color: rgb(255, 187, 30); */
-                            background-image: linear-gradient(to right bottom, rgb(0, 10, 114), #4c449d);
-                            padding: 3rem 3.5rem;
-                            border-radius: 15px;
-                            display: flex;
-                            flex-wrap: wrap;
-                            position: relative;
-                            max-width: 500px;
-                            border: 3px solid black;
-                            border-radius: 8px;
-                            /* z-index: 0; */
-                        }
+                    ul {
+                        list-style: none;
+                    }
 
+                    body {
+                        min-height: 100vh;
+                        background-color: #f7f8fc;
+                    }
+
+                    .section {
+                        min-height: 50vh;
+                        margin: 0 30px;
+                    }
+
+                    .container1 {
+                        padding-left: 25px;
+                        padding-right: 25px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        height: fit-content;
+                        font-family: 'Anek Bangla', sans-serif;
+                        font-weight: bold;
+                    }
+
+                    .card {
+                        /* background-color: rgb(255, 187, 30); */
+                        background-image: linear-gradient(to right bottom, rgb(0, 10, 114), #4c449d);
+                        padding: 3rem 3.5rem;
+                        border-radius: 15px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        position: relative;
+                        max-width: 500px;
+                        border: 3px solid black;
+                        border-radius: 8px;
+                        /* z-index: 0; */
+                    }
+
+                    .card::before {
+                        content: '';
+                        position: absolute;
+                        top: -15px;
+                        left: 1px;
+                        width: 101%;
+                        height: 110%;
+                        background-image: linear-gradient(to right bottom, #4c449d, rgb(0, 10, 114));
+                        z-index: -1;
+                        border-radius: 15px;
+                        transform: rotate(-8deg);
+                        box-shadow: 0 0 45px 5px rgba(0, 0, 0, .2);
+                        border: 3px solid black;
+                        border-radius: 8px;
+                    }
+
+                    .card li {
+                        width: 50%;
+                        margin: 15px 0;
+                    }
+
+                    .card li p {
+                        display: flex;
+                    }
+
+                    .card li h3 {
+                        display: inline-block;
+                        font-size: 2rem;
+                        color: rgb(255, 255, 255);
+                        vertical-align: top;
+                        margin-right: 5px;
+                        line-height: 1.2;
+                    }
+
+                    .card li .fa {
+                        font-size: 18px;
+                    }
+
+                    .card li span {
+                        color: #ffffff;
+                        font-weight: bold;
+                        font-size: 14px;
+                    }
+
+
+                    .clr-up {
+                        color: green;
+                    }
+
+                    .clr-down {
+                        color: red;
+                    }
+
+                    @media screen and (max-width: 500px) {
                         .card::before {
-                            content: '';
-                            position: absolute;
-                            top: -15px;
-                            left: 1px;
-                            width: 101%;
-                            height: 110%;
-                            background-image: linear-gradient(to right bottom, #4c449d, rgb(0, 10, 114));
-                            z-index: -1;
-                            border-radius: 15px;
-                            transform: rotate(-8deg);
-                            box-shadow: 0 0 45px 5px rgba(0, 0, 0, .2);
-                            border: 3px solid black;
-                            border-radius: 8px;
+                            top: -10px;
+                            left: -2px;
                         }
 
                         .card li {
-                            width: 50%;
-                            margin: 15px 0;
+                            width: 100%;
                         }
 
-                        .card li p {
-                            display: flex;
+                        .card li:not(:first-of-type) {
+                            margin-top: 15px;
                         }
-
-                        .card li h3 {
-                            display: inline-block;
-                            font-size: 2rem;
-                            color: rgb(255, 255, 255);
-                            vertical-align: top;
-                            margin-right: 5px;
-                            line-height: 1.2;
-                        }
-
-                        .card li .fa {
-                            font-size: 18px;
-                        }
-
-                        .card li span {
-                            color: #ffffff;
-                            font-weight: bold;
-                            font-size: 14px;
-                        }
-
-
-                        .clr-up {
-                            color: green;
-                        }
-
-                        .clr-down {
-                            color: red;
-                        }
-
-                        @media screen and (max-width: 500px) {
-                            .card::before {
-                                top: -10px;
-                                left: -2px;
-                            }
-
-                            .card li {
-                                width: 100%;
-                            }
-
-                            .card li:not(:first-of-type) {
-                                margin-top: 15px;
-                            }
-                        }
+                    }
 
 
 
 
-                        /* HOD Card */
+                    /* HOD Card */
 
-                        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;700&display=swap');
+                    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;700&display=swap');
 
-                        * {
-                            margin: 0;
-                            padding: 0;
-                            box-sizing: border-box;
-                        }
+                    * {
+                        margin: 0;
+                        padding: 0;
+                        box-sizing: border-box;
+                    }
 
-                        body {
-                            font-family: 'Poppins', sans-serif;
-                            align-items: center;
-                            justify-content: center;
-                            background-color: #ADE5F9;
-                            min-height: 100vh;
-                        }
+                    body {
+                        font-family: 'Poppins', sans-serif;
+                        align-items: center;
+                        justify-content: center;
+                        background-color: #ADE5F9;
+                        min-height: 100vh;
+                    }
 
-                        img {
-                            max-width: 100%;
+                    img {
+                        max-width: 100%;
+                        display: block;
+                    }
+
+                    ul {
+                        list-style: none;
+                    }
+
+                    /* Utilities */
+                    .card1::after,
+                    .card1 img {
+                        border-radius: 2%;
+                    }
+
+                    .card1,
+                    .stats1 {
+                        display: flex;
+                    }
+
+                    .card1 {
+                        padding: 2.5rem 2rem;
+                        border-radius: 10px;
+                        background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
+                        max-width: 90%;
+                        box-shadow: 0 0 30px rgba(0, 0, 0, .15);
+                        margin: 1rem;
+                        position: relative;
+                        transform-style: preserve-3d;
+                        overflow: hidden;
+                        justify-content: center;
+                    }
+
+                    .card1::before,
+                    .card1::after {
+                        content: '';
+                        position: absolute;
+                        z-index: -1;
+                    }
+
+                    .card1::before {
+                        width: 100%;
+                        height: 100%;
+                        border: 1px solid #FFF;
+                        border-radius: 10px;
+                        top: -.7rem;
+                        left: -.7rem;
+                    }
+
+                    .card1::after {
+                        height: 15rem;
+                        width: 15rem;
+                        background-color: #4172f5aa;
+                        top: -8rem;
+                        right: -8rem;
+                        box-shadow: 2rem 6rem 0 -3rem #c3daff;
+                        border-radius: 50%;
+                    }
+
+                    .card1 img {
+                        float: left;
+                        width: 100%;
+                        min-width: 80px;
+                        box-shadow: 0 0 0 5px #FFF;
+                    }
+
+                    .infos {
+                        margin-left: 1.5rem;
+                    }
+
+                    .name {
+                        margin-bottom: 1rem;
+                    }
+
+                    .name h2 {
+                        font-size: 1.3rem;
+                    }
+
+                    .name h4 {
+                        font-size: .8rem;
+                        color: #333
+                    }
+
+                    .text {
+                        font-size: .9rem;
+                        margin-bottom: 1rem;
+                    }
+
+                    .stats1 {
+                        margin-bottom: 1rem;
+                    }
+
+                    .stats1 li {
+                        min-width: 5rem;
+                    }
+
+                    .stats1 li h3 {
+                        font-size: .99rem;
+                    }
+
+                    .stats1 li h4 {
+                        font-size: .75rem;
+                    }
+
+                    .links1 button {
+                        font-family: 'Poppins', sans-serif;
+                        min-width: 120px;
+                        padding: .5rem;
+                        border: 1px solid #222;
+                        border-radius: 5px;
+                        font-weight: bold;
+                        cursor: pointer;
+                        transition: all .25s linear;
+                    }
+
+                    .links1 .follow,
+                    .links1 .view:hover {
+                        background-color: #222;
+                        color: #FFF;
+                    }
+
+                    .links1 .view,
+                    .links1 .follow:hover {
+                        background-color: transparent;
+                        color: #222;
+                    }
+
+                    @media screen and (max-width: 450px) {
+                        .card1 {
                             display: block;
                         }
 
-                        ul {
-                            list-style: none;
-                        }
-
-                        /* Utilities */
-                        .card1::after,
-                        .card1 img {
-                            border-radius: 2%;
-                        }
-
-                        .card1,
-                        .stats1 {
-                            display: flex;
-                        }
-
-                        .card1 {
-                            padding: 2.5rem 2rem;
-                            border-radius: 10px;
-                            background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
-                            max-width: 90%;
-                            box-shadow: 0 0 30px rgba(0, 0, 0, .15);
-                            margin: 1rem;
-                            position: relative;
-                            transform-style: preserve-3d;
-                            overflow: hidden;
-                            justify-content: center;
-                        }
-
-                        .card1::before,
-                        .card1::after {
-                            content: '';
-                            position: absolute;
-                            z-index: -1;
-                        }
-
-                        .card1::before {
-                            width: 100%;
-                            height: 100%;
-                            border: 1px solid #FFF;
-                            border-radius: 10px;
-                            top: -.7rem;
-                            left: -.7rem;
-                        }
-
-                        .card1::after {
-                            height: 15rem;
-                            width: 15rem;
-                            background-color: #4172f5aa;
-                            top: -8rem;
-                            right: -8rem;
-                            box-shadow: 2rem 6rem 0 -3rem #c3daff;
-                            border-radius: 50%;
-                        }
-
-                        .card1 img {
-                            float: left;
-                            width: 100%;
-                            min-width: 80px;
-                            box-shadow: 0 0 0 5px #FFF;
-                        }
-
                         .infos {
-                            margin-left: 1.5rem;
-                        }
-
-                        .name {
-                            margin-bottom: 1rem;
-                        }
-
-                        .name h2 {
-                            font-size: 1.3rem;
-                        }
-
-                        .name h4 {
-                            font-size: .8rem;
-                            color: #333
-                        }
-
-                        .text {
-                            font-size: .9rem;
-                            margin-bottom: 1rem;
-                        }
-
-                        .stats1 {
-                            margin-bottom: 1rem;
-                        }
-
-                        .stats1 li {
-                            min-width: 5rem;
-                        }
-
-                        .stats1 li h3 {
-                            font-size: .99rem;
-                        }
-
-                        .stats1 li h4 {
-                            font-size: .75rem;
+                            margin-left: 0;
+                            margin-top: 1.5rem;
                         }
 
                         .links1 button {
-                            font-family: 'Poppins', sans-serif;
-                            min-width: 120px;
-                            padding: .5rem;
-                            border: 1px solid #222;
-                            border-radius: 5px;
-                            font-weight: bold;
-                            cursor: pointer;
-                            transition: all .25s linear;
+                            min-width: 100px;
                         }
+                    }
+                </style>
+                <style>
+                    /* #myBtn1 {display: none;} */
+                    #myBtn1 {
+                        display: none;
+                    }
 
-                        .links1 .follow,
-                        .links1 .view:hover {
-                            background-color: #222;
-                            color: #FFF;
-                        }
+                    @media (max-width:767px) {
 
-                        .links1 .view,
-                        .links1 .follow:hover {
-                            background-color: transparent;
-                            color: #222;
-                        }
-
-                        @media screen and (max-width: 450px) {
-                            .card1 {
-                                display: block;
-                            }
-
-                            .infos {
-                                margin-left: 0;
-                                margin-top: 1.5rem;
-                            }
-
-                            .links1 button {
-                                min-width: 100px;
-                            }
-                        }
-                    </style>
-                    <style>
-                        /* #myBtn1 {display: none;} */
-                        #myBtn1 {
+                        /* #nobq{display: none;} */
+                        #more1 {
                             display: none;
                         }
 
-                        @media (max-width:767px) {
-
-                            /* #nobq{display: none;} */
-                            #more1 {
-                                display: none;
-                            }
-
-                            #myBtn1 {
-                                display: inline;
-                            }
+                        #myBtn1 {
+                            display: inline;
                         }
-                    </style>
+                    }
+                </style>
                 <center>
                     <div class="card1">
                         <div class="img">
@@ -458,11 +461,11 @@ z-index: 999;
                                 </li>
                             </ul>
                             <!-- <div class="links1"> -->
-                                <!-- <button class="follow">Follow</button> -->
+                            <!-- <button class="follow">Follow</button> -->
 
-                                <!-- <button class="view">MORE</button> -->
+                            <!-- <button class="view">MORE</button> -->
 
-                                <!-- <a href="profile/cs/Dr_Ujwal.pdf" target="_blank"><button class="view">Veiw Profile</button></a> -->
+                            <!-- <a href="profile/cs/Dr_Ujwal.pdf" target="_blank"><button class="view">Veiw Profile</button></a> -->
 
 
                             <!-- </div> -->
@@ -850,7 +853,7 @@ z-index: 999;
 
 
                         </div>
-
+<br><br><br><br>
                         <div class="tab-pane fade" id="Faculty">
                             <!-- <ul class="nav nav-tabs tabtop tabsetting">
                                     <li class="active">
@@ -1276,309 +1279,309 @@ z-index: 999;
                         </div>
 
                         <div class="tab-pane fade" id="Placements">
-                        <div class="row">
-                        <style>
-                                                                    #customers {
-                                                                        font-family: Arial, Helvetica, sans-serif;
-                                                                        border-collapse: collapse;
-                                                                        width: 100%;
-                                                                    }
+                            <div class="row">
+                                <style>
+                                    #customers {
+                                        font-family: Arial, Helvetica, sans-serif;
+                                        border-collapse: collapse;
+                                        width: 100%;
+                                    }
 
-                                                                    #customers td,
-                                                                    #customers th {
-                                                                        border: 1px solid #ddd;
-                                                                        padding: 8px;
-                                                                    }
+                                    #customers td,
+                                    #customers th {
+                                        border: 1px solid #ddd;
+                                        padding: 8px;
+                                    }
 
-                                                                    #customers tr:nth-child(even) {
-                                                                        background-color: #f2f2f2;
-                                                                    }
+                                    #customers tr:nth-child(even) {
+                                        background-color: #f2f2f2;
+                                    }
 
-                                                                    #customers tr:hover {
-                                                                        background-color: #ddd;
-                                                                    }
+                                    #customers tr:hover {
+                                        background-color: #ddd;
+                                    }
 
-                                                                    #customers th {
-                                                                        padding-top: 12px;
-                                                                        padding-bottom: 12px;
-                                                                        text-align: left;
-                                                                        background-color: #04AA6D;
-                                                                        color: white;
-                                                                    }
-                                                                </style>
-                                                                <table id="customers">
-                                                                    <tr>
-                                                                        <th>SL.NO</th>
-                                                                        <th>Name</th>
-                                                                        <th>Company</th>
-                                                                        
-                                                                        
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>1</td>
-                                                                        <td>Ashwini H K</td>
-                                                                        <td>Tata Consultancy Services, Infosys,IBM </td>
-                                                                       
-                                                                      
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>2</td>
-                                                                        <td>Akash D R</td>
-                                                                      
-                                                                        <td>Tata Consultancy Services, Wipfli,ChipSync </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>3</td>
-                                                                        <td>Shwetha A</td>
-                                                                       <td>Tata Consultancy Services </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>4</td>
-                                                                        <td>Vyshna V</td>
-                                                                        <td>Tata Consultancy Services </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>5</td>
-                                                                        <td>Raksha M</td>
-                                                                        <td>Sasken </td>
+                                    #customers th {
+                                        padding-top: 12px;
+                                        padding-bottom: 12px;
+                                        text-align: left;
+                                        background-color: #04AA6D;
+                                        color: white;
+                                    }
+                                </style>
+                                <table id="customers">
+                                    <tr>
+                                        <th>SL.NO</th>
+                                        <th>Name</th>
+                                        <th>Company</th>
 
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>6</td>
-                                                                        <td>Nikhil A L</td>
-                                                                        <td>Infosys, SignDesk  </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>7</td>
-                                                                        <td>Ajna H M</td>
-                                                                        <td>Talentpace, Cognitive clouds, Palle Technologies, Capgemini </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>8</td>
-                                                                        <td>Ambika P</td>
-                                                                        <td>Cognitive clouds, Teachnook, Accord Glogal Technological Solution</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>9</td>
-                                                                        <td>Chandana B</td>
-                                                                        <td>Capgemini, Robosoft Technologies, Teachnook, Accord Glogal Technological Solution </td>
-                                                                       
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>10</td>
-                                                                        <td>Smitha Bantwal</td>
-                                                                        <td>Global Quest Technologies, Teachnook</td>
-                                                                       
-                                                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>11</td>
-                                                                        <td>Nishmitha M N</td>
-                                                                        <td>Global Quest Technologies, Teachnook, Pentagon Space, Brigosha Technologies</td>
-                                                                       
-                                                                    </tr>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Ashwini H K</td>
+                                        <td>Tata Consultancy Services, Infosys,IBM </td>
 
-                                                                    <tr>
-                                                                    <td>12</td>
-                                                                        <td>Apoorva P R</td>
-                                                                       
-                                                                        <td>Palle Technologies, Code Craft Technologies, Accord Glogal Technological Solution </td>
-                                                                    
-                                                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>13</td>
-                                                                        <td>Harshith Rai Y N</td>
-                                                                        <td>Palle Technologies</td>
-                                                                      
-                                                                    </tr>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Akash D R</td>
 
-                                                                    <tr>
-                                                                    <td>14</td>
-                                                                        <td>Krishna Shravan</td>
-                                                                        <td>Palle Technologies, Wipfli</td>
-                                                                      
-                                                                    </tr>
+                                        <td>Tata Consultancy Services, Wipfli,ChipSync </td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Shwetha A</td>
+                                        <td>Tata Consultancy Services </td>
+                                    </tr>
+                                    <tr>
+                                        <td>4</td>
+                                        <td>Vyshna V</td>
+                                        <td>Tata Consultancy Services </td>
+                                    </tr>
+                                    <tr>
+                                        <td>5</td>
+                                        <td>Raksha M</td>
+                                        <td>Sasken </td>
 
-                                                                    <tr>
-                                                                    <td>15</td>
-                                                                        <td>Manoj S G</td>
-                                                                        <td>Palle Technologies, Capgemini</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>16</td>
-                                                                        <td>Kedar S P</td>
-                                                                        <td>Palle Technologies, Capgemini</td>
-                                                                    </tr>
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>Nikhil A L</td>
+                                        <td>Infosys, SignDesk </td>
+                                    </tr>
+                                    <tr>
+                                        <td>7</td>
+                                        <td>Ajna H M</td>
+                                        <td>Talentpace, Cognitive clouds, Palle Technologies, Capgemini </td>
+                                    </tr>
+                                    <tr>
+                                        <td>8</td>
+                                        <td>Ambika P</td>
+                                        <td>Cognitive clouds, Teachnook, Accord Glogal Technological Solution</td>
 
-                                                                    <tr>
-                                                                    <td>17</td>
-                                                                        <td>Sushmitha N V</td>
-                                                                        <td>Palle Technologies, Wipfli, Accord Glogal Technological Solution</td>
-                                                                    </tr>
+                                    </tr>
+                                    <tr>
+                                        <td>9</td>
+                                        <td>Chandana B</td>
+                                        <td>Capgemini, Robosoft Technologies, Teachnook, Accord Glogal Technological Solution </td>
 
-                                                                    <tr>
-                                                                    <td>18</td>
-                                                                        <td>Arshriya R N</td>
-                                                                        <td>Accord Glogal Technological Solution, QSpiders</td>
-                                                                      
-                                                                    </tr>
+                                    </tr>
+                                    <tr>
+                                        <td>10</td>
+                                        <td>Smitha Bantwal</td>
+                                        <td>Global Quest Technologies, Teachnook</td>
 
-                                                                    <tr>
-                                                                    <td>19</td>
-                                                                        <td>Nidhi T S</td>
-                                                                        <td>QSpiders</td>
-                                                                       
-                                                                    </tr>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>20/td>
-                                                                    <td>Nithish N Devadiga</td>
-                                                                        <td>QSpiders</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>11</td>
+                                        <td>Nishmitha M N</td>
+                                        <td>Global Quest Technologies, Teachnook, Pentagon Space, Brigosha Technologies</td>
 
-                                                                    <tr>
-                                                                    <td>21</td>
-                                                                    <td>Pavan B B</td>
-                                                                        <td>QSpiders</td>
-                                                                    </tr>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>22</td>
-                                                                    <td>Prajna T N</td>
-                                                                        <td>QSpiders</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>12</td>
+                                        <td>Apoorva P R</td>
 
-                                                                    <tr>
-                                                                    <td>23</td>
-                                                                    <td>Yashaswini</td>
-                                                                        <td>QSpiders</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>24</td>
-                                                                    <td>Shreya M C</td>
-                                                                        <td>QSpiders,Code Craft Technologies,Capgemini</td>
-                                                                    </tr>
+                                        <td>Palle Technologies, Code Craft Technologies, Accord Glogal Technological Solution </td>
 
-                                                                    <tr>
-                                                                    <td>25</td>
-                                                                    <td>Dhanya P R</td>
-                                                                        <td>QSpiders, Teachnook, Skolar, Wipfli, Accord Glogal Technological Solution</td>
-                                                                    </tr>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>26</td>
-                                                                    <td>Namrutha K R</td>
-                                                                        <td>QSpiders,Teachnook</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>13</td>
+                                        <td>Harshith Rai Y N</td>
+                                        <td>Palle Technologies</td>
 
-                                                                    <tr>
-                                                                    <td>27</td>
-                                                                        <td>Nishmitha KV</td>
-                                                                        <td>Teachnook,Continental</td>
-                                                                    
-                                                                    </tr>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>28</td>
-                                                                        <td>Prashanthi K G </td>
-                                                                        <td>QSpiders, Teachnook</td>
-                                                                       
-                                                                    </tr>
+                                    <tr>
+                                        <td>14</td>
+                                        <td>Krishna Shravan</td>
+                                        <td>Palle Technologies, Wipfli</td>
 
-                                                                    <tr>
-                                                                    <td>29</td>
-                                                                        <td>Shreya A </td>
-                                                                        <td>Teachnook, Capgemini</td>
-                                                                     
-                                                                    </tr>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>29</td>
-                                                                        <td>Shamitha J Rai </td>
-                                                                        <td>Skolar</td>
-                                                                     
-                                                                    </tr>
+                                    <tr>
+                                        <td>15</td>
+                                        <td>Manoj S G</td>
+                                        <td>Palle Technologies, Capgemini</td>
+                                    </tr>
+                                    <tr>
+                                        <td>16</td>
+                                        <td>Kedar S P</td>
+                                        <td>Palle Technologies, Capgemini</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>30</td>
-                                                                        <td>Faiza M B</td>
-                                                                        <td>Skolar</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>31</td>
-                                                                        <td>Darshan B</td>
-                                                                        <td>Wipfli</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>32</td>
-                                                                        <td>Mahammad Sinan B H</td>
-                                                                        <td>Wipfli</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>33</td>
-                                                                        <td>Preethika M P</td>
-                                                                        <td>Wipfli</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>34</td>
-                                                                        <td>Priya C R</td>
-                                                                        <td>Wipfli,ChipSync</td>
-                                                                     
-                                                                    </tr>
+                                    <tr>
+                                        <td>17</td>
+                                        <td>Sushmitha N V</td>
+                                        <td>Palle Technologies, Wipfli, Accord Glogal Technological Solution</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>35</td>
-                                                                        <td>Druva K N</td>
-                                                                        <td>KodNest</td>
-                                                                     
-                                                                    </tr>
+                                    <tr>
+                                        <td>18</td>
+                                        <td>Arshriya R N</td>
+                                        <td>Accord Glogal Technological Solution, QSpiders</td>
 
-                                                                    <tr>
-                                                                    <td>36</td>
-                                                                        <td>Harinandan Praveen</td>
-                                                                        <td>KodNest</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>37</td>
-                                                                        <td>Abdul Basheer M</td>
-                                                                        <td>KodNest</td>
-                                                                     
-                                                                    </tr>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>38</td>
-                                                                        <td>Madhura A K</td>
-                                                                        <td>KodNest</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>39</td>
-                                                                        <td>Madhura U S</td>
-                                                                        <td>KodNest</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>40</td>
-                                                                        <td>Sahana</td>
-                                                                        <td>TAP Academy</td>
-                                                                     
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>41</td>
-                                                                        <td>Sahana</td>
-                                                                        <td>TAP Academy</td>
-                                                                     
-                                                                    </tr>
-                                                                    
-                                                                </table>
-                                                                </div>
+                                    <tr>
+                                        <td>19</td>
+                                        <td>Nidhi T S</td>
+                                        <td>QSpiders</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>20/td>
+                                        <td>Nithish N Devadiga</td>
+                                        <td>QSpiders</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>21</td>
+                                        <td>Pavan B B</td>
+                                        <td>QSpiders</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>22</td>
+                                        <td>Prajna T N</td>
+                                        <td>QSpiders</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>23</td>
+                                        <td>Yashaswini</td>
+                                        <td>QSpiders</td>
+                                    </tr>
+                                    <tr>
+                                        <td>24</td>
+                                        <td>Shreya M C</td>
+                                        <td>QSpiders,Code Craft Technologies,Capgemini</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>25</td>
+                                        <td>Dhanya P R</td>
+                                        <td>QSpiders, Teachnook, Skolar, Wipfli, Accord Glogal Technological Solution</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>26</td>
+                                        <td>Namrutha K R</td>
+                                        <td>QSpiders,Teachnook</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>27</td>
+                                        <td>Nishmitha KV</td>
+                                        <td>Teachnook,Continental</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>28</td>
+                                        <td>Prashanthi K G </td>
+                                        <td>QSpiders, Teachnook</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>29</td>
+                                        <td>Shreya A </td>
+                                        <td>Teachnook, Capgemini</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>29</td>
+                                        <td>Shamitha J Rai </td>
+                                        <td>Skolar</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>30</td>
+                                        <td>Faiza M B</td>
+                                        <td>Skolar</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>31</td>
+                                        <td>Darshan B</td>
+                                        <td>Wipfli</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>32</td>
+                                        <td>Mahammad Sinan B H</td>
+                                        <td>Wipfli</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>33</td>
+                                        <td>Preethika M P</td>
+                                        <td>Wipfli</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>34</td>
+                                        <td>Priya C R</td>
+                                        <td>Wipfli,ChipSync</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>35</td>
+                                        <td>Druva K N</td>
+                                        <td>KodNest</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>36</td>
+                                        <td>Harinandan Praveen</td>
+                                        <td>KodNest</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>37</td>
+                                        <td>Abdul Basheer M</td>
+                                        <td>KodNest</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>38</td>
+                                        <td>Madhura A K</td>
+                                        <td>KodNest</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>39</td>
+                                        <td>Madhura U S</td>
+                                        <td>KodNest</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>40</td>
+                                        <td>Sahana</td>
+                                        <td>TAP Academy</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>41</td>
+                                        <td>Sahana</td>
+                                        <td>TAP Academy</td>
+
+                                    </tr>
+
+                                </table>
+                            </div>
 
 
                         </div>
