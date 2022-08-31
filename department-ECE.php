@@ -941,7 +941,7 @@
                     </div>
                 </div> -->
                 <div class="row" style="align-items:center">
-                                                <h2>Teaching</h2><br>
+                                                <h2>Teaching Staff</h2><br>
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -1165,7 +1165,7 @@
                                                         </div>
                                                     </div>
                                         </div>
-                                                <h2>Non Teaching</h2>
+                                                <h2>Technical & Supporting Staff</h2>
                                                 <br>
                                                 <div class="row" style="align-items:center">
 

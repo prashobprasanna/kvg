@@ -712,6 +712,7 @@
                     </div>
                 </div> -->
                                                 <div class="row" style="align-items:center">
+                                                <h2>Teaching Staff</h2><br>
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -723,13 +724,13 @@
                                                                 <h5 style="color:white">MA,M.Phil,MBA (Ph.D)</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/MBA/HOD , Krishnananda.pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     
-                                                <div class="row" style="align-items:center">
+                                              
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -737,12 +738,12 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mrs. Immaculate Mary</h4>
-<<<<<<< Updated upstream
+
                                                                 <h6 style="color:white"></h6>
-=======
+
                                                                 <h5 style="color:white">Assistant Professor</h5>
                                                                 <h5 style="color:white">MBA,DCM</h5>
->>>>>>> Stashed changes
+
                                                                 <div class="social-links">
 
                                                                     <a href="profile/MBA/MARY.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -758,20 +759,21 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mr. Manohara A N</h4>
-<<<<<<< Updated upstream
+
                                                                 <h5 style="color:white">Assistant Professor</h5>
                                                                 <h5 style="color:white">M.Sc.,MBA</h5>
-=======
+
                                                                 <h6 style="color:white"></h6>
->>>>>>> Stashed changes
+
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/MBA/MANOHAR.pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-
+                                                </div>
+                                                <div class="row" style="align-items:center">
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -779,12 +781,12 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mrs. Srimani K</h4>
-<<<<<<< Updated upstream
+
                                                                 <h5 style="color:white">Assistant Professor</h5>
                                                                 <h5 style="color:white">MBA</h5>
-=======
+
                                                                 <h6 style="color:white"></h6>
->>>>>>> Stashed changes
+
                                                                 <div class="social-links">
 
                                                                     <a href="profile/MBA/shrimani.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -793,7 +795,7 @@
                                                         </div>
                                                     </div>
 
-
+                                        </div>
 
 
 

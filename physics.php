@@ -728,33 +728,33 @@
                                                                 <img src="admin-kvgce/photos/faculty/basic/praveen.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>DR.Praveena S D</h4>
-                                                                <h5 style="color:white">Professor and Head of the department</h5>
-                                                                <h5 style="color:white">B.Sc,M.Sc.,Ph.D</h5>
+                                                                <h4>Dr. Praveena S D</h4>
+                                                                     <h5 style="color:white">Professor & HOD</h5>
+                                                                <h5 style="color:white">B.Sc, M.Sc., Ph.D</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/basic/Dr. Praveen S D (2).pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
 
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
+                                                    <!-- <div class="col-lg-3 col-md-6">
+                                                        <div class="me mber">
                                                             <div class="member-img">
                                                                 <img src="admin-kvgce/photos/faculty/basic/lava.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>lava</h4>
+                                                                <h4></h4>
                                                                 <h5 style="color:white">Associate Professor</h5>
-                                                                <h5 style="color:white">B.Sc,M.Sc.,(Ph.D)</h5>
-                                                                <div class="social-links">
+                                                                <h5 style="color:white">B.Sc, M.Sc.,(Ph.D)</h5>
+                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
+                                                                    <a href=""><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div> 
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
 
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
@@ -764,109 +764,16 @@
                                                             <div class="member-info">
                                                                 <h4>Prof. Manjula B</h4>
                                                                 <h5 style="color:white">Associate Professor</h5>
-                                                                <h5 style="color:white">B.Sc,M.Sc.,(Ph.D)</h5>
+                                                                <h5 style="color:white">B.Sc, M.Sc.,(Ph.D)</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href=""><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
 
-                                                   <!--  <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/ajith.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Ajith B T</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/shruthi.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Shruthi P J</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/Vishnu.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Vishnu Bhat N</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/krishnaraj.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Krishnaraj M V</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/ashwija.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Ashwija K C</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/mujeeb.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Abdul Mujeeb</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
-                                                                <div class="social-links">
-
-                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div> -->
+                                                
 
                                                 </div>
                                             </div>
