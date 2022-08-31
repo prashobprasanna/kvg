@@ -19,55 +19,58 @@
         <div><img src="images/banner/ece.jpg" class="img-responsive"></div>
     </section>
     <style>
-        div.poco{
-            
-  position: fixed;
-  top: 15%;
-  padding: 5px;
-  height: fit-content;
-  /* padding-top: 0%; */
-  padding-bottom: 0%;
-  background-color: #000000;
-  color: white;
-  font-size: large;
-  /* border: 2px solid #4CAF50; */
-z-index: 999;
-        }
-        @media (max-width:500px) {
-            div.poco{ 
-            position: fixed;
-            top: 15%;
-            padding: 5px;
-            height: fit-content;
-            /* padding-top: 0%; */
-            padding-bottom: 0%;
-            background-color: #000000;
-            color: white;
-            font-size: small;
-            /* border: 2px solid #4CAF50; */
-          z-index: 999;
-        }}
-        @media (max-width:300px) {
-            div.poco{ 
-            position: fixed;
-            top: 15%;
-            padding: 5px;
-            height: fit-content;
-            /* padding-top: 0%; */
-            padding-bottom: 0%;
-            background-color: #000000;
-            color: white;
-            font-size:smaller;
-            /* border: 2px solid #4CAF50; */
-          z-index: 999;
-        }
-    }
-    </style>
-    <div class="poco" >
+        div.poco {
 
-        
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size: large;
+            /* border: 2px solid #4CAF50; */
+            z-index: 999;
+        }
+
+        @media (max-width:500px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: small;
+                /* border: 2px solid #4CAF50; */
+                z-index: 999;
+            }
+        }
+
+        @media (max-width:300px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: smaller;
+                /* border: 2px solid #4CAF50; */
+                z-index: 999;
+            }
+        }
+    </style>
+    <div class="poco">
+
+
         <p>Electronics & Communication</p>
-        </div>
+    </div>
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
@@ -468,8 +471,8 @@ z-index: 999;
                                 </li>
                             </ul>
                             <!-- <div class="links1"> -->
-                                <!-- <button class="follow">Follow</button> -->
-                                <!-- <a href="profile/ec/Dr. Kusumadhara S.pdf" target="_blank"> <button class="view">View Profile</button></a>
+                            <!-- <button class="follow">Follow</button> -->
+                            <!-- <a href="profile/ec/Dr. Kusumadhara S.pdf" target="_blank"> <button class="view">View Profile</button></a>
                             </div> -->
                         </div>
                     </div>
@@ -823,7 +826,7 @@ z-index: 999;
 
 
                         </div>
-
+                        <br><br><br><br>
                         <div class="tab-pane  fade " id="Faculty">
                             <!-- <ul class="nav nav-tabs tabtop tabsetting">
                                     <li class="active">
@@ -947,7 +950,7 @@ z-index: 999;
                     </div>
                 </div> -->
                                                 <div class="row" style="align-items:center">
-                                                <h2>Teaching</h2><br>
+                                                    <h2>Teaching</h2><br>
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -1141,8 +1144,8 @@ z-index: 999;
                                                             </div>
                                                         </div>
                                                     </div>
-                                        </div>
-                                        <h2>Non Teaching</h2>
+                                                </div>
+                                                <h2>Non Teaching</h2>
                                                 <br>
                                                 <div class="row" style="align-items:center">
 
@@ -1386,316 +1389,316 @@ z-index: 999;
 
 
                         <div class="tab-pane fade" id="Placements">
-                        <div class="row">
-                        <style>
-                                                                    #customers {
-                                                                        font-family: Arial, Helvetica, sans-serif;
-                                                                        border-collapse: collapse;
-                                                                        width: 100%;
-                                                                    }
+                            <div class="row">
+                                <style>
+                                    #customers {
+                                        font-family: Arial, Helvetica, sans-serif;
+                                        border-collapse: collapse;
+                                        width: 100%;
+                                    }
 
-                                                                    #customers td,
-                                                                    #customers th {
-                                                                        border: 1px solid #ddd;
-                                                                        padding: 8px;
-                                                                    }
+                                    #customers td,
+                                    #customers th {
+                                        border: 1px solid #ddd;
+                                        padding: 8px;
+                                    }
 
-                                                                    #customers tr:nth-child(even) {
-                                                                        background-color: #f2f2f2;
-                                                                    }
+                                    #customers tr:nth-child(even) {
+                                        background-color: #f2f2f2;
+                                    }
 
-                                                                    #customers tr:hover {
-                                                                        background-color: #ddd;
-                                                                    }
+                                    #customers tr:hover {
+                                        background-color: #ddd;
+                                    }
 
-                                                                    #customers th {
-                                                                        padding-top: 12px;
-                                                                        padding-bottom: 12px;
-                                                                        text-align: left;
-                                                                        background-color: #04AA6D;
-                                                                        color: white;
-                                                                    }
-                                                                </style>
-                        <table id="customers">
-                                                                    <tr>
-                                                                        <th>SL.NO</th>
-                                                                        <th>Name</th>
-                                                                        <th>Company</th>
-                                                                        <th>CTC</th>
-                                                                        <th>Contact No</th>
-                                                                        <th>Email</th>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>1</td>
-                                                                        <td>MAHIMA KAMATH N</td>
-                                                                        <td>SLK SOFTWARE</td>
-                                                                        <td>3.2LPA</td>
-                                                                        <td>9741296625</td>
-                                                                        <td>kamathmahima18@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>2</td>
-                                                                        <td>ABHILASH K GEORGE</td>
-                                                                        <td>ROBOSFT TECHNOLOGY</td>
-                                                                        <td>4LPA</td>
-                                                                        <td>7624842110</td>
-                                                                        <td>vampiretechz007@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>3</td>
-                                                                        <td>PRAKASH NAYAK P</td>
-                                                                        <td>ROBOSFT TECHNOLOGY & CHEGG INDIA PVT. LTD.</td>
-                                                                        <td>4LPA/3.5LPA</td>
-                                                                        <td>9686720331</td>
-                                                                        <td>prakashnayakp9686@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>4</td>
-                                                                        <td>VINEETH K H</td>
-                                                                        <td>TECHNOLOGICS GLOBAL PVT. LTD. & LAURUS INFOSYSTEMS (India) PVT. LTD</td>
-                                                                        <td>3.4LPA/3.5LPA</td>
-                                                                        <td>9448851464</td>
-                                                                        <td>vineethkuthyala0@gmail.com</td>
+                                    #customers th {
+                                        padding-top: 12px;
+                                        padding-bottom: 12px;
+                                        text-align: left;
+                                        background-color: #04AA6D;
+                                        color: white;
+                                    }
+                                </style>
+                                <table id="customers">
+                                    <tr>
+                                        <th>SL.NO</th>
+                                        <th>Name</th>
+                                        <th>Company</th>
+                                        <th>CTC</th>
+                                        <th>Contact No</th>
+                                        <th>Email</th>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>MAHIMA KAMATH N</td>
+                                        <td>SLK SOFTWARE</td>
+                                        <td>3.2LPA</td>
+                                        <td>9741296625</td>
+                                        <td>kamathmahima18@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>ABHILASH K GEORGE</td>
+                                        <td>ROBOSFT TECHNOLOGY</td>
+                                        <td>4LPA</td>
+                                        <td>7624842110</td>
+                                        <td>vampiretechz007@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>PRAKASH NAYAK P</td>
+                                        <td>ROBOSFT TECHNOLOGY & CHEGG INDIA PVT. LTD.</td>
+                                        <td>4LPA/3.5LPA</td>
+                                        <td>9686720331</td>
+                                        <td>prakashnayakp9686@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>4</td>
+                                        <td>VINEETH K H</td>
+                                        <td>TECHNOLOGICS GLOBAL PVT. LTD. & LAURUS INFOSYSTEMS (India) PVT. LTD</td>
+                                        <td>3.4LPA/3.5LPA</td>
+                                        <td>9448851464</td>
+                                        <td>vineethkuthyala0@gmail.com</td>
 
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>5</td>
-                                                                        <td>SAGAR GOPAL NAIK</td>
-                                                                        <td>INFOSYS & CHEGG INDIA PVT. LTD.</td>
-                                                                        <td>3.6LPA/3.5LPA</td>
-                                                                        <td>9071397463</td>
-                                                                        <td>naiksagar220@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>5</td>
+                                        <td>SAGAR GOPAL NAIK</td>
+                                        <td>INFOSYS & CHEGG INDIA PVT. LTD.</td>
+                                        <td>3.6LPA/3.5LPA</td>
+                                        <td>9071397463</td>
+                                        <td>naiksagar220@gmail.com</td>
 
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>6</td>
-                                                                        <td>SUJITH RAI M</td>
-                                                                        <td>CHEGG INDIA PVT. LTD. & EPIANCE SOFTWARE PVT. LTD.</td>
-                                                                        <td>3.5LPA/3LPA</td>
-                                                                        <td>8197740871</td>
-                                                                        <td>raisuji38@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>7</td>
-                                                                        <td>AHMED RAZA</td>
-                                                                        <td>DIYA SYSTEMS & NTT DATA</td>
-                                                                        <td>2.2LPA to 3LPA/3.5LPA</td>
-                                                                        <td>8105229863</td>
-                                                                        <td>ahmedraza1705@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>8</td>
-                                                                        <td>BHAVISHA K H</td>
-                                                                        <td>SANESQUARE TECHNOLOGY PVT. LTD. & NTT DATA</td>
-                                                                        <td>15500PM/3.5LPA</td>
-                                                                        <td>8073836631</td>
-                                                                        <td>bhavishakh13414@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>9</td>
-                                                                        <td>DEEKSHA AMIN</td>
-                                                                        <td>Jspider & DXC TECHNOLOGY</td>
-                                                                        <td>Training cum Placement </td>
-                                                                        <td>9113553477</td>
-                                                                        <td>deekshaamin123@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>10</td>
-                                                                        <td>GAGANA</td>
-                                                                        <td>QSPIDERS</td>
-                                                                        <td>Training cum Placement </td>
-                                                                        <td>9535980945</td>
-                                                                        <td>gaganashetty124@gmail.com</td>
-                                                                    </tr>
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>SUJITH RAI M</td>
+                                        <td>CHEGG INDIA PVT. LTD. & EPIANCE SOFTWARE PVT. LTD.</td>
+                                        <td>3.5LPA/3LPA</td>
+                                        <td>8197740871</td>
+                                        <td>raisuji38@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>7</td>
+                                        <td>AHMED RAZA</td>
+                                        <td>DIYA SYSTEMS & NTT DATA</td>
+                                        <td>2.2LPA to 3LPA/3.5LPA</td>
+                                        <td>8105229863</td>
+                                        <td>ahmedraza1705@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>8</td>
+                                        <td>BHAVISHA K H</td>
+                                        <td>SANESQUARE TECHNOLOGY PVT. LTD. & NTT DATA</td>
+                                        <td>15500PM/3.5LPA</td>
+                                        <td>8073836631</td>
+                                        <td>bhavishakh13414@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>9</td>
+                                        <td>DEEKSHA AMIN</td>
+                                        <td>Jspider & DXC TECHNOLOGY</td>
+                                        <td>Training cum Placement </td>
+                                        <td>9113553477</td>
+                                        <td>deekshaamin123@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>10</td>
+                                        <td>GAGANA</td>
+                                        <td>QSPIDERS</td>
+                                        <td>Training cum Placement </td>
+                                        <td>9535980945</td>
+                                        <td>gaganashetty124@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>11</td>
-                                                                        <td>JAHNAVI J</td>
-                                                                        <td>Jspider & DXC TECHNOLOGY</td>
-                                                                        <td>Training cum Placement </td>
-                                                                        <td>8792148859</td>
-                                                                        <td>janugj125@gmail.com </td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>11</td>
+                                        <td>JAHNAVI J</td>
+                                        <td>Jspider & DXC TECHNOLOGY</td>
+                                        <td>Training cum Placement </td>
+                                        <td>8792148859</td>
+                                        <td>janugj125@gmail.com </td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>12</td>
-                                                                        <td>JASMITHA P S</td>
-                                                                        <td>QSPIDERS</td>
-                                                                        <td>Training cum Placement </td>
-                                                                        <td>7348955770</td>
-                                                                        <td>jasmithajanki@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>12</td>
+                                        <td>JASMITHA P S</td>
+                                        <td>QSPIDERS</td>
+                                        <td>Training cum Placement </td>
+                                        <td>7348955770</td>
+                                        <td>jasmithajanki@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>13</td>
-                                                                        <td>KAVYASHREE K P</td>
-                                                                        <td>QSPIDERS</td>
-                                                                        <td>Training cum Placement </td>
-                                                                        <td>7026263202</td>
-                                                                        <td>kavyakundalpadi12@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>13</td>
+                                        <td>KAVYASHREE K P</td>
+                                        <td>QSPIDERS</td>
+                                        <td>Training cum Placement </td>
+                                        <td>7026263202</td>
+                                        <td>kavyakundalpadi12@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>14</td>
-                                                                        <td>NAMRATHA S</td>
-                                                                        <td>QSPIDERS & Alchemy</td>
-                                                                        <td>Training cum Placement/5LPA</td>
-                                                                        <td>9206505965</td>
-                                                                        <td>namrathasnammu@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>14</td>
+                                        <td>NAMRATHA S</td>
+                                        <td>QSPIDERS & Alchemy</td>
+                                        <td>Training cum Placement/5LPA</td>
+                                        <td>9206505965</td>
+                                        <td>namrathasnammu@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>15</td>
-                                                                        <td>NIREEKSHA M J</td>
-                                                                        <td>QSPIDERS & NTT DATA</td>
-                                                                        <td>Training cum Placement/3.5LPA</td>
-                                                                        <td>7624906839</td>
-                                                                        <td>nireekshamontadka@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>16</td>
-                                                                        <td>SHAILESH M S</td>
-                                                                        <td>SANESQUARE TECHNOLOGY & L&T Technology Servive</td>
-                                                                        <td>15500PM</td>
-                                                                        <td>9845053978</td>
-                                                                        <td>shaileshms18@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>15</td>
+                                        <td>NIREEKSHA M J</td>
+                                        <td>QSPIDERS & NTT DATA</td>
+                                        <td>Training cum Placement/3.5LPA</td>
+                                        <td>7624906839</td>
+                                        <td>nireekshamontadka@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>16</td>
+                                        <td>SHAILESH M S</td>
+                                        <td>SANESQUARE TECHNOLOGY & L&T Technology Servive</td>
+                                        <td>15500PM</td>
+                                        <td>9845053978</td>
+                                        <td>shaileshms18@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>17</td>
-                                                                        <td>SHREEJA RAI M</td>
-                                                                        <td>QSPIDERS & INFOSYS</td>
-                                                                        <td>Training cum Placement/6LPA</td>
-                                                                        <td>8281722126</td>
-                                                                        <td>shreejarai1999@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>17</td>
+                                        <td>SHREEJA RAI M</td>
+                                        <td>QSPIDERS & INFOSYS</td>
+                                        <td>Training cum Placement/6LPA</td>
+                                        <td>8281722126</td>
+                                        <td>shreejarai1999@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>18</td>
-                                                                        <td>PRUTHVI K</td>
-                                                                        <td>INFOSYS</td>
-                                                                        <td>3.6LPA</td>
-                                                                        <td>76249731767</td>
-                                                                        <td>pruthvikandiga@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>18</td>
+                                        <td>PRUTHVI K</td>
+                                        <td>INFOSYS</td>
+                                        <td>3.6LPA</td>
+                                        <td>76249731767</td>
+                                        <td>pruthvikandiga@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>19</td>
-                                                                        <td>SNEHA A G</td>
-                                                                        <td>QSPIDERS</td>
-                                                                        <td>Training cum Placement</td>
-                                                                        <td>7338548806</td>
-                                                                        <td>snehaag990@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>19</td>
+                                        <td>SNEHA A G</td>
+                                        <td>QSPIDERS</td>
+                                        <td>Training cum Placement</td>
+                                        <td>7338548806</td>
+                                        <td>snehaag990@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>20/td>
-                                                                        <td>SPOORTHI B G</td>
-                                                                        <td>QSPIDERS & Informatica Business Solutions Pvt. Ltd.</td>
-                                                                        <td>Training cum Placement /8.1LPA</td>
-                                                                        <td>7338548806</td>
-                                                                        <td>spoorhibg24@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>20/td>
+                                        <td>SPOORTHI B G</td>
+                                        <td>QSPIDERS & Informatica Business Solutions Pvt. Ltd.</td>
+                                        <td>Training cum Placement /8.1LPA</td>
+                                        <td>7338548806</td>
+                                        <td>spoorhibg24@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>21</td>
-                                                                        <td>THRUPTHI K K</td>
-                                                                        <td>World Line Global</td>
-                                                                        <td>3.5LPA</td>
-                                                                        <td>9449537176</td>
-                                                                        <td>thrupthikallugadde@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>21</td>
+                                        <td>THRUPTHI K K</td>
+                                        <td>World Line Global</td>
+                                        <td>3.5LPA</td>
+                                        <td>9449537176</td>
+                                        <td>thrupthikallugadde@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>22</td>
-                                                                        <td>VINOD ISHWAR PATGAR</td>
-                                                                        <td>QSPIDERS & Chegg India Pvt. Ltd. & NTT DATA & L&T Technology Servive</td>
-                                                                        <td>Training cum Placement/3.5LPA</td>
-                                                                        <td>9113856410</td>
-                                                                        <td>vinodpatgar45@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>22</td>
+                                        <td>VINOD ISHWAR PATGAR</td>
+                                        <td>QSPIDERS & Chegg India Pvt. Ltd. & NTT DATA & L&T Technology Servive</td>
+                                        <td>Training cum Placement/3.5LPA</td>
+                                        <td>9113856410</td>
+                                        <td>vinodpatgar45@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>23</td>
-                                                                        <td>K. R SHISHIR KRISHNA</td>
-                                                                        <td>NTT DATA</td>
-                                                                        <td>3.5LPA</td>
-                                                                        <td>8310298140</td>
-                                                                        <td>shishirkrishna18@gmail.com</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                    <td>24</td>
-                                                                        <td>ABDUL SABAD A G</td>
-                                                                        <td>NTT DATA</td>
-                                                                        <td>3.5LPA</td>
-                                                                        <td>9611249832</td>
-                                                                        <td>muhammadsawad285@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>23</td>
+                                        <td>K. R SHISHIR KRISHNA</td>
+                                        <td>NTT DATA</td>
+                                        <td>3.5LPA</td>
+                                        <td>8310298140</td>
+                                        <td>shishirkrishna18@gmail.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td>24</td>
+                                        <td>ABDUL SABAD A G</td>
+                                        <td>NTT DATA</td>
+                                        <td>3.5LPA</td>
+                                        <td>9611249832</td>
+                                        <td>muhammadsawad285@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>25</td>
-                                                                        <td>LAKSHMI D K</td>
-                                                                        <td>NTT DATA & ARIS GLOBAL</td>
-                                                                        <td>3.5LPA</td>
-                                                                        <td>9482547621</td>
-                                                                        <td>lakshmidevaragunda751@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>25</td>
+                                        <td>LAKSHMI D K</td>
+                                        <td>NTT DATA & ARIS GLOBAL</td>
+                                        <td>3.5LPA</td>
+                                        <td>9482547621</td>
+                                        <td>lakshmidevaragunda751@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>26</td>
-                                                                        <td>Krithika Shagrith AS</td>
-                                                                        <td>Harman Connected Services</td>
-                                                                        <td>5,00,000PA</td>
-                                                                        <td>9900201856</td>
-                                                                        <td>kithishagrith99@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>26</td>
+                                        <td>Krithika Shagrith AS</td>
+                                        <td>Harman Connected Services</td>
+                                        <td>5,00,000PA</td>
+                                        <td>9900201856</td>
+                                        <td>kithishagrith99@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>27</td>
-                                                                        <td>Raveesha N</td>
-                                                                        <td>CHEGG INDIA PVT. LTD.</td>
-                                                                        <td>3.5LPA</td>
-                                                                        <td>9449076550</td>
-                                                                        <td>thodikanar@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>27</td>
+                                        <td>Raveesha N</td>
+                                        <td>CHEGG INDIA PVT. LTD.</td>
+                                        <td>3.5LPA</td>
+                                        <td>9449076550</td>
+                                        <td>thodikanar@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>28</td>
-                                                                        <td>YAJNESH N U    </td>
-                                                                        <td>INFOSYS & CAPGEMINI.</td>
-                                                                        <td>3.5LPA</td>
-                                                                        <td>8762120679</td>
-                                                                        <td>yajneshnu@gmail.com</td>
-                                                                    </tr>
+                                    <tr>
+                                        <td>28</td>
+                                        <td>YAJNESH N U </td>
+                                        <td>INFOSYS & CAPGEMINI.</td>
+                                        <td>3.5LPA</td>
+                                        <td>8762120679</td>
+                                        <td>yajneshnu@gmail.com</td>
+                                    </tr>
 
-                                                                    <tr>
-                                                                    <td>29</td>
-                                                                        <td>SINCHANA A </td>
-                                                                        <td>TATA CNSULTANCY SERVICES</td>
-                                                                        <td>3.6LPA</td>
-                                                                        <td>9019699287</td>
-                                                                        <td>sinchanaa64@gmail.com</td>
-                                                                    </tr>
-                                                                </table>
-                                                                </div>
+                                    <tr>
+                                        <td>29</td>
+                                        <td>SINCHANA A </td>
+                                        <td>TATA CNSULTANCY SERVICES</td>
+                                        <td>3.6LPA</td>
+                                        <td>9019699287</td>
+                                        <td>sinchanaa64@gmail.com</td>
+                                    </tr>
+                                </table>
+                            </div>
 
                         </div>
 
                         <div class="tab-pane fade" id="activities">
 
-                        <div class="department-activities-box">
+                            <div class="department-activities-box">
                                 <div class="department-activities">
-                                    <h2>Department of Electronics and Communication Engineering Association celebrated “KANNADA RAJYOTSAVA” on 1st of November 2021. Ceremony was presided by Mr. Krishnananda.A,  Head of the Department, MBA. Students of 7th semester and 5th semester were present on that occasion.</h2>
+                                    <h2>Department of Electronics and Communication Engineering Association celebrated “KANNADA RAJYOTSAVA” on 1st of November 2021. Ceremony was presided by Mr. Krishnananda.A, Head of the Department, MBA. Students of 7th semester and 5th semester were present on that occasion.</h2>
                                     <div class="department-activities-img gallery">
-                                     <table>       
-                                        <tr>
-                                            <td><img src="images/ecact.jpg" class="img-responsive" style="max-width:350px"></td>
-                                        <td><img src="images/ecact2.jpg" class="img-responsive" style="max-width:350px"></td>
-                                        </tr>
+                                        <table>
+                                            <tr>
+                                                <td><img src="images/ecact.jpg" class="img-responsive" style="max-width:350px"></td>
+                                                <td><img src="images/ecact2.jpg" class="img-responsive" style="max-width:350px"></td>
+                                            </tr>
                                         </table>
                                     </div>
 
-                                 
+
                                 </div>
                             </div>
 
@@ -1704,15 +1707,15 @@ z-index: 999;
                                 <div class="department-activities">
                                     <h2>On 17th November 2021, final year and pre-final year students were scheduled for a technical talk on “Overview of image and video analytics with industrial case studies” by Dr. Harikrishna Rai, Staff technical product manager GE Health care services, Bengaluru. </h2>
                                     <div class="department-activities-img gallery">
-                                     <table>       
-                                        <tr>
-                                          
-                                        <td><img src="images/ecact3.jpg" class="img-responsive" style="max-width:350px"></td>
-                                        </tr>
+                                        <table>
+                                            <tr>
+
+                                                <td><img src="images/ecact3.jpg" class="img-responsive" style="max-width:350px"></td>
+                                            </tr>
                                         </table>
                                     </div>
 
-                                 
+
                                 </div>
                             </div>
 
@@ -1721,124 +1724,124 @@ z-index: 999;
 
                         <div class="tab-pane fade" id="internship">
                             <div class="row">
-                            <style>
-                                                                    #customers {
-                                                                        font-family: Arial, Helvetica, sans-serif;
-                                                                        border-collapse: collapse;
-                                                                        width: 100%;
-                                                                    }
+                                <style>
+                                    #customers {
+                                        font-family: Arial, Helvetica, sans-serif;
+                                        border-collapse: collapse;
+                                        width: 100%;
+                                    }
 
-                                                                    #customers td,
-                                                                    #customers th {
-                                                                        border: 1px solid #ddd;
-                                                                        padding: 8px;
-                                                                    }
+                                    #customers td,
+                                    #customers th {
+                                        border: 1px solid #ddd;
+                                        padding: 8px;
+                                    }
 
-                                                                    #customers tr:nth-child(even) {
-                                                                        background-color: #f2f2f2;
-                                                                    }
+                                    #customers tr:nth-child(even) {
+                                        background-color: #f2f2f2;
+                                    }
 
-                                                                    #customers tr:hover {
-                                                                        background-color: #ddd;
-                                                                    }
+                                    #customers tr:hover {
+                                        background-color: #ddd;
+                                    }
 
-                                                                    #customers th {
-                                                                        padding-top: 12px;
-                                                                        padding-bottom: 12px;
-                                                                        text-align: left;
-                                                                        background-color: #04AA6D;
-                                                                        color: white;
-                                                                    }
-                                                                </style>
+                                    #customers th {
+                                        padding-top: 12px;
+                                        padding-bottom: 12px;
+                                        text-align: left;
+                                        background-color: #04AA6D;
+                                        color: white;
+                                    }
+                                </style>
 
-                                                                <h2>2021</h2>
-                                                                <table id="customers">
-                                                                    <tr>
-                                                                      
-                                                                        <th>Company Name</th>
-                                                                        <th>Location</th>
-                                                                    </tr>
-                                                                    <tr>
-                                                                       
-                                                                        <td>Vitvara technologies</td>
-                                                                        <td>Manglore</td>
-                                                                    </tr>
+                                <h2>2021</h2>
+                                <table id="customers">
+                                    <tr>
 
-                                                                    <tr>
-                                                                       
-                                                                       <td> Tycon Innovative Technologies  </td>
-                                                                       <td>Mysore</td>
-                                                                   </tr>
+                                        <th>Company Name</th>
+                                        <th>Location</th>
+                                    </tr>
+                                    <tr>
 
+                                        <td>Vitvara technologies</td>
+                                        <td>Manglore</td>
+                                    </tr>
 
-                                                                    </table>
-                                                                    <h2>2022</h2>
-                                                                <table id="customers">
-                                                                    <tr>
-                                                                       
-                                                                        <th>Company Name</th>
-                                                                        <th>Location</th>
-                                                                    </tr>
-                                                                    <tr>
-                                                                      
-                                                                        <td>Vivattana  technologies</td>
-                                                                        <td>Banglore</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                      
-                                                                        <td> Bionic Engineers</td>
-                                                                        <td>Manglore</td>
-                                                                    </tr>
-                                                                   
-                                                                    <tr>
-                                                                      
-                                                                        <td> Mictro Embedded solutions </td>
-                                                                        <td>Manglore</td>
-                                                                    </tr>
+                                    <tr>
 
-                                                                    <tr>
-                                                                        
-                                                                        <td> Vi Solutions </td>
-                                                                        <td>Manglore</td>
-                                                                    </tr>
-
-                                                                   
+                                        <td> Tycon Innovative Technologies </td>
+                                        <td>Mysore</td>
+                                    </tr>
 
 
-                                                                    <tr>
-                                                                       
-                                                                        <td> Tycon Innovative Technologies  </td>
-                                                                        <td>Mysore</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                       
-                                                                        <td> VivattVitvara ana Technologies  </td>
-                                                                        <td>Manglore</td>
-                                                                    </tr>
+                                </table>
+                                <h2>2022</h2>
+                                <table id="customers">
+                                    <tr>
 
-                                                                    <tr>
-                                                                      
-                                                                        <td> Saitech Integarated  Solutions  </td>
-                                                                        <td>Mysore</td>
-                                                                    </tr>
+                                        <th>Company Name</th>
+                                        <th>Location</th>
+                                    </tr>
+                                    <tr>
 
-                                                                    <tr>
-                                                                       
-                                                                        <td>Emertxe Information Technologies </td>
-                                                                        <td>Mysore</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        
-                                                                        <td> Contrives  </td>
-                                                                        <td>Mysore</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                       
-                                                                        <td> EI systems  </td>
-                                                                        <td>Banglore</td>
-                                                                    </tr>
-                                                                    </table>
-                                                              
+                                        <td>Vivattana technologies</td>
+                                        <td>Banglore</td>
+                                    </tr>
+                                    <tr>
+
+                                        <td> Bionic Engineers</td>
+                                        <td>Manglore</td>
+                                    </tr>
+
+                                    <tr>
+
+                                        <td> Mictro Embedded solutions </td>
+                                        <td>Manglore</td>
+                                    </tr>
+
+                                    <tr>
+
+                                        <td> Vi Solutions </td>
+                                        <td>Manglore</td>
+                                    </tr>
+
+
+
+
+                                    <tr>
+
+                                        <td> Tycon Innovative Technologies </td>
+                                        <td>Mysore</td>
+                                    </tr>
+                                    <tr>
+
+                                        <td> VivattVitvara ana Technologies </td>
+                                        <td>Manglore</td>
+                                    </tr>
+
+                                    <tr>
+
+                                        <td> Saitech Integarated Solutions </td>
+                                        <td>Mysore</td>
+                                    </tr>
+
+                                    <tr>
+
+                                        <td>Emertxe Information Technologies </td>
+                                        <td>Mysore</td>
+                                    </tr>
+                                    <tr>
+
+                                        <td> Contrives </td>
+                                        <td>Mysore</td>
+                                    </tr>
+                                    <tr>
+
+                                        <td> EI systems </td>
+                                        <td>Banglore</td>
+                                    </tr>
+                                </table>
+
 
                             </div>
                         </div>
@@ -1872,7 +1875,7 @@ z-index: 999;
 
 
     <!-- endfooter -->
-   
+
 </body>
 
 <!-- Mirrored from www.sjec.ac.in/department-computer-science.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Apr 2022 12:11:44 GMT -->

@@ -19,55 +19,58 @@
         <div><img src="images/banner/mech2.jpg" class="img-responsive"></div>
     </section>
     <style>
-        div.poco{
-            
-  position: fixed;
-  top: 15%;
-  padding: 5px;
-  height: fit-content;
-  /* padding-top: 0%; */
-  padding-bottom: 0%;
-  background-color: #000000;
-  color: white;
-  font-size: large;
-  /* border: 2px solid #4CAF50; */
-z-index: 999;
-        }
-        @media (max-width:500px) {
-            div.poco{ 
-            position: fixed;
-            top: 15%;
-            padding: 5px;
-            height: fit-content;
-            /* padding-top: 0%; */
-            padding-bottom: 0%;
-            background-color: #000000;
-            color: white;
-            font-size: small;
-            /* border: 2px solid #4CAF50; */
-          z-index: 999;
-        }}
-        @media (max-width:300px) {
-            div.poco{ 
-            position: fixed;
-            top: 15%;
-            padding: 5px;
-            height: fit-content;
-            /* padding-top: 0%; */
-            padding-bottom: 0%;
-            background-color: #000000;
-            color: white;
-            font-size:smaller;
-            /* border: 2px solid #4CAF50; */
-          z-index: 999;
-        }
-    }
-    </style>
-    <div class="poco" >
+        div.poco {
 
-        
+            position: fixed;
+            top: 15%;
+            padding: 5px;
+            height: fit-content;
+            /* padding-top: 0%; */
+            padding-bottom: 0%;
+            background-color: #000000;
+            color: white;
+            font-size: large;
+            /* border: 2px solid #4CAF50; */
+            z-index: 999;
+        }
+
+        @media (max-width:500px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: small;
+                /* border: 2px solid #4CAF50; */
+                z-index: 999;
+            }
+        }
+
+        @media (max-width:300px) {
+            div.poco {
+                position: fixed;
+                top: 15%;
+                padding: 5px;
+                height: fit-content;
+                /* padding-top: 0%; */
+                padding-bottom: 0%;
+                background-color: #000000;
+                color: white;
+                font-size: smaller;
+                /* border: 2px solid #4CAF50; */
+                z-index: 999;
+            }
+        }
+    </style>
+    <div class="poco">
+
+
         <p>Mechanical Engineering</p>
-        </div>
+    </div>
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
@@ -471,7 +474,7 @@ z-index: 999;
                             </ul>
                             <!-- <div class="links1">
                                 <button class="follow">Follow</button> -->
-                                <!-- <button class="view">View Profile</button>
+                            <!-- <button class="view">View Profile</button>
                             </div>  -->
                         </div>
                     </div>
@@ -777,7 +780,7 @@ z-index: 999;
 
 
                         </div>
-
+                        <br><br><br><br>
                         <div class="tab-pane  fade " id="Faculty">
                             <!-- <ul class="nav nav-tabs tabtop tabsetting">
                                     <li class="active">
@@ -901,8 +904,8 @@ z-index: 999;
                     </div>
                 </div> -->
                                                 <div class="row" style="align-items:center">
-                                                <h2>Teaching</h2>
-                                                <br>
+                                                    <h2>Teaching</h2>
+                                                    <br>
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
@@ -997,10 +1000,10 @@ z-index: 999;
                                                             </div>
                                                         </div>
                                                     </div>
-                                        </div>
+                                                </div>
 
 
-                                                    <h2>Non Teaching</h2>
+                                                <h2>Non Teaching</h2>
                                                 <br>
                                                 <div class="row" style="align-items:center">
 
@@ -1102,7 +1105,7 @@ z-index: 999;
 
 
     <!-- endfooter -->
-    
+
 </body>
 
 <!-- Mirrored from www.sjec.ac.in/department-computer-science.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Apr 2022 12:11:44 GMT -->
