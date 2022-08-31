@@ -407,7 +407,7 @@
                 <div class="card8-img"></div>
             </div>
             <div class="card8-right">
-            <h3 class="subheadWhite head" style="color:#3A3B3C;padding:0%;"> VISION<span></span></h3>
+            <!-- <h3 class="subheadWhite head" style="color:#3A3B3C;padding:0%;"> VISION<span></span></h3> -->
                 <!-- <div class="card8-title fw-7" style="color:black;" id="bomb">DR. K V RENUKA PRASAD</div> -->
                 <div class="card8-text fw-5" style="color:#3A3B3C;">To be a Notable Engineering College Recognized for Academics, Innovation and the Societal Relevance and Impact of its Pursuits.</div>
                 <div class="card8-right-body">
@@ -615,7 +615,7 @@
                 <div class="card9-img"></div>
             </div>
             <div class="card9-right">
-            <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;">MISSION<span></span></h3>
+            <!-- <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;">MISSION<span></span></h3> -->
                 <!-- <div class="card9-title fw-7" style="color:black;" id="bomb">DR. UJWAL U J</div> -->
                 <div class="card9-text fw-5" style="color:#3A3B3C;"><ul>
                     <li>Educate our Students Committed to the Service and Ethical Application of Science and Technology</li>
@@ -836,7 +836,7 @@
                 <div class="card10-img"></div>
             </div>
             <div class="card10-right">
-            <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;">QUALITY POLICY<span></span></h3>
+            <!-- <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;">QUALITY POLICY<span></span></h3> -->
                 <!-- <div class="card10-title fw-7" style="color:black" id="bomb">DR. SURESHA V</div> -->
                 <div class="card10-text fw-5" style="color:#3A3B3C;">We are committed to impart quality education with strong ethics</div>
                 <!-- <div class="card10-right-body"> -->
