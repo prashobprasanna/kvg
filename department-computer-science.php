@@ -437,7 +437,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" id="som" style="font-size: larger;">DR. UJWAL U J</div>
+                                    <div class="header-fullname" id="som" style="font-size: larger;">Dr. UJWAL U J</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 
