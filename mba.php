@@ -715,11 +715,34 @@
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
+                                                                <img src="admin-kvgce/photos/mba/krishna.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Prof. Krishnananda A</h4>
+                                                                <h5 style="color:white">Professor & HOD</h5>
+                                                                <h5 style="color:white">MA,M.Phil,MBA (Ph.D)</h5>
+                                                                <div class="social-links">
+
+                                                                    <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    
+                                                <div class="row" style="align-items:center">
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
                                                                 <img src="admin-kvgce/photos/mba/mary.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mrs. Immaculate Mary</h4>
+<<<<<<< Updated upstream
                                                                 <h6 style="color:white"></h6>
+=======
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">MBA,DCM</h5>
+>>>>>>> Stashed changes
                                                                 <div class="social-links">
 
                                                                     <a href="profile/MBA/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -735,7 +758,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mr. Manohara A N</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">M.Sc.,MBA</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -751,7 +775,8 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mrs. Srimani K</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
+                                                                <h5 style="color:white">Assistant Professor</h5>
+                                                                <h5 style="color:white">MBA</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>

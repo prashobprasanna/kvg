@@ -718,8 +718,9 @@
                                                                 <img src="admin-kvgce/photos/faculty/basic/surekha.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Dr. Surekha M(HOD Incharge)</h4>
-                                                                <h6 style="color:white">Date of Join :1-08-2011</h6>
+                                                                <h4>Dr. Surekha M</h4>
+                                                                <h5 style="color:white">Associate Professor(HOD Incharge)</h5>
+                                                                <h5 style="color:white">B.Sc,M.Sc,Ph.D</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile/cs/Sindhu Venkatesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
