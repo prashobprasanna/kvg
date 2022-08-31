@@ -1130,7 +1130,7 @@
             </div>
             <div class="card8-right">
             <h3 class="subheadWhite head" style="color:#3A3B3C;padding:0%;"> General Secretary<span></span></h3>
-                <div class="card8-title fw-7" style="color:black;" id="bomb">DR. K V RENUKA PRASAD</div>
+                <div class="card8-title fw-7" style="color:black;" id="bomb">DR. RENUKA PRASAD K V</div>
                 <div class="card8-text fw-5" style="color:#3A3B3C;">"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."</div>
                 <div class="card8-right-body">
                     <!-- <div class="card8-rb-1">

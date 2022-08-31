@@ -172,9 +172,9 @@
                                         <ul>
                                             <!-- <li><a href="department-cse-artificial-intelligence-ml.php">Artificial
                                                 Intelligence & Machine Learning</a></li> -->
-                                            <li><a href="department-computer-science.php">Computer Science
+                                            <li><a href="department-computer-science.php">Computer Science  &amp;
                                                     Engineering</a></li>
-                                            <li><a href="">Computer Science Engineering (AI & ML) </a></li>
+                                            <li><a href="">Computer Science  &amp; Engineering (AI & ML) </a></li>
                                             <li><a href="department-ECE.php">
                                                     Electronics &amp; Communication Engineering</a></li>
                                             <li><a href="department-civil.php">

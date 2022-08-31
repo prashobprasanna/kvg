@@ -982,7 +982,7 @@
                                                             <div class="member-info">
                                                                 <h4>Dr. Ujwal U J</h4>
                                                                 <h5 style="color:white">Professor & HOD</h5>
-                                                                <h5 style="color:white">MCA,Ph.D</h5>
+                                                                <h5 style="color:white">M.Tech,Ph.D</h5>
                                                                 <div class="social-links">
 
                                                                     <a href="profile\cs\Dr_Ujwal.pdf"><i class="fab fa-creative-commons-by"></i></a>
@@ -1019,10 +1019,10 @@
                                                             <div class="member-info">
                                                                 <h4>Dr. Savitha C K</h4>
                                                                 <h5 style="color:white">Associate Professor</h5>
-                                                                <h5 style="color:white">MCA, Ph.D</h5>
+                                                                <h5 style="color:white">M.Tech, Ph.D</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Savitha_Faculty.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/cs/Savitha_Faculty 2022.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>

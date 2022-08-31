@@ -920,7 +920,7 @@
                                                                 <img src="admin-kvgce/photos/faculty/civil/arun.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Prof. Aruna Kumar H</h4>
+                                                                <h4>Prof. Arun Kumar H</h4>
                                                                 <h5 style="color:white">Associate Professor</h5>
                                                                 <h5 style="color:white">B.E., M.Tech.</h5>
                                                                 <span></span>
@@ -988,7 +988,7 @@
                                                                 <h4>Prof. Vishnu Bhat N</h4>
                                                                 <h5 style="color:white">Associate Professor</h5>
                                                                 <h5 style="color:white">B.E., M.Tech.</h5>
-                                                                <span>Web Designer</span>
+                                                                <!-- <span>Web Designer</span> -->
                                                                 <div class="social-links">
                                                                     <a href="profile/civil/Mr. Vishnu Bhat N.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>

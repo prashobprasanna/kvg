@@ -276,9 +276,9 @@
                     <div class="single_footer">
                         <h4>Courses</h4>
                         <ul>
-                            <li><a href="department-computer-science.html">Computer Science Engineering</a></li>
-                            <li><a href="">Computer Science Engineering(AI & ML)</a></li>
-                            <li><a href="department-ECE.html">Electronics and Communication Engineering</a></li>
+                            <li><a href="department-computer-science.html">Computer Science & Engineering</a></li>
+                            <li><a href="">Computer Science & Engineering(AI & ML)</a></li>
+                            <li><a href="department-ECE.html">Electronics & Communication Engineering</a></li>
                             <li><a href="department-mech.html">Mechanical Engineering</a></li>
                             <li><a href="department-civil.html">Civil Engineering</a></li>
                             <!-- <li><a href="#">-----------------</a></li>
