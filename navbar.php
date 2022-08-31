@@ -535,7 +535,7 @@
         #social-sidebar {
             right: 0;
             position: fixed;
-            top: 20%;
+            top: 35%;
             z-index: 989898;
             /* opacity: 0.7; */
         }

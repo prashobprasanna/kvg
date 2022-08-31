@@ -1827,23 +1827,23 @@
                         <div class="tab-pane fade" id="newsletter">
                             <div class="row">
                                 <div class="col-md-2">
-                                    <a href="images/department/cs/News Letter - 18-29.pdf" target="_blank"><img src="images/department/download1.gif" class=" img-circle img-responsive">
-                                        <h4> Newsletter 2018 - 2019</h4>
+                                    <a href="images/department/cs/News Letter - 18-29.pdf" target="_blank"><button style="background-color:#2FA4E7;padding:8px;border-radius:8px;color:white;border:#006199;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Newsletter 2018 - 2019</button>
+                                    <!-- <h4> Newsletter 2018 - 2019</h4> -->
                                     </a>
                                 </div>
                                 <div class="col-md-2">
-                                    <a href="images/department/cs/cs&e newsletter 19-20(2).pdf" target="_blank"><img src="images/department/download1.gif" class=" img-circle img-responsive">
-                                        <h4> Newsletter 2019 - 2020</h4>
+                                    <a href="images/department/cs/cs&e newsletter 19-20(2).pdf" target="_blank"><button style="background-color:#2FA4E7;padding:8px;border-radius:8px;color:white;border:#006199;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Newsletter 2019 - 2020</button>
+                                        <!-- <h4> Newsletter 2019 - 2020</h4> -->
                                     </a>
                                 </div>
                                 <div class="col-md-2">
-                                    <a href="images/department/cs/cs&e newsletter 20-21(1).pdf" target="_blank"><img src="images/department/download1.gif" class=" img-circle img-responsive">
-                                        <h4> Newsletter 2020 - 2021</h4>
+                                    <a href="images/department/cs/cs&e newsletter 20-21(1).pdf" target="_blank"><button style="background-color:#2FA4E7;padding:8px;border-radius:8px;color:white;border:#006199;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Newsletter 2020 - 2021</button>
+                                        <!-- <h4> Newsletter 2020 - 2021</h4> -->
                                     </a>
                                 </div>
                                 <div class="col-md-2">
-                                    <a href="images/department/cs/cs&e newsletter 20-21(2).pdf" target="_blank"><img src="images/department/download1.gif" class=" img-circle img-responsive">
-                                        <h4> Newsletter 2020 - 2021</h4>
+                                    <a href="images/department/cs/cs&e newsletter 20-21(2).pdf" target="_blank"><button style="background-color:#2FA4E7;padding:8px;border-radius:8px;color:white;border:#006199;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Newsletter 2021 - 2022</button>
+                                        <!-- <h4> Newsletter 2020 - 2021</h4> -->
                                     </a>
                                 </div>
                             </div>
