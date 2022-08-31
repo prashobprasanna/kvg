@@ -953,7 +953,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech,Ph.d,MISTE</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Dr. Kusumadhara S.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1028,7 +1028,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech,MISTE</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Vijay kumar.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1046,7 +1046,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/rekha.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1065,7 +1065,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Jagadeesh.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1139,7 +1139,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/Satyjith.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>
@@ -1157,7 +1157,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/ec/savitha m.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/adarsh.pdf"><i class="fab fa-creative-commons-by"></i></a>
 
 
                                                                 </div>

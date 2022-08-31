@@ -907,7 +907,7 @@
                                                                 <h5 style="color:white">B.E., M.Tech., MIT, Ph.D., MISTE</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
-                                                                    <a href="profile/civil/Mr. ARUNKUMAR H.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/civil/HOD -  DR. CHANDRASHEKHAR.A.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
