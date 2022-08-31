@@ -758,33 +758,6 @@
     }
 </style>
 <!-- <a class="login-trigger" href="#" data-target="#login" data-toggle="modal">Login</a> -->
-
-<div id="login" class="modal fade" role="dialog" style="width:fit-content; height: fit-content;top: 15%;">
-    <div class="modal-dialog" style="width:fit-content;height: fit-content;top: 15%;">
-
-        <div class="modal-content">
-            <div class="modal-body" align="center" style="width:fit-content;height: fit-content;top: 15%;">
-                <button data-dismiss="modal" class="close">&times;</button>
-                <h4>Admission Form</h4>
-                <form onsubmit="gotowhatsapp()">
-                    <input type="text" name="username" class="username form-control" placeholder="Name" id="name" required />
-                    <input type="email" name="Email" class="username form-control" placeholder="Email" id="email" required />
-                    <input type="tel" name="phone" class="username form-control" placeholder="Phone Number" id="phone" pattern="[0-9]{10}" oninvalid="this.setCustomValidity('Please Enter a valid Phone Number')" oninput="this.setCustomValidity('')" required />
-
-                    <!-- <input type="text" name="username" class="username form-control" placeholder="Name of the previous college" />
-                        <input type="text" name="username" class="username form-control" placeholder="City" />
-                        <input type="text" name="username" class="username form-control" placeholder="District" />
-                        <input type="text" name="username" class="username form-control" placeholder="State" />
-                        <input type="text" name="username" class="username form-control" placeholder="Pre-University board"/>
-                        <input type="text" name="username" class="username form-control" placeholder="Marks secured in Pre-university" />
-                        <input type="text" name="username" class="username form-control" placeholder="CET Rank"/> -->
-
-                    <input class="btn login" type="submit" name="submit" value="Submit">
-                </form>
-            </div>
-        </div>
-    </div>
-</div>
 <script>
     function gotowhatsapp() {
 
@@ -793,7 +766,7 @@
         var email = document.getElementById("email").value;
         // var service = document.getElementById("service").value;
         // https://api.whatsapp.com/send?text
-        var url = "https://api.whatsapp.com/send?phone=7618752850&text=" +
+        var url = "https://api.whatsapp.com/send?phone=+919845866528&text=" +
             "Admisssion at KVGCE" + "%0a" +
             "Name: " + name + "%0a" +
             "Phone: " + phone + "%0a" +
