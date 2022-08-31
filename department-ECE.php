@@ -290,7 +290,7 @@
                     .card1 {
                         padding: 2.5rem 2rem;
                         border-radius: 10px;
-                        background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
+                        background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
                         max-width: 90%;
                         box-shadow: 0 0 30px rgba(0, 0, 0, .15);
                         margin: 1rem;
