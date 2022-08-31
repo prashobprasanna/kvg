@@ -121,7 +121,7 @@
                     .btn {
                         color: rgb(0, 0, 0);
                         text-decoration: none;
-                        border: 1px solid rgb(0, 0, 0);
+                        border-left: 5px solid #969696;
                         border-radius: 18px;
                         padding: 7px 15px;
                     }
@@ -339,6 +339,7 @@
                     }
 
                     .name {
+                        font-size: large;
                         margin-bottom: 1rem;
                     }
 
@@ -352,7 +353,7 @@
                     }
 
                     .text {
-                        font-size: .9rem;
+                        font-size: 1.5rem;
                         margin-bottom: 1rem;
                     }
 
@@ -893,8 +894,8 @@
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text</p>
                     </div>
                 </div> -->
-                                            
-                <div class="row" style="align-items:center">
+
+                                                <div class="row" style="align-items:center">
                                                     <h2>Teaching</h2><br>
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">

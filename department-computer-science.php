@@ -121,7 +121,7 @@
                     .btn {
                         color: rgb(0, 0, 0);
                         text-decoration: none;
-                        border: 1px solid rgb(0, 0, 0);
+                        border-left: 5px solid #969696;
                         border-radius: 18px;
                         padding: 7px 15px;
                     }
@@ -339,6 +339,7 @@
                     }
 
                     .name {
+                        font-size: large;
                         margin-bottom: 1rem;
                     }
 
@@ -352,7 +353,7 @@
                     }
 
                     .text {
-                        font-size: .9rem;
+                        font-size: 1.5rem;
                         margin-bottom: 1rem;
                     }
 
@@ -436,7 +437,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" id="som">DR. UJWAL U J</div>
+                                    <div class="header-fullname" id="som" style="font-size: larger;">DR. UJWAL U J</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 
