@@ -43,9 +43,9 @@
 
 
 
-            <div class="carousel-inner" >
+            <div class="carousel-inner">
 
-            <div class="item active slide3"><img data-src="admin-kvgce\images\banner\college.jpg" src="admin-kvgce/images/banner/colege.jpg" alt="college pic">
+                <div class="item active slide3"><img data-src="admin-kvgce\images\banner\college.jpg" src="admin-kvgce/images/banner/colege.jpg" alt="college pic">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
@@ -471,9 +471,9 @@
 
 
 
-    
 
-    
+
+
 
 
 
@@ -981,6 +981,7 @@
                         <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="0"></li>
                         <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="1"></li>
                         <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="2"></li>
+                        <li data-u-target="#carousel-cbd7" class="u-grey-30" data-u-slide-to="3"></li>
                     </ol>
                     <div class="u-carousel-inner" role="listbox">
                         <div class="active u-active u-carousel-item u-container1-style u-slide">
@@ -996,16 +997,10 @@
                         <div class="u-carousel-item u-container1-style u-slide">
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
-                                <!-- <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067"> -->
-                                <h3 class="u-text u-text-3">FAREWELL-2022</h3>
-                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Great is the art of beginning,but
-                                    greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
-                                    of 2022 batch was conducted in the college auditorium on 21st July 2022.The function was presided by
-                                    general secretary of A O L E(R) Dr Renukaprasad K V and Mr
-                                    .Sadashiva M B ,former district governor ,Lions international was
-                                    the chief guest of the function,along with the C E O of K V G C E Dr
-                                    Ujwal U J, Principal Dr Suresha V & Vice-prinipal Dr shreedhar K
-                                    shared the dais</p>
+                                <img src="images/newsandevents/independence.jpeg" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
+                                <h3 class="u-text u-text-3">Amrith Mahotsav Celebration</h3>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-4">75th year of Independence "Amrith Mahotsav Celebration" @ KVGCE.
+                                    The independence day of India celebrated at KVGCE,Sullia on 15th August. Rtd SGT IAF Mr. Deranna Gowda Addanthadka hoisted the flag and addressed the gathering. The function was presided by general Secretary of A O L E (R) Dr. Renuka Prasad K V. Dr. Ujwal U J, CEO of KVG group of Institutions, </p>
                                 <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a> -->
                             </div>
                         </div>
@@ -1019,6 +1014,23 @@
                                     The program was presided by CEO of KVGCE Dr Ujwal U J & the program
                                     was initiated by Dr Yashodha Ramachandra,Principal KVG AJPUC Sullia,
                                     with lighting the lamp.</p>
+                                <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a> -->
+                            </div>
+                        </div>
+
+                        <div class="u-carousel-item u-container1-style u-slide">
+                            <div class="u-container1-layout u-valign-top u-container1-layout-2">
+                                <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
+                                <!-- <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067"> -->
+                                <h3 class="u-text u-text-3">FAREWELL-2022</h3>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Great is the art of beginning,but
+                                    greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
+                                    of 2022 batch was conducted in the college auditorium on 21st July 2022.The function was presided by
+                                    general secretary of A O L E(R) Dr Renukaprasad K V and Mr
+                                    .Sadashiva M B ,former district governor ,Lions international was
+                                    the chief guest of the function,along with the C E O of K V G C E Dr
+                                    Ujwal U J, Principal Dr Suresha V & Vice-prinipal Dr shreedhar K
+                                    shared the dais</p>
                                 <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a> -->
                             </div>
                         </div>
@@ -1839,20 +1851,50 @@
 
         <ul class="sliderfk">
 
-           <figure><li><img src="images/gallery/first.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure> 
-        
-            <figure><li><img src="images/gallery/two.jpg" alt=""></li><figcaption><strong> Your label goes here</strong></figcaption></figure>
-            <figure><li><img src="images/gallery/civil1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
-            <figure><li><img src="images/gallery/civil2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
-            <figure><li><img src="images/gallery/cs1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
-            <figure> <li><img src="images/gallery/cs2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
-            <figure><li><img src="images/gallery/ec1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
-            <figure> <li><img src="images/gallery/ec2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
-            <figure><li><img src="images/gallery/mech1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
-            <figure><li><img src="images/gallery/mech2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
+            <figure>
+                <li><img src="images/gallery/first.jpg" alt=""></li>
+                <figcaption><strong>Students @ Chemistry Lab</strong></figcaption>
+            </figure>
+
+            <figure>
+                <li><img src="images/gallery/two.jpg" alt=""></li>
+                <figcaption><strong> Experients </strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/civil1.jpg" alt=""></li>
+                <figcaption><strong>Civil</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/civil2.jpg" alt=""></li>
+                <figcaption><strong>Civil</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/cs1.jpg" alt=""></li>
+                <figcaption><strong>Computer Science</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/cs2.jpg" alt=""></li>
+                <figcaption><strong>Computer Science</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/ec1.jpg" alt=""></li>
+                <figcaption><strong>E & C</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/ec2.jpg" alt=""></li>
+                <figcaption><strong>E & C</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/mech1.jpg" alt=""></li>
+                <figcaption><strong>Mechanical</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/mech2.jpg" alt=""></li>
+                <figcaption><strong>Mechanical</strong></figcaption>
+            </figure>
 
 
-            
+
         </ul>
 
 
@@ -1871,7 +1913,7 @@
 
         <br>
 
-       
+
 
 
 

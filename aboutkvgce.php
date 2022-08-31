@@ -4,7 +4,7 @@
    include('navbar.php');
    ?>
    <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0" >
-        <div><img src="images/aboutusImage.jpg" class="img-responsive"></div>
+        <div><img src="images/banner/Slider3.jpg" class="img-responsive"></div>
     </section><style>@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
         body {
             font-family: 'Manrope', sans-serif;
