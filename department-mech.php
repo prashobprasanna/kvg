@@ -74,7 +74,7 @@
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
-                <h2 class="subheadWhite head">HEAD OF DEPARTMENT<span></span></h2>
+                <h2 class="subheadWhite head" style="color: black;">HEAD OF DEPARTMENT<span></span></h2>
                 <style>
                     .data_more_less_inner {
                         overflow: hidden;
