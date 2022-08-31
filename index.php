@@ -1838,7 +1838,7 @@
         </strong>
 
         <ul class="sliderfk">
-<<<<<<< HEAD
+
            <figure><li><img src="images/gallery/first.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure> 
         
             <figure><li><img src="images/gallery/two.jpg" alt=""></li><figcaption><strong> Your label goes here</strong></figcaption></figure>
@@ -1850,18 +1850,7 @@
             <figure> <li><img src="images/gallery/ec2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
             <figure><li><img src="images/gallery/mech1.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
             <figure><li><img src="images/gallery/mech2.jpg" alt=""></li><figcaption><strong>Your label goes here</strong></figcaption></figure>
-=======
-            <li><img src="images/gallery/first.jpg" alt=""></li>
-            <li><img src="images/gallery/two.jpg" alt=""></li>
-            <li><img src="images/gallery/civil1.jpg" alt=""></li>
-            <li><img src="images/gallery/civil2.jpg" alt=""></li>
-            <li><img src="images/gallery/cs1.jpg" alt=""></li>
-            <li><img src="images/gallery/cs2.jpg" alt=""></li>
-            <li><img src="images/gallery/ec1.jpg" alt=""></li>
-            <li><img src="images/gallery/ec2.jpg" alt=""></li>
-            <li><img src="images/gallery/mech1.jpg" alt=""></li>
-            <li><img src="images/gallery/mech2.jpg" alt=""></li>
->>>>>>> 3aa9319f83f54f3c49a0520d052b0d470a1d9c48
+
 
             
         </ul>
