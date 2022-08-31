@@ -879,11 +879,11 @@
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/mech/umashanker.jpg" class="img-fluid" alt="">
+                                                                <img src="admin-kvgce/photos/faculty/mech/umashanker1.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. UMASHANKAR K S</h4>
-                                                                <h5 style="color:white">Professor and Head of the department </h5>
+                                                                <h5 style="color:white">Professor & HOD </h5>
                                                                 <h5 style="color:white">B.E,M.Tech,Ph.D</h5>
                                                                 <div class="social-links">
 

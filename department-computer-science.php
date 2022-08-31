@@ -976,11 +976,11 @@
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/ujwal sir.JPG" class="img-fluid" alt="">
+                                                                <img src="admin-kvgce/photos/faculty/ujwal.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Dr. Ujwal U J</h4>
-                                                                <h5 style="color:white">Professor</h5>
+                                                                <h5 style="color:white">Professor & HOD</h5>
                                                                 <h5 style="color:white">MCA,Ph.D</h5>
                                                                 <div class="social-links">
 
