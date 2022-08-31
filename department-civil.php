@@ -620,9 +620,9 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li>Providing effective learner center courses in Civil Engineering to impact strong theoretical and practical knowledge.</li>
-                                                                    <li>Switching over to modern methods of material testing, drafting, surveying, Engineering analysis and design in the field of Civil engineering.</li>
-                                                                    <li>Promoting teamwork to develop research, professional and entrepreneurial skills.</li>
+                                                                    <li><b>M1: </b> Providing effective learner center courses in Civil Engineering to impact strong theoretical and practical knowledge.</li>
+                                                                    <li><b>M2: </b>Switching over to modern methods of material testing, drafting, surveying, Engineering analysis and design in the field of Civil engineering.</li>
+                                                                    <li><b>M3: </b>Promoting teamwork to develop research, professional and entrepreneurial skills.</li>
                                                                 </ul>
                                                                 </p>
                                                             </div>
@@ -636,11 +636,11 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li>To provide quality education and knowledge in contemporary science and technology to meet the challenges in the field of Civil Engineering and to serve the society.
+                                                                    <li><b> PEO 1: </b>To provide quality education and knowledge in contemporary science and technology to meet the challenges in the field of Civil Engineering and to serve the society.
                                                                     </li>
-                                                                    <li>To impart the knowledge of analysis and design using the codes of practice and software packages.</li>
-                                                                    <li>To inculcate the sense of ethics, morality, creativity, leadership, professionalism, self confidence and independent thinking.</li>
-                                                                    <li>To motivate the students to take up higher studies and innovative research projects.</li>
+                                                                    <li><b> PEO 2: </b>To impart the knowledge of analysis and design using the codes of practice and software packages.</li>
+                                                                    <li><b> PEO 3: </b>To inculcate the sense of ethics, morality, creativity, leadership, professionalism, self confidence and independent thinking.</li>
+                                                                    <li><b> PEO 4: </b>To motivate the students to take up higher studies and innovative research projects.</li>
                                                                 </ul>
                                                                 </p>
                                                             </div>
@@ -655,46 +655,46 @@
                                                                 <p>
                                                                 <ul class="list">
 
-                                                                    <li>Engineering Knowledge: To apply the knowledge of mathematics, science,
+                                                                    <li><b> PO 1: </b>Engineering Knowledge: To apply the knowledge of mathematics, science,
                                                                         engineering fundamentals, and an engineering specialization to the solution
                                                                         of complex engineering problems</li>
-                                                                    <li>Problem Analysis: Identify, formulate, review research literature, and
+                                                                    <li><b> PO 2: </b>Problem Analysis: Identify, formulate, review research literature, and
                                                                         analyze complex Engineering problems reaching substantiated conclusions
                                                                         using first principles of mathematics, natural sciences, and engineering
                                                                         sciences.</li>
-                                                                    <li>Design/Development of Solutions: Design solutions for complex engineering
+                                                                    <li><b> PO 3: </b>Design/Development of Solutions: Design solutions for complex engineering
                                                                         problems and design system components or processes that meet the specified
                                                                         needs with appropriate considerations for the public health and safety, and
                                                                         the cultural, societal, and environmental considerations</li>
-                                                                    <li>Use research-based knowledge and research methods including design of
+                                                                    <li><b> PO 4: </b>Use research-based knowledge and research methods including design of
                                                                         experiments, analysis and interpretation of data, and synthesis of the
                                                                         information to provide valid conclusions.</li>
-                                                                    <li>Create, select, and apply appropriate techniques, resources, and modern
+                                                                    <li><b> PO 5: </b>Create, select, and apply appropriate techniques, resources, and modern
                                                                         engineering and IT tools including prediction and modeling to complex
                                                                         engineering activities with an understanding of the limitations.</li>
-                                                                    <li>Apply reasoning informed by the contextual knowledge to assess societal,
+                                                                    <li><b> PO 6: </b>Apply reasoning informed by the contextual knowledge to assess societal,
                                                                         health, safety, legal and cultural issues and the consequent
                                                                         responsibilities relevant to the professional engineering practice.</li>
-                                                                    <li>Understand the impact of the professional engineering solutions in societal
+                                                                    <li><b> PO 7: </b>Understand the impact of the professional engineering solutions in societal
                                                                         and environmental contexts, and demonstrate the knowledge of, and need for
                                                                         sustainable development.</li>
-                                                                    <li>Apply ethical principles and commit to professional ethics and
+                                                                    <li><b> PO 8: </b>Apply ethical principles and commit to professional ethics and
                                                                         responsibilities
                                                                         and norms of the engineering practice.</li>
-                                                                    <li>Function effectively as an individual, and as a member or leader in diverse
+                                                                    <li><b> PO 9: </b>Function effectively as an individual, and as a member or leader in diverse
                                                                         teams, and in multidisciplinary settings.</li>
-                                                                    <li>Communicate effectively on complex engineering activities with the
+                                                                    <li><b> PO 10: </b>Communicate effectively on complex engineering activities with the
                                                                         engineering
                                                                         community and with society at large, such as, being able to comprehend and
                                                                         write
                                                                         effective reports and design documentation, make effective presentations,
                                                                         give and receive clear instructions.</li>
-                                                                    <li>Demonstrate knowledge and understanding of the engineering and management
+                                                                    <li><b> PO 11: </b>Demonstrate knowledge and understanding of the engineering and management
                                                                         principles
                                                                         and apply these to one’s own work, as a member and leader in a team, to
                                                                         manage projects
                                                                         and in multidisciplinary environments.</li>
-                                                                    <li>Recognize the need for, and have the preparation and ability to engage in
+                                                                    <li><b> PO 12: </b>Recognize the need for, and have the preparation and ability to engage in
                                                                         independent and life-long learning in the broadest context of technological
                                                                         change.</li>
                                                                 </ul>
@@ -711,12 +711,12 @@
                                                                 <p>
                                                                 <ul class="list">
                                                                     By the end of the undergraduate programme in CSE, graduates will be able to:
-                                                                    <li>PROBLEM SOLVING SKILLS Specify, design, build and test analog, digital and
+                                                                    <li><b> PSO1 : </b>PROBLEM SOLVING SKILLS Specify, design, build and test analog, digital and
                                                                         embedded systems for signal processing</li>
-                                                                    <li>PROFESSIONAL SKILLSUnderstand and architect wired and wireless analog and
+                                                                    <li><b> PSO2 : </b>PROFESSIONAL SKILLSUnderstand and architect wired and wireless analog and
                                                                         digital communication systems as per specifications, and determine their
                                                                         performance</li>
-                                                                    <li>ETHICS AND CAREER DEVELOPMENTExhibit skills required for a successful career
+                                                                    <li><b> PSO3 : </b>ETHICS AND CAREER DEVELOPMENTExhibit skills required for a successful career
                                                                         in the industry based on principles of software project management,
                                                                         teamwork, ethical practices, develop the spirit of free enterprise and
                                                                         provide innovative ideas towards analysis.
