@@ -1454,260 +1454,200 @@
                                         <th>SL.NO</th>
                                         <th>Name</th>
                                         <th>Company</th>
-                                        <th>CTC</th>
-                                        <th>Contact No</th>
-                                        <th>Email</th>
+                                      
                                     </tr>
                                     <tr>
                                         <td>1</td>
                                         <td>MAHIMA KAMATH N</td>
                                         <td>SLK SOFTWARE</td>
-                                        <td>3.2LPA</td>
-                                        <td>9741296625</td>
-                                        <td>kamathmahima18@gmail.com</td>
+                                     
                                     </tr>
                                     <tr>
                                         <td>2</td>
                                         <td>ABHILASH K GEORGE</td>
                                         <td>ROBOSFT TECHNOLOGY</td>
-                                        <td>4LPA</td>
-                                        <td>7624842110</td>
-                                        <td>vampiretechz007@gmail.com</td>
+                                     
                                     </tr>
                                     <tr>
                                         <td>3</td>
                                         <td>PRAKASH NAYAK P</td>
                                         <td>ROBOSFT TECHNOLOGY & CHEGG INDIA PVT. LTD.</td>
-                                        <td>4LPA/3.5LPA</td>
-                                        <td>9686720331</td>
-                                        <td>prakashnayakp9686@gmail.com</td>
+                                      
                                     </tr>
                                     <tr>
                                         <td>4</td>
                                         <td>VINEETH K H</td>
                                         <td>TECHNOLOGICS GLOBAL PVT. LTD. & LAURUS INFOSYSTEMS (India) PVT. LTD</td>
-                                        <td>3.4LPA/3.5LPA</td>
-                                        <td>9448851464</td>
-                                        <td>vineethkuthyala0@gmail.com</td>
+                                     
 
                                     </tr>
                                     <tr>
                                         <td>5</td>
                                         <td>SAGAR GOPAL NAIK</td>
                                         <td>INFOSYS & CHEGG INDIA PVT. LTD.</td>
-                                        <td>3.6LPA/3.5LPA</td>
-                                        <td>9071397463</td>
-                                        <td>naiksagar220@gmail.com</td>
+                                     
 
                                     </tr>
                                     <tr>
                                         <td>6</td>
                                         <td>SUJITH RAI M</td>
                                         <td>CHEGG INDIA PVT. LTD. & EPIANCE SOFTWARE PVT. LTD.</td>
-                                        <td>3.5LPA/3LPA</td>
-                                        <td>8197740871</td>
-                                        <td>raisuji38@gmail.com</td>
+                                       
                                     </tr>
                                     <tr>
                                         <td>7</td>
                                         <td>AHMED RAZA</td>
                                         <td>DIYA SYSTEMS & NTT DATA</td>
-                                        <td>2.2LPA to 3LPA/3.5LPA</td>
-                                        <td>8105229863</td>
-                                        <td>ahmedraza1705@gmail.com</td>
+                                        
                                     </tr>
                                     <tr>
                                         <td>8</td>
                                         <td>BHAVISHA K H</td>
                                         <td>SANESQUARE TECHNOLOGY PVT. LTD. & NTT DATA</td>
-                                        <td>15500PM/3.5LPA</td>
-                                        <td>8073836631</td>
-                                        <td>bhavishakh13414@gmail.com</td>
+                                     
                                     </tr>
                                     <tr>
                                         <td>9</td>
                                         <td>DEEKSHA AMIN</td>
                                         <td>Jspider & DXC TECHNOLOGY</td>
-                                        <td>Training cum Placement </td>
-                                        <td>9113553477</td>
-                                        <td>deekshaamin123@gmail.com</td>
+                                      
                                     </tr>
                                     <tr>
                                         <td>10</td>
                                         <td>GAGANA</td>
                                         <td>QSPIDERS</td>
-                                        <td>Training cum Placement </td>
-                                        <td>9535980945</td>
-                                        <td>gaganashetty124@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>11</td>
                                         <td>JAHNAVI J</td>
                                         <td>Jspider & DXC TECHNOLOGY</td>
-                                        <td>Training cum Placement </td>
-                                        <td>8792148859</td>
-                                        <td>janugj125@gmail.com </td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>12</td>
                                         <td>JASMITHA P S</td>
                                         <td>QSPIDERS</td>
-                                        <td>Training cum Placement </td>
-                                        <td>7348955770</td>
-                                        <td>jasmithajanki@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>13</td>
                                         <td>KAVYASHREE K P</td>
                                         <td>QSPIDERS</td>
-                                        <td>Training cum Placement </td>
-                                        <td>7026263202</td>
-                                        <td>kavyakundalpadi12@gmail.com</td>
+                                       
                                     </tr>
 
                                     <tr>
                                         <td>14</td>
                                         <td>NAMRATHA S</td>
                                         <td>QSPIDERS & Alchemy</td>
-                                        <td>Training cum Placement/5LPA</td>
-                                        <td>9206505965</td>
-                                        <td>namrathasnammu@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>15</td>
                                         <td>NIREEKSHA M J</td>
                                         <td>QSPIDERS & NTT DATA</td>
-                                        <td>Training cum Placement/3.5LPA</td>
-                                        <td>7624906839</td>
-                                        <td>nireekshamontadka@gmail.com</td>
+                                      
                                     </tr>
                                     <tr>
                                         <td>16</td>
                                         <td>SHAILESH M S</td>
                                         <td>SANESQUARE TECHNOLOGY & L&T Technology Servive</td>
-                                        <td>15500PM</td>
-                                        <td>9845053978</td>
-                                        <td>shaileshms18@gmail.com</td>
+                                     
                                     </tr>
 
                                     <tr>
                                         <td>17</td>
                                         <td>SHREEJA RAI M</td>
                                         <td>QSPIDERS & INFOSYS</td>
-                                        <td>Training cum Placement/6LPA</td>
-                                        <td>8281722126</td>
-                                        <td>shreejarai1999@gmail.com</td>
+                                       
                                     </tr>
 
                                     <tr>
                                         <td>18</td>
                                         <td>PRUTHVI K</td>
                                         <td>INFOSYS</td>
-                                        <td>3.6LPA</td>
-                                        <td>76249731767</td>
-                                        <td>pruthvikandiga@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>19</td>
                                         <td>SNEHA A G</td>
                                         <td>QSPIDERS</td>
-                                        <td>Training cum Placement</td>
-                                        <td>7338548806</td>
-                                        <td>snehaag990@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>20/td>
                                         <td>SPOORTHI B G</td>
                                         <td>QSPIDERS & Informatica Business Solutions Pvt. Ltd.</td>
-                                        <td>Training cum Placement /8.1LPA</td>
-                                        <td>7338548806</td>
-                                        <td>spoorhibg24@gmail.com</td>
+                                    
                                     </tr>
 
                                     <tr>
                                         <td>21</td>
                                         <td>THRUPTHI K K</td>
                                         <td>World Line Global</td>
-                                        <td>3.5LPA</td>
-                                        <td>9449537176</td>
-                                        <td>thrupthikallugadde@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>22</td>
                                         <td>VINOD ISHWAR PATGAR</td>
                                         <td>QSPIDERS & Chegg India Pvt. Ltd. & NTT DATA & L&T Technology Servive</td>
-                                        <td>Training cum Placement/3.5LPA</td>
-                                        <td>9113856410</td>
-                                        <td>vinodpatgar45@gmail.com</td>
+                                     
                                     </tr>
 
                                     <tr>
                                         <td>23</td>
                                         <td>K. R SHISHIR KRISHNA</td>
                                         <td>NTT DATA</td>
-                                        <td>3.5LPA</td>
-                                        <td>8310298140</td>
-                                        <td>shishirkrishna18@gmail.com</td>
+                                     
                                     </tr>
                                     <tr>
                                         <td>24</td>
                                         <td>ABDUL SABAD A G</td>
                                         <td>NTT DATA</td>
-                                        <td>3.5LPA</td>
-                                        <td>9611249832</td>
-                                        <td>muhammadsawad285@gmail.com</td>
+                                  
                                     </tr>
 
                                     <tr>
                                         <td>25</td>
                                         <td>LAKSHMI D K</td>
                                         <td>NTT DATA & ARIS GLOBAL</td>
-                                        <td>3.5LPA</td>
-                                        <td>9482547621</td>
-                                        <td>lakshmidevaragunda751@gmail.com</td>
+                                     
                                     </tr>
 
                                     <tr>
                                         <td>26</td>
                                         <td>Krithika Shagrith AS</td>
                                         <td>Harman Connected Services</td>
-                                        <td>5,00,000PA</td>
-                                        <td>9900201856</td>
-                                        <td>kithishagrith99@gmail.com</td>
+                                    
                                     </tr>
 
                                     <tr>
                                         <td>27</td>
                                         <td>Raveesha N</td>
                                         <td>CHEGG INDIA PVT. LTD.</td>
-                                        <td>3.5LPA</td>
-                                        <td>9449076550</td>
-                                        <td>thodikanar@gmail.com</td>
+                                     
                                     </tr>
 
                                     <tr>
                                         <td>28</td>
                                         <td>YAJNESH N U </td>
                                         <td>INFOSYS & CAPGEMINI.</td>
-                                        <td>3.5LPA</td>
-                                        <td>8762120679</td>
-                                        <td>yajneshnu@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>29</td>
                                         <td>SINCHANA A </td>
                                         <td>TATA CNSULTANCY SERVICES</td>
-                                        <td>3.6LPA</td>
-                                        <td>9019699287</td>
-                                        <td>sinchanaa64@gmail.com</td>
+                                      
                                     </tr>
                                 </table>
                             </div>
