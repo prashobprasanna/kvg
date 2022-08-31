@@ -750,7 +750,7 @@
         }
 
         .u-section-2 .u-text-1 {
-            font-size: 3rem;
+            font-size: 2rem;
             margin: -276px 0 0 375px
         }
 
@@ -781,7 +781,7 @@
         }
 
         .u-section-2 .u-text-3 {
-            font-size: 3rem;
+            font-size: 2rem;
             margin: -276px 0 0 377px
         }
 

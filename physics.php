@@ -24,7 +24,7 @@
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
-                <h2 class="subheadWhite head">HEAD OF DEPARTMENT<span></span></h2>
+                <h2 class="subheadWhite head" style="color: black;">HEAD OF DEPARTMENT<span></span></h2>
                 <style>
                     .data_more_less_inner {
                         overflow: hidden;
@@ -209,7 +209,7 @@
                         box-sizing: border-box;
                     }
 
-                    < !-- body {
+                    body {
                         font-family: 'Poppins', sans-serif;
                         align-items: center;
                         justify-content: center;
@@ -217,7 +217,7 @@
                         min-height: 100vh;
                     }
 
-                    -->img {
+                    img {
                         max-width: 100%;
                         display: block;
                     }
@@ -240,7 +240,7 @@
                     .card1 {
                         padding: 2.5rem 2rem;
                         border-radius: 10px;
-                        background-image: linear-gradient(to right bottom, rgb(0, 174, 255), #ffd786);
+                        background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
                         max-width: 90%;
                         box-shadow: 0 0 30px rgba(0, 0, 0, .15);
                         margin: 1rem;
@@ -272,12 +272,13 @@
                         background-color: #4172f5aa;
                         top: -8rem;
                         right: -8rem;
-                        box-shadow: 2rem 6rem 0 -3rem #FFF
+                        box-shadow: 2rem 6rem 0 -3rem #c3daff;
+                        border-radius: 50%;
                     }
 
                     .card1 img {
                         float: left;
-                        width: 150rem;
+                        width: 100%;
                         min-width: 80px;
                         box-shadow: 0 0 0 5px #FFF;
                     }
@@ -364,14 +365,7 @@
                         display: none;
                     }
 
-                    #som {
-                        font-size: 25px;
-                    }
-
                     @media (max-width:767px) {
-                        #som {
-                            font-size: 14px;
-                        }
 
                         /* #nobq{display: none;} */
                         #more1 {
@@ -380,12 +374,6 @@
 
                         #myBtn1 {
                             display: inline;
-                        }
-
-                        #h3f {
-                            font-size: 16px;
-                            font-weight: solid;
-
                         }
                     }
                 </style>
@@ -598,7 +586,7 @@
 
 
                         </div>
-
+                        <br><br><br><br>
                         <div class="tab-pane  fade " id="Faculty">
                             <!-- <ul class="nav nav-tabs tabtop tabsetting">
                                     <li class="active">
@@ -722,7 +710,7 @@
                     </div>
                 </div> -->
                                                 <div class="row" style="align-items:center">
-                                                <div class="col-lg-3 col-md-6">
+                                                    <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
                                                                 <img src="admin-kvgce/photos/faculty/basic/praveen.jpg" class="img-fluid" alt="">
@@ -773,7 +761,7 @@
                                                         </div>
                                                     </div>
 
-                                                   <!--  <div class="col-lg-3 col-md-6">
+                                                    <!--  <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
                                                                 <img src="admin-kvgce/photos/faculty/civil/ajith.jpg" class="img-fluid" alt="">
@@ -902,7 +890,7 @@
 
 
     <!-- endfooter -->
-    
+
 </body>
 
 <!-- Mirrored from www.sjec.ac.in/department-computer-science.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Apr 2022 12:11:44 GMT -->
