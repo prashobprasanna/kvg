@@ -338,6 +338,7 @@
                     }
 
                     .name {
+                        font-size: large;
                         margin-bottom: 1rem;
                     }
 
@@ -351,7 +352,7 @@
                     }
 
                     .text {
-                        font-size: .9rem;
+                        font-size: 1.5rem;
                         margin-bottom: 1rem;
                     }
 
@@ -409,6 +410,24 @@
                         }
                     }
                 </style>
+                <style>
+                    /* #myBtn1 {display: none;} */
+                    #myBtn1 {
+                        display: none;
+                    }
+
+                    @media (max-width:767px) {
+
+                        /* #nobq{display: none;} */
+                        #more1 {
+                            display: none;
+                        }
+
+                        #myBtn1 {
+                            display: inline;
+                        }
+                    }
+                </style>
                 <center>
                     <div class="card1">
                         <div class="img">
@@ -417,7 +436,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" id="som">DR. UMASHANKAR K S</div>
+                                    <div class="header-fullname" id="som" style="font-size:larger;">DR. UMASHANKAR K S</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 

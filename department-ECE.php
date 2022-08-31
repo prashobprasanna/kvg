@@ -338,6 +338,7 @@
                     }
 
                     .name {
+                        font-size: large;
                         margin-bottom: 1rem;
                     }
 
@@ -351,7 +352,7 @@
                     }
 
                     .text {
-                        font-size: .9rem;
+                        font-size: 1.5rem;
                         margin-bottom: 1rem;
                     }
 
@@ -415,14 +416,7 @@
                         display: none;
                     }
 
-                    #som {
-                        font-size: 25px;
-                    }
-
                     @media (max-width:767px) {
-                        #som {
-                            font-size: 14px;
-                        }
 
                         /* #nobq{display: none;} */
                         #more1 {
@@ -431,12 +425,6 @@
 
                         #myBtn1 {
                             display: inline;
-                        }
-
-                        #h3f {
-                            font-size: 16px;
-                            font-weight: solid;
-
                         }
                     }
                 </style>
@@ -448,7 +436,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" id="som">DR. KUSUMADHAR S</div>
+                                    <div class="header-fullname" id="som" style="font-size:larger;">DR. KUSUMADHAR S</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 

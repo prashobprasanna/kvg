@@ -286,6 +286,7 @@
                     }
 
                     .name {
+                        font-size: large;
                         margin-bottom: 1rem;
                     }
 
@@ -299,7 +300,7 @@
                     }
 
                     .text {
-                        font-size: .9rem;
+                        font-size: 1.5rem;
                         margin-bottom: 1rem;
                     }
 
