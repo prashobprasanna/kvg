@@ -309,7 +309,7 @@
                         <div class="signup_form">
                             <form action="#" class="subscribe">
                                 <input type="text" class="subscribe__input" placeholder="Ask a question here" id="email12">
-                                <button type="button" class="subscribe__btn" onclick="gotowhatsapp1()"><i class="fa fa-paper-plane-o"></i></button>
+                                <button type="button" class="subscribe__btn" onclick="gotowhatsapp1()"><i class="fa fa-paper-plane" ></i></button>
                             </form>
                         </div>
                     </div>
