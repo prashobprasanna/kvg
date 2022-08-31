@@ -1427,7 +1427,7 @@
                                         color: white;
                                     }
                                 </style>
-                                <table id="customers">
+                                <!-- <table id="customers">
                                     <tr>
                                         <th>SL.NO</th>
                                         <th>Name</th>
@@ -1627,7 +1627,7 @@
                                         <td>TATA CNSULTANCY SERVICES</td>
                                       
                                     </tr>
-                                </table>
+                                </table> -->
                             </div>
 
                         </div>

@@ -162,7 +162,7 @@
                             </div>
                         </li>
                         <li class="menu-el">
-                            <a>Academics</a>
+                            <a>ACADEMICS</a>
                             <div class="mdf_sub_wrap row mdf_fall">
                                 <div class="col-sm-4 col-xs-12">
                                     <div class="cl-title">

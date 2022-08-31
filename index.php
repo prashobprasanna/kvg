@@ -698,7 +698,7 @@
             </div>
         </div>
         <div class="news-card">
-            <a href="department-civil.php" class="news-card__card-link"></a>
+            <a href="mba.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/mba.jpg" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
                 <h3 class="news-card__title">Master In Bussiness Administration</h3>
@@ -1021,7 +1021,7 @@
                         <div class="u-carousel-item u-container1-style u-slide">
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
-                                <!-- <img src="//images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/50131c00883351249f31cb44/action-activity-adult-attack-260447.jpg?version=" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067"> -->
+                                <img src="IMAGES/newsandevents/farewel.jpg" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
                                 <h3 class="u-text u-text-3">FAREWELL-2022</h3>
                                 <p class="u-text u-text-palette-5-dark-1 u-text-4">Great is the art of beginning,but
                                     greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students

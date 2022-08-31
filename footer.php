@@ -276,11 +276,12 @@
                     <div class="single_footer">
                         <h4>Courses</h4>
                         <ul>
-                            <li><a href="department-computer-science.html">Computer Science & Engineering</a></li>
+                            <li><a href="department-computer-science.php">Computer Science & Engineering</a></li>
                             <li><a href="">Computer Science & Engineering(AI & ML)</a></li>
-                            <li><a href="department-ECE.html">Electronics & Communication Engineering</a></li>
-                            <li><a href="department-mech.html">Mechanical Engineering</a></li>
-                            <li><a href="department-civil.html">Civil Engineering</a></li>
+                            <li><a href="department-ECE.php">Electronics & Communication Engineering</a></li>
+                            <li><a href="department-mech.php">Mechanical Engineering</a></li>
+                            <li><a href="department-civil.php">Civil Engineering</a></li>
+                            <li><a href="mba.php">Master of Business Administration</a></li>
                             <!-- <li><a href="#">-----------------</a></li>
                             <li><a href="#">Hostel Facilities</a></li>
                             <li><a href="#">Campus</a></li>
