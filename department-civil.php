@@ -899,11 +899,11 @@
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/Chandra.jpg" class="img-fluid" alt="">
+                                                                <img src="admin-kvgce/photos/faculty/civil/chandra1.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>DR. CHANDRASHEKARA A</h4>
-                                                                <h5 style="color:white">Professor and Head of the department</h5>
+                                                                <h5 style="color:white">Professor & HOD</h5>
                                                                 <h5 style="color:white">B.E., M.Tech., MIT, Ph.D., MISTE</h5>
                                                                 <span></span>
                                                                 <div class="social-links">
