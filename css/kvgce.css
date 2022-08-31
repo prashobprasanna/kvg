@@ -3337,7 +3337,7 @@ p {
     -webkit-box-shadow: 10px 10px 24px -9px rgba(0, 0, 0, 0);
     -moz-box-shadow: 10px 10px 24px -9px rgba(0, 0, 0, 0);
     box-shadow: 10px 10px 24px -9px rgba(0, 0, 0, 0);
-    min-height: 343px;
+    /* min-height: 343px; */
 }
 
 .department-activities-box h4 {
