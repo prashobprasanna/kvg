@@ -591,23 +591,7 @@
                                                             undergraduate degree courses offered by the department provide a
                                                             comprehensive foundation in the core topics of ECE coupled with areas of
                                                             interdisciplinary specialization relevant to emerging engineering challenges. </p>
-                                                        <h2>Salient features of the department
-                                                        </h2>
-                                                        <ul>
-                                                            <li>Adequate infrastructure & Well-Equipped Laboratories</li>
-                                                            <li>Well-qualified, self-motivated, experienced and dedicated faculties.</li>
-                                                            <li>Highest campus placement from elite core and software companies.</li>
-                                                            <li>VTU Research Centre [Ph.D.]</li>
-                                                            <li>Department Association ENCEA (Electronics and Communication
-                                                                Engineering Association)</li>
-                                                            <li>Karnataka State Council for Science & Technology (KSCST) and VTU
-                                                                funded UG projects.</li>
-                                                            <li>o Department Library with more than 1400 Books</li>
-                                                            <li>Industrial Projects & Internships</li>
-                                                            <li>MoU with companies</li>
-                                                            <li>“Amara Kannada Sahithya Vedike”- a forum to encourage the students
-                                                                and staff to involve in activities relevant to Kannada literature</li>
-                                                        </ul>
+                                                       
                                                     </div>
                                                 </div>
                                                 <a href="#" class="action_more" style="border-radius: 18px;"><button type="button" class="btn btn-outline-primary">Read More</button></a>
@@ -683,9 +667,9 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li>Implement Academic Process through University Syllabus and Identified Curriculum Gaps</li>
-                                                                    <li>Provide platforms for Teambuilding, Leadership Skills in students community through Motivation and Communication</li>
-                                                                    <li>Build Ethical and Leadership skills through Interactions with the outside world</li>
+                                                                    <li><b>M1: </b>Implement Academic Process through University Syllabus and Identified Curriculum Gaps</li>
+                                                                    <li><b>M2: </b>Provide platforms for Teambuilding, Leadership Skills in students community through Motivation and Communication</li>
+                                                                    <li><b>M3: </b>Build Ethical and Leadership skills through Interactions with the outside world</li>
                                                                 </ul>
                                                                 </p>
                                                             </div>
@@ -699,10 +683,10 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li>Engage in designing, manufacturing, testing, operating and/or maintaining systems in the field of electronics and communication engineering and allied engineering industries
+                                                                    <li><b>PEO 1: </b>Engage in designing, manufacturing, testing, operating and/or maintaining systems in the field of electronics and communication engineering and allied engineering industries
                                                                     </li>
-                                                                    <li>Solve problems of social relevance by applying the knowledge of electronics and communication engineering, and/or pursuing higher education and research</li>
-                                                                    <li>Work effectively as individuals and as team members, engage in lifelong learning and adapt to changing professional and societal needs</li>
+                                                                    <li><b>PEO 2: </b>Solve problems of social relevance by applying the knowledge of electronics and communication engineering, and/or pursuing higher education and research</li>
+                                                                    <li><b>PEO 3: </b>Work effectively as individuals and as team members, engage in lifelong learning and adapt to changing professional and societal needs</li>
 
                                                                 </ul>
                                                                 </p>
@@ -718,46 +702,46 @@
                                                                 <p>
                                                                 <ul class="list">
 
-                                                                    <li>Engineering Knowledge: To apply the knowledge of mathematics, science,
+                                                                    <li><b>PO1: </b>Engineering Knowledge: To apply the knowledge of mathematics, science,
                                                                         engineering fundamentals, and an engineering specialization to the solution
                                                                         of complex engineering problems</li>
-                                                                    <li>Problem Analysis: Identify, formulate, review research literature, and
+                                                                    <li><b>PO2: </b>Problem Analysis: Identify, formulate, review research literature, and
                                                                         analyze complex Engineering problems reaching substantiated conclusions
                                                                         using first principles of mathematics, natural sciences, and engineering
                                                                         sciences.</li>
-                                                                    <li>Design/Development of Solutions: Design solutions for complex engineering
+                                                                    <li><b>PO3: </b>Design/Development of Solutions: Design solutions for complex engineering
                                                                         problems and design system components or processes that meet the specified
                                                                         needs with appropriate considerations for the public health and safety, and
                                                                         the cultural, societal, and environmental considerations</li>
-                                                                    <li>Use research-based knowledge and research methods including design of
+                                                                    <li><b>PO4: </b>Use research-based knowledge and research methods including design of
                                                                         experiments, analysis and interpretation of data, and synthesis of the
                                                                         information to provide valid conclusions.</li>
-                                                                    <li>Create, select, and apply appropriate techniques, resources, and modern
+                                                                    <li><b>PO5: </b>Create, select, and apply appropriate techniques, resources, and modern
                                                                         engineering and IT tools including prediction and modeling to complex
                                                                         engineering activities with an understanding of the limitations.</li>
-                                                                    <li>Apply reasoning informed by the contextual knowledge to assess societal,
+                                                                    <li><b>PO6: </b>Apply reasoning informed by the contextual knowledge to assess societal,
                                                                         health, safety, legal and cultural issues and the consequent
                                                                         responsibilities relevant to the professional engineering practice.</li>
-                                                                    <li>Understand the impact of the professional engineering solutions in societal
+                                                                    <li><b>PO7: </b>Understand the impact of the professional engineering solutions in societal
                                                                         and environmental contexts, and demonstrate the knowledge of, and need for
                                                                         sustainable development.</li>
-                                                                    <li>Apply ethical principles and commit to professional ethics and
+                                                                    <li><b>PO8: </b>Apply ethical principles and commit to professional ethics and
                                                                         responsibilities
                                                                         and norms of the engineering practice.</li>
-                                                                    <li>Function effectively as an individual, and as a member or leader in diverse
+                                                                    <li><b>PO9: </b>Function effectively as an individual, and as a member or leader in diverse
                                                                         teams, and in multidisciplinary settings.</li>
-                                                                    <li>Communicate effectively on complex engineering activities with the
+                                                                    <li><b>PO10: </b>Communicate effectively on complex engineering activities with the
                                                                         engineering
                                                                         community and with society at large, such as, being able to comprehend and
                                                                         write
                                                                         effective reports and design documentation, make effective presentations,
                                                                         give and receive clear instructions.</li>
-                                                                    <li>Demonstrate knowledge and understanding of the engineering and management
+                                                                    <li><b>PO11: </b>Demonstrate knowledge and understanding of the engineering and management
                                                                         principles
                                                                         and apply these to one’s own work, as a member and leader in a team, to
                                                                         manage projects
                                                                         and in multidisciplinary environments.</li>
-                                                                    <li>Recognize the need for, and have the preparation and ability to engage in
+                                                                    <li><b>PO12: </b>Recognize the need for, and have the preparation and ability to engage in
                                                                         independent and life-long learning in the broadest context of technological
                                                                         change.</li>
                                                                 </ul>
@@ -774,8 +758,8 @@
                                                                 <p>
                                                                 <ul class="list">
 
-                                                                    <li>Specify, design, build and test analog, digital and embedded systems for signal processing</li>
-                                                                    <li>Understand and architect wired and wireless analog and digital communication systems as per specifications, and determine their performance
+                                                                    <li><b>PSO1 : </b>Specify, design, build and test analog, digital and embedded systems for signal processing</li>
+                                                                    <li><b>PSO2 : </b>Understand and architect wired and wireless analog and digital communication systems as per specifications, and determine their performance
                                                                     </li>
 
                                                                 </ul>
@@ -793,13 +777,19 @@
                                                             <div class="panel-body">
                                                                 <p>
                                                                 <ul class="list">
-                                                                    <li> Experienced and dedicated faculty members</li>
-                                                                    <li> Recognized research Centre (VTU-Ph.D)</li>
-                                                                    <li> Well equipped laboratories with more than 150 computers</li>
-                                                                    <li>Separate department library with more than 700 books</li>
-                                                                    <li>Department association CENSA (Computer Engineering Students Association)</li>
-                                                                    <li>Wi-Fi Internet connection for students and faculties with 200Mbps</li>
-                                                                    <li>Classrooms with Power Point Projector</li>
+                                                                <li>Adequate infrastructure & Well-Equipped Laboratories</li>
+                                                            <li>Well-qualified, self-motivated, experienced and dedicated faculties.</li>
+                                                            <li>Highest campus placement from elite core and software companies.</li>
+                                                            <li>VTU Research Centre [Ph.D.]</li>
+                                                            <li>Department Association ENCEA (Electronics and Communication
+                                                                Engineering Association)</li>
+                                                            <li>Karnataka State Council for Science & Technology (KSCST) and VTU
+                                                                funded UG projects.</li>
+                                                            <li>o Department Library with more than 1400 Books</li>
+                                                            <li>Industrial Projects & Internships</li>
+                                                            <li>MoU with companies</li>
+                                                            <li>“Amara Kannada Sahithya Vedike”- a forum to encourage the students
+                                                                and staff to involve in activities relevant to Kannada literature</li>
 
 
                                                                 </ul>
@@ -1454,260 +1444,200 @@
                                         <th>SL.NO</th>
                                         <th>Name</th>
                                         <th>Company</th>
-                                        <th>CTC</th>
-                                        <th>Contact No</th>
-                                        <th>Email</th>
+                                      
                                     </tr>
                                     <tr>
                                         <td>1</td>
                                         <td>MAHIMA KAMATH N</td>
                                         <td>SLK SOFTWARE</td>
-                                        <td>3.2LPA</td>
-                                        <td>9741296625</td>
-                                        <td>kamathmahima18@gmail.com</td>
+                                     
                                     </tr>
                                     <tr>
                                         <td>2</td>
                                         <td>ABHILASH K GEORGE</td>
                                         <td>ROBOSFT TECHNOLOGY</td>
-                                        <td>4LPA</td>
-                                        <td>7624842110</td>
-                                        <td>vampiretechz007@gmail.com</td>
+                                     
                                     </tr>
                                     <tr>
                                         <td>3</td>
                                         <td>PRAKASH NAYAK P</td>
                                         <td>ROBOSFT TECHNOLOGY & CHEGG INDIA PVT. LTD.</td>
-                                        <td>4LPA/3.5LPA</td>
-                                        <td>9686720331</td>
-                                        <td>prakashnayakp9686@gmail.com</td>
+                                      
                                     </tr>
                                     <tr>
                                         <td>4</td>
                                         <td>VINEETH K H</td>
                                         <td>TECHNOLOGICS GLOBAL PVT. LTD. & LAURUS INFOSYSTEMS (India) PVT. LTD</td>
-                                        <td>3.4LPA/3.5LPA</td>
-                                        <td>9448851464</td>
-                                        <td>vineethkuthyala0@gmail.com</td>
+                                     
 
                                     </tr>
                                     <tr>
                                         <td>5</td>
                                         <td>SAGAR GOPAL NAIK</td>
                                         <td>INFOSYS & CHEGG INDIA PVT. LTD.</td>
-                                        <td>3.6LPA/3.5LPA</td>
-                                        <td>9071397463</td>
-                                        <td>naiksagar220@gmail.com</td>
+                                     
 
                                     </tr>
                                     <tr>
                                         <td>6</td>
                                         <td>SUJITH RAI M</td>
                                         <td>CHEGG INDIA PVT. LTD. & EPIANCE SOFTWARE PVT. LTD.</td>
-                                        <td>3.5LPA/3LPA</td>
-                                        <td>8197740871</td>
-                                        <td>raisuji38@gmail.com</td>
+                                       
                                     </tr>
                                     <tr>
                                         <td>7</td>
                                         <td>AHMED RAZA</td>
                                         <td>DIYA SYSTEMS & NTT DATA</td>
-                                        <td>2.2LPA to 3LPA/3.5LPA</td>
-                                        <td>8105229863</td>
-                                        <td>ahmedraza1705@gmail.com</td>
+                                        
                                     </tr>
                                     <tr>
                                         <td>8</td>
                                         <td>BHAVISHA K H</td>
                                         <td>SANESQUARE TECHNOLOGY PVT. LTD. & NTT DATA</td>
-                                        <td>15500PM/3.5LPA</td>
-                                        <td>8073836631</td>
-                                        <td>bhavishakh13414@gmail.com</td>
+                                     
                                     </tr>
                                     <tr>
                                         <td>9</td>
                                         <td>DEEKSHA AMIN</td>
                                         <td>Jspider & DXC TECHNOLOGY</td>
-                                        <td>Training cum Placement </td>
-                                        <td>9113553477</td>
-                                        <td>deekshaamin123@gmail.com</td>
+                                      
                                     </tr>
                                     <tr>
                                         <td>10</td>
                                         <td>GAGANA</td>
                                         <td>QSPIDERS</td>
-                                        <td>Training cum Placement </td>
-                                        <td>9535980945</td>
-                                        <td>gaganashetty124@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>11</td>
                                         <td>JAHNAVI J</td>
                                         <td>Jspider & DXC TECHNOLOGY</td>
-                                        <td>Training cum Placement </td>
-                                        <td>8792148859</td>
-                                        <td>janugj125@gmail.com </td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>12</td>
                                         <td>JASMITHA P S</td>
                                         <td>QSPIDERS</td>
-                                        <td>Training cum Placement </td>
-                                        <td>7348955770</td>
-                                        <td>jasmithajanki@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>13</td>
                                         <td>KAVYASHREE K P</td>
                                         <td>QSPIDERS</td>
-                                        <td>Training cum Placement </td>
-                                        <td>7026263202</td>
-                                        <td>kavyakundalpadi12@gmail.com</td>
+                                       
                                     </tr>
 
                                     <tr>
                                         <td>14</td>
                                         <td>NAMRATHA S</td>
                                         <td>QSPIDERS & Alchemy</td>
-                                        <td>Training cum Placement/5LPA</td>
-                                        <td>9206505965</td>
-                                        <td>namrathasnammu@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>15</td>
                                         <td>NIREEKSHA M J</td>
                                         <td>QSPIDERS & NTT DATA</td>
-                                        <td>Training cum Placement/3.5LPA</td>
-                                        <td>7624906839</td>
-                                        <td>nireekshamontadka@gmail.com</td>
+                                      
                                     </tr>
                                     <tr>
                                         <td>16</td>
                                         <td>SHAILESH M S</td>
                                         <td>SANESQUARE TECHNOLOGY & L&T Technology Servive</td>
-                                        <td>15500PM</td>
-                                        <td>9845053978</td>
-                                        <td>shaileshms18@gmail.com</td>
+                                     
                                     </tr>
 
                                     <tr>
                                         <td>17</td>
                                         <td>SHREEJA RAI M</td>
                                         <td>QSPIDERS & INFOSYS</td>
-                                        <td>Training cum Placement/6LPA</td>
-                                        <td>8281722126</td>
-                                        <td>shreejarai1999@gmail.com</td>
+                                       
                                     </tr>
 
                                     <tr>
                                         <td>18</td>
                                         <td>PRUTHVI K</td>
                                         <td>INFOSYS</td>
-                                        <td>3.6LPA</td>
-                                        <td>76249731767</td>
-                                        <td>pruthvikandiga@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>19</td>
                                         <td>SNEHA A G</td>
                                         <td>QSPIDERS</td>
-                                        <td>Training cum Placement</td>
-                                        <td>7338548806</td>
-                                        <td>snehaag990@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>20/td>
                                         <td>SPOORTHI B G</td>
                                         <td>QSPIDERS & Informatica Business Solutions Pvt. Ltd.</td>
-                                        <td>Training cum Placement /8.1LPA</td>
-                                        <td>7338548806</td>
-                                        <td>spoorhibg24@gmail.com</td>
+                                    
                                     </tr>
 
                                     <tr>
                                         <td>21</td>
                                         <td>THRUPTHI K K</td>
                                         <td>World Line Global</td>
-                                        <td>3.5LPA</td>
-                                        <td>9449537176</td>
-                                        <td>thrupthikallugadde@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>22</td>
                                         <td>VINOD ISHWAR PATGAR</td>
                                         <td>QSPIDERS & Chegg India Pvt. Ltd. & NTT DATA & L&T Technology Servive</td>
-                                        <td>Training cum Placement/3.5LPA</td>
-                                        <td>9113856410</td>
-                                        <td>vinodpatgar45@gmail.com</td>
+                                     
                                     </tr>
 
                                     <tr>
                                         <td>23</td>
                                         <td>K. R SHISHIR KRISHNA</td>
                                         <td>NTT DATA</td>
-                                        <td>3.5LPA</td>
-                                        <td>8310298140</td>
-                                        <td>shishirkrishna18@gmail.com</td>
+                                     
                                     </tr>
                                     <tr>
                                         <td>24</td>
                                         <td>ABDUL SABAD A G</td>
                                         <td>NTT DATA</td>
-                                        <td>3.5LPA</td>
-                                        <td>9611249832</td>
-                                        <td>muhammadsawad285@gmail.com</td>
+                                  
                                     </tr>
 
                                     <tr>
                                         <td>25</td>
                                         <td>LAKSHMI D K</td>
                                         <td>NTT DATA & ARIS GLOBAL</td>
-                                        <td>3.5LPA</td>
-                                        <td>9482547621</td>
-                                        <td>lakshmidevaragunda751@gmail.com</td>
+                                     
                                     </tr>
 
                                     <tr>
                                         <td>26</td>
                                         <td>Krithika Shagrith AS</td>
                                         <td>Harman Connected Services</td>
-                                        <td>5,00,000PA</td>
-                                        <td>9900201856</td>
-                                        <td>kithishagrith99@gmail.com</td>
+                                    
                                     </tr>
 
                                     <tr>
                                         <td>27</td>
                                         <td>Raveesha N</td>
                                         <td>CHEGG INDIA PVT. LTD.</td>
-                                        <td>3.5LPA</td>
-                                        <td>9449076550</td>
-                                        <td>thodikanar@gmail.com</td>
+                                     
                                     </tr>
 
                                     <tr>
                                         <td>28</td>
                                         <td>YAJNESH N U </td>
                                         <td>INFOSYS & CAPGEMINI.</td>
-                                        <td>3.5LPA</td>
-                                        <td>8762120679</td>
-                                        <td>yajneshnu@gmail.com</td>
+                                      
                                     </tr>
 
                                     <tr>
                                         <td>29</td>
                                         <td>SINCHANA A </td>
                                         <td>TATA CNSULTANCY SERVICES</td>
-                                        <td>3.6LPA</td>
-                                        <td>9019699287</td>
-                                        <td>sinchanaa64@gmail.com</td>
+                                      
                                     </tr>
                                 </table>
                             </div>
