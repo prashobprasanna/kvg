@@ -70,7 +70,7 @@
                     .btn {
                         color: rgb(0, 0, 0);
                         text-decoration: none;
-                        border: 1px solid rgb(0, 0, 0);
+                        border-left: 5px solid #969696;
                         border-radius: 18px;
                         padding: 7px 15px;
                     }
