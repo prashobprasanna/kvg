@@ -500,11 +500,10 @@
                         <li class="active"> <a href="#abouts" data-toggle="tab"> About </a> </li>
                         <li> <a href="#Faculty" data-toggle="tab"> Faculty </a> </li>
                         <li> <a href="#Facility" data-toggle="tab">Facility </a> </li>
-                        <li> <a href="#Placements" data-toggle="tab"> Placements</a> </li>
-                        <!-- <li> <a href="#Placements" data-toggle="tab"> Placements</a> </li> -->
+                        <!-- <li> <a href="#Placements" data-toggle="tab"> Placements</a> </li>
                         <li> <a href="#activities" data-toggle="tab"> Activities </a> </li>
                         <li> <a href="#internship" data-toggle="tab"> Internship </a> </li>
-                        <li> <a href="#newsletter" data-toggle="tab"> Newsletter </a> </li>
+                        <li> <a href="#newsletter" data-toggle="tab"> Newsletter </a> </li> -->
 
                         <!-- <li> <a href="#activities" data-toggle="tab"> Activities </a> </li> -->
                         <!-- <li> <a href="#research-centre" data-toggle="tab"> Research Centre </a> </li> -->
