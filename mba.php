@@ -444,7 +444,8 @@
                                 </div>
                             </div>
                             <p class="text">
-                                <strong>ukskvgce@gmail.com &nbsp;&nbsp;&nbsp;08257-231141 Ext: 5137</strong>
+                                <strong>Krishambekallu2010@gmail.com
+ &nbsp;&nbsp;&nbsp;08257-231141 Ext: 5137</strong>
                             </p>
                             <ul class="stats1">
                                 <li>
