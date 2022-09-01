@@ -808,7 +808,7 @@
                                                                 <h5 style="color:white">B.Sc, M.Sc.,(Ph.D)</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href=""><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <!-- <a href=""><i class="fab fa-creative-commons-by"></i></a> -->
                                                                 </div>
                                                             </div>
                                                         </div>
