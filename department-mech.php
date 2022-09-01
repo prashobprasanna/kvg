@@ -906,7 +906,7 @@
                                                                 <h5 style="color:white">B.E,M.Tech,Ph.D</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/mech/sunil.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <!-- <a href="profile/mech/"><i class="fab fa-creative-commons-by"></i></a> -->
                                                                 </div>
                                                             </div>
                                                         </div>
