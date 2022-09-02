@@ -446,7 +446,7 @@
                                 </div>
                             </div>
                             <p class="text">
-                                <strong> acs.nitk@gmail.com &nbsp;&nbsp;&nbsp;08257-231141, 235133</strong>
+                                <strong> sdpraveen@yahoo.com &nbsp;&nbsp;&nbsp;08257-231141, 235133</strong>
                             </p>
                             <ul class="stats1">
                                 <li>
