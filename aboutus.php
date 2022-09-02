@@ -488,7 +488,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname " id="som"> LATE DR. KURUNJI VENKATRAMANA GOWDA</div>
+                                    <div class="header-fullname " id="som"> LATE Dr. KURUNJI VENKATRAMANA GOWDA</div>
                                 </strong> -->
                                 <!-- <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
                                 
@@ -534,7 +534,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" style="font-size: 25px;">DR. K V RENUKA PRASAD</div>
+                                    <div class="header-fullname" style="font-size: 25px;">Dr. K V RENUKA PRASAD</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 
@@ -582,7 +582,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" style="font-size: 25px;">DR. UJWAL U J</div>
+                                    <div class="header-fullname" style="font-size: 25px;">Dr. UJWAL U J</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 
@@ -626,7 +626,7 @@
                         <div class="infos">
                             <div class="name">
                                 <strong>
-                                    <div class="header-fullname" style="font-size: 25px;">DR. SURESHA V</div>
+                                    <div class="header-fullname" style="font-size: 25px;">Dr. SURESHA V</div>
                                 </strong>
                                 <div class="col-md-12 col-sm-12 col-xs-12 stats-col">
 
@@ -919,7 +919,7 @@
             <div class="card7-right">
                 
             <h3 class="subheadWhite head" style="color:#3A3B3C;padding:0%;"> Founder President<span></span></h3>
-                <div class="card7-title fw-7" style="color:black;font-size:16px;text-align:center;">LATE DR. KURUNJI VENKATRAMANA GOWDA</div>
+                <div class="card7-title fw-7" style="color:black;font-size:16px;text-align:center;">LATE Dr. KURUNJI VENKATRAMANA GOWDA</div>
                 <div class="card7-text fw-5" style="color:#3A3B3C;">"It takes a lot of courage to release the familiar and seemingly secure, to embrace the new. But there is no real security in what is no longer meaningful. There is more security in the adventurous and exciting, for in movement there is life, and in change there is power."</div>
                 <!-- <div class="card7-right-body"> -->
                     
@@ -1130,7 +1130,7 @@
             </div>
             <div class="card8-right">
             <h3 class="subheadWhite head" style="color:#3A3B3C;padding:0%;"> General Secretary<span></span></h3>
-                <div class="card8-title fw-7" style="color:black;" id="bomb">DR. RENUKA PRASAD K V</div>
+                <div class="card8-title fw-7" style="color:black;" id="bomb">Dr. RENUKA PRASAD K V</div>
                 <div class="card8-text fw-5" style="color:#3A3B3C;">"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."</div>
                 <div class="card8-right-body">
                     <!-- <div class="card8-rb-1">
@@ -1338,7 +1338,7 @@
             </div>
             <div class="card9-right">
             <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;">Chief Executive Officer<span></span></h3>
-                <div class="card9-title fw-7" style="color:black;" id="bomb">DR. UJWAL U J</div>
+                <div class="card9-title fw-7" style="color:black;" id="bomb">Dr. UJWAL U J</div>
                 <div class="card9-text fw-5" style="color:#3A3B3C;">"KVG College of Engineering focuses on addressing the needs of students fromcurricular, co-curricular and extra-curricular point of view. It is the innateprinciple of our institution that every single student must realize her or his goalto be a robust and effective part of the world to solve real world problems and tobe an asset to the society"</div>
                 <div class="card9-right-body">
                     <!-- <div class="card9-rb-1">
@@ -1555,7 +1555,7 @@
             </div>
             <div class="card10-right">
             <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;"> Principal<span></span></h3>
-                <div class="card10-title fw-7" style="color:black" id="bomb">DR. SURESHA V</div>
+                <div class="card10-title fw-7" style="color:black" id="bomb">Dr. SURESHA V</div>
                 <div class="card10-text fw-5" style="color:#3A3B3C;">" Do not go where the path may lead, go instead where there is no path and leave trail."  The traditional industrial economy which has served so well for decades is now being replaced by a new knowledge based economy Growth and job creation is in the knowledge intensive sectors. India is in the process of becoming an economic super power and there is a growing demand for engineering and management graduates.</div>
                 <!-- <div class="card10-right-body"> -->
                     <!-- <div class="card10-rb-1">
