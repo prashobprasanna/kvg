@@ -1426,7 +1426,15 @@
         <style>
             @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
-
+            .slider25 {
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+.slider25::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
             .slider25 {
                 max-width: 1100px;
                 display: flex;
