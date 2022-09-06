@@ -320,9 +320,9 @@
             .counterstatkvg {
                 text-align: center;
                 padding: 0%;
-                background-color: #f9b000;
+                background-color: #07294c;
                 width: 70%;
-                border: 5px solid blanchedalmond;
+                border: 5px solid #07294c;
                 border-radius: 18px;
             }
 
@@ -330,7 +330,7 @@
                 font-size: 28px;
                 font-weight: bold;
                 position: relative;
-                color: #000000;
+                color: #ff8d35;
                 text-align: center;
                 /* display: inline-block; */
                 padding: 0;
@@ -1013,9 +1013,9 @@
                                     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
                                     <link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
                                     <div id="myCarousel2" class="carousel slide" data-ride="carousel"> -->
-                                        <!-- Wrapper for slides -->
+        <!-- Wrapper for slides -->
 
-                                        <!-- <div class="  carousel-inner banner" role="listbox">
+        <!-- <div class="  carousel-inner banner" role="listbox">
                                             <div class="item active">
                                                 <p>
                                                     I like the friendly atmosphere here and the fact the teachers are really close to the students.
@@ -1056,8 +1056,8 @@
 
                                         </div>
                                         <br /> -->
-                                        <!-- Indicators -->
-                                        <!-- <ol class="carousel-indicators" style=" position: relative;">
+        <!-- Indicators -->
+        <!-- <ol class="carousel-indicators" style=" position: relative;">
                                             <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
                                             <li data-target="#myCarousel2" data-slide-to="1"></li>
                                             <li data-target="#myCarousel2" data-slide-to="2"></li>
@@ -1423,129 +1423,144 @@
 
         <!-- achievers start  -->
 
-        <style>@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
 
-.slider25{
-  max-width: 1100px;
-  display: flex;
-}
-.slider25 .card25{
-  flex: 1;
-  margin: 0 10px;
-  background: #fff;
-}
-.slider25 .card25 .img{
-  height: 200px;
-  width: 100%;
-}
-.slider25 .card25 .img img{
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-}
-.slider25 .card25 .content25{
-  padding: 10px 20px;
-}
-.card25 .content25 .title25{
-  font-size: 25px;
-  font-weight: 600;
-}
-.card25 .content25 .sub-title25{
-  font-size: 20px;
-  font-weight: 600;
-  color: #e74c3c;
-  line-height: 20px;
-}
-.card25 .content25 p{
-  text-align: justify;
-  margin: 10px 0;
-}
-.card25 .content25 .btn25{
-  display: block;
-  text-align: left;
-  margin: 10px 0;
-}
-.card25 .content25 .btn25 button{
-  background: #e74c3c;
-  color: #fff;
-  border: none;
-  outline: none;
-  font-size: 17px;
-  padding: 5px 8px;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.2s;
-}
-.card25 .content25 .btn25 button:hover{
-  transform: scale(0.9);
-}
-</style>
-  
-    <!-- <link rel="stylesheet" href="style.css"> -->
-    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
- 
-    <center>  
-    <div class="slider25 owl-carousel">
-      <div class="card25">
-        <div class="img">
-<img src="admin-kvgce/images/banner/14.svg" alt=""></div>
-<div class="content25">
-          <div class="title25">
-Briana Tozour</div>
-<div class="sub-title25">
-Graphic Designer</div>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
-<div class="btn25">
-            <button>Read more</button>
-          </div>
-</div>
-</div>
-<div class="card25">
-        <div class="img">
-<img src="admin-kvgce/images/banner/11.jpg" alt=""></div>
-<div class="content25">
-          <div class="title25">
-Pricilla Preez</div>
-<div class="sub-title25">
-Web Developer</div>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
-<div class="btn25">
-            <button>Read more</button>
-          </div>
-</div>
-</div>
-<div class="card25">
-        <div class="img">
-<img src="admin-kvgce/images/banner/2.jpg" alt=""></div>
-<div class="content25">
-          <div class="title25">
-Eliana Maia</div>
-<div class="sub-title25">
-App Developer</div>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
-<div class="btn25">
-            <button>Read more</button>
-          </div>
-</div>
-</div>
-</div></center>
-<script>
-      $(".slider25").owlCarousel({
-        loop: true,
-        autoplay: true,
-        autoplayTimeout: 2000, //2000ms = 2s;
-        autoplayHoverPause: true,
-      });
-    </script>
+            .slider25 {
+                max-width: 1100px;
+                display: flex;
+            }
+
+            .slider25 .card25 {
+                flex: 1;
+                margin: 0 10px;
+                background: #fff;
+            }
+
+            .slider25 .card25 .img {
+                height: 200px;
+                width: 100%;
+            }
+
+            .slider25 .card25 .img img {
+                height: 100%;
+                width: 100%;
+                object-fit: cover;
+            }
+
+            .slider25 .card25 .content25 {
+                padding: 10px 20px;
+            }
+
+            .card25 .content25 .title25 {
+                font-size: 25px;
+                font-weight: 600;
+            }
+
+            .card25 .content25 .sub-title25 {
+                font-size: 20px;
+                font-weight: 600;
+                color: #e74c3c;
+                line-height: 20px;
+            }
+
+            .card25 .content25 p {
+                text-align: justify;
+                margin: 10px 0;
+            }
+
+            .card25 .content25 .btn25 {
+                display: block;
+                text-align: left;
+                margin: 10px 0;
+            }
+
+            .card25 .content25 .btn25 button {
+                background: #e74c3c;
+                color: #fff;
+                border: none;
+                outline: none;
+                font-size: 17px;
+                padding: 5px 8px;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: 0.2s;
+            }
+
+            .card25 .content25 .btn25 button:hover {
+                transform: scale(0.9);
+            }
+        </style>
+
+        <!-- <link rel="stylesheet" href="style.css"> -->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+
+        <center>
+            <div class="slider25 owl-carousel">
+                <div class="card25">
+                    <div class="img">
+                        <img src="admin-kvgce/images/banner/14.svg" alt="">
+                    </div>
+                    <div class="content25">
+                        <div class="title25">
+                            Briana Tozour</div>
+                        <div class="sub-title25">
+                            Graphic Designer</div>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card25">
+                    <div class="img">
+                        <img src="admin-kvgce/images/banner/11.jpg" alt="">
+                    </div>
+                    <div class="content25">
+                        <div class="title25">
+                            Pricilla Preez</div>
+                        <div class="sub-title25">
+                            Web Developer</div>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card25">
+                    <div class="img">
+                        <img src="admin-kvgce/images/banner/2.jpg" alt="">
+                    </div>
+                    <div class="content25">
+                        <div class="title25">
+                            Eliana Maia</div>
+                        <div class="sub-title25">
+                            App Developer</div>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </center>
+        <script>
+            $(".slider25").owlCarousel({
+                loop: true,
+                autoplay: true,
+                autoplayTimeout: 2000, //2000ms = 2s;
+                autoplayHoverPause: true,
+            });
+        </script>
 
         <!-- achievers end -->
-<br><br><br><br>
+        <br><br><br><br>
         <!-- slide gallery -->
         <style>
             @charset "utf-8";
@@ -1590,17 +1605,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis
             }
         </style>
 
-        
 
 
 
-            <!-- <meta name="viewport" content="width=device-width,initial-scale=1.0"> -->
 
-            <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/reset.css"> -->
-            <link rel="stylesheet" type="text/css" href="css/slick.css">
-            <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/css/6-1-8.css"> -->
+        <!-- <meta name="viewport" content="width=device-width,initial-scale=1.0"> -->
 
-       
+        <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/reset.css"> -->
+        <link rel="stylesheet" type="text/css" href="css/slick.css">
+        <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/css/6-1-8.css"> -->
+
+
 
 
 
