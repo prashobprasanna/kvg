@@ -320,9 +320,9 @@
             .counterstatkvg {
                 text-align: center;
                 padding: 0%;
-                background-color: #f9b000;
+                background-color: #07294c;
                 width: 70%;
-                border: 5px solid blanchedalmond;
+                border: 5px solid #174e8c;
                 border-radius: 18px;
             }
 
@@ -330,7 +330,7 @@
                 font-size: 28px;
                 font-weight: bold;
                 position: relative;
-                color: #000000;
+                color: #ff8d35;
                 text-align: center;
                 /* display: inline-block; */
                 padding: 0;
@@ -385,7 +385,7 @@
                 }, {
 
                     //chnage count up speed here
-                    duration: 4000,
+                    duration: 6000,
                     easing: 'swing',
                     step: function(now) {
                         $(this).text(Math.ceil(now) + "+");
