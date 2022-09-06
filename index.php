@@ -139,9 +139,9 @@
 
 
 
-            <marquee class="li sub-head" direction="left" scrolldelay="160">
+            <!-- <marquee class="li sub-head" direction="left" scrolldelay="160">
                 <h4>★ <a href="~/Images/PDF/admission poly.pdf"><b> Admission </b> </a>★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ <a href="~/Images/PDF/Admission Notification.pdf"><b> Admission Notification </b> </a>★ <a href="~/Images/PDF/Covid.pdf">★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> COVID-19 Guidelines </b> </a> ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ <a href="~/Images/PDF/notification_kan (1).pdf"><b> Diploma cet 2020 notification </b> </a> ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b class="hidden">★ Practical Exams Starts From 30th October 2019 For Regular And Supplimentory Students in KVGP ★</b> </h4>
-            </marquee>
+            </marquee> -->
 
 
 
@@ -350,9 +350,9 @@
             }
         </style>
 
-
         <div class="counterstatkvg">
             <div class="container">
+                <!-- <img src="images/trophy.svg" alt="trophy" style="width:14%;"> -->
                 <div class="row counter-box">
                     <div class="col-12 col-lg-3">
                         <div class="count-up">
