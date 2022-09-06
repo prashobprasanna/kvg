@@ -566,8 +566,7 @@
         }
     </style>
     <strong>
-        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            Courses Offered</div>
+        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Courses Offered<span></span></h2>
     </strong>
 
     <div class="content-wrapper" style="z-index: 99999999999999999999;">
@@ -641,12 +640,12 @@
 
     <style class="u-style">
         .u-section-2 .u-sheet-1 {
-            min-height: 500px
+            min-height: 374px
         }
 
         .u-section-2 .u-slider-1 {
             width: 1140px;
-            margin-top: 63px;
+            margin-top: 0;
             margin-bottom: 60px;
             min-height: 375px
         }
@@ -896,8 +895,7 @@
 
         <section class="u-clearfix u-section-2" id="sec-96fa">
             <strong><br>
-                <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                    News & Events</div>
+                <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">News & Events<span></span></h2>
             </strong>
             <div class="u-clearfix u-sheet u-sheet-1">
                 <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
@@ -1419,7 +1417,9 @@
 
         <!-- few word1 end -->
 
-        <br><br>
+        <strong>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Achievers<span></span></h2>
+        </strong>
 
         <!-- achievers start  -->
 
@@ -1427,14 +1427,19 @@
             @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
             .slider25 {
-    overflow-y: scroll;
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none;  /* Internet Explorer 10+ */
-}
-.slider25::-webkit-scrollbar { /* WebKit */
-    width: 0;
-    height: 0;
-}
+                overflow-y: scroll;
+                scrollbar-width: none;
+                /* Firefox */
+                -ms-overflow-style: none;
+                /* Internet Explorer 10+ */
+            }
+
+            .slider25::-webkit-scrollbar {
+                /* WebKit */
+                width: 0;
+                height: 0;
+            }
+
             .slider25 {
                 max-width: 1100px;
                 display: flex;
@@ -1569,12 +1574,12 @@
 
         <!-- achievers end -->
         <br><br><br><br>
-      
 
-    <!-- logo slider begin -->
-<hr>
 
-    <style>
+        <!-- logo slider begin -->
+        <hr>
+
+        <style>
             /*Logo carousel*/
 
             #clients {
@@ -1588,6 +1593,7 @@
                 width: 100%;
                 margin: 0 auto;
                 overflow: hidden;
+                background-color: #f7f7f7;
             }
 
             #clients .clients-wrap ul {
@@ -1629,8 +1635,7 @@
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                Our Recruiters</div>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Our Recruiters<span></span></h2>
         </strong>
         <div id="clients">
             <div class="clients-wrap">
@@ -1738,9 +1743,9 @@
 
         <!-- logo slider end -->
 
-<hr>
+        <hr>
 
-<br><br><br>
+        <br><br><br>
 
 
         <script>
@@ -1797,8 +1802,7 @@
             <div class="container">
                 <div class="row">
                     <strong>
-                        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                            Testimonials</div>
+                        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Testimonials<span></span></h2>
                     </strong>
 
                     <div class="col-md-12 col-lg-4">
@@ -1836,11 +1840,11 @@
             </div>
         </section>
         <br>
-    
 
 
-  <!-- slide gallery -->
-  <style>
+
+        <!-- slide gallery -->
+        <style>
             @charset "utf-8";
 
 
@@ -1898,8 +1902,7 @@
 
 
         <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                Gallery</div>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Gallery<span></span></h2>
         </strong>
 
         <ul class="sliderfk">
