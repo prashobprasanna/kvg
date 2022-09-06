@@ -385,7 +385,7 @@
                 }, {
 
                     //chnage count up speed here
-                    duration: 4000,
+                    duration: 6000,
                     easing: 'swing',
                     step: function(now) {
                         $(this).text(Math.ceil(now) + "+");
