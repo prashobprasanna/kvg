@@ -5,6 +5,7 @@
 
 
 <body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Google Tag Manager (noscript)Digitall Marketig college may 6th 2020 -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
@@ -45,23 +46,14 @@
 
             <div class="carousel-inner">
 
-                <div class="item active slide3"><img data-src="admin-kvgce\images\banner\college.jpg" src="admin-kvgce/images/banner/colege.jpg" alt="college pic">
+                <div class="item active slide3"><img data-src="admin-kvgce\images\banner\college.svg" src="admin-kvgce/images/banner/college.svg" alt="college pic">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
 
 
 
-                <div class="item  slide2"><img data-src="admin-kvgce\images\banner\11.jpg" src="admin-kvgce/images/banner/11.jpg">
-                    <!-- <div class="carousel-caption carousel-caption-1">
-                    </div> -->
-                </div>
-
-
-
-
-
-                <div class="item slide1"> <img data-src="admin-kvgce/images/banner/2.jpg" src="admin-kvgce/images/banner/2.jpg">
+                <div class="item  slide2"><img data-src="admin-kvgce\images\banner\14.svg" src="admin-kvgce/images/banner/14.svg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
@@ -69,7 +61,16 @@
 
 
 
-                <div class="item   slide4"> <img data-src="admin-kvgce/images/banner/3.jpg" src="admin-kvgce/images/banner/3.jpg">
+
+                <div class="item slide1"> <img data-src="admin-kvgce/images/banner/wi.svg" src="admin-kvgce/images/banner/wi.svg">
+                    <!-- <div class="carousel-caption carousel-caption-1">
+                    </div> -->
+                </div>
+
+
+
+
+                <div class="item   slide4"> <img data-src="admin-kvgce/images/banner/cap.svg" src="admin-kvgce/images/banner/cap.svg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
@@ -95,6 +96,56 @@
 
 
             </div>
+            <section id="news-marque" style="display:none">
+
+<div class="clearfix"></div>
+
+<div class="bg-info">
+    <div class="container">
+        <div id="carousel-example-vertical" class="carousel vertical slide">
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <p class="ticker-headline">
+                        <a href="#">
+                            <strong>News 1</strong> Practical Exams Starts From 30th October 2019 For Regular And Supplimentory Students
+                        </a>
+                    </p>
+                </div>
+                <div class="item">
+                    <p class="ticker-headline">
+                        <a href="#">
+                            <strong>News 2</strong> 
+                        </a>
+                    </p>
+                </div>
+                
+            </div>
+
+            <!-- Controls -->
+            <a class="up carousel-control" href="#carousel-example-vertical" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="down carousel-control" href="#carousel-example-vertical" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<div class="clearfix"></div>
+
+
+</section>
+
+
+
+<marquee class="li sub-head" direction="left" scrolldelay="160"><h4>★ <a href="~/Images/PDF/admission poly.pdf"><b> Admission </b> </a>★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ <a href="~/Images/PDF/Admission Notification.pdf"><b> Admission Notification </b> </a>★ <a href="~/Images/PDF/Covid.pdf">★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> COVID-19 Guidelines </b> </a> ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ★ <a href="~/Images/PDF/notification_kan (1).pdf"><b> Diploma cet 2020 notification </b> </a> ★  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b class="hidden">★ Practical Exams Starts From 30th October 2019 For Regular And Supplimentory Students in KVGP ★</b> </h4></marquee>
+
+
+
 
 
             <style>
@@ -250,235 +301,15 @@
 
 
         </div>
-        <!-- <a id="menu-toggle" href="#popup1" class="hidde-xs">
-            <div class="parent" >
-                <span onclick="fireCredit()"><i class="fa fa-bell"></i></span>
-            </div>
-        </a> -->
-
+     
 
     </section>
 
-    <!--Copy this into your website or website generator, in the HTML section.-->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
-    <style>
-        .news-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-content: space-between;
-        }
 
-        .article-container {
-            text-decoration: none;
-            color: black;
-            display: flex;
-            flex-direction: column;
-            width: 28vw;
-            /* Increase this value if you want more articles per row, decrease if you want less*/
-            min-width: 150px;
-            max-width: 700px;
-            box-shadow: 2px 2px 25px 2px rgba(0, 0, 0, 0.9);
-            margin: 20px;
-            transition: 0.3s;
-            font-size: 14px;
-            font-family: 'Lora', serif;
-        }
-
-        @media only screen and (max-width: 850px) {
-            .article-container {
-                width: 90vw;
-            }
-        }
-
-        .article-container:hover {
-            transform: scale(1.02);
-            box-shadow: 2px 2px 25px 2px rgba(139, 139, 139, 0.89);
-
-        }
-
-        .article-image {
-            width: 100%;
-            max-height: 100%;
-        }
-
-        .article-title {
-            padding: 10px;
-        }
-
-        @media (max-width:767px) {
-            #nw {
-                font-size: 30px;
-            }
-        }
-    </style> -->
-
-
-
-
-    <!-- dept sec  -->
     <br>
 
 
-    <!-- <div class="name">
-        <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                News & Events</div>
-        </strong>
-
-    </div>
-    <div class="tab-content margin-tops">
-
-        <div class="tab-pane fade team active in" id="abouts">
-
-            <div class="col-md-12">
-
-
-                <section>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingSix">
-                                            <h4 class="panel-title" id="nw" style="text-align: justify;"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">TISHAN A M. participated in Agniveer 3Km road race(madikeri) </a> </h4>
-                                        </div>
-                                        <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
-                                            <div class="panel-body">
-                                                <p style="text-align: justify;">
-                                                    Our proud First year CS student TISHAN A M. participated in Agniveer 3Km road race(madikeri)on
-                                                    7-08-2022. won the ( 2nd place) silver medal. Out of 106 participants
-                                                </p>
-                                                <img src='images/newsandevents/tishan.jpeg' style="width: 50%;height: 50%;">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingTwo">
-                                            <h4 class="panel-title" id="nw" style="text-align: justify;"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Farewell 2022 was organized on 21st July 2022 </a> </h4>
-                                        </div>
-                                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                            <div class="panel-body">
-                                                <p style="text-align: justify;">
-                                                    "Great is the art of beginning,but
-                                                    greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
-                                                    of 2022 batch was conducted in the college auditorium on 21st July 2022.The function was presided by
-                                                    general secretary of A O L E(R) Dr Renukaprasad K V and Mr
-                                                    .Sadashiva M B ,former district governor ,Lions international was
-                                                    the chief guest of the function,along with the C E O of K V G C E Dr
-                                                    Ujwal U J, Principal Dr Suresha V & Vice-prinipal Dr shreedhar K
-                                                    shared the dais
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingFive">
-                                            <h4 class="panel-title" id="nw" style="text-align: justify;"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">" Project expo 2022 was conducted in
-                                                    the college on 15th July 2022</a> </h4>
-                                        </div>
-                                        <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-                                            <div class="panel-body">
-                                                <p style="text-align: justify;">
-                                                    Here K V G C E is providing platform for students to showcase their
-                                                    talent Presenting "EXPO-2K22" The student project exhibition.
-                                                    The program was presided by CEO of KVGCE Dr Ujwal U J & the program
-                                                    was initiated by Dr Yashodha Ramachandra,Principal KVG AJPUC Sullia,
-                                                    with lighting the lamp.
-                                                </p>
-                                                <img src="images/newsandevents/expo1.jpeg" width="30%">
-                                                <img src="images/newsandevents/expo2.jpeg" width="30%">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingOne" style="max-height: 0.1%;">
-                                            <h4 class="panel-title" id="nw"> <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne"> Annual day celebration @ KVGCE
-                                                    "ADVITI-2022" </a> </h4>
-                                        </div>
-                                        <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-                                            <div class="panel-body">
-                                                <p style="text-align: justify;">"KVGCE celebrated its annual day program
-                                                    in KVG Commuity hall,Amarashreebag Sullia.The function was presided
-                                                    by general secretary of A O L E(R) Dr Renukaprasad K V and Mr
-                                                    .Bhojaraja vamanjoor,actor Thulu and Kannada industry was the chief
-                                                    guest of the function. </p>
-                                                <p> As a guest of honour general council members of KVGCE Sullia
-                                                    Mr Nithyananda Mundodi,Mr Somashekhar Koingaje & Mr Snathosh Jaake
-                                                    shared the dais.</p>
-                                                <p> Along with the C E O of K V G C E Dr Ujwal U J, Principal Dr Suresha
-                                                    V , Vice-prinipal Dr shreedhar K ,VTU Special officer Dr Shivakumar
-                                                    H R & Dean academic Dr Umashankar K S also shared the dais" </p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingThree">
-                                            <h4 class="panel-title" id="nw" style="text-align: justify;"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> The NSS unit celebrated World
-                                                    environmental day in college on 16-06-2022, </a> </h4>
-                                        </div>
-                                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-
-                                        </div>
-                                    </div>
-
-
-
-
-                                </div>
-                            </div> -->
-    <!--- END COL -->
-    <!-- </div> -->
-    <!--- END ROW -->
-    <!-- </div>
-                </section> -->
-
-
-    <!-- </div> -->
-
-
-    <!-- <style>
-                .responstable {
-                    border-radius: 18px;
-                }
-            </style>
-
-
-        </div> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <!-- </div> -->
-
-
-
-
-
-
-
-
-
-
-    <!--  puthiyath-->
+       <!--  puthiyath-->
 
     <style>
         * {
@@ -494,7 +325,7 @@
 
         .content-wrapper {
             margin: 0 auto;
-            max-width: 1200px;
+            max-width: 900px;
             display: flex;
             flex-flow: row wrap;
             justify-content: center;
@@ -509,7 +340,7 @@
             overflow: hidden;
             border-radius: 0.5rem;
             flex: 1;
-            min-width: 290px;
+            min-width: 250px;
             box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
             -webkit-backface-visibility: hidden;
             -moz-backface-visibility: hidden;
@@ -529,8 +360,8 @@
             position: absolute;
             top: 0;
             left: 0;
-            width: 100%;
-            height: 100%;
+            width: 90%;
+            height: 90%;
             background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.7) 80%);
             ;
             z-index: 0;
@@ -540,15 +371,15 @@
             position: absolute;
             top: 0;
             left: 0;
-            width: 100%;
-            height: 100%;
+            width: 80%;
+            height: 80%;
             z-index: 1;
             /*     background: rgba(255,0,0,.5); */
         }
 
         .news-card__image {
-            width: 100%;
-            height: 100%;
+            width: 90%;
+            height: 90%;
             display: block;
             object-fit: cover;
             transition: transform 3s ease;
@@ -1067,432 +898,148 @@
         <!-- end news -->
 
         <!-- fews word  -->
-        <section class="home-facts-bg">
-            <div class="container">
-                <div class="col-md-12">
-                    <h2 class="subheadWhite head" style="color:black">KVG College of Engineering<span></span></h2>
-                    <style>
-                        .data_more_less_inner {
-                            overflow: hidden;
-                            margin-bottom: 20px;
-                            position: relative;
-                        }
 
-                        .action_less {
-                            display: none;
-                        }
-
-                        .less_active .action_less {
-                            display: inline-block;
-                        }
-
-                        .less_active .action_more {
-                            display: none;
-                        }
-
-                        .data_more_less:not(.less_active):not(.action_disabled) .data_more_less_inner:after {
-                            content: '';
-                            display: block;
-                            position: absolute;
-                            bottom: 0;
-                            left: 0;
-                            width: 100%;
-                            background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                            background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-                            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff',
-                                    GradientType=0);
-                            height: 80px;
-                        }
-
-                        .data_more_less.action_disabled .more_less_action {
-                            display: none;
-                        }
-
-                        h1 {
-                            margin-bottom: 0px;
-                        }
-
-                        .btn {
-                            color: rgb(0, 0, 0);
-                            text-decoration: none;
-                            border: 1px solid rgb(0, 0, 0);
-                            border-radius: 18px;
-                            padding: 7px 15px;
-                        }
-
-                        .btn:hover {
-                            background: rgb(92, 92, 92);
-                            color: rgb(255, 255, 255);
-                        }
-
-
-
-
-                        /* stat */
-
-
-
-                        @import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;300;700&display=swap');
-
-                        ul {
-                            list-style: none;
-                        }
-
-                        body {
-                            min-height: 100vh;
-                            background-color: #f7f8fc;
-                        }
-
-                        .section {
-                            min-height: 50vh;
-                            margin: 0 30px;
-                        }
-
-                        .container1 {
-                            padding-left: 25px;
-                            padding-right: 25px;
-                            display: flex;
-                            align-items: center;
-                            justify-content: center;
-                            height: fit-content;
-                            font-family: 'Anek Bangla', sans-serif;
-                            font-weight: bold;
-                        }
-
-                        .card {
-                            /* background-color: rgb(255, 187, 30); */
-                            background-image: linear-gradient(to right bottom, rgb(0, 10, 114), #4c449d);
-                            padding: 3rem 3.5rem;
-                            border-radius: 15px;
-                            display: flex;
-                            flex-wrap: wrap;
-                            position: relative;
-                            max-width: 500px;
-                            border: 3px solid black;
-                            border-radius: 8px;
-                            /* z-index: 0; */
-                        }
-
-                        .card::before {
-                            content: '';
-                            position: absolute;
-                            top: -15px;
-                            left: 1px;
-                            width: 101%;
-                            height: 110%;
-                            background-image: linear-gradient(to right bottom, #4c449d, rgb(0, 10, 114));
-                            z-index: -1;
-                            border-radius: 15px;
-                            transform: rotate(-8deg);
-                            box-shadow: 0 0 45px 5px rgba(0, 0, 0, .2);
-                            border: 3px solid black;
-                            border-radius: 8px;
-                        }
-
-                        .card li {
-                            width: 50%;
-                            margin: 15px 0;
-                        }
-
-                        .card li p {
-                            display: flex;
-                        }
-
-                        .card li h3 {
-                            display: inline-block;
-                            font-size: 2rem;
-                            color: rgb(255, 255, 255);
-                            vertical-align: top;
-                            margin-right: 5px;
-                            line-height: 1.2;
-                        }
-
-                        .card li .fa {
-                            font-size: 18px;
-                        }
-
-                        .card li span {
-                            color: #ffffff;
-                            font-weight: bold;
-                            font-size: 14px;
-                        }
-
-
-                        .clr-up {
-                            color: green;
-                        }
-
-                        .clr-down {
-                            color: red;
-                        }
-
-                        @media screen and (max-width: 500px) {
-                            .card::before {
-                                top: -10px;
-                                left: -2px;
-                            }
-
-                            .card li {
-                                width: 100%;
-                            }
-
-                            .card li:not(:first-of-type) {
-                                margin-top: 15px;
-                            }
-                        }
-
-
-
-
-                        /* HOD Card */
-
-                        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;700&display=swap');
-
-                        * {
-                            margin: 0;
-                            padding: 0;
-                            box-sizing: border-box;
-                        }
-
-                        body {
-                            font-family: 'Poppins', sans-serif;
-                            align-items: center;
-                            justify-content: center;
-                            background-color: #ADE5F9;
-                            min-height: 100vh;
-                        }
-
-                        img {
-                            max-width: 100%;
-                            display: block;
-                        }
-
-                        ul {
-                            list-style: none;
-                        }
-
-                        /* Utilities */
-                        .card1::after,
-                        .card1 img {
-                            border-radius: 2%;
-                        }
-
-                        .card1,
-                        .stats1 {
-                            display: flex;
-                        }
-
-                        .card1 {
-                            padding: 2.5rem 2rem;
-                            border-radius: 10px;
-                            background-image: linear-gradient(to right bottom, rgb(255 255 255), #ffffff);
-                            max-width: 90%;
-                            box-shadow: 0 0 30px rgba(0, 0, 0, .15);
-                            margin: 1rem;
-                            position: relative;
-                            transform-style: preserve-3d;
-                            overflow: hidden;
-                            justify-content: center;
-                        }
-
-                        .card1::before,
-                        .card1::after {
-                            content: '';
-                            position: absolute;
-                            z-index: -1;
-                        }
-
-                        .card1::before {
-                            width: 100%;
-                            height: 100%;
-                            border: 1px solid #FFF;
-                            border-radius: 10px;
-                            top: -.7rem;
-                            left: -.7rem;
-                        }
-
-                        .card1::after {
-                            height: 15rem;
-                            width: 15rem;
-                            background-color: #4172f5aa;
-                            top: -8rem;
-                            right: -8rem;
-                            box-shadow: 2rem 6rem 0 -3rem #c3daff;
-                            border-radius: 50%;
-                        }
-
-                        .card1 img {
-                            float: left;
-                            width: 100%;
-                            min-width: 80px;
-                            box-shadow: 0 0 0 5px #FFF;
-                        }
-
-                        .infos {
-                            margin-left: 1.5rem;
-                        }
-
-                        .name {
-                            margin-bottom: 1rem;
-                        }
-
-                        .name h2 {
-                            font-size: 1.3rem;
-                        }
-
-                        .name h4 {
-                            font-size: .8rem;
-                            color: #333
-                        }
-
-                        .text {
-                            font-size: .9rem;
-                            margin-bottom: 1rem;
-                        }
-
-                        .stats1 {
-                            margin-bottom: 1rem;
-                        }
-
-                        .stats1 li {
-                            min-width: 5rem;
-                        }
-
-                        .stats1 li h3 {
-                            font-size: .99rem;
-                        }
-
-                        .stats1 li h4 {
-                            font-size: .75rem;
-                        }
-
-                        .links1 button {
-                            font-family: 'Poppins', sans-serif;
-                            min-width: 120px;
-                            padding: .5rem;
-                            border: 1px solid #222;
-                            border-radius: 5px;
-                            font-weight: bold;
-                            cursor: pointer;
-                            transition: all .25s linear;
-                        }
-
-                        .links1 .follow,
-                        .links1 .view:hover {
-                            background-color: #222;
-                            color: #FFF;
-                        }
-
-                        .links1 .view,
-                        .links1 .follow:hover {
-                            background-color: transparent;
-                            color: #222;
-                        }
-
-                        @media screen and (max-width: 450px) {
-                            .card1 {
-                                display: block;
-                            }
-
-                            .infos {
-                                margin-left: 0;
-                                margin-top: 1.5rem;
-                            }
-
-                            .links1 button {
-                                min-width: 100px;
-                            }
-                        }
-                    </style>
-                    <style>
-                        /* #myBtn1 {display: none;} */
-                        #myBtn1 {
-                            display: none;
-                        }
-
-                        @media (max-width:767px) {
-
-                            /* #nobq{display: none;} */
-                            #more1 {
-                                display: none;
-                            }
-
-                            #myBtn1 {
-                                display: inline;
-                            }
-                        }
-                    </style>
-                    <center>
-                        <div class="card1">
-                            <div class="img">
-                                <img src="images/kvgce-logo.svg" style="margin-bottom: 50px">
-                            </div>
-                            <div class="infos">
-                                <div class="name">
-
-                                    <style>
-                                        @media screen and (min-width:767px) {
-                                            .header-fullname {
-                                                font-size: 18px;
-                                            }
-                                        }
-                                    </style>
-                                    <strong>
-                                        <div class="header-fullname">A Few Words
-                                            About the KVG college of engineering sullia</div>
-                                    </strong>
+<section id="contact">
+
+  <div class="container">
+    <div class="row">
+        <div class="col-sm-7">
+            <div style="background: #0589d4; border-radius: 12px; background: url(images/gallery/two.jpg); background-size:cover; box-shadow: 0px 0px 10px #cacaca;">
+
+                <div class="testi" style="background: #ffffffad; min-height: 368px; ">
+                    <div class="col-sm-2 hidetest">
+                        <br />
+                        <i class="fa fa-quote-left" style="font-size:80px; color: black"></i>
+                    </div>
+
+                    <div class="col-sm-9">
+                        <img src="~/Images/Index/Testinomials.png" alt="Alternate Text" class="img-responsive pull-right hidetest hidden" style="display:inline;margin: -7px;" />
+                        <br /><br />
+                        <h3 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h3><br /><br /><br />
+
+                        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+                        <link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
+                        <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+                            <!-- Wrapper for slides -->
+
+                            <div class="  carousel-inner banner" role="listbox">
+                                <div class="item active">
+                                    <p>
+                                        I like the friendly atmosphere here and the fact the teachers are really close to the students.
+                                        We are very supported in our studies. Some of the teachers are really kind and their way of teaching is
+                                        really interesting. They are also very motivational.
+                                    </p>
+                                    <p class="pull-right" style="font-size:16.34px;color:white;">
+                                        Dileep <br />
+                                        @*2nd PU, Commerce*@
+                                    </p>
+
+                                </div>
+                                <div class="item">
+                                    <p>
+                                        My experience at KVG Polytechnic College has been unforgettable from the start!It’s a friendly atmosphere on
+                                        campus and everyone has welcomed me with open arms. I’ve felt at home at KVG College from the
+                                        start and I’m happy I made the decision to come.
+                                    </p>
+                                    <p class="pull-right" style="font-size:16.34px;color:white;">
+                                        Chaithra <br />
+                                        @*2nd PU, Science*@
+                                    </p>
 
                                 </div>
 
-                                <ul class="stats1">
-                                    <li>
-                                        <blockquote id="nobq">
-                                            <p style="text-align: left;"><span id="dots1"></span><span id="more1">"KVG
-                                                    College of Engineering is one of the most reputed engineering colleges
-                                                    in Karnataka, India. The engineering college, started in 1986, was one
-                                                    of the first private sector initiatives in technical education in
-                                                    Dakshina Kannada District.
-                                                    Popularly known as KVGCE, it is located in Kurunjibhag, Sullia, Dakshina
-                                                    Kannada. K.V.G. College of Engineering sponsored by Academy of Liberal
-                                                    Education (R) Sullia D.K. and is one of the largest mega educational
-                                                    complexes in India."</span>
-                                            </p>
-                                            <button onclick="myreadmoreFunction()" id="myBtn1">Read more...</button>
-                                        </blockquote>
-                                    </li>
-                                </ul>
+                                <div class="item">
+                                    <p>
+                                        KVG College gives equal chance to toppers and also weak students, they provide special foundation classes
+                                        and pay importance on weak students to improve in studies. I am very proud to be a KVG student.
+                                        To get the greatest mileage on your dreams, join KVGP.
+                                    </p>
+                                    <p class="pull-right" style="font-size:16.34px;color:white;">
+                                        Shobha <br />
+                                        @*2nd PU, Commerce*@
+                                    </p>
+
+                                </div>
+
                             </div>
+                            <br />
+                            <!-- Indicators -->
+                            <ol class="carousel-indicators" style=" position: relative;">
+                                <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+                                <li data-target="#myCarousel2" data-slide-to="1"></li>
+                                <li data-target="#myCarousel2" data-slide-to="2"></li>
+                            </ol>
                         </div>
-                    </center>
+                        <br />
+                    </div>
+
+                    <div class="clearfix"></div>
                 </div>
-
-
-
-
-
-
-
-
             </div>
-            <script>
-                function myreadmoreFunction() {
-                    var dots = document.getElementById("dots1");
-                    var moreText = document.getElementById("more1");
-                    var btnText = document.getElementById("myBtn1");
+        </div>
 
-                    if (dots.style.display === "none") {
-                        dots.style.display = "inline";
-                        btnText.innerHTML = "Read more";
-                        moreText.style.display = "none";
-                    } else {
-                        dots.style.display = "none";
-                        btnText.innerHTML = "Read less";
-                        moreText.style.display = "inline";
-                    }
-                }
-            </script>
-        </section>
+        <div class="col-sm-5">
+            <div style="box-shadow: 1px 1px 15px #696868; min-height: 368px; background: linear-gradient(beige,bisque); ">
+                <h3 class="sub-head" style="background: #fff; text-align: right; padding: 10px; font-size: 25px !important; color: #95011a !important; margin: 0px !important; " class="sub-head">Achivers</h3>
+                <div class="marq-up">
+                    <br>
+                    <div class="pad-10">
+                        <div class="">
+
+                            <marquee id="test" behavior="scroll" direction="up" scrolldelay="10" scrollamount="2" onmouseover="this.stop();" onmouseleave="this.start();" style="height:210px!important">
+
+                                <a href="~/Images/PDF/Covid.pdf" target="_blank">
+                                    <img src="images/gallery/first.jpg" alt="Alternate Text" class="img-responsive" style="display:inline;margin: -7px;" />
+                                    <p class="white innerpage">
+                                        »    Admission
+                                    </p>
+                                </a>
+
+                                <a href="~/Images/PDF/Covid.pdf" target="_blank">
+                                    <p class="white innerpage">
+                                        »    COVID-19 Guidelines 
+                                    </p>
+                                </a>
+
+
+
+                                <a href="~/Images/PDF/notification_kan (1).pdf" target="_blank">
+                                    <p class="white innerpage">
+                                        » Diploma cet 2020 notification
+                                    </p>
+                                </a>
+                                 
+
+                            </marquee>
+
+                        </div>
+                        <br><br>
+
+
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
+
+<style>
+#test {
+    height: 250px !important;
+    padding: 20px;
+}
+
+.marq-up {
+    background: linear-gradient(beige,bisque);
+}
+
+.carousel-inner p{
+    font-weight: 600 !important;
+}
+</style>
 
 
 
@@ -2012,7 +1559,7 @@
                 </div>
             </div>
         </section>
-
+<br>
         <!-- logo slider begin -->
 
         <style>
