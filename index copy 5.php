@@ -416,11 +416,10 @@
 
         .content-wrapper {
             margin: 0 auto;
-            max-width: 900px;
+            max-width: 65%;
             display: flex;
             flex-flow: row wrap;
             justify-content: center;
-            padding: 0.8rem;
         }
 
         .news-card {
@@ -566,8 +565,7 @@
         }
     </style>
     <strong>
-        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            Courses Offered</div>
+        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Courses Offered<span></span></h2>
     </strong>
 
     <div class="content-wrapper" style="z-index: 99999999999999999999;">
@@ -635,8 +633,6 @@
 
     <!-- puthiyath close -->
 
-    <br><br>
-
     <!-- news -->
 
     <style class="u-style">
@@ -646,7 +642,7 @@
 
         .u-section-2 .u-slider-1 {
             width: 1140px;
-            margin-top: 63px;
+            margin-top: 0;
             margin-bottom: 60px;
             min-height: 375px
         }
@@ -896,8 +892,7 @@
 
         <section class="u-clearfix u-section-2" id="sec-96fa">
             <strong><br>
-                <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                    News & Events</div>
+                <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">News & Events<span></span></h2>
             </strong>
             <div class="u-clearfix u-sheet u-sheet-1">
                 <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
@@ -992,7 +987,7 @@
 
         <!-- fews word  -->
 
-        <!-- <section id="contact">
+        <section id="contact">
 
             <div class="container">
                 <div class="row">
@@ -1008,14 +1003,14 @@
                                 <div class="col-sm-9">
                                     <img src="~/Images/Index/Testinomials.png" alt="Alternate Text" class="img-responsive pull-right hidetest hidden" style="display:inline;margin: -7px;" />
                                     <br /><br />
-                                    <h3 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h3><br /><br /><br />
+                                    <h2 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h2><br /><br /><br />
 
                                     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
                                     <link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
-                                    <div id="myCarousel2" class="carousel slide" data-ride="carousel"> -->
-        <!-- Wrapper for slides -->
+                                    <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+                                        <!-- Wrapper for slides -->
 
-        <!-- <div class="  carousel-inner banner" role="listbox">
+                                        <div class="  carousel-inner banner" role="listbox">
                                             <div class="item active">
                                                 <p>
                                                     I like the friendly atmosphere here and the fact the teachers are really close to the students.
@@ -1055,9 +1050,9 @@
                                             </div>
 
                                         </div>
-                                        <br /> -->
-        <!-- Indicators -->
-        <!-- <ol class="carousel-indicators" style=" position: relative;">
+                                        <br />
+                                        <!-- Indicators -->
+                                        <ol class="carousel-indicators" style=" position: relative;">
                                             <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
                                             <li data-target="#myCarousel2" data-slide-to="1"></li>
                                             <li data-target="#myCarousel2" data-slide-to="2"></li>
@@ -1133,7 +1128,7 @@
                 font-weight: 600 !important;
             }
         </style>
- -->
+
 
 
 
@@ -1421,146 +1416,7 @@
 
         <br><br>
 
-        <!-- achievers start  -->
 
-        <style>
-            @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-
-
-            .slider25 {
-                max-width: 1100px;
-                display: flex;
-            }
-
-            .slider25 .card25 {
-                flex: 1;
-                margin: 0 10px;
-                background: #fff;
-            }
-
-            .slider25 .card25 .img {
-                height: 200px;
-                width: 100%;
-            }
-
-            .slider25 .card25 .img img {
-                height: 100%;
-                width: 100%;
-                object-fit: cover;
-            }
-
-            .slider25 .card25 .content25 {
-                padding: 10px 20px;
-            }
-
-            .card25 .content25 .title25 {
-                font-size: 25px;
-                font-weight: 600;
-            }
-
-            .card25 .content25 .sub-title25 {
-                font-size: 20px;
-                font-weight: 600;
-                color: #e74c3c;
-                line-height: 20px;
-            }
-
-            .card25 .content25 p {
-                text-align: justify;
-                margin: 10px 0;
-            }
-
-            .card25 .content25 .btn25 {
-                display: block;
-                text-align: left;
-                margin: 10px 0;
-            }
-
-            .card25 .content25 .btn25 button {
-                background: #e74c3c;
-                color: #fff;
-                border: none;
-                outline: none;
-                font-size: 17px;
-                padding: 5px 8px;
-                border-radius: 5px;
-                cursor: pointer;
-                transition: 0.2s;
-            }
-
-            .card25 .content25 .btn25 button:hover {
-                transform: scale(0.9);
-            }
-        </style>
-
-        <!-- <link rel="stylesheet" href="style.css"> -->
-        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
-
-        <center>
-            <div class="slider25 owl-carousel">
-                <div class="card25">
-                    <div class="img">
-                        <img src="admin-kvgce/images/banner/14.svg" alt="">
-                    </div>
-                    <div class="content25">
-                        <div class="title25">
-                            Briana Tozour</div>
-                        <div class="sub-title25">
-                            Graphic Designer</div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
-                        <div class="btn25">
-                            <button>Read more</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card25">
-                    <div class="img">
-                        <img src="admin-kvgce/images/banner/11.jpg" alt="">
-                    </div>
-                    <div class="content25">
-                        <div class="title25">
-                            Pricilla Preez</div>
-                        <div class="sub-title25">
-                            Web Developer</div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
-                        <div class="btn25">
-                            <button>Read more</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card25">
-                    <div class="img">
-                        <img src="admin-kvgce/images/banner/2.jpg" alt="">
-                    </div>
-                    <div class="content25">
-                        <div class="title25">
-                            Eliana Maia</div>
-                        <div class="sub-title25">
-                            App Developer</div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
-                        <div class="btn25">
-                            <button>Read more</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </center>
-        <script>
-            $(".slider25").owlCarousel({
-                loop: true,
-                autoplay: true,
-                autoplayTimeout: 2000, //2000ms = 2s;
-                autoplayHoverPause: true,
-            });
-        </script>
-
-        <!-- achievers end -->
-        <br><br><br><br>
         <!-- slide gallery -->
         <style>
             @charset "utf-8";
@@ -1605,23 +1461,26 @@
             }
         </style>
 
+        <!DOCTYPE html>
+        <html lang="ja">
+
+        <head>
+            <meta charset="utf-8">
 
 
 
+            <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-        <!-- <meta name="viewport" content="width=device-width,initial-scale=1.0"> -->
+            <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/reset.css"> -->
+            <link rel="stylesheet" type="text/css" href="css/slick.css">
+            <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/css/6-1-8.css"> -->
 
-        <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/reset.css"> -->
-        <link rel="stylesheet" type="text/css" href="css/slick.css">
-        <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/css/6-1-8.css"> -->
-
-
+        </head>
 
 
 
         <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                Gallery</div>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Gallery<span></span></h2>
         </strong>
 
         <ul class="sliderfk">
@@ -1749,8 +1608,7 @@
             <div class="container">
                 <div class="row">
                     <strong>
-                        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                            Testimonials</div>
+                        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Testimonials<span></span></h2>
                     </strong>
 
                     <div class="col-md-12 col-lg-4">
@@ -1804,6 +1662,7 @@
                 width: 100%;
                 margin: 0 auto;
                 overflow: hidden;
+                background-color: whitesmoke;
             }
 
             #clients .clients-wrap ul {
@@ -1845,8 +1704,7 @@
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                Our Recruiters</div>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Our Recruiters<span></span></h2>
         </strong>
         <div id="clients">
             <div class="clients-wrap">
