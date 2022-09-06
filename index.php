@@ -64,7 +64,7 @@
                     </div> -->
                 </div>
 
-  
+
 
 
                 <div class="item   slide4"> <img data-src="admin-kvgce/images/banner/cap.svg" src="admin-kvgce/images/banner/cap.svg">
@@ -322,7 +322,7 @@
                 padding: 0%;
                 background-color: #07294c;
                 width: 70%;
-                border: 5px solid #174e8c;
+                border: 5px solid #07294c;
                 border-radius: 18px;
             }
 
@@ -416,7 +416,7 @@
 
         .content-wrapper {
             margin: 0 auto;
-            max-width: 69%;
+            max-width: 65%;
             display: flex;
             flex-flow: row wrap;
             justify-content: center;
