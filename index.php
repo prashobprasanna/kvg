@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <body>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Google Tag Manager (noscript)Digitall Marketig college may 6th 2020 -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
@@ -94,51 +95,53 @@
             </div>
             <section id="news-marque" style="display:none">
 
-<div class="clearfix"></div>
+                <div class="clearfix"></div>
 
-<div class="bg-info">
-    <div class="container">
-        <div id="carousel-example-vertical" class="carousel vertical slide">
-            <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <p class="ticker-headline">
-                        <a href="#">
-                            <strong>News 1</strong> Practical Exams Starts From 30th October 2019 For Regular And Supplimentory Students
-                        </a>
-                    </p>
+                <div class="bg-info">
+                    <div class="container">
+                        <div id="carousel-example-vertical" class="carousel vertical slide">
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item active">
+                                    <p class="ticker-headline">
+                                        <a href="#">
+                                            <strong>News 1</strong> Practical Exams Starts From 30th October 2019 For Regular And Supplimentory Students
+                                        </a>
+                                    </p>
+                                </div>
+                                <div class="item">
+                                    <p class="ticker-headline">
+                                        <a href="#">
+                                            <strong>News 2</strong>
+                                        </a>
+                                    </p>
+                                </div>
+
+                            </div>
+
+                            <!-- Controls -->
+                            <a class="up carousel-control" href="#carousel-example-vertical" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="down carousel-control" href="#carousel-example-vertical" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+                    </div>
                 </div>
-                <div class="item">
-                    <p class="ticker-headline">
-                        <a href="#">
-                            <strong>News 2</strong> 
-                        </a>
-                    </p>
-                </div>
-                
-            </div>
-
-            <!-- Controls -->
-            <a class="up carousel-control" href="#carousel-example-vertical" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="down carousel-control" href="#carousel-example-vertical" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
-    </div>
-</div>
 
 
-<div class="clearfix"></div>
+                <div class="clearfix"></div>
 
 
-</section>
+            </section>
 
 
 
-<marquee class="li sub-head" direction="left" scrolldelay="160"><h4>★ <a href="~/Images/PDF/admission poly.pdf"><b> Admission </b> </a>★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ <a href="~/Images/PDF/Admission Notification.pdf"><b> Admission Notification </b> </a>★ <a href="~/Images/PDF/Covid.pdf">★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> COVID-19 Guidelines </b> </a> ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ★ <a href="~/Images/PDF/notification_kan (1).pdf"><b> Diploma cet 2020 notification </b> </a> ★  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b class="hidden">★ Practical Exams Starts From 30th October 2019 For Regular And Supplimentory Students in KVGP ★</b> </h4></marquee>
+            <marquee class="li sub-head" direction="left" scrolldelay="160">
+                <h4>★ <a href="~/Images/PDF/admission poly.pdf"><b> Admission </b> </a>★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ <a href="~/Images/PDF/Admission Notification.pdf"><b> Admission Notification </b> </a>★ <a href="~/Images/PDF/Covid.pdf">★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> COVID-19 Guidelines </b> </a> ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ <a href="~/Images/PDF/notification_kan (1).pdf"><b> Diploma cet 2020 notification </b> </a> ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b class="hidden">★ Practical Exams Starts From 30th October 2019 For Regular And Supplimentory Students in KVGP ★</b> </h4>
+            </marquee>
 
 
 
@@ -297,15 +300,107 @@
 
 
         </div>
-     
+
 
     </section>
 
 
+    <!-- counter start -->
+
+    <section class="countersection">
+        <style>
+            .countersection {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                /* height: 2%; */
+                margin: 2% 0;
+            }
+
+            .counterstatkvg {
+                text-align: center;
+                padding: 0%;
+                background-color: #f9b000;
+                width: 70%;
+                border: 5px solid blanchedalmond;
+                border-radius: 18px;
+            }
+
+            .counterstatkvg-count {
+                font-size: 28px;
+                font-weight: bold;
+                position: relative;
+                color: #000000;
+                text-align: center;
+                /* display: inline-block; */
+                padding: 0;
+            }
+
+            @media screen and (min-width:1203) {
+                .counter-box {
+                    margin-left: 7%;
+                    margin-right: 14%;
+                }
+            }
+
+            @media screen and (min-width:1300px) {
+                .counter-box {
+                    margin-left: 10%;
+                }
+            }
+        </style>
+
+
+        <div class="counterstatkvg">
+            <div class="container">
+                <div class="row counter-box">
+                    <div class="col-12 col-lg-3">
+                        <div class="count-up">
+                            <p class="counterstatkvg-count">36</p>
+                            <h4>Years of Academic Excellence</h4>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-3">
+                        <div class="count-up">
+                            <p class="counterstatkvg-count">15000</p>
+                            <h4>Alumini</h4>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-3">
+                        <div class="count-up">
+                            <p class="counterstatkvg-count">300</p>
+                            <h4>Companies for placement</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            $('.counterstatkvg-count').each(function() {
+                $(this).prop('counterstatkvg', 0).animate({
+                    counterstatkvg: $(this).text()
+                }, {
+
+                    //chnage count up speed here
+                    duration: 4000,
+                    easing: 'swing',
+                    step: function(now) {
+                        $(this).text(Math.ceil(now) + "+");
+                    }
+                });
+            });
+        </script>
+    </section>
+
+    <!-- counter end -->
+
     <br>
 
 
-       <!--  puthiyath-->
+    <!--  puthiyath-->
 
     <style>
         * {
@@ -315,17 +410,16 @@
             font-family: "Open Sans";
         }
 
-        body {
+        /* body {
             background-color: lightblue;
-        }
+        } */
 
         .content-wrapper {
             margin: 0 auto;
-            max-width: 900px;
+            max-width: 69%;
             display: flex;
             flex-flow: row wrap;
             justify-content: center;
-            padding: 0.8rem;
         }
 
         .news-card {
@@ -347,7 +441,7 @@
         @media (min-width: 900px) {
 
             .news-card {
-                height: 20rem
+                height: 12rem
             }
         }
 
@@ -356,8 +450,8 @@
             position: absolute;
             top: 0;
             left: 0;
-            width: 90%;
-            height: 90%;
+            width: 100%;
+            height: 100%;
             background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.7) 80%);
             ;
             z-index: 0;
@@ -374,8 +468,8 @@
         }
 
         .news-card__image {
-            width: 90%;
-            height: 90%;
+            width: 100%;
+            height: 100%;
             display: block;
             object-fit: cover;
             transition: transform 3s ease;
@@ -471,8 +565,7 @@
         }
     </style>
     <strong>
-        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            Courses Offered</div>
+        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Courses Offered<span></span></h2>
     </strong>
 
     <div class="content-wrapper" style="z-index: 99999999999999999999;">
@@ -481,7 +574,7 @@
             <a href="department-computer-science.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/Highest-Paid-Programming-Languages-in-2019.jpg" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
-                <h3 class="news-card__title">Computer Science & Engineering</h3>
+                <h3 class="news-card__title" style="font-size: 1.2rem;">Computer Science & Engineering</h3>
                 <!-- <div class="news-card__post-name">Tag Body</div> -->
 
 
@@ -492,7 +585,7 @@
             <a href="department-computer-science.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/Ethical-Problem-of-Artificial-Intelligence-4.jpg" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
-                <h3 class="news-card__title">Computer Science Engineering(AI & ML)</h3>
+                <h3 class="news-card__title" style="font-size: 1.2rem;">Computer Science Engineering(AI & ML)</h3>
 
 
             </div>
@@ -502,7 +595,7 @@
             <a href="department-ECE.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/c3.jpg" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
-                <h3 class="news-card__title">Electronics & Communication Engineering</h3>
+                <h3 class="news-card__title" style="font-size: 1.2rem;">Electronics & Communication Engineering</h3>
 
             </div>
         </div>
@@ -511,24 +604,26 @@
             <a href="department-mech.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/eng_1200x768.webp" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
-                <h3 class="news-card__title">Mechanical Engineering</h3>
+                <h3 class="news-card__title" style="font-size: 1.2rem;">Mechanical Engineering</h3>
 
             </div>
         </div>
 
         <div class="news-card">
-            <a href="department-civil.php" class="news-card__card-link"></a>
+            <a href="department-computer-science.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/Civil-Engineerng.jpg" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
-                <h3 class="news-card__title">Civil Engineering</h3>
+                <h3 class="news-card__title" style="font-size: 1.2rem;">Civil Engineering</h3>
+
 
             </div>
         </div>
+
         <div class="news-card">
             <a href="mba.php" class="news-card__card-link"></a>
             <img src="admin-kvgce/photos/slider/mba.jpg" alt="" class="news-card__image">
             <div class="news-card__text-wrapper">
-                <h3 class="news-card__title">Master In Bussiness Administration</h3>
+                <h3 class="news-card__title" style="font-size: 1.2rem;">Master In Bussiness Administration</h3>
 
             </div>
         </div>
@@ -537,8 +632,6 @@
     </div>
 
     <!-- puthiyath close -->
-
-    <br><br>
 
     <!-- news -->
 
@@ -549,7 +642,7 @@
 
         .u-section-2 .u-slider-1 {
             width: 1140px;
-            margin-top: 63px;
+            margin-top: 0;
             margin-bottom: 60px;
             min-height: 375px
         }
@@ -799,8 +892,7 @@
 
         <section class="u-clearfix u-section-2" id="sec-96fa">
             <strong><br>
-                <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                    News & Events</div>
+                <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">News & Events<span></span></h2>
             </strong>
             <div class="u-clearfix u-sheet u-sheet-1">
                 <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
@@ -895,147 +987,147 @@
 
         <!-- fews word  -->
 
-<section id="contact">
+        <section id="contact">
 
-  <div class="container">
-    <div class="row">
-        <div class="col-sm-7">
-            <div style="background: #0589d4; border-radius: 12px; background: url(images/gallery/two.jpg); background-size:cover; box-shadow: 0px 0px 10px #cacaca;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <div style="background: #0589d4; border-radius: 12px; background: url(images/gallery/two.jpg); background-size:cover; box-shadow: 0px 0px 10px #cacaca;">
 
-                <div class="testi" style="background: #ffffffad; min-height: 368px; ">
-                    <div class="col-sm-2 hidetest">
-                        <br />
-                        <i class="fa fa-quote-left" style="font-size:80px; color: black"></i>
-                    </div>
-
-                    <div class="col-sm-9">
-                        <img src="~/Images/Index/Testinomials.png" alt="Alternate Text" class="img-responsive pull-right hidetest hidden" style="display:inline;margin: -7px;" />
-                        <br /><br />
-                        <h3 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h3><br /><br /><br />
-
-                        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-                        <link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
-                        <div id="myCarousel2" class="carousel slide" data-ride="carousel">
-                            <!-- Wrapper for slides -->
-
-                            <div class="  carousel-inner banner" role="listbox">
-                                <div class="item active">
-                                    <p>
-                                        I like the friendly atmosphere here and the fact the teachers are really close to the students.
-                                        We are very supported in our studies. Some of the teachers are really kind and their way of teaching is
-                                        really interesting. They are also very motivational.
-                                    </p>
-                                    <p class="pull-right" style="font-size:16.34px;color:white;">
-                                        Dileep <br />
-                                        @*2nd PU, Commerce*@
-                                    </p>
-
-                                </div>
-                                <div class="item">
-                                    <p>
-                                        My experience at KVG Polytechnic College has been unforgettable from the start!It’s a friendly atmosphere on
-                                        campus and everyone has welcomed me with open arms. I’ve felt at home at KVG College from the
-                                        start and I’m happy I made the decision to come.
-                                    </p>
-                                    <p class="pull-right" style="font-size:16.34px;color:white;">
-                                        Chaithra <br />
-                                        @*2nd PU, Science*@
-                                    </p>
-
+                            <div class="testi" style="background: #ffffffad; min-height: 368px; ">
+                                <div class="col-sm-2 hidetest">
+                                    <br />
+                                    <i class="fa fa-quote-left" style="font-size:80px; color: black"></i>
                                 </div>
 
-                                <div class="item">
-                                    <p>
-                                        KVG College gives equal chance to toppers and also weak students, they provide special foundation classes
-                                        and pay importance on weak students to improve in studies. I am very proud to be a KVG student.
-                                        To get the greatest mileage on your dreams, join KVGP.
-                                    </p>
-                                    <p class="pull-right" style="font-size:16.34px;color:white;">
-                                        Shobha <br />
-                                        @*2nd PU, Commerce*@
-                                    </p>
+                                <div class="col-sm-9">
+                                    <img src="~/Images/Index/Testinomials.png" alt="Alternate Text" class="img-responsive pull-right hidetest hidden" style="display:inline;margin: -7px;" />
+                                    <br /><br />
+                                    <h2 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h2><br /><br /><br />
 
+                                    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+                                    <link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
+                                    <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+                                        <!-- Wrapper for slides -->
+
+                                        <div class="  carousel-inner banner" role="listbox">
+                                            <div class="item active">
+                                                <p>
+                                                    I like the friendly atmosphere here and the fact the teachers are really close to the students.
+                                                    We are very supported in our studies. Some of the teachers are really kind and their way of teaching is
+                                                    really interesting. They are also very motivational.
+                                                </p>
+                                                <p class="pull-right" style="font-size:16.34px;color:white;">
+                                                    Dileep <br />
+                                                    @*2nd PU, Commerce*@
+                                                </p>
+
+                                            </div>
+                                            <div class="item">
+                                                <p>
+                                                    My experience at KVG Polytechnic College has been unforgettable from the start!It’s a friendly atmosphere on
+                                                    campus and everyone has welcomed me with open arms. I’ve felt at home at KVG College from the
+                                                    start and I’m happy I made the decision to come.
+                                                </p>
+                                                <p class="pull-right" style="font-size:16.34px;color:white;">
+                                                    Chaithra <br />
+                                                    @*2nd PU, Science*@
+                                                </p>
+
+                                            </div>
+
+                                            <div class="item">
+                                                <p>
+                                                    KVG College gives equal chance to toppers and also weak students, they provide special foundation classes
+                                                    and pay importance on weak students to improve in studies. I am very proud to be a KVG student.
+                                                    To get the greatest mileage on your dreams, join KVGP.
+                                                </p>
+                                                <p class="pull-right" style="font-size:16.34px;color:white;">
+                                                    Shobha <br />
+                                                    @*2nd PU, Commerce*@
+                                                </p>
+
+                                            </div>
+
+                                        </div>
+                                        <br />
+                                        <!-- Indicators -->
+                                        <ol class="carousel-indicators" style=" position: relative;">
+                                            <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+                                            <li data-target="#myCarousel2" data-slide-to="1"></li>
+                                            <li data-target="#myCarousel2" data-slide-to="2"></li>
+                                        </ol>
+                                    </div>
+                                    <br />
                                 </div>
 
+                                <div class="clearfix"></div>
                             </div>
-                            <br />
-                            <!-- Indicators -->
-                            <ol class="carousel-indicators" style=" position: relative;">
-                                <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-                                <li data-target="#myCarousel2" data-slide-to="1"></li>
-                                <li data-target="#myCarousel2" data-slide-to="2"></li>
-                            </ol>
                         </div>
-                        <br />
                     </div>
 
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-        </div>
+                    <div class="col-sm-5">
+                        <div style="box-shadow: 1px 1px 15px #696868; min-height: 368px; background: linear-gradient(beige,bisque); ">
+                            <h3 class="sub-head" style="background: #fff; text-align: right; padding: 10px; font-size: 25px !important; color: #95011a !important; margin: 0px !important; " class="sub-head">Achivers</h3>
+                            <div class="marq-up">
+                                <br>
+                                <div class="pad-10">
+                                    <div class="">
 
-        <div class="col-sm-5">
-            <div style="box-shadow: 1px 1px 15px #696868; min-height: 368px; background: linear-gradient(beige,bisque); ">
-                <h3 class="sub-head" style="background: #fff; text-align: right; padding: 10px; font-size: 25px !important; color: #95011a !important; margin: 0px !important; " class="sub-head">Achivers</h3>
-                <div class="marq-up">
-                    <br>
-                    <div class="pad-10">
-                        <div class="">
+                                        <marquee id="test" behavior="scroll" direction="up" scrolldelay="10" scrollamount="2" onmouseover="this.stop();" onmouseleave="this.start();" style="height:210px!important">
 
-                            <marquee id="test" behavior="scroll" direction="up" scrolldelay="10" scrollamount="2" onmouseover="this.stop();" onmouseleave="this.start();" style="height:210px!important">
+                                            <a href="~/Images/PDF/Covid.pdf" target="_blank">
+                                                <img src="images/gallery/first.jpg" alt="Alternate Text" class="img-responsive" style="display:inline;margin: -7px;" />
+                                                <p class="white innerpage">
+                                                    » Admission
+                                                </p>
+                                            </a>
 
-                                <a href="~/Images/PDF/Covid.pdf" target="_blank">
-                                    <img src="images/gallery/first.jpg" alt="Alternate Text" class="img-responsive" style="display:inline;margin: -7px;" />
-                                    <p class="white innerpage">
-                                        »    Admission
-                                    </p>
-                                </a>
-
-                                <a href="~/Images/PDF/Covid.pdf" target="_blank">
-                                    <p class="white innerpage">
-                                        »    COVID-19 Guidelines 
-                                    </p>
-                                </a>
+                                            <a href="~/Images/PDF/Covid.pdf" target="_blank">
+                                                <p class="white innerpage">
+                                                    » COVID-19 Guidelines
+                                                </p>
+                                            </a>
 
 
 
-                                <a href="~/Images/PDF/notification_kan (1).pdf" target="_blank">
-                                    <p class="white innerpage">
-                                        » Diploma cet 2020 notification
-                                    </p>
-                                </a>
-                                 
+                                            <a href="~/Images/PDF/notification_kan (1).pdf" target="_blank">
+                                                <p class="white innerpage">
+                                                    » Diploma cet 2020 notification
+                                                </p>
+                                            </a>
 
-                            </marquee>
 
+                                        </marquee>
+
+                                    </div>
+                                    <br><br>
+
+
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
                         </div>
-                        <br><br>
-
-
                     </div>
                 </div>
-                <div class="clearfix"></div>
             </div>
-        </div>
-    </div>
-</div>
-</section>
+        </section>
 
 
-<style>
-#test {
-    height: 250px !important;
-    padding: 20px;
-}
+        <style>
+            #test {
+                height: 250px !important;
+                padding: 20px;
+            }
 
-.marq-up {
-    background: linear-gradient(beige,bisque);
-}
+            .marq-up {
+                background: linear-gradient(beige, bisque);
+            }
 
-.carousel-inner p{
-    font-weight: 600 !important;
-}
-</style>
+            .carousel-inner p {
+                font-weight: 600 !important;
+            }
+        </style>
 
 
 
@@ -1059,7 +1151,7 @@
                 flex-direction: row;
                 align-items: center;
                 justify-content: center;
-                background: hsl(210, 46%, 95%);
+                /* background: hsl(210, 46%, 95%); */
                 background-color: whitesmoke;
             }
 
@@ -1344,7 +1436,7 @@
 
 
             body {
-                background: #eee;
+                background: white;
             }
 
             h2,
@@ -1388,8 +1480,7 @@
 
 
         <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                Gallery</div>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Gallery<span></span></h2>
         </strong>
 
         <ul class="sliderfk">
@@ -1517,8 +1608,7 @@
             <div class="container">
                 <div class="row">
                     <strong>
-                        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                            Testimonials</div>
+                        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Testimonials<span></span></h2>
                     </strong>
 
                     <div class="col-md-12 col-lg-4">
@@ -1555,7 +1645,7 @@
                 </div>
             </div>
         </section>
-<br>
+        <br>
         <!-- logo slider begin -->
 
         <style>
@@ -1572,6 +1662,7 @@
                 width: 100%;
                 margin: 0 auto;
                 overflow: hidden;
+                background-color: whitesmoke;
             }
 
             #clients .clients-wrap ul {
@@ -1613,8 +1704,7 @@
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                Our Recruiters</div>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Our Recruiters<span></span></h2>
         </strong>
         <div id="clients">
             <div class="clients-wrap">
