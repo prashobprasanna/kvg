@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-
-
 <body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Google Tag Manager (noscript)Digitall Marketig college may 6th 2020 -->
@@ -1532,7 +1528,7 @@
 
                             <div class="row pt-3">
                                 <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ashwitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
-                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;">Ashwini H K  <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
+                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;">Ashwini H K <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
                             </div>
                         </div>
                     </div>
@@ -1552,7 +1548,7 @@
                             </p>
                             <div class="row pt-3">
                                 <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ajna.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
-                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;"> Ajna H M  <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="stars image" /> </div>
+                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;"> Ajna H M <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="stars image" /> </div>
                             </div>
                         </div>
                     </div>
