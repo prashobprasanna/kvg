@@ -416,11 +416,10 @@
 
         .content-wrapper {
             margin: 0 auto;
-            max-width: 900px;
+            max-width: 69%;
             display: flex;
             flex-flow: row wrap;
             justify-content: center;
-            padding: 0.8rem;
         }
 
         .news-card {
@@ -566,8 +565,7 @@
         }
     </style>
     <strong>
-        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-            Courses Offered</div>
+        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Courses Offered<span></span></h2>
     </strong>
 
     <div class="content-wrapper" style="z-index: 99999999999999999999;">
@@ -635,8 +633,6 @@
 
     <!-- puthiyath close -->
 
-    <br><br>
-
     <!-- news -->
 
     <style class="u-style">
@@ -646,7 +642,7 @@
 
         .u-section-2 .u-slider-1 {
             width: 1140px;
-            margin-top: 63px;
+            margin-top: 0;
             margin-bottom: 60px;
             min-height: 375px
         }
@@ -896,8 +892,7 @@
 
         <section class="u-clearfix u-section-2" id="sec-96fa">
             <strong><br>
-                <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                    News & Events</div>
+                <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">News & Events<span></span></h2>
             </strong>
             <div class="u-clearfix u-sheet u-sheet-1">
                 <div id="carousel-cbd7" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1">
@@ -1008,7 +1003,7 @@
                                 <div class="col-sm-9">
                                     <img src="~/Images/Index/Testinomials.png" alt="Alternate Text" class="img-responsive pull-right hidetest hidden" style="display:inline;margin: -7px;" />
                                     <br /><br />
-                                    <h3 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h3><br /><br /><br />
+                                    <h2 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h2><br /><br /><br />
 
                                     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
                                     <link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
@@ -1485,8 +1480,7 @@
 
 
         <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                Gallery</div>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Gallery<span></span></h2>
         </strong>
 
         <ul class="sliderfk">
@@ -1614,8 +1608,7 @@
             <div class="container">
                 <div class="row">
                     <strong>
-                        <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                            Testimonials</div>
+                        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Testimonials<span></span></h2>
                     </strong>
 
                     <div class="col-md-12 col-lg-4">
@@ -1669,6 +1662,7 @@
                 width: 100%;
                 margin: 0 auto;
                 overflow: hidden;
+                background-color: whitesmoke;
             }
 
             #clients .clients-wrap ul {
@@ -1710,8 +1704,7 @@
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <strong>
-            <div class="header-fullname" style="font-size: 30px;text-align: center;">
-                Our Recruiters</div>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Our Recruiters<span></span></h2>
         </strong>
         <div id="clients">
             <div class="clients-wrap">
