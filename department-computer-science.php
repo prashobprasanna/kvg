@@ -1727,7 +1727,7 @@
                                     <!-- <div class="department-activities-img gallery">
                                         <img src="images/newsandevents/act1.png" class="img-responsive" style="max-width:350px">
                                     </div> -->
-                                    <span style="font-size: 12pt; line-height: 107%; font-family: " times="" new="" roman",="" serif;"="">Dr. G B Krishnappa, Deen R & D, Professor,
+                                    <span style="font-size: 12pt; line-height: 107%; " times="" new="" roman",="" serif;"="">Dr. G B Krishnappa, Deen R & D, Professor,
                                         Department of Mechanical Engineering, VVCE, Mysuru engaged as
                                         resource person..</span> </p>
                                 </div>
