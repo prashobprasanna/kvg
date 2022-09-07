@@ -314,7 +314,7 @@
                 align-items: center;
                 justify-content: center;
                 /* height: 2%; */
-                margin: 2% 0;
+                margin: 2% 0 0 0;
             }
 
             .counterstatkvg {
@@ -416,7 +416,7 @@
 
         .content-wrapper {
             margin: 0 auto;
-            max-width: 900px;
+            max-width: 1330px;
             display: flex;
             flex-flow: row wrap;
             justify-content: center;
@@ -442,7 +442,8 @@
         @media (min-width: 900px) {
 
             .news-card {
-                height: 12rem
+                height: 12rem;
+                margin: 28px 4%;
             }
         }
 
@@ -634,7 +635,7 @@
 
     <!-- puthiyath close -->
 
-    <br><br>
+    <!-- <br><br> -->
 
     <!-- news -->
 
@@ -843,7 +844,7 @@
             }
 
             .u-section-2 .u-text-3 {
-                margin-top: 20px;
+                /* margin-top: 20px; */
                 margin-left: 50px
             }
 
@@ -1224,7 +1225,7 @@
             .card7 .card7-right .card7-text {
                 font-size: 14px;
                 color: hsl(212, 23%, 69%);
-                margin-top: 20px;
+                /* margin-top: 20px; */
             }
 
             .card7 .card7-right .card7-right-body {
@@ -1573,7 +1574,7 @@
         </script>
 
         <!-- achievers end -->
-        <br><br><br><br>
+        <br><br>
 
 
         <!-- logo slider begin -->
@@ -1745,7 +1746,7 @@
 
         <hr>
 
-        <br><br><br>
+        <br>
 
 
         <script>
