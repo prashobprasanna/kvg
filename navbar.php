@@ -113,7 +113,7 @@
                                         <h4>Management</h4>
                                     </div>
                                     <ul class="mdf_child_menu">
-                                        <li><a href="aboutus.php#president">Founder President</a></li>
+                                        <li><a href="aboutus.php">Founder President</a></li>
                                         <li><a href="aboutus.php#secretary">General Secretary</a></li>
                                         <li><a href="aboutus.php#ceo">CEO</a></li>
                                         <li><a href="aboutus.php#princi">Principal</a></li>

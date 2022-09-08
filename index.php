@@ -1516,50 +1516,50 @@
             <div class="slider25 owl-carousel">
                 <div class="card25">
                     <div class="img">
-                        <img src="admin-kvgce/images/banner/14.svg" alt="">
+                        <img src="achivers/raveesha rao.jfif" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">
-                            Briana Tozour</div>
+                        Raveesha Rao</div>
                         <div class="sub-title25">
-                            Graphic Designer</div>
-                        <p>
+                        Head of Talent and Culture at Wipfli India</div>
+                        <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
                             <button>Read more</button>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="card25">
                     <div class="img">
-                        <img src="admin-kvgce/images/banner/11.jpg" alt="">
+                        <img src="achivers/varshith kh.jfif" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">
-                            Pricilla Preez</div>
+                        Varshith K H </div>
                         <div class="sub-title25">
-                            Web Developer</div>
-                        <p>
+                        Senior Technical Lead at Sankalp Semiconductor</div>
+                        <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
                             <button>Read more</button>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="card25">
                     <div class="img">
-                        <img src="admin-kvgce/images/banner/2.jpg" alt="">
+                        <img src="achivers/arun.jpg" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">
-                            Eliana Maia</div>
+                        Arun P M</div>
                         <div class="sub-title25">
-                            App Developer</div>
-                        <p>
+                        Cloud Software Engineer at Intel</div>
+                        <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
                             <button>Read more</button>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
