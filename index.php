@@ -314,16 +314,14 @@
                 align-items: center;
                 justify-content: center;
                 /* height: 2%; */
-                margin: 2% 0 0 0;
+                /* margin: 2% 0 0 0; */
             }
 
             .counterstatkvg {
                 text-align: center;
                 padding: 0%;
                 background-color: #07294c;
-                width: 70%;
-                border: 5px solid #07294c;
-                border-radius: 18px;
+                width: 100%;
             }
 
             .counterstatkvg-count {
@@ -348,10 +346,17 @@
                     margin-left: 10%;
                 }
             }
+
+            @media (min-width: 1200px) {
+                .container {
+                    width: 1200px;
+                    margin-left: 18%;
+                }
+            }
         </style>
 
         <div class="counterstatkvg">
-            <div class="container">
+            <div class="container contain">
                 <!-- <img src="images/trophy.svg" alt="trophy" style="width:14%;"> -->
                 <div class="row counter-box">
                     <div class="col-12 col-lg-3">
@@ -1453,7 +1458,7 @@
             }
 
             .slider25 .card25 .img {
-                height: 200px;
+                height: 300px;
                 width: 100%;
             }
 
@@ -1516,13 +1521,13 @@
             <div class="slider25 owl-carousel">
                 <div class="card25">
                     <div class="img">
-                        <img src="achivers/raveesha rao.jfif" alt="">
+                        <img src="achivers/Raveesh Rao.svg" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">
-                        Raveesha Rao</div>
+                            Raveesha Rao</div>
                         <div class="sub-title25">
-                        Head of Talent and Culture at Wipfli India</div>
+                            Head of Talent and Culture at Wipfli India</div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
@@ -1532,13 +1537,13 @@
                 </div>
                 <div class="card25">
                     <div class="img">
-                        <img src="achivers/varshith kh.jfif" alt="">
+                        <img src="achivers/varshith kh.svg" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">
-                        Varshith K H </div>
+                            Varshith K H </div>
                         <div class="sub-title25">
-                        Senior Technical Lead at Sankalp Semiconductor</div>
+                            Senior Technical Lead at Sankalp Semiconductor</div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
@@ -1548,13 +1553,13 @@
                 </div>
                 <div class="card25">
                     <div class="img">
-                        <img src="achivers/arun.jpg" alt="">
+                        <img src="achivers/arun.svg" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">
-                        Arun P M</div>
+                            Arun P M</div>
                         <div class="sub-title25">
-                        Cloud Software Engineer at Intel</div>
+                            Cloud Software Engineer at Intel</div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
