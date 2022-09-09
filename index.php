@@ -1241,19 +1241,24 @@
                 font-weight: 600;
             }
 
-            @media screen and(max-width:510px) {
+            @media(max-width:510px;) {
                 .card25 .content25 .title25 {
-                    font-size: 25px;
+                    font-size: 2px;
                     font-weight: 600;
                 }
-
+                .card25 .content25 .sub-title25 {
+                font-size: 10px;
+                /* font-weight: 600; */
+                color: #e74c3c;
+                /* line-height: 10px; */
+            }
             }
 
             .card25 .content25 .sub-title25 {
                 font-size: 20px;
                 font-weight: 600;
                 color: #e74c3c;
-                line-height: 20px;
+                /* line-height: 20px; */
             }
 
             .card25 .content25 p {
@@ -1272,7 +1277,7 @@
                 color: #fff;
                 border: none;
                 outline: none;
-                font-size: 17px;
+                font-size: 10px;
                 padding: 5px 8px;
                 border-radius: 5px;
                 cursor: pointer;
@@ -1281,6 +1286,18 @@
 
             .card25 .content25 .btn25 button:hover {
                 transform: scale(0.9);
+            }
+            .bs{
+                color:#858e99;
+                font-size:15px;
+                font-weight:bold;
+            }
+            @media(max-width:767px;){
+                .bs{
+                color:#858e99;
+                font-size:7px;
+                font-weight:bold;
+            }
             }
         </style>
 
@@ -1299,8 +1316,8 @@
                         <div class="title25">
                             <h5>Raveesha Rao</h5>
                         </div>
-                        <div class="sub-title25">
-                            <h6>Head of Talent and Culture at Wipfli India</h6>
+                        <div class="sub-title25" >
+                            <h6 class="bs">Head of Talent and Culture at Wipfli India</h6>
                         </div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
@@ -1318,7 +1335,7 @@
                             <h5>Varshith K H</h5>
                         </div>
                         <div class="sub-title25">
-                            <h6>Senior Technical Lead at Sankalp Semiconductor</h6>
+                            <h6 class="bs">Senior Technical Lead at Sankalp Semiconductor</h6>
                         </div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
@@ -1336,7 +1353,7 @@
                             <h5>Arun P M</h5>
                         </div>
                         <div class="sub-title25">
-                            <h6>Cloud Software Engineer at Intel</h6>
+                            <h6 class="bs">Cloud Software Engineer at Intel</h6>
                         </div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
