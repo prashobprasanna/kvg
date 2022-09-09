@@ -348,7 +348,7 @@
             }
 
             @media (min-width: 1200px) {
-                .container {
+                .containercounter {
                     width: 1200px;
                     margin-left: 18%;
                 }
@@ -356,7 +356,7 @@
         </style>
 
         <div class="counterstatkvg">
-            <div class="container contain">
+            <div class="containercounter contain">
                 <!-- <img src="images/trophy.svg" alt="trophy" style="width:14%;"> -->
                 <div class="row counter-box">
                     <div class="col-12 col-lg-3">
