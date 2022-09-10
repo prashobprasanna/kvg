@@ -1041,7 +1041,7 @@
                                                                 <h5 style="color:white">M.Tech, Ph.D</h5>
                                                                 <div class="social-links">
 
-                                                                    <a href="profile/cs/Faculty_Prajna.pdf"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/cs/Faculty_Prajna-aug23.pdf"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>

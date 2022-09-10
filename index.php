@@ -22,6 +22,7 @@
                 <li data-target="#carousel-example-generic" data-slide-to="4"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="5"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="7"></li>
                 <!-- <li data-target="#carousel-example-generic" data-slide-to="7"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="8"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="9"></li> -->
@@ -81,12 +82,16 @@
                 </div>
 
 
-                <div class="item   slide6"> <img data-src="admin-kvgce/photos/slider/42.jpg" src="admin-kvgce/images/banner/6.jpg">
+                <div class="item   slide6"> <img data-src="admin-kvgce/photos/slider/42.jpg" src="admin-kvgce/images/banner/bjus.svg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
 
-                <div class="item   slide7"> <img data-src="admin-kvgce/photos/slider/35.jpg" src="admin-kvgce/images/banner/9.jpg">
+                <div class="item   slide7"> <img data-src="admin-kvgce/images/banner/35.jpg" src="admin-kvgce/images/banner/chandu.svg">
+                    <!-- <div class="carousel-caption carousel-caption-1">
+                    </div> -->
+                </div>
+                <div class="item   slide8"> <img data-src="admin-kvgce/images/banner/talent.svg" src="admin-kvgce/images/banner/talent.svg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
