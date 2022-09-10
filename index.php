@@ -917,7 +917,7 @@
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
                                 <img src="images/newsandevents/tishan.jpeg" alt="" class="u-image u-image-default u-image-1" data-image-width="720" data-image-height="1080">
                                 <h3 class="u-text u-text-1">Agniveer Road Race</h3>
-                                <p class="u-text u-text-palette-5-dark-1 u-text-2"> Our proud First year CS student TISHAN A M. participated in Agniveer 3Km road race(madikeri)on
+                                <p class="u-text u-text-palette-5-dark-1 u-text-2" style="text-align:justify;"> Our proud First year CS student TISHAN A M. participated in Agniveer 3Km road race(madikeri)on
                                     7-08-2022. won the ( 2nd place) silver medal. Out of 106 participants</p>
                                 <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-1">Read More</a> -->
                             </div>
@@ -926,8 +926,8 @@
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
                                 <img src="images/newsandevents/independence.jpeg" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
-                                <h3 class="u-text u-text-3">Amrith Mahotsav Celebration</h3>
-                                <p class="u-text u-text-palette-5-dark-1 u-text-4">75th year of Independence "Amrith Mahotsav Celebration" @ KVGCE.
+                                <h3 class="u-text u-text-1">Amrith Mahotsav Celebration</h3>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-2" style="text-align:justify;">75th year of Independence "Amrith Mahotsav Celebration" @ KVGCE.
                                     The independence day of India celebrated at KVGCE,Sullia on 15th August. Rtd SGT IAF Mr. Deranna Gowda Addanthadka hoisted the flag and addressed the gathering. The function was presided by general Secretary of A O L E (R) Dr. Renuka Prasad K V. Dr. Ujwal U J, CEO of KVG group of Institutions, </p>
                                 <!-- <a href="https://nicepage.com" class="u-btn u-button-style u-btn-2">Read More</a> -->
                             </div>
@@ -936,8 +936,8 @@
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
                                 <img src="images/newsandevents/expo1.jpeg" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
-                                <h3 class="u-text u-text-3">EXPO-2K22</h3>
-                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Here K V G C E is providing platform for students to showcase their
+                                <h3 class="u-text u-text-1">EXPO-2K22</h3>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-2" style="text-align:justify;">Here K V G C E is providing platform for students to showcase their
                                     talent Presenting "EXPO-2K22" The student project exhibition.
                                     The program was presided by CEO of KVGCE Dr Ujwal U J & the program
                                     was initiated by Dr Yashodha Ramachandra,Principal KVG AJPUC Sullia,
@@ -950,8 +950,8 @@
                             <div class="u-container1-layout u-valign-top u-container1-layout-2">
                                 <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-2"></div>
                                 <img src="IMAGES/newsandevents/farewel.jpg" alt="" class="u-image u-image-default u-image-2" data-image-width="1600" data-image-height="1067">
-                                <h3 class="u-text u-text-3">FAREWELL-2022</h3>
-                                <p class="u-text u-text-palette-5-dark-1 u-text-4">Great is the art of beginning,but
+                                <h3 class="u-text u-text-1">FAREWELL-2022</h3>
+                                <p class="u-text u-text-palette-5-dark-1 u-text-2" style="text-align:justify;">Great is the art of beginning,but
                                     greater is the art of ending" K V G C E organized FAREWELL-2022 for final year outgoing students
                                     of 2022 batch was conducted in the college auditorium on 21st July 2022.The function was presided by
                                     general secretary of A O L E(R) Dr Renukaprasad K V and Mr
@@ -1146,250 +1146,7 @@
 
 
         <!-- few word1 -->
-        <style>
-            @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
-
-            body {
-                font-family: 'Manrope', sans-serif;
-                font-size: 13px;
-                width: 100%;
-                /* height: 100vh; */
-                padding: 0px;
-                margin: 0px;
-                /* display: flex; */
-                flex-direction: row;
-                align-items: center;
-                justify-content: center;
-                /* background: hsl(210, 46%, 95%); */
-                background-color: whitesmoke;
-            }
-
-            .fw-5 {
-                font-weight: 500;
-            }
-
-            .fw-7 {
-                font-weight: 700;
-            }
-
-            main {
-                width: 800px;
-                box-sizing: border-box;
-                border-radius: 8px;
-                background: white;
-                box-shadow: 0px 0px 14px #80808047;
-                margin-left: 23%;
-                margin-top: 2%;
-                margin-bottom: 2%;
-            }
-
-            .card7 {
-                display: flex;
-                flex-direction: row;
-                width: 100%;
-            }
-
-            .card7 .card7-left {
-                width: 40%;
-            }
-
-            .card7 .card7-left .card7-img {
-                width: 100%;
-                height: 310px;
-                position: relative;
-            }
-
-            .card7 .card7-left .card7-img::before {
-                content: "";
-                background: url(https://rvs-article-preview-component.netlify.app/images/drawers.jpg);
-                width: 100%;
-                height: 100%;
-                background-repeat: no-repeat;
-                background-size: cover;
-                display: block;
-                border-radius: 8px 0px 0px 8px;
-            }
-
-            .card7 .card7-left .card7-img img {
-                width: 100%;
-            }
-
-            .card7 .card7-right {
-                width: 60%;
-                display: flex;
-                flex-direction: column;
-                padding: 40px;
-                box-sizing: border-box;
-            }
-
-            .card7 .card7-right .card7-title {
-                font-size: 20px;
-                color: hsl(214, 17%, 51%);
-            }
-
-            .card7 .card7-right .card7-text {
-                font-size: 14px;
-                color: hsl(212, 23%, 69%);
-                /* margin-top: 20px; */
-            }
-
-            .card7 .card7-right .card7-right-body {
-                display: flex;
-                margin-top: 26px;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-1 {
-                flex-grow: 1;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-1 img {
-                width: 45px;
-                border-radius: 50%;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-2 {
-                flex-grow: 7;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                row-gap: 3px;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-2 .card7-rb-2-title {
-                color: hsl(214, 17%, 51%);
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-2 .card7-rb-2-text {
-                color: hsl(212, 23%, 69%);
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-3 {
-                flex-grow: 1;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                position: relative;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner {
-                background: url(https://rvs-article-preview-component.netlify.app/images/icon-share.svg) hsl(210, 46%, 95%);
-                width: 35px;
-                height: 35px;
-                background-repeat: no-repeat;
-                background-size: 50%;
-                background-position: center;
-                border-radius: 50%;
-                cursor: pointer;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner:hover {
-                background: url(https://rvs-article-preview-component.netlify.app/images/icon-share-white.svg) hsl(217, 19%, 35%);
-                background-repeat: no-repeat;
-                background-size: 50%;
-                background-position: center;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before {
-                position: absolute;
-                width: 275px;
-                height: 55px;
-                background: hsl(217, 19%, 35%);
-                border-radius: 10px;
-                display: flex;
-                flex-direction: row;
-                color: white;
-                box-sizing: border-box;
-                align-items: center;
-                top: -80px;
-                left: -110px;
-                opacity: 0;
-                justify-content: center;
-                padding: 0px 20px;
-                z-index: 2;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before::after {
-                content: "";
-                position: absolute;
-                top: 40px;
-                left: 50%;
-                width: 40px;
-                height: 40px;
-                background: hsl(217, 19%, 35%);
-                transform: translate(-50%, -50%) rotate(45deg);
-                z-index: -1;
-            }
-
-            .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner:hover+.card7-rb-3-inner-before {
-                opacity: 1;
-            }
-
-            .before-1 {
-                flex-grow: 2;
-                letter-spacing: 7px;
-                color: hsl(212, 23%, 69%);
-                display: flex;
-                justify-content: center;
-            }
-
-            .before-2 {
-                flex-grow: 1;
-            }
-
-            .before-3 {
-                flex-grow: 1;
-            }
-
-            .before-4 {
-                flex-grow: 1;
-            }
-
-            @media screen and (max-width: 850px) {
-                body {
-                    height: 100%;
-                    /* margin: 70px auto; */
-                }
-
-                main {
-                    width: 95%;
-                    margin-top: 5%;
-                    margin-left: 2%;
-                    margin-right: 2%;
-                }
-
-                .card7 {
-                    flex-direction: column;
-                }
-
-                .card7 .card7-left {
-                    width: 100%;
-                }
-
-                .card7 .card7-right {
-                    width: 100%;
-                    padding: 40px 25px 20px;
-                }
-
-                .card7 .card7-left .card7-img {
-                    height: 210px;
-                }
-
-                .card7 .card7-left .card7-img::before {
-                    border-radius: 8px 8px 0px 0px;
-                }
-
-                .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before {
-                    top: -3px;
-                    left: -235px;
-                    width: 230px;
-                }
-
-                .card7 .card7-right .card7-right-body .card7-rb-3 .card7-rb-3-inner-before::after {
-                    content: unset;
-                }
-            }
-        </style>
+       
         <!-- <body>
 <main id="about">
         <div class="card7">

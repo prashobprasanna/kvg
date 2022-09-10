@@ -314,16 +314,14 @@
                 align-items: center;
                 justify-content: center;
                 /* height: 2%; */
-                margin: 2% 0;
+                /* margin: 2% 0 0 0; */
             }
 
             .counterstatkvg {
                 text-align: center;
                 padding: 0%;
                 background-color: #07294c;
-                width: 70%;
-                border: 5px solid #07294c;
-                border-radius: 18px;
+                width: 100%;
             }
 
             .counterstatkvg-count {
@@ -348,10 +346,17 @@
                     margin-left: 10%;
                 }
             }
+
+            @media (min-width: 1200px) {
+                .container {
+                    width: 1200px;
+                    margin-left: 18%;
+                }
+            }
         </style>
 
         <div class="counterstatkvg">
-            <div class="container">
+            <div class="container contain">
                 <!-- <img src="images/trophy.svg" alt="trophy" style="width:14%;"> -->
                 <div class="row counter-box">
                     <div class="col-12 col-lg-3">
@@ -416,10 +421,11 @@
 
         .content-wrapper {
             margin: 0 auto;
-            max-width: 65%;
+            max-width: 1330px;
             display: flex;
             flex-flow: row wrap;
             justify-content: center;
+            padding: 0.8rem;
         }
 
         .news-card {
@@ -441,7 +447,8 @@
         @media (min-width: 900px) {
 
             .news-card {
-                height: 12rem
+                height: 12rem;
+                margin: 28px 4%;
             }
         }
 
@@ -633,11 +640,13 @@
 
     <!-- puthiyath close -->
 
+    <!-- <br><br> -->
+
     <!-- news -->
 
     <style class="u-style">
         .u-section-2 .u-sheet-1 {
-            min-height: 500px
+            min-height: 374px
         }
 
         .u-section-2 .u-slider-1 {
@@ -840,7 +849,7 @@
             }
 
             .u-section-2 .u-text-3 {
-                margin-top: 20px;
+                /* margin-top: 20px; */
                 margin-left: 50px
             }
 
@@ -987,7 +996,7 @@
 
         <!-- fews word  -->
 
-        <section id="contact">
+        <!-- <section id="contact">
 
             <div class="container">
                 <div class="row">
@@ -1003,14 +1012,14 @@
                                 <div class="col-sm-9">
                                     <img src="~/Images/Index/Testinomials.png" alt="Alternate Text" class="img-responsive pull-right hidetest hidden" style="display:inline;margin: -7px;" />
                                     <br /><br />
-                                    <h2 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h2><br /><br /><br />
+                                    <h3 style="display: inline; font-size: 25px; " class="sub-head">Testimonials</h3><br /><br /><br />
 
                                     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
                                     <link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
-                                    <div id="myCarousel2" class="carousel slide" data-ride="carousel">
-                                        <!-- Wrapper for slides -->
+                                    <div id="myCarousel2" class="carousel slide" data-ride="carousel"> -->
+        <!-- Wrapper for slides -->
 
-                                        <div class="  carousel-inner banner" role="listbox">
+        <!-- <div class="  carousel-inner banner" role="listbox">
                                             <div class="item active">
                                                 <p>
                                                     I like the friendly atmosphere here and the fact the teachers are really close to the students.
@@ -1050,9 +1059,9 @@
                                             </div>
 
                                         </div>
-                                        <br />
-                                        <!-- Indicators -->
-                                        <ol class="carousel-indicators" style=" position: relative;">
+                                        <br /> -->
+        <!-- Indicators -->
+        <!-- <ol class="carousel-indicators" style=" position: relative;">
                                             <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
                                             <li data-target="#myCarousel2" data-slide-to="1"></li>
                                             <li data-target="#myCarousel2" data-slide-to="2"></li>
@@ -1128,7 +1137,7 @@
                 font-weight: 600 !important;
             }
         </style>
-
+ -->
 
 
 
@@ -1221,7 +1230,7 @@
             .card7 .card7-right .card7-text {
                 font-size: 14px;
                 color: hsl(212, 23%, 69%);
-                margin-top: 20px;
+                /* margin-top: 20px; */
             }
 
             .card7 .card7-right .card7-right-body {
@@ -1414,239 +1423,167 @@
 
         <!-- few word1 end -->
 
-        <br><br>
+        <strong>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Achievers<span></span></h2>
+        </strong>
 
+        <!-- achievers start  -->
 
-        <!-- slide gallery -->
         <style>
-            @charset "utf-8";
+            @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
-
-            .sliderfk img {
-                width: 100%;
-                height: auto;
+            .slider25 {
+                overflow-y: scroll;
+                scrollbar-width: none;
+                /* Firefox */
+                -ms-overflow-style: none;
+                /* Internet Explorer 10+ */
             }
 
+            .slider25::-webkit-scrollbar {
+                /* WebKit */
+                width: 0;
+                height: 0;
+            }
 
-            .sliderfk .slick-slide {
+            .slider25 {
+                max-width: 1100px;
+                display: flex;
+            }
+
+            .slider25 .card25 {
+                flex: 1;
                 margin: 0 10px;
+                background: #fff;
             }
 
-
-
-
-            body {
-                background: white;
+            .slider25 .card25 .img {
+                height: 300px;
+                width: 100%;
             }
 
-            h2,
-            p {
-                text-align: center;
-                padding: 20px;
+            .slider25 .card25 .img img {
+                height: 100%;
+                width: 100%;
+                object-fit: cover;
             }
 
-            ul {
-                margin: 0;
-                padding: 0;
-                list-style: none;
+            .slider25 .card25 .content25 {
+                padding: 10px 20px;
             }
 
-            a {
-                color: #333;
+            .card25 .content25 .title25 {
+                font-size: 25px;
+                font-weight: 600;
             }
 
-            a:hover,
-            a:active {
-                text-decoration: none;
+            .card25 .content25 .sub-title25 {
+                font-size: 20px;
+                font-weight: 600;
+                color: #e74c3c;
+                line-height: 20px;
+            }
+
+            .card25 .content25 p {
+                text-align: justify;
+                margin: 10px 0;
+            }
+
+            .card25 .content25 .btn25 {
+                display: block;
+                text-align: left;
+                margin: 10px 0;
+            }
+
+            .card25 .content25 .btn25 button {
+                background: #e74c3c;
+                color: #fff;
+                border: none;
+                outline: none;
+                font-size: 17px;
+                padding: 5px 8px;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: 0.2s;
+            }
+
+            .card25 .content25 .btn25 button:hover {
+                transform: scale(0.9);
             }
         </style>
 
-        <!DOCTYPE html>
-        <html lang="ja">
+        <!-- <link rel="stylesheet" href="style.css"> -->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 
-        <head>
-            <meta charset="utf-8">
-
-
-
-            <meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-            <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/reset.css"> -->
-            <link rel="stylesheet" type="text/css" href="css/slick.css">
-            <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/css/6-1-8.css"> -->
-
-        </head>
-
-
-
-        <strong>
-            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Gallery<span></span></h2>
-        </strong>
-
-        <ul class="sliderfk">
-
-            <figure>
-                <li><img src="images/gallery/first.jpg" alt=""></li>
-                <figcaption><strong>Students @ Chemistry Lab</strong></figcaption>
-            </figure>
-
-            <figure>
-                <li><img src="images/gallery/two.jpg" alt=""></li>
-                <figcaption><strong> Experients </strong></figcaption>
-            </figure>
-            <figure>
-                <li><img src="images/gallery/civil1.jpg" alt=""></li>
-                <figcaption><strong>Civil</strong></figcaption>
-            </figure>
-            <figure>
-                <li><img src="images/gallery/civil2.jpg" alt=""></li>
-                <figcaption><strong>Civil</strong></figcaption>
-            </figure>
-            <figure>
-                <li><img src="images/gallery/cs1.jpg" alt=""></li>
-                <figcaption><strong>Computer Science</strong></figcaption>
-            </figure>
-            <figure>
-                <li><img src="images/gallery/cs2.jpg" alt=""></li>
-                <figcaption><strong>Computer Science</strong></figcaption>
-            </figure>
-            <figure>
-                <li><img src="images/gallery/ec1.jpg" alt=""></li>
-                <figcaption><strong>E & C</strong></figcaption>
-            </figure>
-            <figure>
-                <li><img src="images/gallery/ec2.jpg" alt=""></li>
-                <figcaption><strong>E & C</strong></figcaption>
-            </figure>
-            <figure>
-                <li><img src="images/gallery/mech1.jpg" alt=""></li>
-                <figcaption><strong>Mechanical</strong></figcaption>
-            </figure>
-            <figure>
-                <li><img src="images/gallery/mech2.jpg" alt=""></li>
-                <figcaption><strong>Mechanical</strong></figcaption>
-            </figure>
-
-
-
-        </ul>
-
-
-
-        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-        <script src="js/slick.js"></script>
-        <script src="js/slder2.js"></script>
-
-
-        <!-- end slide gallery -->
-
-
-
-
-
-
-        <br>
-
-
-
-
-
-
-
-
-        <script>
-            // Get the elements with class="column"
-            var elements = document.getElementsByClassName("column");
-
-            // Declare a loop variable
-            var i;
-
-            // // Full-width images
-            // function one() {
-            //     for (i = 0; i < elements.length; i++) {
-            //     elements[i].style.msFlex = "100%";  // IE10
-            //     elements[i].style.flex = "100%";
-            //   }
-            // }
-
-            // // Two images side by side
-            //     function two() {
-            //         for (i = 0; i < elements.length; i++) {
-            //     elements[i].style.msFlex = "50%";  // IE10
-            //     elements[i].style.flex = "50%";
-            //   }
-            //     }
-            // Four images side by side
-            function four() {
-                for (i = 0; i < elements.length; i++) {
-                    elements[i].style.msFlex = "25%"; // IE10
-                    elements[i].style.flex = "25%";
-                }
-            }
-
-            // Add active class to the current button (highlight it)
-            var header = document.getElementById("myHeader");
-            var btns = header.getElementsByClassName("btn");
-            for (var i = 0; i < btns.length; i++) {
-                btns[i].addEventListener("click", function() {
-                    var current = document.getElementsByClassName("active");
-                    current[0].className = current[0].className.replace(" active", "");
-                    this.className += " active";
-                });
-            }
-        </script>
-
-
-
-        </div>
-        </div>
-        </section>
-
-
-        <section class="pn_reviews my-5">
-            <?php include 'testi.php'; ?>
-            <div class="container">
-                <div class="row">
-                    <strong>
-                        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Testimonials<span></span></h2>
-                    </strong>
-
-                    <div class="col-md-12 col-lg-4">
-                        <div class="pn_testimonial_box mt-4">
-                            <p class="text-justify">KVG college of engineering, Sullia provides a blend of learning, enjoyment & extracurricular activities. As a student I had an effervescent life during my 4 years of campus. My sincere heartfelt gratitude to Training and Placement Department for their efforts in importing quality technical and aptitude training which made me to grab job apportiunities in TCS, Infosys and IBM.
-                            </p>
-
-                            <div class="row pt-3">
-                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ashwitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
-                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;">Ashwini H K <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
-                            </div>
-                        </div>
+        <center>
+            <div class="slider25 owl-carousel">
+                <div class="card25">
+                    <div class="img">
+                        <img src="achivers/Raveesh Rao.svg" alt="">
                     </div>
-                    <div class="col-md-12 col-lg-4">
-                        <div class="pn_testimonial_box mt-4">
-                            <p class="text-justify">Its gives me an immense pleasure to say that I am a proud alumina of KVG college of engineering, Sullia. I graduated back in 2017. I couldn’t be happier about my way the carrier path is progressing. I am over big share gratitude to this institution. I am really thankful and grateful to each and every faculty who has helped me and nurtured me to be what I am today. Just as a same goes one cannot clap without two hands
-                            </p>
-                            <div class="row pt-3">
-                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/arpitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
-                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;"> Arpitha K S <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
-                            </div>
-                        </div>
+                    <div class="content25">
+                        <div class="title25">
+                            Raveesha Rao</div>
+                        <div class="sub-title25">
+                            Head of Talent and Culture at Wipfli India</div>
+                        <!-- <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div> -->
                     </div>
-                    <div class="col-md-12 col-lg-4">
-                        <div class="pn_testimonial_box mt-4">
-                            <p class="text-justify">My overall experience has been amazing, and the college is having a good infrastructure. It has provided me with a number of opportunities to grow and explore my skills. I have always found a positive and healthy environment and the faculties were highly supportive. My heartfelt gratitude to Training and Placement cell for their immense support which made me to get placed in Talentpace,Cognitive Clouds and Capgemimi.
-                            </p>
-                            <div class="row pt-3">
-                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ajna.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
-                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;"> Ajna H M <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="stars image" /> </div>
-                            </div>
-                        </div>
+                </div>
+                <div class="card25">
+                    <div class="img">
+                        <img src="achivers/varshith kh.svg" alt="">
+                    </div>
+                    <div class="content25">
+                        <div class="title25">
+                            Varshith K H </div>
+                        <div class="sub-title25">
+                            Senior Technical Lead at Sankalp Semiconductor</div>
+                        <!-- <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="card25">
+                    <div class="img">
+                        <img src="achivers/arun.svg" alt="">
+                    </div>
+                    <div class="content25">
+                        <div class="title25">
+                            Arun P M</div>
+                        <div class="sub-title25">
+                            Cloud Software Engineer at Intel</div>
+                        <!-- <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div> -->
                     </div>
                 </div>
             </div>
-        </section>
-        <br>
+        </center>
+        <script>
+            $(".slider25").owlCarousel({
+                loop: true,
+                autoplay: true,
+                autoplayTimeout: 2000, //2000ms = 2s;
+                autoplayHoverPause: true,
+            });
+        </script>
+
+        <!-- achievers end -->
+        <br><br>
+
+
         <!-- logo slider begin -->
+        <hr>
 
         <style>
             /*Logo carousel*/
@@ -1662,7 +1599,7 @@
                 width: 100%;
                 margin: 0 auto;
                 overflow: hidden;
-                background-color: whitesmoke;
+                background-color: #f7f7f7;
             }
 
             #clients .clients-wrap ul {
@@ -1811,6 +1748,235 @@
         </script>
 
         <!-- logo slider end -->
+
+        <hr>
+
+        <br>
+
+
+        <script>
+            // Get the elements with class="column"
+            var elements = document.getElementsByClassName("column");
+
+            // Declare a loop variable
+            var i;
+
+            // // Full-width images
+            // function one() {
+            //     for (i = 0; i < elements.length; i++) {
+            //     elements[i].style.msFlex = "100%";  // IE10
+            //     elements[i].style.flex = "100%";
+            //   }
+            // }
+
+            // // Two images side by side
+            //     function two() {
+            //         for (i = 0; i < elements.length; i++) {
+            //     elements[i].style.msFlex = "50%";  // IE10
+            //     elements[i].style.flex = "50%";
+            //   }
+            //     }
+            // Four images side by side
+            function four() {
+                for (i = 0; i < elements.length; i++) {
+                    elements[i].style.msFlex = "25%"; // IE10
+                    elements[i].style.flex = "25%";
+                }
+            }
+
+            // Add active class to the current button (highlight it)
+            var header = document.getElementById("myHeader");
+            var btns = header.getElementsByClassName("btn");
+            for (var i = 0; i < btns.length; i++) {
+                btns[i].addEventListener("click", function() {
+                    var current = document.getElementsByClassName("active");
+                    current[0].className = current[0].className.replace(" active", "");
+                    this.className += " active";
+                });
+            }
+        </script>
+
+
+
+        </div>
+        </div>
+        </section>
+
+
+        <section class="pn_reviews my-5">
+            <?php include 'testi.php'; ?>
+            <div class="container">
+                <div class="row">
+                    <strong>
+                        <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Testimonials<span></span></h2>
+                    </strong>
+
+                    <div class="col-md-12 col-lg-4">
+                        <div class="pn_testimonial_box mt-4">
+                            <p class="text-justify">KVG college of engineering, Sullia provides a blend of learning, enjoyment & extracurricular activities. As a student I had an effervescent life during my 4 years of campus. My sincere heartfelt gratitude to Training and Placement Department for their efforts in importing quality technical and aptitude training which made me to grab job apportiunities in TCS, Infosys and IBM.
+                            </p>
+
+                            <div class="row pt-3">
+                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ashwitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
+                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;">Ashwini H K <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="pn_testimonial_box mt-4">
+                            <p class="text-justify">Its gives me an immense pleasure to say that I am a proud alumina of KVG college of engineering, Sullia. I graduated back in 2017. I couldn’t be happier about my way the carrier path is progressing. I am over big share gratitude to this institution. I am really thankful and grateful to each and every faculty who has helped me and nurtured me to be what I am today. Just as a same goes one cannot clap without two hands
+                            </p>
+                            <div class="row pt-3">
+                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/arpitha.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
+                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;"> Arpitha K S <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="client stars image" /> </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="pn_testimonial_box mt-4">
+                            <p class="text-justify">My overall experience has been amazing, and the college is having a good infrastructure. It has provided me with a number of opportunities to grow and explore my skills. I have always found a positive and healthy environment and the faculties were highly supportive. My heartfelt gratitude to Training and Placement cell for their immense support which made me to get placed in Talentpace,Cognitive Clouds and Capgemimi.
+                            </p>
+                            <div class="row pt-3">
+                                <div class="col-md-6 pn_review_profile"><img src="images/testimonials/ajna.jpg" class="border-radius-12 float-right" alt="client image" /> <span> </span> </div>
+                                <div class="col-md-6 pn_review_rating d-flex justify-content-end" style="margin-left: 15%;"> Ajna H M <img class="image-radius aligncenter" src="https://desklib.com/static/src/assets/images/v2/star_rating.svg" alt="stars image" /> </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <br>
+
+
+
+        <!-- slide gallery -->
+        <style>
+            @charset "utf-8";
+
+
+            .sliderfk img {
+                width: 100%;
+                height: auto;
+            }
+
+
+            .sliderfk .slick-slide {
+                margin: 0 10px;
+            }
+
+
+
+
+            body {
+                background: white;
+            }
+
+            h2,
+            p {
+                text-align: center;
+                padding: 20px;
+            }
+
+            ul {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+
+            a {
+                color: #333;
+            }
+
+            a:hover,
+            a:active {
+                text-decoration: none;
+            }
+        </style>
+
+
+
+
+
+        <!-- <meta name="viewport" content="width=device-width,initial-scale=1.0"> -->
+
+        <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/reset.css"> -->
+        <link rel="stylesheet" type="text/css" href="css/slick.css">
+        <!-- <link rel="stylesheet" type="text/css" href="https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-8/css/6-1-8.css"> -->
+
+
+
+
+
+        <strong>
+            <h2 class="subheadWhite head" style="color: black; font-weight: bolder; font-family:'Times New Roman', Times, serif;font-size: 30px; font-weight:bolder;">Gallery<span></span></h2>
+        </strong>
+
+        <ul class="sliderfk">
+
+            <figure>
+                <li><img src="images/gallery/first.jpg" alt=""></li>
+                <figcaption><strong>Students @ Chemistry Lab</strong></figcaption>
+            </figure>
+
+            <figure>
+                <li><img src="images/gallery/two.jpg" alt=""></li>
+                <figcaption><strong> Experients </strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/civil1.jpg" alt=""></li>
+                <figcaption><strong>Civil</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/civil2.jpg" alt=""></li>
+                <figcaption><strong>Civil</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/cs1.jpg" alt=""></li>
+                <figcaption><strong>Computer Science</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/cs2.jpg" alt=""></li>
+                <figcaption><strong>Computer Science</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/ec1.jpg" alt=""></li>
+                <figcaption><strong>E & C</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/ec2.jpg" alt=""></li>
+                <figcaption><strong>E & C</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/mech1.jpg" alt=""></li>
+                <figcaption><strong>Mechanical</strong></figcaption>
+            </figure>
+            <figure>
+                <li><img src="images/gallery/mech2.jpg" alt=""></li>
+                <figcaption><strong>Mechanical</strong></figcaption>
+            </figure>
+
+
+
+        </ul>
+
+
+
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <script src="js/slick.js"></script>
+        <script src="js/slder2.js"></script>
+
+
+        <!-- end slide gallery -->
+
+
+
+
+
+
+        <br>
+
+
+
 
         <!-- footer> -->
 
