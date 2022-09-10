@@ -1462,6 +1462,13 @@
                 width: 100%;
             }
 
+            @media screen and (max-width:780px) {
+                .slider25 .card25 .img {
+                    height: 164px;
+                    width: 100%;
+                }
+            }
+
             .slider25 .card25 .img img {
                 height: 100%;
                 width: 100%;
@@ -1473,8 +1480,16 @@
             }
 
             .card25 .content25 .title25 {
-                font-size: 25px;
+                /* font-size: 25px; */
                 font-weight: 600;
+            }
+
+            @media screen and(max-width:510px) {
+                .card25 .content25 .title25 {
+                    font-size: 25px;
+                    font-weight: 600;
+                }
+
             }
 
             .card25 .content25 .sub-title25 {
@@ -1525,9 +1540,11 @@
                     </div>
                     <div class="content25">
                         <div class="title25">
-                            Raveesha Rao</div>
+                            <h5>Raveesha Rao</h5>
+                        </div>
                         <div class="sub-title25">
-                            Head of Talent and Culture at Wipfli India</div>
+                            <h6>Head of Talent and Culture at Wipfli India</h6>
+                        </div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
@@ -1541,9 +1558,11 @@
                     </div>
                     <div class="content25">
                         <div class="title25">
-                            Varshith K H </div>
+                            <h5>Varshith K H</h5>
+                        </div>
                         <div class="sub-title25">
-                            Senior Technical Lead at Sankalp Semiconductor</div>
+                            <h6>Senior Technical Lead at Sankalp Semiconductor</h6>
+                        </div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
@@ -1557,9 +1576,11 @@
                     </div>
                     <div class="content25">
                         <div class="title25">
-                            Arun P M</div>
+                            <h5>Arun P M</h5>
+                        </div>
                         <div class="sub-title25">
-                            Cloud Software Engineer at Intel</div>
+                            <h6>Cloud Software Engineer at Intel</h6>
+                        </div>
                         <!-- <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
                         <div class="btn25">
