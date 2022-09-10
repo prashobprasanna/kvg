@@ -309,6 +309,10 @@
 
     <section class="countersection">
         <style>
+            .containercounter{
+                height: fit-content;    
+            } 
+            
             .countersection {
                 display: flex;
                 align-items: center;
@@ -324,8 +328,9 @@
                 width: 100%;
             }
 
+
             .counterstatkvg-count {
-                font-size: 28px;
+                font-size: 20px;
                 font-weight: bold;
                 position: relative;
                 color: #ff8d35;
@@ -362,21 +367,21 @@
                     <div class="col-12 col-lg-3">
                         <div class="count-up">
                             <p class="counterstatkvg-count">36</p>
-                            <h4>Years of Academic Excellence</h4>
+                            <h4 style="font-size: 1rem;">Years of Academic Excellence</h4>
                         </div>
                     </div>
 
                     <div class="col-12 col-lg-3">
                         <div class="count-up">
                             <p class="counterstatkvg-count">15000</p>
-                            <h4>Alumini</h4>
+                            <h4 style="font-size: 1rem;">Alumini</h4>
                         </div>
                     </div>
 
                     <div class="col-12 col-lg-3">
                         <div class="count-up">
                             <p class="counterstatkvg-count">300</p>
-                            <h4>Companies for placement</h4>
+                            <h4 style="font-size: 1rem;">Companies for placement</h4>
                         </div>
                     </div>
                 </div>
@@ -1146,7 +1151,7 @@
 
 
         <!-- few word1 -->
-       
+
         <!-- <body>
 <main id="about">
         <div class="card7">
