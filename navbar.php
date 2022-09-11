@@ -110,30 +110,28 @@
                             <div class="mdf_sub_wrap row mdf_fall">
                                 <div class="col-sm-3 col-xs-12">
                                     <div class="cl-title">
-                                        <h4>Management</h4>
+                                        <h4>Institution</h4>
                                     </div>
                                     <ul class="mdf_child_menu">
-                                        <li><a href="aboutus.php">Founder President</a></li>
-                                        <li><a href="aboutus.php#secretary">General Secretary</a></li>
-                                        <li><a href="aboutus.php#ceo">CEO</a></li>
-                                        <li><a href="aboutus.php#princi">Principal</a></li>
+                                        <li><a href="aboutus.php">About KVGCE</a></li>
+                                        <li><a href="aboutus.php#secretary">Vision &amp; Mission</a></li>
+                                        <li><a href="aboutus.php#ceo">Quality Policy &amp; Core Values</a></li>
+                                        <li><a href="aboutus.php#princi">Founder</a></li>
 
-                                        <li><a href="">Governing Council</a></li>
+                                        <li><a href="">President</a></li>
 
                                     </ul>
                                 </div>
                                 <div class="col-sm-3 col-xs-12">
                                     <div class="cl-title">
-                                        <h4>Institution</h4>
+                                        <h4>Governence</h4>
                                     </div>
                                     <ul class="mdf_child_menu">
-                                        <li><a href="aboutkvgce.php#about">About KVGCE</a></li>
-                                        <li><a href="aboutkvgce.php#vm">Vision &amp; Mission</a></li>
-                                        <li><a href="aboutkvgce.php#qp">Quality Policy</a></li>
+                                        <li><a href="aboutkvgce.php#about">Principal</a></li>
+                                        <li><a href="aboutkvgce.php#vm">Vice Principal</a></li>
+                                        <li><a href="aboutkvgce.php#qp">Council Members</a></li>
 
-                                        <li><a href="">Student Testimonials</a></li>
-
-                                        <li><a href="">Guest Testimonials</a></li>
+                                      
 
 
                                     </ul>
