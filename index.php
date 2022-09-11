@@ -314,10 +314,10 @@
 
     <section class="countersection">
         <style>
-            .containercounter{
-                height: fit-content;    
-            } 
-            
+            .containercounter {
+                height: fit-content;
+            }
+
             .countersection {
                 display: flex;
                 align-items: center;
@@ -1238,8 +1238,17 @@
 
             .slider25 .card25 .img img {
                 height: 100%;
-                width: 100%;
+                width: 86%;
                 object-fit: cover;
+            }
+
+            @media screen and (max-width:500px) {
+                .slider25 .card25 .img img {
+                    height: 100%;
+                    width: 100%;
+                    object-fit: cover;
+                }
+
             }
 
             .slider25 .card25 .content25 {
@@ -1251,17 +1260,18 @@
                 font-weight: 600;
             }
 
-            @media(max-width:510px;) {
+            @media(max-width:510px; ) {
                 .card25 .content25 .title25 {
                     font-size: 2px;
                     font-weight: 600;
                 }
+
                 .card25 .content25 .sub-title25 {
-                font-size: 10px;
-                /* font-weight: 600; */
-                color: #e74c3c;
-                /* line-height: 10px; */
-            }
+                    font-size: 10px;
+                    /* font-weight: 600; */
+                    color: #e74c3c;
+                    /* line-height: 10px; */
+                }
             }
 
             .card25 .content25 .sub-title25 {
@@ -1297,17 +1307,19 @@
             .card25 .content25 .btn25 button:hover {
                 transform: scale(0.9);
             }
-            .bs{
-                color:#858e99;
-                font-size:15px;
-                font-weight:bold;
+
+            .bs {
+                color: #858e99;
+                font-size: 15px;
+                font-weight: bold;
             }
-            @media(max-width:767px;){
-                .bs{
-                color:#858e99;
-                font-size:7px;
-                font-weight:bold;
-            }
+
+            @media(max-width:767px; ) {
+                .bs {
+                    color: #858e99;
+                    font-size: 7px;
+                    font-weight: bold;
+                }
             }
         </style>
 
@@ -1326,7 +1338,7 @@
                         <div class="title25">
                             <h5>Raveesha Rao</h5>
                         </div>
-                        <div class="sub-title25" >
+                        <div class="sub-title25">
                             <h6 class="bs">Head of Talent and Culture at Wipfli India</h6>
                         </div>
                         <!-- <p>
