@@ -113,12 +113,13 @@
                                         <h4>Institution</h4>
                                     </div>
                                     <ul class="mdf_child_menu">
-                                        <li><a href="aboutus.php">About KVGCE</a></li>
-                                        <li><a href="aboutus.php#secretary">Vision &amp; Mission</a></li>
-                                        <li><a href="aboutus.php#ceo">Quality Policy &amp; Core Values</a></li>
-                                        <li><a href="aboutus.php#princi">Founder</a></li>
+                                        <li><a href="aboutkvgce.php">About KVGCE</a></li>
+                                        <li><a href="aboutkvgce.php#vm">Vision &amp; Mission</a></li>
+                                        <li><a href="aboutkvgce.php#qp">Quality Policy &amp; Core Values</a></li>
+                                        <li><a href="aboutkvgce.php#president">Founder President</a></li>
+                                        <li><a href="aboutkvgce.php#ceo">Chief Executive Officer</a></li>
 
-                                        <li><a href="">President</a></li>
+                                        
 
                                     </ul>
                                 </div>
@@ -127,9 +128,9 @@
                                         <h4>Governence</h4>
                                     </div>
                                     <ul class="mdf_child_menu">
-                                        <li><a href="aboutkvgce.php#about">Principal</a></li>
-                                        <li><a href="aboutkvgce.php#vm">Vice Principal</a></li>
-                                        <li><a href="aboutkvgce.php#qp">Council Members</a></li>
+                                        <li><a href="aboutus.php#princi">Principal</a></li>
+                                        <li><a href="aboutus.php">Vice Principal</a></li>
+                                        <li><a href="aboutus.php">Council Members</a></li>
 
                                       
 

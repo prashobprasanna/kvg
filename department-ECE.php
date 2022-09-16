@@ -16,7 +16,7 @@
     </header>
 
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
-        <div><img src="images/banner/ec.jpg" class="img-responsive"></div>
+        <div><img src="images/banner/ec1.svg" class="img-responsive"></div>
     </section>
     <style>
         div.poco {

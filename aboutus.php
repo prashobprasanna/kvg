@@ -980,40 +980,12 @@
                 display: none;
             }
         </style>
-        <main id="president">
-            <div class="card7">
-                <div class="card7-left">
-                    <div class="card7-img"></div>
-                </div>
-                <div class="card7-right">
-
-                    <h3 class="subheadWhite head" style="color:#3A3B3C;padding:0%;"> Founder President<span></span></h3>
-                    <div class="card7-title fw-7" style="color:black;font-size:16px;text-align:center;">LATE Dr. KURUNJI VENKATRAMANA GOWDA</div>
-                    <div class="card7-text fw-5" style="color:#3A3B3C;">
-                        <p style="text-align: justify;">Guided by the basic philosophy “JNANAM SARVATHRA SADHANAM” and with an aim of building Sullia as a world class learning centre<span id="dots">...</span><span id="more">, Dr. KURUNJI VENKATRAMANA GOWDA, Founder President, Academy of Liberal Education has converted tiny village into a modern learning center of the country. Powered by the visionary leadership today AOLE® is a conglomerate with more than fifty educational institutions. Born as, one of the millions became one in millions. He is BHAGEERATHA who brought JNANA GANGA to this small town and made Sullia a VIDYA KASHI. <br> &nbsp;&nbsp;&nbsp;&nbsp;Dr. KVG is a man of many dimensions. He is an Educationist, a social reformer, a philosopher, a great preacher an able administrator. Above all a great philanthropist. All these have made him a Living Legend. He is the source of inspiration to all of us. His ideals and way of working are to be imbibed in everybody’s life. He has a dream of making our country modern and strong by spreading intellectual spirituality. We at KVG College of Engineering share his dream of making our BHARATH MAHAAN.</span></p>
-                        <button onclick="myFunction()" id="myBtn"><strong> Read more</strong></button>
-                    </div>
 
 
-                    <!-- <div class="card7-right-body"> -->
 
-                    <!-- <div class="card7-rb-2">
-                        <div class="card7-rb-2-title fw-7">Michelle Appleton</div>
-                        <div class="card7-rb-2-text fw-5">28 Jun 2020</div>
-                    </div> -->
-                    <!-- <div class="card7-rb-3">
-                        <div class="card7-rb-3-inner"></div>
-                        <div class="card7-rb-3-inner-before">
-                            <div class="before-1">SHARE</div>
-                            <div class="before-2"><img src="https://rvs-article-preview-component.netlify.app/images/icon-facebook.svg" alt=""></div>
-                            <div class="before-3"><img src="https://rvs-article-preview-component.netlify.app/images/icon-twitter.svg" alt=""></div>
-                            <div class="before-4"><img src="https://rvs-article-preview-component.netlify.app/images/icon-pinterest.svg" alt=""></div>
-                        </div>
-                    </div> -->
-                    <!-- </div> -->
-                </div>
-            </div>
-        </main>
+ 
+
+     
 
         <script>
             function myFunction() {
@@ -1341,37 +1313,7 @@
 #more1 {display: none;}
 </style>
         <body>
-            <main id="secretary">
-                <div class="card8">
-                    <div class="card8-left">
-                        <div class="card8-img"></div>
-                    </div>
-                    <div class="card8-right">
-                        <h3 class="subheadWhite head" style="color:#3A3B3C;padding:0%;"> General Secretary<span></span></h3>
-                        <div class="card8-title fw-7" style="color:black;" id="bomb">Dr. RENUKA PRASAD K V</div>
-                        <div class="card8-text fw-5" style="color:#3A3B3C;"><p>KVGCE imparts training for students to make them competent, motivated Engineers and Scientists. The Institute not only celebrates freedom of thought, cultivates vision and encourages growth, but also inculcates human values and concern for the environment<span id="dots1">...</span><span id="more1">. Since its establishment, the institute has played a vital role in providing the technical manpower and know-how to the country and in pursuit of research. With this, I invite you to experience the environment at KVGCE that is a unique blend of traditions and modernity and is evolving continuously. <br>&nbsp;&nbsp;&nbsp;&nbsp; We offer numerous courses in Engineering, Sciences, Management and Humanities. The alumni of the institute have done exceedingly well in all spheres of life at both national and international level and brought name and fame for themselves as well as to their Alma Mater. The institution takes pride in their achievements. I invite you to visit to KVGCE Sullia and spend some time in person at the sprawling campus at Sullia.</span></p>
-<button onclick="myFunction1()" id="myBtn1"><strong> Read more</strong></button></div>
-                        <div class="card8-right-body">
-                            <!-- <div class="card8-rb-1">
-                        <img src="https://rvs-article-preview-component.netlify.app/images/avatar-michelle.jpg" alt="">
-                    </div>
-                    <div class="card8-rb-2">
-                        <div class="card8-rb-2-title fw-7">Michelle Appleton</div>
-                        <div class="card8-rb-2-text fw-5">28 Jun 2020</div>
-                    </div> -->
-                            <!-- <div class="card8-rb-3">
-                        <div class="card8-rb-3-inner"></div>
-                        <div class="card8-rb-3-inner-before">
-                            <div class="before-1">SHARE</div>
-                            <div class="before-2"><img src="https://rvs-article-preview-component.netlify.app/images/icon-facebook.svg" alt=""></div>
-                            <div class="before-3"><img src="https://rvs-article-preview-component.netlify.app/images/icon-twitter.svg" alt=""></div>
-                            <div class="before-4"><img src="https://rvs-article-preview-component.netlify.app/images/icon-pinterest.svg" alt=""></div>
-                        </div>
-                    </div> -->
-                        </div>
-                    </div>
-                </div>
-            </main>
+            
 
             <script>
 function myFunction1() {
@@ -1704,57 +1646,7 @@ function myFunction1() {
 #moreuj {display: none;}
 </style>
             <body>
-                <main id="ceo">
-                    <div class="card9">
-                        <div class="card9-left">
-                            <div class="card9-img"></div>
-                        </div>
-                        <div class="card9-right">
-                            <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;">Chief Executive Officer<span></span></h3>
-                            <div class="card9-title fw-7" style="color:black;" id="bomb">Dr. UJWAL U J</div>
-                            <div class="card9-text fw-5" style="color:#3A3B3C;"><p> KVG College of Engineering focuses on addressing the needs of students fromcurricular, co-curricular and extra-curricular point of view. It is the innateprinciple of our institution that every single student must realize her or his goal to be a robust and effective part of <span id="dotsuj">...</span><span id="moreuj">the world to solve real world problems and tobe an asset to the society<br>&nbsp;&nbsp;&nbsp;&nbsp;Uniqueness of our education system relies in trainingthe students to identify target, setting distinct points in the travel path towards thetarget, and to make them feel the sense of fulfilment at the target. Our resultshave been remarkable in this endeavour. By providing good standard ofinfrastructure, excellent team of teaching faculty and technical supporting staffand team of training and placement KVG College of Engineering has been thevibrant campus. 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;The campus environment is diverse with academic reverberationof the students who enjoy learner centered classes. Outstanding placementrecords are due to the imparted quality trainings at various phases which equipthe students to be industry ready. If drive and determination are your cup, then KVG College of Engineering fulfils your dream to be an engineer of calibre.
-</span></p>
-<button onclick="myFunctionuj()" id="myBtnuj"><strong> Read more</strong></button></div>
-
-                            <div class="card9-right-body">
-                                <!-- <div class="card9-rb-1">
-                        <img src="https://rvs-article-preview-component.netlify.app/images/avatar-michelle.jpg" alt="">
-                    </div> -->
-                                <!-- <div class="card9-rb-2">
-                        <div class="card9-rb-2-title fw-7">Michelle Appleton</div>
-                        <div class="card9-rb-2-text fw-5">28 Jun 2020</div>
-                    </div> -->
-                                <!-- <div class="card9-rb-3">
-                        <div class="card9-rb-3-inner"></div>
-                        <div class="card9-rb-3-inner-before">
-                            <div class="before-1">SHARE</div>
-                            <div class="before-2"><img src="https://rvs-article-preview-component.netlify.app/images/icon-facebook.svg" alt=""></div>
-                            <div class="before-3"><img src="https://rvs-article-preview-component.netlify.app/images/icon-twitter.svg" alt=""></div>
-                            <div class="before-4"><img src="https://rvs-article-preview-component.netlify.app/images/icon-pinterest.svg" alt=""></div>
-                        </div>
-                    </div> -->
-                            </div>
-                        </div>
-                    </div>
-                </main>
-                <script>
-function myFunctionuj() {
-  var dotsuj = document.getElementById("dotsuj");
-  var moreText = document.getElementById("moreuj");
-  var btnText = document.getElementById("myBtnuj");
-
-  if (dotsuj.style.display === "none") {
-    dotsuj.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
-    moreText.style.display = "none";
-  } else {
-    dotsuj.style.display = "none";
-    btnText.innerHTML = "Read less"; 
-    moreText.style.display = "inline";
-  }
-}
-</script>
+    
                 <style>
                     @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
 
