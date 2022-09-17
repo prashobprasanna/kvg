@@ -1445,15 +1445,15 @@ include('navbar.php');
                         width: 40%;
                     }
 
-                    .card7 .card7-left .card7-img {
+                    .card7 .card7-left .cardkurunji-img {
                         width: 100%;
                         height: 310px;
                         position: relative;
                     }
 
-                    .card7 .card7-left .card7-img::before {
+                    .card7 .card7-left .cardkurunji-img::before {
                         content: "";
-                        background: url(admin-kvgce/photos/aboutkvgce/1.png);
+                        background: url(admin-kvgce/photos/px275/1.png);
                         width: 100%;
                         height: 100%;
                         background-repeat: no-repeat;
@@ -1462,7 +1462,7 @@ include('navbar.php');
                         border-radius: 8px 0px 0px 8px;
                     }
 
-                    .card7 .card7-left .card7-img img {
+                    .card7 .card7-left .cardkurunji-img img {
                         width: 100%;
                     }
 
@@ -1525,61 +1525,61 @@ include('navbar.php');
                     }
 
                     @media(max-width:767px) {
-                        .card7 .card7-left .card7-img::before {
-                            background: url(admin-kvgce/photos/px767/1.png);
+                        .card7 .card7-left .cardkurunji-img::before {
+                            background: url(admin-kvgce/photos/px600/1.png);
                         }
                     }
 
                     @media(max-width:600px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px600/1.png);
                         }
                     }
 
                     @media(max-width:550px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px550/1.png);
                         }
                     }
 
                     @media(max-width:500px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px500/1.png);
                         }
                     }
 
                     @media(max-width:450px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px450/1.png);
                         }
                     }
 
                     @media(max-width:400px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px400/1.png);
                         }
                     }
 
                     @media(max-width:350px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px350/1.png);
                         }
                     }
 
                     @media(max-width:315px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px315/1.png);
                         }
                     }
 
                     @media(max-width:300px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px300/1.png);
                         }
                     }
 
                     @media(max-width:275px) {
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             background: url(admin-kvgce/photos/px275/1.png);
                         }
                     }
@@ -1684,11 +1684,11 @@ include('navbar.php');
                             padding: 40px 25px 20px;
                         }
 
-                        .card7 .card7-left .card7-img {
+                        .card7 .card7-left .cardkurunji-img {
                             height: 210px;
                         }
 
-                        .card7 .card7-left .card7-img::before {
+                        .card7 .card7-left .cardkurunji-img::before {
                             border-radius: 8px 8px 0px 0px;
                         }
 
@@ -1715,7 +1715,7 @@ include('navbar.php');
                     <main id="president">
                         <div class="card7">
                             <div class="card7-left">
-                                <div class="card7-img"></div>
+                                <div class="cardkurunji-img"></div>
                             </div>
                             <div class="card7-right">
 
