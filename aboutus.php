@@ -1990,6 +1990,155 @@ function myFunction1() {
                         </div>
                     </main>
 
+
+                    <div>
+                    <div class="row">
+                                <style>
+                                    #customers {
+                                        font-family: Arial, Helvetica, sans-serif;
+                                        border-collapse: collapse;
+                                        width: 70%;
+                                        margin-left: 15%;
+                                    }
+
+                                    #customers td,
+                                    #customers th {
+                                        border: 1px solid #ddd;
+                                        padding: 8px;
+                                    }
+
+                                    #customers tr:nth-child(even) {
+                                        background-color: #f2f2f2;
+                                    }
+
+                                    #customers tr:hover {
+                                        background-color: #ddd;
+                                    }
+
+                                    #customers th {
+                                        padding-top: 12px;
+                                        padding-bottom: 12px;
+                                        text-align: center;
+                                        background-color: #04AA6D;
+                                        color: white;
+                                    }
+                                </style>
+                                <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;"> Governing Council Members<span></span></h3>
+                                <table id="customers" >
+                                    <tr>
+                                        <th>SL.NO</th>
+                                        <th>Name</th>
+                                        <th>Designation</th>
+                                        <th>Profession</th>
+
+
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Dr. Renuka Prasad K.V, M.B.B.S. F.A.G.E.</td>
+                                        <td>Chairman </td>
+                                        <td>General Secretary, AOLE®, Sullia, D.K.</td>
+
+
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Dr. Jyothi R. Prasad M.B.B.S, M.D.</td>
+
+                                        <td>Member </td>
+                                        <td>Director, A.O.L.E.®, Sullia, D.K.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Dr. Abhijnya K.R M.B.B.S, M.D.</td>
+                                        <td>Member </td>
+                                        <td>Director, AOLE®, Sullia, D.K.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>4</td>
+                                        <td>Mr. Mourya R Kurunji</td>
+                                        <td>Member </td>
+                                        <td>Executive Director, KVGDC&H, Sullia, D.K.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>5</td>
+                                     <td>Dr. Ujwal U.J  PGDBC, MCA, M.Tech.(NITK), Ph.D (CS&E)</td>
+                                        <td>Member </td>
+                                      <td>CEO, KVGCE, Sullia, D.K.</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>Dr. Jagannatha Reddy</td>
+                                        <td>Member </td>
+                                        <td>Former Registrar, VTU Belagavi, Prof. in Civil Department, BIT, Bengaluru.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>7</td>
+                                        <td>Sri. Santhosh Jake</td>
+                                        <td>Member </td>
+                                        <td>President, Primary Agricultural Co-operative Society, Sampaje</td>
+                                    </tr>
+                                    <tr>
+                                        <td>8</td>
+                                        <td>Sri. Nithyananda Mundodi</td>
+                                        <td>Member</td>
+                                        <td>Ex. Managing Trustee, Shree Kukke Subrahmanya Temple</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>9</td>
+                                        <td>VTU Nominee</td>
+                                        <td>Member</td>
+                                        <td>Ex Officio</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>10</td>
+                                        <td>AICTE Nominee</td>
+                                        <td>Member</td>
+                                        <td>Ex Officio</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>11</td>
+                                        <td>Sri. Somashekhar Koingaje</td>
+                                        <td>Member</td>
+                                        <td>President, Primary Agricultural Co-operative Society, Sampaje</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>12</td>
+                                        <td>Dr. Shreedhar K.  M.Sc., M.Phil, PGDIT, Ph.D</td>
+
+                                        <td>Member</td>
+                                        <td>Vice Principal, KVGCE, Sullia, D.K.</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>13</td>
+                                        <td>Sri Nagesh K</td>
+                                        <td>Member</td>
+                                        <td>A.O, KVGCE, Sullia, D.K.</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <td>14</td>
+                                        <td>Dr. Suresha V.  B.E, M.Tech., Ph.D.</td>
+                                        <td>Member Secretary</td>
+                                        <td>Principal, KVGCE, Sullia, D.K.</td>
+
+                                    </tr>
+
+                               
+                                </table>
+                                </div>
+                                <br>
+                                <br>
                     <!-- footer> -->
 
                     <?php include('footer.php') ?>

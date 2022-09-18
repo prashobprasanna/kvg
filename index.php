@@ -44,23 +44,14 @@
 
             <div class="carousel-inner">
 
-                <div class="item active slide3"><img data-src="admin-kvgce\images\banner\college.svg" src="admin-kvgce/images/banner/college.svg" alt="college pic">
+                <div class="item active slide3"><img data-src="admin-kvgce\images\banner\college.svg" src="admin-kvgce/images/banner/college.jpg" alt="college pic">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
 
 
 
-                <div class="item  slide2"><img data-src="admin-kvgce\images\banner\14.svg" src="admin-kvgce/images/banner/14.svg">
-                    <!-- <div class="carousel-caption carousel-caption-1">
-                    </div> -->
-                </div>
-
-
-
-
-
-                <div class="item slide1"> <img data-src="admin-kvgce/images/banner/wi.svg" src="admin-kvgce/images/banner/wi.svg">
+                <div class="item  slide2"><img data-src="admin-kvgce\images\banner\14.svg" src="admin-kvgce/images/banner/cap.jpg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
@@ -68,7 +59,16 @@
 
 
 
-                <div class="item   slide4"> <img data-src="admin-kvgce/images/banner/cap.svg" src="admin-kvgce/images/banner/cap.svg">
+
+                <div class="item slide1"> <img data-src="admin-kvgce/images/banner/wi.svg" src="admin-kvgce/images/banner/wif.jpg">
+                    <!-- <div class="carousel-caption carousel-caption-1">
+                    </div> -->
+                </div>
+
+
+
+
+                <div class="item   slide4"> <img data-src="admin-kvgce/images/banner/cap.svg" src="admin-kvgce/images/banner//sas.jpg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
@@ -82,16 +82,16 @@
                 </div>
 
 
-                <div class="item   slide6"> <img data-src="admin-kvgce/photos/slider/42.jpg" src="admin-kvgce/images/banner/bjus.svg">
+                <div class="item   slide6"> <img data-src="admin-kvgce/photos/slider/42.jpg" src="admin-kvgce/images/banner/bju.jpg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
 
-                <div class="item   slide7"> <img data-src="admin-kvgce/images/banner/35.jpg" src="admin-kvgce/images/banner/chandu.svg">
+                <div class="item   slide7"> <img data-src="admin-kvgce/images/banner/35.jpg" src="admin-kvgce/images/banner/abc.jpg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>
-                <div class="item   slide8"> <img data-src="admin-kvgce/images/banner/talent.svg" src="admin-kvgce/images/banner/talent.svg">
+                <div class="item   slide8"> <img data-src="admin-kvgce/images/banner/talent.svg" src="admin-kvgce/images/banner/robo.jpg">
                     <!-- <div class="carousel-caption carousel-caption-1">
                     </div> -->
                 </div>

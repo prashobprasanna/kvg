@@ -274,14 +274,16 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-4 col-xs-12">
                     <div class="single_footer">
-                        <h4>Courses</h4>
+                        <h4>About Us</h4>
                         <ul>
-                            <li><a href="department-computer-science.php">Computer Science & Engineering</a></li>
+                            <li><a href="aboutus.php">Founder</a></li>
+                            <li><a href="aboutkvgce.php#about">Motto,Mission & Vision</a></li>
+                            <!-- <li><a href="department-computer-science.php">Computer Science & Engineering</a></li>
                             <li><a href="">Computer Science & Engineering(AI & ML)</a></li>
                             <li><a href="department-ECE.php">Electronics & Communication Engineering</a></li>
                             <li><a href="department-mech.php">Mechanical Engineering</a></li>
                             <li><a href="department-civil.php">Civil Engineering</a></li>
-                            <li><a href="mba.php">Master of Business Administration</a></li>
+                            <li><a href="mba.php">Master of Business Administration</a></li> -->
                             <!-- <li><a href="#">-----------------</a></li>
                             <li><a href="#">Hostel Facilities</a></li>
                             <li><a href="#">Campus</a></li>
@@ -293,11 +295,12 @@
                 <!--- END COL -->
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="single_footer single_footer_address">
-                        <h4>Page Link</h4>
+                        <h4>Quick Links</h4>
                         <ul>
-                            <li><a href="aboutus.php">About Us</a></li>
-                            <li><a href="aboutus.php#president">Our Founder</a></li>
-                            <li><a href="aboutkvgce.php#about">Motto,Mission & Vision</a></li>
+                            <li><a href="aboutus.php">Admissions</a></li>
+                            <li><a href="aboutus.php#president">Placement</a></li>
+                            <li><a href="aboutkvgce.php#about">Scholorships</a></li>
+                            
 
 
                         </ul>
