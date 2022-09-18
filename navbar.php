@@ -48,7 +48,55 @@
     <link rel="stylesheet" type="text/css" href="css/component.css" />
     <!-- <link rel="stylesheet" href="test.css"> -->
 </head>
+<!-- <style>
+  * {
+   
+   -webkit-animation: breathing 5s ease-out infinite normal;
+   animation: breathing 5s ease-out infinite normal;
+   
+   -webkit-font-smoothing: antialiased;
+   border-radius: 2px;
+   text-align: center;    
+   }
 
+
+@-webkit-keyframes breathing {
+ 0% {
+   -webkit-transform: scale(0.9);
+   transform: scale(0.9);
+ }
+
+ 25% {
+   -webkit-transform: scale(1);
+   transform: scale(1);
+ }
+
+
+
+
+}
+
+@keyframes breathing {
+ 0% {
+   -webkit-transform: scale(0.9);
+   -ms-transform: scale(0.9);
+   transform: scale(0.9);
+ }
+
+ 25% {
+   -webkit-transform: scale(1);
+   -ms-transform: scale(1);
+   transform: scale(1);
+ }
+
+
+
+}
+
+</style> -->
+<!-- <style>
+*{ transform: scale(1);}
+</style> -->
 <body>
     <!-- Google Tag Manager (noscript)Digitall Marketig college may 6th 2020 -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.php?id=GTM-NVNRLTG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -487,7 +535,7 @@
     <!-- <div class="elfsight-app-f940885a-ad3b-4772-9c04-408d15d4fc92"></div> -->
 
 
-    <div id="container">
+    <div id="container" id="adf">
         <!-- Menu Button -->
 
         <div class="menu-btn" style="z-index: 99999999999999999999999;">

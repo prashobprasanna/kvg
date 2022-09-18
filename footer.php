@@ -298,19 +298,37 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="single_footer single_footer_address">
                         <h4>Quick Links</h4>
-                        <ul>
-                            <li><a href="#adf">Admissions</a></li>
-                            <li><a href="aboutus.php#president">Placement</a></li>
-                            <li><a href="aboutkvgce.php#about">Scholorships</a></li>
-                            
+                        <ul style="float:left;">
+                            <li><a href="admission.php">Admissions</a></li>
+                            <li><a href="index.php#sec-96fa">News & Events</a></li>
+                            <li><a href="#">Alumini association</a></li>
+                            <!-- <li><a href="index.php#sec-96fa">Alumini association</a></li> -->
+                            <li><a href="#">Circular</a></li>
+                            <ul style="float:left;">
+                            <li ><a href="library.php">Library</a></li>
+                            <li><a href="#">Results</a></li>
+                            <li><a href="placement.php">Placement</a></li>
+                            <li><a href="scholarship.php">Scholorships</a></li>
+                            </ul>
 
 
                         </ul>
+                        
                     </div>
+                   
+                        
                 </div>
+                <!-- <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="single_footer single_footer_address"> <ul>
+                <li ><a href="library.php">Library</a></li>
+                            <li><a href="#">Results</a></li>
+                            <li><a href="placement.php">Placement</a></li>
+                            <li><a href="scholarship.php">Scholorships</a></li>
+                        </ul>
+                        </div></div>  -->
                 <!--- END COL -->
                 <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="single_footer single_footer_address">
+                    <div class="single_footer single_footer_address"><br><br><br>
                         <h4>Contact Us</h4>
                         <div class="signup_form">
                             <form action="#" class="subscribe">
@@ -584,7 +602,7 @@
     <div class="modal-content">
         <div class="modal-body" align="center" style="width:fit-content;height: fit-content;top: 15%;">
             <!-- <button data-dismiss="modal" class="close">&times;</button> -->
-            <h4 id="adf">Admission Form</h4>
+            <h4 >Admission Form</h4>
             <form onsubmit="gotowhatsapp()">
                 <input type="text" name="username" class="username form-control" placeholder="Name" id="name" required />
                 <input type="email" name="Email" class="username form-control" placeholder="Email" id="email" required />
