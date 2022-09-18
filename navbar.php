@@ -117,7 +117,8 @@
                                         <li><a href="aboutkvgce.php#mission">Vision &amp; Mission</a></li>
                                         <li><a href="aboutkvgce.php#mission">Quality Policy &amp; Core Values</a></li>
                                         <li><a href="aboutkvgce.php#founder">Founder President</a></li>
-                                        <li><a href="ceo.php">Chief Executive Officer</a></li>
+                                        <li><a href="gsec.php#secretary">General Secretary</a></li>
+                                        <li><a href="ceo.php#ceo">Chief Executive Officer</a></li>
 
                                         
 

@@ -2177,7 +2177,7 @@ include('navbar.php');
                     </style>
 
                     <body>
-                        <!-- <main id="secretary">
+                         <main id="secretary">
                 <div class="card8">
                     <div class="card8-left">
                         <div class="card8-img"></div>
@@ -2188,7 +2188,7 @@ include('navbar.php');
                         <div class="card8-text fw-5" style="color:#3A3B3C;"><p>KVGCE imparts training for students to make them competent, motivated Engineers and Scientists. The Institute not only celebrates freedom of thought, cultivates vision and encourages growth, but also inculcates human values and concern for the environment<span id="dots1">...</span><span id="more1">. Since its establishment, the institute has played a vital role in providing the technical manpower and know-how to the country and in pursuit of research. With this, I invite you to experience the environment at KVGCE that is a unique blend of traditions and modernity and is evolving continuously. <br>&nbsp;&nbsp;&nbsp;&nbsp; We offer numerous courses in Engineering, Sciences, Management and Humanities. The alumni of the institute have done exceedingly well in all spheres of life at both national and international level and brought name and fame for themselves as well as to their Alma Mater. The institution takes pride in their achievements. I invite you to visit to KVGCE Sullia and spend some time in person at the sprawling campus at Sullia.</span></p>
 <button onclick="myFunction1()" id="myBtn1"><strong> Read more</strong></button></div>
                         <div class="card8-right-body">
-                             <div class="card8-rb-1">
+                          <!--   <div class="card8-rb-1">
                         <img src="https://rvs-article-preview-component.netlify.app/images/avatar-michelle.jpg" alt="">
                     </div>
                     <div class="card8-rb-2">
@@ -2203,11 +2203,11 @@ include('navbar.php');
                             <div class="before-3"><img src="https://rvs-article-preview-component.netlify.app/images/icon-twitter.svg" alt=""></div>
                             <div class="before-4"><img src="https://rvs-article-preview-component.netlify.app/images/icon-pinterest.svg" alt=""></div>
                         </div>
-                    </div> 
+                    </div> -->
                         </div>
                     </div>
                 </div>
-            </main> -->
+            </main> 
 
                         <script>
                             function myFunction1() {

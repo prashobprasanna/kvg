@@ -276,8 +276,10 @@
                     <div class="single_footer">
                         <h4>About Us</h4>
                         <ul>
-                            <li><a href="aboutus.php">Founder</a></li>
-                            <li><a href="aboutkvgce.php#about">Motto,Mission & Vision</a></li>
+                        <li><a href="aboutkvgce.php">About KVGCE</a></li>
+                            <li><a href="aboutkvgce.php#mission">Motto,Mission & Vision</a></li>
+                            <!-- <li><a href="aboutkvgce.php#founder">Founder</a></li> -->
+                            <li><a href="aboutkvgce.php#mission">Quality Policy &amp; Core Values</a></li>
                             <!-- <li><a href="department-computer-science.php">Computer Science & Engineering</a></li>
                             <li><a href="">Computer Science & Engineering(AI & ML)</a></li>
                             <li><a href="department-ECE.php">Electronics & Communication Engineering</a></li>
@@ -297,7 +299,7 @@
                     <div class="single_footer single_footer_address">
                         <h4>Quick Links</h4>
                         <ul>
-                            <li><a href="aboutus.php">Admissions</a></li>
+                            <li><a href="#adf">Admissions</a></li>
                             <li><a href="aboutus.php#president">Placement</a></li>
                             <li><a href="aboutkvgce.php#about">Scholorships</a></li>
                             
@@ -582,7 +584,7 @@
     <div class="modal-content">
         <div class="modal-body" align="center" style="width:fit-content;height: fit-content;top: 15%;">
             <!-- <button data-dismiss="modal" class="close">&times;</button> -->
-            <h4>Admission Form</h4>
+            <h4 id="adf">Admission Form</h4>
             <form onsubmit="gotowhatsapp()">
                 <input type="text" name="username" class="username form-control" placeholder="Name" id="name" required />
                 <input type="email" name="Email" class="username form-control" placeholder="Email" id="email" required />
