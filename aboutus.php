@@ -1716,7 +1716,7 @@ function myFunction1() {
                     }
 
                     .card10 .card10-right {
-                        width: 60%;
+                        width: 80%;
                         display: flex;
                         flex-direction: column;
                         padding: 40px;
@@ -1961,13 +1961,37 @@ function myFunction1() {
                 <body>
                     <main id="princi">
                         <div class="card10">
+                            
                             <div class="card10-left">
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
                                 <div class="card10-img"></div>
                             </div>
                             <div class="card10-right">
                                 <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;"> Principal<span></span></h3>
                                 <div class="card10-title fw-7" style="color:black" id="bomb">Dr. SURESHA V</div>
-                                <div class="card10-text fw-5" style="color:#3A3B3C;">" Do not go where the path may lead, go instead where there is no path and leave trail." The traditional industrial economy which has served so well for decades is now being replaced by a new knowledge based economy Growth and job creation is in the knowledge intensive sectors. India is in the process of becoming an economic super power and there is a growing demand for engineering and management graduates.</div>
+                                <div class="card10-text fw-5" style="color:#3A3B3C;">" This motto is perhaps best reflected in what our Founder President Dr. Kurunji
+Venkatramana Gowda believes in. His core values such as • Hard work • Integrity
+• Sincerity • Value of time • Sacrifice has made this remote rural town of Sullia into
+an educational hub on the world map. KVG College of Engineering is one of the
+renowned technical institute imparting quality education to cater the needs of the
+industry and society. This institute achieved a distinct status and has grown
+continuously over the years. It has an excellent human resource with academic
+records. It also encourages the student community to be creative and innovative while
+learning the best aspects of technical education. The best way of professionalism and
+continuous learning is the dream of the college. The college is collaborating with
+external agencies and stakeholders to be the best partners while meeting the
+competitive fields of technology. It also has helped the student community to get
+better placement and entrepreneurial skills. KVG College of Engineering imbibes
+moral values and brings laurels to our visionary Founder President Dr. Kurunji
+Venkatramana Gowda a great philanthropist and educationist who is a source of
+inspiration for all of us. </div>
                                 <!-- <div class="card10-right-body"> -->
                                 <!-- <div class="card10-rb-1">
                         <img src="https://rvs-article-preview-component.netlify.app/images/avatar-michelle.jpg" alt="">
