@@ -679,15 +679,16 @@ include('navbar.php');
                         </div>
                     </div>
                     <div class="col-sm-5" style="margin-left: 27%;">
-                        <br><br>    
+                        <br><br>
                         <div class="row box" style="margin: auto !IMPORTANT;">
+                            <br><br>
                             <div class="col-sm-3">
                                 <center>
                                     <i class="fa fa-cube" aria-hidden="true"></i>
                                 </center>
                             </div>
                             <div class="col-sm-9">
-                                <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;">QUALITY POLICY<span></span></h3>
+                                <h3>QUALITY POLICY</h3>
                                 <div class="card10-text fw-5" style="color:#3A3B3C;">"We are committed to impart quality education with strong ethics."</div>
                             </div>
                         </div>
@@ -725,7 +726,7 @@ include('navbar.php');
                     </div>
                     <div class="clearfix"></div><br>
                     <div class="col-sm-4">
-                        <img src="admin-kvgce/photos/kurunji1.png" class="img-responsive">
+                        <img src="admin-kvgce/founder.png" class="img-responsive">
                     </div>
                     <div class="col-sm-8">
                         <p>Late Dr. Kurunji Venkatramana Gowda, popularly known as ‘KVG’ was a true Gandhian in spirit and action and has devoted his entire life in changing the destinies of the large rural mass of Sullia taluk. Born in 1928, in an agricultural family, he is a BHAGEERATHA who has brought JNANA GANGA to this small town and made Sullia a VIDYA KASHI. Powered by the visionary leadership of Late Dr. KVG, the academy of Liberal Education today is a registered body with more than fifty educational Institutions. He is the source of inspiration to all. He is a man of many dimensions. He is a model agriculturist, an educationist, a patron of fine arts and cultural endeavors, a social reformer par excellence and a philanthropist of great stature. All these have made him a living legend. Amashree Kurunji Venkatramana Gowda a man who dares to dream and works equally hard to make this dreams come true. An architect of Modern Sullia and a visionary amer with a vision “son of the soil”.Late Sri Kurunji Venkatramana Gowda’s consistent endeavors have turned his dream into reality. Son of the soil that he is chose Sullia and changed it into an educational landmark</p>
