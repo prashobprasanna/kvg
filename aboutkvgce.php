@@ -623,7 +623,7 @@ include('navbar.php');
 
         <div class="container">
             <center>
-                <h2 class="head1">ABOUT <span class="head2">US</span></h2>
+                <h2 class="head1">ABOUT <span class="head2">KVGCE</span></h2>
             </center>
             <hr>
         </div>

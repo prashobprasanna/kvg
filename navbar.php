@@ -113,11 +113,11 @@
                                         <h4>Institution</h4>
                                     </div>
                                     <ul class="mdf_child_menu">
-                                        <li><a href="aboutkvgce.php">About KVGCE</a></li>
-                                        <li><a href="aboutkvgce.php#vm">Vision &amp; Mission</a></li>
-                                        <li><a href="aboutkvgce.php#qp">Quality Policy &amp; Core Values</a></li>
-                                        <li><a href="aboutkvgce.php#president">Founder President</a></li>
-                                        <li><a href="aboutkvgce.php#ceo">Chief Executive Officer</a></li>
+                                        <li><a href="aboutkvgce.php#about">About KVGCE</a></li>
+                                        <li><a href="aboutkvgce.php#mission">Vision &amp; Mission</a></li>
+                                        <li><a href="aboutkvgce.php#mission">Quality Policy &amp; Core Values</a></li>
+                                        <li><a href="aboutkvgce.php#founder">Founder President</a></li>
+                                        <li><a href="ceo.php">Chief Executive Officer</a></li>
 
                                         
 
