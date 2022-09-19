@@ -18,7 +18,7 @@
     </header>
 
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
-        <div><img src="images/banner/grie.jpg" class="img-responsive"></div>
+        <div><img src="images/banner/.jpg" class="img-responsive"></div>
     </section>
 
 
@@ -30,13 +30,13 @@
             <div class="tabbable-panel margin-tops4 ">
                 <div class="tabbable-line">
                     <ul class="nav nav-tabs tabtop  tabsetting">
-                        <li class="active"> <a href="#abouts" data-toggle="tab"> About </a> </li>
-                        <!-- <li> <a href="#Faculty" data-toggle="tab"> Faculty </a> </li>
-                        <li> <a href="#Facility" data-toggle="tab">Facility </a> </li> -->
+                        <li class="active"> <a href="#abouts" data-toggle="tab"> CICC Committee </a> </li>
+                        <!-- <li> <a href="#Faculty" data-toggle="tab"> Faculty </a> </li>-->
+                         <!-- <li> <a href="#Facility" data-toggle="tab">Committee </a> </li>  -->
 
 
-                        <!-- <li> <a href="#activities" data-toggle="tab"> Activities </a> </li> -->
-                        <!-- <li> <a href="#research-centre" data-toggle="tab"> Research Centre </a> </li> -->
+                        <li> <a href="#activities" data-toggle="tab"> Activities </a> </li> -->
+                       
 
 
 

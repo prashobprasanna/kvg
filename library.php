@@ -604,7 +604,7 @@
                                                                 <img src="images/department/library/gangadhara.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Mr. Gangadhara N</h4>
+                                                                <h4>Mr. Jagadeesh K R</h4>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -623,7 +623,7 @@
                                                                 <img src="images/department/library/harinakshi.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Mrs. Harinakshi A</h4>
+                                                                <h4>Mrs. Hemalatha</h4>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -642,7 +642,7 @@
                                                                 <img src="images/department/library/jagadeesh.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Mr. Jagadeesh K R</h4>
+                                                                <h4>Mr. Gangadhara N</h4>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -661,7 +661,7 @@
                                                                 <img src="images/department/library/hemalatha.jpg" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Mrs. Hemalatha </h4>
+                                                                <h4>Mrs. Bhavya </h4>
                                                                 <span></span>
                                                                 <div class="social-links">
                                                                     <a href="#"><i class="fab fa-facebook-f"></i></a>

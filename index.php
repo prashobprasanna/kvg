@@ -1330,6 +1330,60 @@
 
         <center>
             <div class="slider25 owl-carousel">
+            <div class="card25">
+                    <div class="img">
+                        <img src="achivers/nalin.jpeg" alt="">
+                    </div>
+                    <div class="content25">
+                        <div class="title25">
+                            <h5>Mr.Nalin</h5>
+                        </div>
+                        <div class="sub-title25">
+                            <h6 class="bs">Junior Engineer civil Town muncipal council</h6>
+                        </div>
+                        <!-- <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div> -->
+                    </div>
+            </div>
+            <div class="card25">
+                    <div class="img">
+                        <img src="achivers/harisrishna.jfif" alt="">
+                    </div>
+                    <div class="content25">
+                        <div class="title25">
+                            <h5>Harikrishna Rai</h5>
+                        </div>
+                        <div class="sub-title25">
+                            <h6 class="bs">Technical Product Manager at GE Healthcare</h6>
+                        </div>
+                        <!-- <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div> -->
+                    </div>
+            </div>
+            <div class="card25">
+                    <div class="img">
+                        <img src="achivers/arpitha.jpg" alt="">
+                    </div>
+                    <div class="content25">
+                        <div class="title25">
+                            <h5>Arpitha K S</h5>
+                        </div>
+                        <div class="sub-title25">
+                            <h6 class="bs">1st rank with five Gold medals in B.E, VTU</h6>
+                        </div>
+                        <!-- <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
+                        <div class="btn25">
+                            <button>Read more</button>
+                        </div> -->
+                    </div>
+            </div>
                 <div class="card25">
                     <div class="img">
                         <img src="achivers/Raveesh Rao.svg" alt="">

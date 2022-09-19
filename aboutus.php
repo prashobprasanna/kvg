@@ -1976,7 +1976,9 @@ function myFunction1() {
                             <div class="card10-right">
                                 <h3 class="subheadWhite head" style="color: #3A3B3C;padding:0%;"> Principal<span></span></h3>
                                 <div class="card10-title fw-7" style="color:black" id="bomb">Dr. SURESHA V</div>
-                                <div class="card10-text fw-5" style="color:#3A3B3C;">" This motto is perhaps best reflected in what our Founder President Dr. Kurunji
+                                <div class="card10-text fw-5" style="color:#3A3B3C;"><p>“To give real service, you must add something which cannot be bought or measured with money”
+-  &nbsp;&nbsp; Sir M. Visvesvaraya
+<p> This motto is perhaps best reflected in what our Founder President Dr. Kurunji
 Venkatramana Gowda believes in. His core values such as • Hard work • Integrity
 • Sincerity • Value of time • Sacrifice has made this remote rural town of Sullia into
 an educational hub on the world map. KVG College of Engineering is one of the
@@ -1991,7 +1993,8 @@ competitive fields of technology. It also has helped the student community to ge
 better placement and entrepreneurial skills. KVG College of Engineering imbibes
 moral values and brings laurels to our visionary Founder President Dr. Kurunji
 Venkatramana Gowda a great philanthropist and educationist who is a source of
-inspiration for all of us. </div>
+inspiration for all of us.</p> </div>
+<a href="profile/Dr.Suresha V.pdf" class="card10-btn fw-5" style="color: #3A3B3C;">View Profile</a>
                                 <!-- <div class="card10-right-body"> -->
                                 <!-- <div class="card10-rb-1">
                         <img src="https://rvs-article-preview-component.netlify.app/images/avatar-michelle.jpg" alt="">
