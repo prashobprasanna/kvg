@@ -1350,244 +1350,195 @@
                             </table>
                         </div>
 
-                        <h3>Electronics & Communication Engineering</h3>
+                        
 
                         <div class="row">
-                            <style>
-                                #customers {
-                                    font-family: Arial, Helvetica, sans-serif;
-                                    border-collapse: collapse;
-                                    width: 100%;
-                                }
+                        <table id="customers">
+                                    <caption> <h2>Electronics & Communication Engineering Placement 2021-22 </h2></caption>
+                                    <tr>
+                                        <th>SL.NO</th>
+                                        <th>Name</th>
+                                        <th>Company</th>
+                                      
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>SHREEVARA P S</td>
+                                        <td>Wipro/INFOSYS/SIGNDESK/EMERTXE</td>
+                                     
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>SHREEKANTH A P </td>
+                                        <td>Tata Consultancy Services</td>
+                                     
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>YASHWITH  K G</td>
+                                        <td>SSI PEOPLE/ Qspider</td>
+                                      
+                                    </tr>
+                                    <tr>
+                                        <td>4</td>
+                                        <td>BINDYA B</td>
+                                        <td>PALLE TECHNOLOGY/ NTT DATA/Accord /Continental</td>
+                                     
 
-                                #customers td,
-                                #customers th {
-                                    border: 1px solid #ddd;
-                                    padding: 8px;
-                                }
+                                    </tr>
+                                    <tr>
+                                        <td>5</td>
+                                        <td>SACHIN K C</td>
+                                        <td>Talentpace/EMERTEX </td>
+                                     
 
-                                #customers tr:nth-child(even) {
-                                    background-color: #f2f2f2;
-                                }
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>PALLAVI K S </td>
+                                        <td>Capgemini/Infosys</td>
+                                       
+                                    </tr>
+                                    <tr>
+                                        <td>7</td>
+                                        <td>MANASVI A. R</td>
+                                        <td>BYJU’S</td>
+                                        
+                                    </tr>
+                                    <tr>
+                                        <td>8</td>
+                                        <td>KISHAN K S</td>
+                                        <td>EMERTEX</td>
+                                     
+                                    </tr>
+                                    <tr>
+                                        <td>9</td>
+                                        <td>BHAGYALAKSHMI S</td>
+                                        <td>EMERTEX /Qspiders/Accord/Continental</td>
+                                      
+                                    </tr>
+                                    <tr>
+                                        <td>10</td>
+                                        <td>ANUPRIYA A K</td>
+                                        <td>EMERTEX</td>
+                                      
+                                    </tr>
 
-                                #customers tr:hover {
-                                    background-color: #ddd;
-                                }
+                                    <tr>
+                                        <td>11</td>
+                                        <td>CHETHAN K S T S</td>
+                                        <td>EMERTEX</td>
+                                      
+                                    </tr>
 
-                                #customers th {
-                                    padding-top: 12px;
-                                    padding-bottom: 12px;
-                                    text-align: left;
-                                    background-color: #04AA6D;
-                                    color: white;
-                                }
-                            </style>
-                            <table id="customers">
-                                <tr>
-                                    <th>SL.NO</th>
-                                    <th>Name</th>
-                                    <th>Company</th>
+                                    <tr>
+                                        <td>12</td>
+                                        <td>POORVITHA K M</td>
+                                        <td>EMERTEX</td>
+                                      
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>1</td>
-                                    <td>MAHIMA KAMATH N</td>
-                                    <td>SLK SOFTWARE</td>
+                                    <tr>
+                                        <td>13</td>
+                                        <td>PRITHVIRAJ K S</td>
+                                        <td>EMERTEX/ TAP Academy</td>
+                                       
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>2</td>
-                                    <td>ABHILASH K GEORGE</td>
-                                    <td>ROBOSFT TECHNOLOGY</td>
+                                    <tr>
+                                        <td>14</td>
+                                        <td>VEENASHREE P B</td>
+                                        <td>INFOSYS</td>
+                                      
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>3</td>
-                                    <td>PRAKASH NAYAK P</td>
-                                    <td>ROBOSFT TECHNOLOGY & CHEGG INDIA PVT. LTD.</td>
+                                    <tr>
+                                        <td>15</td>
+                                        <td>KAVYA T T</td>
+                                        <td>Global Quest Technologies</td>
+                                      
+                                    </tr>
+                                    <tr>
+                                        <td>16</td>
+                                        <td>SANDEEP CHAVAN</td>
+                                        <td>Qspiders</td>
+                                     
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>4</td>
-                                    <td>VINEETH K H</td>
-                                    <td>TECHNOLOGICS GLOBAL PVT. LTD. & LAURUS INFOSYSTEMS (India) PVT. LTD</td>
+                                    <tr>
+                                        <td>17</td>
+                                        <td>JAYAVANTH R DEVADIGA</td>
+                                        <td>Qspiders/Brigosha</td>
+                                       
+                                    </tr>
 
+                                    <tr>
+                                        <td>18</td>
+                                        <td>VYBHAVI MK</td>
+                                        <td>QSPIDERS</td>
+                                      
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>5</td>
-                                    <td>SAGAR GOPAL NAIK</td>
-                                    <td>INFOSYS & CHEGG INDIA PVT. LTD.</td>
+                                    <tr>
+                                        <td>19</td>
+                                        <td>REKHA M B</td>
+                                        <td>QSPIDERS</td>
+                                      
+                                    </tr>
 
+                                    <tr>
+                                        <td>20</td>
+                                        <td>NIDA FATHIMA</td>
+                                        <td>QSPIDERS</td>
+                                    
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>6</td>
-                                    <td>SUJITH RAI M</td>
-                                    <td>CHEGG INDIA PVT. LTD. & EPIANCE SOFTWARE PVT. LTD.</td>
+                                    <tr>
+                                        <td>21</td>
+                                        <td>AKASH M</td>
+                                        <td>Pentagon Space</td>
+                                      
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>7</td>
-                                    <td>AHMED RAZA</td>
-                                    <td>DIYA SYSTEMS & NTT DATA</td>
+                                    <tr>
+                                        <td>22</td>
+                                        <td>SHRIYA BK</td>
+                                        <td>Skolar</td>
+                                     
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>8</td>
-                                    <td>BHAVISHA K H</td>
-                                    <td>SANESQUARE TECHNOLOGY PVT. LTD. & NTT DATA</td>
+                                    <tr>
+                                        <td>23</td>
+                                        <td>RAJANI</td>
+                                        <td>Robosoft Teachnologies </td>
+                                     
+                                    </tr>
+                                    <tr>
+                                        <td>24</td>
+                                        <td>DEEPIKA P Y</td>
+                                        <td>Kodnest</td>
+                                  
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>9</td>
-                                    <td>DEEKSHA AMIN</td>
-                                    <td>Jspider & DXC TECHNOLOGY</td>
+                                    <tr>
+                                        <td>25</td>
+                                        <td>POOJA G</td>
+                                        <td>Kodnest</td>
+                                     
+                                    </tr>
 
-                                </tr>
-                                <tr>
-                                    <td>10</td>
-                                    <td>GAGANA</td>
-                                    <td>QSPIDERS</td>
+                                   
 
-                                </tr>
-
-                                <tr>
-                                    <td>11</td>
-                                    <td>JAHNAVI J</td>
-                                    <td>Jspider & DXC TECHNOLOGY</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>12</td>
-                                    <td>JASMITHA P S</td>
-                                    <td>QSPIDERS</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>13</td>
-                                    <td>KAVYASHREE K P</td>
-                                    <td>QSPIDERS</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>14</td>
-                                    <td>NAMRATHA S</td>
-                                    <td>QSPIDERS & Alchemy</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>15</td>
-                                    <td>NIREEKSHA M J</td>
-                                    <td>QSPIDERS & NTT DATA</td>
-
-                                </tr>
-                                <tr>
-                                    <td>16</td>
-                                    <td>SHAILESH M S</td>
-                                    <td>SANESQUARE TECHNOLOGY & L&T Technology Servive</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>17</td>
-                                    <td>SHREEJA RAI M</td>
-                                    <td>QSPIDERS & INFOSYS</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>18</td>
-                                    <td>PRUTHVI K</td>
-                                    <td>INFOSYS</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>19</td>
-                                    <td>SNEHA A G</td>
-                                    <td>QSPIDERS</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>20/td>
-                                    <td>SPOORTHI B G</td>
-                                    <td>QSPIDERS & Informatica Business Solutions Pvt. Ltd.</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>21</td>
-                                    <td>THRUPTHI K K</td>
-                                    <td>World Line Global</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>22</td>
-                                    <td>VINOD ISHWAR PATGAR</td>
-                                    <td>QSPIDERS & Chegg India Pvt. Ltd. & NTT DATA & L&T Technology Servive</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>23</td>
-                                    <td>K. R SHISHIR KRISHNA</td>
-                                    <td>NTT DATA</td>
-
-                                </tr>
-                                <tr>
-                                    <td>24</td>
-                                    <td>ABDUL SABAD A G</td>
-                                    <td>NTT DATA</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>25</td>
-                                    <td>LAKSHMI D K</td>
-                                    <td>NTT DATA & ARIS GLOBAL</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>26</td>
-                                    <td>Krithika Shagrith AS</td>
-                                    <td>Harman Connected Services</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>27</td>
-                                    <td>Raveesha N</td>
-                                    <td>CHEGG INDIA PVT. LTD.</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>28</td>
-                                    <td>YAJNESH N U </td>
-                                    <td>INFOSYS & CAPGEMINI.</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>29</td>
-                                    <td>SINCHANA A </td>
-                                    <td>TATA CNSULTANCY SERVICES</td>
-
-                                </tr>
-                            </table>
+                                  
+                                </table>
                         </div>
 
 
 
                     </div>
+                    <br>
+                    <br>
+                    
 
                     <style>
                         .panel-group {

@@ -527,7 +527,7 @@
                                     <div class="container inner-page shd" style=" border:3px solid rgb(59, 13, 0); border-radius:18px">
                                         <!-- About Computer Science -->
                                         <div class="conainer">
-                                            <!-- <strong><h1 style="font-family:Helvetica, Arial, sans-serif;">About :</h1></strong> -->
+                                            <strong><h1 style="font-family:Helvetica, Arial, sans-serif;">Department Profile</h1></strong>
                                             <hr>
                                             <div class="data_more_less">
                                                 <div class="data_more_less">
