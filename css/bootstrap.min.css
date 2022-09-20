@@ -7984,11 +7984,23 @@ button.close {
 .pull-right {
     float: right !important
 }
+@media(max-width:767px){
+    .pull-right{
+        margin-right: 30%;
 
+        float:center !important
+    }
+}
 .pull-left {
     float: left !important
 }
+@media(max-width:767px){
+    .pull-left{
+        margin-left: 14%;
 
+        float:center !important
+    }
+}
 .hide {
     display: none !important
 }
