@@ -46,7 +46,7 @@
             </div>
             <div class="clearfix"></div><br>
             <div class="col-sm-4" style="float:right;">
-                <img src="admin-kvgce/photos/gen_secretary2.png" class="img-responsive">
+                <img src="admin-kvgce/photos/founders/rp1.jpg" class="img-responsive" width="75%">
             </div>
             <div class="col-sm-8" style="font-size: 18px; font-size: 15px; letter-spacing: 1px; line-height: 1.9;">
             <p>KVGCE imparts training for students to make them competent, motivated Engineers and Scientists. The Institute not only celebrates freedom of thought, cultivates vision and encourages growth, but also inculcates human values and concern for the environment<span id="dots1">...</span><span id="more1">. Since its establishment, the institute has played a vital role in providing the technical manpower and know-how to the country and in pursuit of research. With this, I invite you to experience the environment at KVGCE that is a unique blend of traditions and modernity and is evolving continuously. <br>&nbsp;&nbsp;&nbsp;&nbsp; We offer numerous courses in Engineering, Sciences, Management and Humanities. The alumni of the institute have done exceedingly well in all spheres of life at both national and international level and brought name and fame for themselves as well as to their Alma Mater. The institution takes pride in their achievements. I invite you to visit to KVGCE Sullia and spend some time in person at the sprawling campus at Sullia.</span></p>
@@ -88,7 +88,7 @@
             </div>
             <div class="clearfix"></div><br>
             <div class="col-sm-4">
-                <img src="admin-kvgce/photos/founders/uj.png" class="img-responsive">
+                <img src="admin-kvgce/photos/founders/ujwalsir.JPG" class="img-responsive" width="75%">
             </div>
             <div class="col-sm-8" style="font-size: 18px; font-size: 15px; letter-spacing: 1px; line-height: 1.9;">
             <p> KVG College of Engineering focuses on addressing the needs of students fromcurricular, co-curricular and extra-curricular point of view. It is the innateprinciple of our institution that every single student must realize her or his goal to be a robust and effective part of <span id="dotsuj">...</span><span id="moreuj">the world to solve real world problems and tobe an asset to the society<br>&nbsp;&nbsp;&nbsp;&nbsp;Uniqueness of our education system relies in trainingthe students to identify target, setting distinct points in the travel path towards thetarget, and to make them feel the sense of fulfilment at the target. Our resultshave been remarkable in this endeavour. By providing good standard ofinfrastructure, excellent team of teaching faculty and technical supporting staffand team of training and placement KVG College of Engineering has been thevibrant campus. 

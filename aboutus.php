@@ -1712,14 +1712,14 @@ function myFunction1() {
                     }
 
                     .card10 .card10-left .card10-img img {
-                        width: 100%;
+                        width: 80%;
                     }
 
                     .card10 .card10-right {
-                        width: 80%;
+                        width:80%;
                         display: flex;
                         flex-direction: column;
-                        padding: 40px;
+                        padding: 20px;
                         box-sizing: border-box;
                     }
 
