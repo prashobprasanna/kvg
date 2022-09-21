@@ -379,9 +379,9 @@
                                             <li><a href="">
                                                     EDC</a></li>
                                             <li><a href="scstobc.php">SC/ST/OBC Cell</a></li>
-                                            <li><a href="">Minoroty Cell</a></li>
-                                            <li><a href="">CICC</a></li>
-                                            <li><a href="Compliant Committee.php">Grievances and Reddressal Cell</a>
+                                            <li><a href="minority.php">Minoroty Cell</a></li>
+                                            <li><a href="cicc.php">CICC</a></li>
+                                            <li><a href="reddressal.php">Grievances and Reddressal Cell</a>
                                             </li>
 
                                             <!--<li><a href="department-information-science.php">Information Science &amp; Engineering</a></li>-->
