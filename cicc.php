@@ -215,14 +215,22 @@
                                             <!--- END COL -->
                                         </div>
                                         <!--- END ROW -->
-                                    </div>
+                                        </div>
                                 </section>
 
 
                             </div>
 
 
+                            <style>
+                                .responstable {
+                                    border-radius: 18px;
+                                }
+                            </style>
 
+
+                        </div>
+                        <br><br><br><br>
                       
                             
                         <div class="tab-pane fade" id="Facility">
@@ -244,6 +252,32 @@
 
 
                         </div>
+                       
+                        <div class="tab-pane fade" id="activities">
+                        <div class="department-activities-box">
+                                <div class="department-activities">
+                                    <h2>Session on    (i) Women’s Safety and (ii) Health hygiene and stress management for women</h2>
+                                    <div class="department-activities-img gallery">
+                                        <img src="images/newsandevents/cicc/lamp.png" class="img-responsive" style="max-width:350px">
+                                    </div>
+                                   <p>The international women’s Day was celebrated on 9'h of March 2020 at K.V.G. College of Engineering, Sullia, D.K , in the college auditorium at 3.00 p.m. Dr. Saigeetha Jnanesh,   Chief   Medical   Officer,   Garden   Hospital,   KFDC  Ltd., Sullia    and Mr. Shivaramu D, ASI, Law and order, Sullia Police station were the guests Of the day. </p>
+                                    <p>Miss. Bhagyashree of 4t" semester E&C invoked the God almighty and the guests inaugurated the programme by lighting the lamp. Mrs. Bhagya H.K, Chairman of CICC welcomed all. Dr. Saigeetha Jnanesh spoke on the “Health and stress management for women” and Mr.  Shivaramu D, gave awareness talk   on “Women safety”.Dr. N.A. Jnanesh, Pi incipal KVGCE, Sullia presided over the function. Dr. Keshaveni N, Secretary CICC delivered the vote of thanks. Dr. Shreedhar K. vice principal, KVGCE and office bearers of CICC was pre sent on the occasion. Mrs. Shruthi P J. Member of CICC and Sushmitha Wagle, Student member CICC were  the Masters of ceremony. About 200 women including staff and students attended the programme. At the end of the programme sweets were distributed to all.</p>
+                                </div>
+                            </div>
+
+                            <div class="department-activities-box">
+                                <div class="department-activities">
+                                    <h2> Session on    ((i) “Breast & Ovarian cancer Detection and treatment 
+                              (ii) Menstrual Problems and Use & Advantages of Menstrual Cups”</h2>
+                                    <div class="department-activities-img gallery">
+                                        <img src="images/newsandevents/cicc/group.png" class="img-responsive" style="max-width:350px">
+                                    </div>
+                                    <p>The International Women’s Day was celebrated at college auditorium on 8th March, 2022 Tuesday at 3.30 PM. Dr. Geeta J Doppa, Professor and Head Department of OBG, KVG Medical College and Hospital, Sullia was the chief guest and resource person of the day. An awareness talk was given to the lady teaching and non teaching staffs and students of the institution. The talk included information regarding menstrual problems, infections, anemia, healthy diet, PCOD, Breast and ovarian cancer predetection and treatment, HPV vaccination, menopause and stress management. Miss. Nagashree and Miss. Anusha prayed the almighty. Prof. Shruthi P J, secretary, CICC, KVGCE delivered the welcome speech. Prof. Divya A K, member, CICC, KVGCE introduced the chief guest and resource person of the day. Prof. Bhagya H K, Chairman, CICC, KVGCE, presided the function. Prof. Ashwija K C delivered the vote of thank. Prof. Aruna P G was the master of the ceremony. All the lady staffs and students and the members of CICC, KVGCE participated in an enthusiastic manner.   The program was followed by cultural events by the students and refreshment was also provided.  </p>
+                                </div>
+                            </div>
+
+                        </div>
+
 
 
 
