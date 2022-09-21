@@ -32,7 +32,7 @@
                     <ul class="nav nav-tabs tabtop  tabsetting">
                         <li class="active"> <a href="#abouts" data-toggle="tab"> CICC Committee </a> </li>
                         <!-- <li> <a href="#Faculty" data-toggle="tab"> Faculty </a> </li>-->
-                         <!-- <li> <a href="#Facility" data-toggle="tab">Committee </a> </li>  -->
+                         <li> <a href="#Facility" data-toggle="tab">Guidelines </a> </li> 
 
 
                         <li> <a href="#activities" data-toggle="tab"> Activities </a> </li> -->
@@ -98,7 +98,37 @@
                                                                 <p>
                                                                     It’s important that awareness and sensitization are crucial to preventing sexual harassment. The Committee conducts sensitization aimed at facilitating respectful interaction between genders. The present Committee consists of 5 members. There is a separate anti sexual harassment squad with representation from all the departments to ensure the smooth affairs with regard to working of the committee.
                                                                 </p>
-                                                                <table>
+
+                                                                <style>
+                                                                    #customers {
+                                                                        font-family: Arial, Helvetica, sans-serif;
+                                                                        border-collapse: collapse;
+                                                                        width: 100%;
+                                                                    }
+
+                                                                    #customers td,
+                                                                    #customers th {
+                                                                        border: 1px solid #ddd;
+                                                                        padding: 8px;
+                                                                    }
+
+                                                                    #customers tr:nth-child(even) {
+                                                                        background-color: #f2f2f2;
+                                                                    }
+
+                                                                    #customers tr:hover {
+                                                                        background-color: #ddd;
+                                                                    }
+
+                                                                    #customers th {
+                                                                        padding-top: 12px;
+                                                                        padding-bottom: 12px;
+                                                                        text-align: left;
+                                                                        background-color: #04AA6D;
+                                                                        color: white;
+                                                                    }
+                                                                </style>
+                                                                <table  id="customers">
                                                                     <tr>
                                                                         <th> SI. No </th>
                                                                         <th>&nbsp;&nbsp; Role</th>
@@ -130,6 +160,52 @@
                                                                         <td>Employee member</td>
                                                                     </tr>
                                                                 </table>
+                                            <h3>College Internal Complaint Committee/ Anti-sexual Harassment Committee for the year 2021-22:</h3>
+                                                                <table  id="customers">
+                                                                    <tr>
+                                                                        <th> SI. No </th>
+                                                                        <th>&nbsp;&nbsp; Name</th>
+                                                                        <th>Positon</th>
+                                                                        <th>Phone</th>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>1</td>
+                                                                        <td>Dr. Suresha V, Principal</td>
+                                                                        <td>Chairperson</td>
+                                                                        <td>8310992434</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>2</td>
+                                                                        <td>Dr. Bhagya H K, Professor, E&C  Dept., Dean Hostel</td>
+                                                                        <td>Convener</td>
+                                                                        <td>9482622635</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>3</td>
+                                                                        <td>Ms. Divya A K,Associate Professor, CS&E Dept.</td>
+                                                                        <td>Secretary</td>
+                                                                        <td>8197242026</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>4</td>
+                                                                        <td>Mr. G R Ravishanker,Advocate</td>
+                                                                        <td>Member from the NGO</td>
+                                                                        <td>9448489722</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>5</td>
+                                                                        <td>Dr. Ujwal U J, CEO,KVGCE, Prof.& HOD, CS&E</td>
+                                                                        <td>Employee member</td>
+                                                                        <td>9448414141</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>6</td>
+                                                                        <td>Dr. Umashanker  K S, Professor  & HOD, Mech. Dept.</td>
+                                                                        <td>Employee member</td>
+                                                                        <td>9448445654</td>
+                                                                    </tr>
+
+                                                                </table>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -146,234 +222,20 @@
                             </div>
 
 
-                            <style>
-                                .responstable {
-                                    border-radius: 18px;
-                                }
-                            </style>
 
-
-                        </div>
-
-                        <div class="tab-pane  fade " id="Faculty">
-                            <!-- <ul class="nav nav-tabs tabtop tabsetting">
-                                    <li class="active">
-                                        <a href="#teaching-faculty" data-toggle="tab">Teaching Faculty</a>
-                                    </li>
-                                    <li>
-                                        <a href="#research-faculty" data-toggle="tab">Research Centre Faculty</a>
-                                    </li>
-                                    <li>
-                                        <a href="#technical-faculty" data-toggle="tab">Technical & Supporting Staff</a>
-                                    </li>
-                                </ul>-->
-                            <div class="tab-content faculty-tab-content responsive">
-                                <!-- teaching staff starts-->
-                                <div class="tab-pane active fade in" id="teaching-faculty">
-                                    <div class="row">
-                                        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css">
-
-                                        <style>
-                                            #team {
-                                                padding: 60px 0;
-                                                text-align: center;
-                                                background-color: #d1d1d1;
-                                                color: #145889;
-                                            }
-
-                                            #team h2 {
-                                                position: relative;
-                                                padding: 0px 0px 15px;
-                                            }
-
-                                            #team p {
-                                                font-size: 15px;
-                                                font-style: italic;
-                                                padding: 0px;
-                                                margin: 25px 0px 40px;
-                                            }
-
-                                            #team h2::after {
-                                                content: '';
-                                                border-bottom: 2px solid #fff;
-                                                position: absolute;
-                                                bottom: 0px;
-                                                right: 0px;
-                                                left: 0px;
-                                                width: 90px;
-                                                margin: 0 auto;
-                                                display: block;
-                                            }
-
-                                            #team .member {
-                                                margin-bottom: 20px;
-                                                position: relative;
-                                                overflow: hidden;
-                                                background-color: #ffffff;
-                                                padding: 10px;
-                                                border-radius: 15px 0px 15px 0px;
-                                                box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.4);
-                                            }
-
-                                            #team .member .member-info {
-                                                display: block;
-                                                position: absolute;
-                                                bottom: 0px;
-                                                left: -200px;
-                                                transition: 0.4s;
-                                                padding: 15px 0;
-                                                background: rgba(0, 0, 0, 0.4);
-                                            }
-
-                                            #team .member:hover .member-info {
-                                                left: 0px;
-                                                right: 0px;
-                                            }
-
-                                            #team .member h4 {
-                                                font-weight: 700;
-                                                margin-bottom: 2px;
-                                                font-size: 18px;
-                                                color: #fff;
-                                            }
-
-                                            #team .member span {
-                                                font-style: italic;
-                                                display: block;
-                                                font-size: 13px;
-                                            }
-
-                                            #team .member .social-links {
-                                                margin-top: 15px;
-                                            }
-
-                                            #team .member .social-links a {
-                                                transition: none;
-                                                color: #fff;
-                                            }
-
-                                            #team .member .social-links a:hover {
-                                                color: #ffc107;
-                                            }
-
-                                            #team .member .social-links i {
-                                                font-size: 18px;
-                                                margin: 0 2px;
-                                            }
-
-                                            .col-lg-3 {
-                                                float: left;
-                                                margin-left: 6.5%;
-                                            }
-                                        </style>
-                                        <section id="team">
-                                            <div class="container">
-                                                <!-- <div class="row justify-content-center">
-                    <div class="col-md-6">
-                      <h2>Meet Our Team</h2>
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text</p>
-                    </div>
-                </div> -->
-                                                <div class="row" style="align-items:center">
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/hostel/one.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4></h4>
-                                                                <span></span>
-                                                                <div class="social-links">
-                                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/hostel/two.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4></h4>
-                                                                <span></span>
-                                                                <div class="social-links">
-                                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/hostel/three.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4></h4>
-                                                                <span></span>
-                                                                <div class="social-links">
-                                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-
-
-
-                                                </div>
-                                            </div>
-                                        </section>
-                                    </div>
-                                </div>
-
-
-
-                            </div>
-                        </div>
-
+                      
+                            
                         <div class="tab-pane fade" id="Facility">
                             <div class="row">
-                                <div class="col-md-4">
-                                    <div class="facility-box">
-                                        <img src="images/department/hostel/one.jpg">
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="facility-box">
-                                        <img src="images/department/hostel/two.jpg">
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="facility-box">
-                                        <img src="images/department/hostel/three.jpg">
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="facility-box">
-                                        <img src="images/department/hostel/four.jpg">
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="facility-box">
-                                        <img src="images/department/hostel/five.jpg">
-                                    </div>
-                                </div>
+                                <ul class="list">
+                                    <li>The complainant will have to submit a written and signed complaint addressed to the convener of the Cell.</li>
+                                    <li>The counselor will call the complainant for a personal meeting, usually within a week from the submission of the written complaint</li>
+                                    <li>The members of the Cell will discuss the complaint</li>
+                                    <li>If the case falls outside the purview of the Cell, the complaint will be informed to the Principal</li>
+                                    <li>If the case comes under the purview of the Cell, an enquiry committee will be set up</li>
+                                    <li>The Committee will submit a report and recommend the nature of action to be taken at the earliest (not exceeding ten days)</li>
 
+                                </ul>
 
 
 
@@ -381,7 +243,7 @@
                             </div>
 
 
-
+                        </div>
 
 
 
