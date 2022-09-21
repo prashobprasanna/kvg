@@ -18,7 +18,7 @@
     </header>
 
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
-        <div><img src="images/banner/minority.jpg" class="img-responsive"></div>
+        <div><img src="admin-kvgce/photos/dept slider/minority.jpg" class="img-responsive"></div>
     </section>
 
 
