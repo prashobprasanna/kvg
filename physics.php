@@ -18,7 +18,7 @@
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
         <div><img src="images/banner/phy.jpg" class="img-responsive"></div>
     </section>
-    <style>
+    <!-- <style>
         div.poco {
 
             position: fixed;
@@ -70,7 +70,7 @@
 
 
         <p>Physics</p>
-    </div>
+    </div> -->
 
 
     <section class="home-facts-bg">

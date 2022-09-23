@@ -18,7 +18,7 @@
         <div><img src="images/banner/civil2.jpg" class="img-responsive"></div>
     </section>
 
-    <style>
+    <!-- <style>
         div.poco {
 
             position: fixed;
@@ -70,7 +70,7 @@
 
 
         <p>Civil Engineering</p>
-    </div>
+    </div> -->
 
     <section class="home-facts-bg">
         <div class="container">

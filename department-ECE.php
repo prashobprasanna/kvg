@@ -18,7 +18,7 @@
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
         <div><img src="admin-kvgce/images/banner/ec.jpg" class="img-responsive"></div>
     </section>
-    <style>
+    <!-- <style>
         div.poco {
 
             position: fixed;
@@ -70,7 +70,7 @@
 
 
         <p>Electronics & Communication</p>
-    </div>
+    </div> -->
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
@@ -1165,9 +1165,9 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mrs. Damayanthi K</h4>
-                                                                <span>Foreman</span>
+                                                                <span style="color:white">Foreman</span>
                                                                 <div class="social-links">
-                                                                    <a href="profile/ec/non/Damayanthi K final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                    <a href="profile/ec/non/Damayanthi K final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1180,7 +1180,7 @@
                                                             </div>
                                                             <div class="member-info">
                                                                 <h4>Mrs. Yashoda J</h4>
-                                                                <span>Lab Instructor</span>
+                                                                <span style="color:white">Lab Instructor</span>
                                                                 <div class="social-links">
                                                                     <a href="profile/ec/non/Yashode J final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
@@ -1191,20 +1191,55 @@
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/mujeeb.jpg" class="img-fluid" alt="">
+                                                                <img src="admin-kvgce/photos/faculty/ece/non/nirmala.JPG" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Mrs. Yashoda J</h4>
-                                                                <span>Lab Instructor</span>
+                                                                <h4>Mrs. Nirmala Kumari U C</h4>
+                                                                <span style="color:white">Lab Instructor</span>
                                                                 <div class="social-links">
-                                                                    <a href="profile/ec/non/Yashode J final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/non//Nirmala Kumari U final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div> 
+                                                </div>
+                                                <div class="row" style="align-items:center">
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/ece/non/bhanuprakash.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr. Bhanuprakash</h4>
+                                                                <span style="color:white">Lab Helper</span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/ec/non//Banuprakash final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div> 
 
-                        
+
+                                                    <!-- <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/ece/non/padmanaba.JPG" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr. Padmanabha</h4>
+                                                                <span>Lab Helper</span>
+                                                                <div class="social-links">
+                                                                    <a href="" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div> 
+                                                </div> -->
+
                                                 </div>
+
+                        
+                                               
                                             </div>
                                         </section>
                                     </div>

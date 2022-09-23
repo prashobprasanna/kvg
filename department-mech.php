@@ -18,59 +18,7 @@
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
         <div><img src="images/banner/mech2.jpg" class="img-responsive"></div>
     </section>
-    <style>
-        div.poco {
-
-            position: fixed;
-            top: 15%;
-            padding: 5px;
-            height: fit-content;
-            /* padding-top: 0%; */
-            padding-bottom: 0%;
-            background-color: #000000;
-            color: white;
-            font-size: large;
-            /* border: 2px solid #4CAF50; */
-            z-index: 999;
-        }
-
-        @media (max-width:500px) {
-            div.poco {
-                position: fixed;
-                top: 15%;
-                padding: 5px;
-                height: fit-content;
-                /* padding-top: 0%; */
-                padding-bottom: 0%;
-                background-color: #000000;
-                color: white;
-                font-size: small;
-                /* border: 2px solid #4CAF50; */
-                z-index: 999;
-            }
-        }
-
-        @media (max-width:300px) {
-            div.poco {
-                position: fixed;
-                top: 15%;
-                padding: 5px;
-                height: fit-content;
-                /* padding-top: 0%; */
-                padding-bottom: 0%;
-                background-color: #000000;
-                color: white;
-                font-size: smaller;
-                /* border: 2px solid #4CAF50; */
-                z-index: 999;
-            }
-        }
-    </style>
-    <div class="poco">
-
-
-        <p>Mechanical Engineering</p>
-    </div>
+    
     <section class="home-facts-bg">
         <div class="container">
             <div class="col-md-12">
@@ -1013,21 +961,21 @@
                                                     </div>
                                         </div>
 
-                                                <h2>Non Teaching</h2>
+                                                <h2>Technical & Supporting Staff</h2>
                                                 <br>
                                                 <div class="row" style="align-items:center">
 
 
 
-                                                    <!-- <div class="col-lg-3 col-md-6">
+                                                    <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/sonia-mam.jpg"
+                                                                <img src="admin-kvgce/photos/faculty/mech/non/bhavya.JPG"
                                                                     class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Prof. Sonia Peal K P</h4>
-                                                                <span></span>
+                                                                <h4>Mrs. Bhavya K K </h4>
+                                                                <span style="color:white">Lab Instructor</span>
                                                                 <div class="social-links">
                                                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                                                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -1037,7 +985,47 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div> -->
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/mech/non/mithrananda.JPG"
+                                                                    class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr. Mitrananda B </h4>
+                                                                <span style="color:white">Lab Assistant</span>
+                                                                <div class="social-links">
+                                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/mech/non/yogeshwara.JPG"
+                                                                    class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mr. Yogeshwara P T</h4>
+                                                                <span style="color:white">Attender</span>
+                                                                <div class="social-links">
+                                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
 
                                                 </div>
                                             </div>

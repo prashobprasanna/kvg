@@ -14,7 +14,7 @@
         include('navbar.php');
         ?>
     </header>
-    <style>
+    <!-- <style>
         div.poco {
 
             position: fixed;
@@ -66,7 +66,7 @@
 
 
         <p>MBA</p>
-    </div>
+    </div> -->
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
         <div><img src="images/banner/mba.jpg" class="img-responsive"></div>
     </section>
