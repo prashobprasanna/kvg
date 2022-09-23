@@ -1158,16 +1158,16 @@
                                                 <div class="row" style="align-items:center">
 
 
-                                                    <!-- <div class="col-lg-3 col-md-6">
+                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/mujeeb.jpg" class="img-fluid" alt="">
+                                                                <img src="admin-kvgce/photos/faculty/ece/non/damayanthi.JPG" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Mr. Ananda M</h4>
-                                                                <span></span>
+                                                                <h4>Mrs. Damayanthi K</h4>
+                                                                <span>Foreman</span>
                                                                 <div class="social-links">
-                                                                    <a href="profile/civil/Mr. Ananda  M.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/non/Damayanthi K final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1176,60 +1176,34 @@
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/mujeeb.jpg" class="img-fluid" alt="">
+                                                                <img src="admin-kvgce/photos/faculty/ece/non/yashodha.JPG" class="img-fluid" alt="">
                                                             </div>
                                                             <div class="member-info">
-                                                                <h4>Mrs. Dhanyashree N P</h4>
-                                                                <span></span>
+                                                                <h4>Mrs. Yashoda J</h4>
+                                                                <span>Lab Instructor</span>
                                                                 <div class="social-links">
-                                                                    <a href="profile/civil/Miss. DHANYASHRI N P.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                                    <a href="profile/ec/non/Yashode J final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div> -->
+                                                    </div> 
 
-                                                    <!-- <div class="col-lg-3 col-md-6">
+                                                    <div class="col-lg-3 col-md-6">
+                                                        <div class="member">
+                                                            <div class="member-img">
+                                                                <img src="admin-kvgce/photos/faculty/civil/mujeeb.jpg" class="img-fluid" alt="">
+                                                            </div>
+                                                            <div class="member-info">
+                                                                <h4>Mrs. Yashoda J</h4>
+                                                                <span>Lab Instructor</span>
+                                                                <div class="social-links">
+                                                                    <a href="profile/ec/non/Yashode J final 2-1-2020.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div> 
+
                         
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="member">
-                            <div class="member-img">
-                                <img src="admin-kvgce/photos/faculty/sonia mam.JPG"
-                                    class="img-fluid" alt="">
-                            </div>
-                            <div class="member-info">
-                                <h4>Prof. Sonia Peal K P</h4>
-                                <span></span>
-                                <div class="social-links">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="member">
-                            <div class="member-img">
-                                <img src="admin-kvgce/photos/faculty/bhavya mam.JPG"
-                                    class="img-fluid" alt="">
-                            </div>
-                            <div class="member-info">
-                                <h4>Prof. Bhavya P S</h4>
-                                <span>ISO Developer</span>
-                                <div class="social-links">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
                                                 </div>
                                             </div>
                                         </section>

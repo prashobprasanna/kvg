@@ -276,7 +276,7 @@
                                         </td>
                                         <td>National Scholarship portal and State Scholarship portal.
                                         </td>
-                                        <td><a href="https://scholarships.gov.in"></a></td>
+                                        <td><a href="https://scholarships.gov.in"> Website link</a></td>
 
                                     </tr>
                                     <tr>
@@ -284,75 +284,78 @@
                                         </td>
                                         <td>Director, Dept. of Pre-University Education, Bengaluru.
                                         </td>
-                                        <td><a href="https://scholarships.gov.in"></a></td>
+                                        <td><a href="https://scholarships.gov.in"> Website link</a></td>
                                     </tr>
                                     <tr>
                                         <td>Beedi Workers /Iron ore Scholarship</td>
                                         <td>National Scholarship portal.</td>
-                                        <td><a href="https://labour.gov.in/mol/Schemes/SchemeforawardofscholarshipsunderBeedi.html"></a></td>
+                                        <td><a href="https://labour.gov.in/mol/Schemes/SchemeforawardofscholarshipsunderBeedi.html"> Website link</a></td>
                                     </tr>
                                     <tr>
                                         <td>Ex-defence Scholarship</td>
                                         <td>Dept. of Sainik Welfare, Mangaluru</td>
-                                        <td><a href="https://ksb.gov.in/introduction-pmss.htm#352l"></a></td>
+                                        <td><a href="https://ksb.gov.in/introduction-pmss.htm#352l"> Website link</a></td>
                                     </tr>
 
                                     <tr>
                                         <td>Kittur Rani Chennamma Scholarship</td>
                                         <td>Dept. of Collegiate Education, Bengaluru</td>
-                                        <td><a href="https://dce.karnataka.gov.in"></a></td>
+                                        <td><a href="https://dce.karnataka.gov.in"> Website link</a></td>
                                     </tr>
                                     <tr>
                                         <td>Handicapped Scholarship</td>
                                         <td>Women & child development Board, Mangaluru.</td>
-                                        <td><a href="https://disabilityaffairs.gov.in/"></a></td>
+                                        <td><a href="https://disabilityaffairs.gov.in/"> Website link</a></td>
                                     </tr>
 
                                     <tr>
                                         <td>Jindal Scholarship</td>
                                         <td>S.J.Jindal Trust, Bengaluru.</td>
-                                        <td><a href="https://www.sitaramjindalfoundation.org"></a></td>
+                                        <td><a href="https://www.sitaramjindalfoundation.org"> Website link</a></td>
                                     </tr>
 
                                     <tr>
                                         <td>Defence Scholarship</td>
                                         <td>Director, Technical Education, Bengaluru</td>
-                                        <td><a href="https://www.desw.gov.in/prime-ministers-scholarship-scheme-pmss"></a></td>
+                                        <td><a href="https://www.desw.gov.in/prime-ministers-scholarship-scheme-pmss"> Website link</a></td>
                                     </tr>
 
                                     <tr>
                                         <td>Teachers Scholarship</td>
                                         <td>Karnataka Teachers Welfare Fund, Shikshakara Sadana, Bengaluru.</td>
-                                        <td><a href="https://teachersbadi.in/pre-matric-post-matric-merit-scholarships-students/"></a></td>
+                                        <td><a href="https://teachersbadi.in/pre-matric-post-matric-merit-scholarships-students/"> Website link</a></td>
                                     </tr>
 
                                     <tr>
                                         <td>Arivu Loan</td>
                                         <td>KMDC, Bengaluru.</td>
-                                        <td><a href="https://kmdconline.karnataka.gov.in"></a></td>
+                                        <td><a href="https://kmdconline.karnataka.gov.in"> Website link</a></td>
                                     </tr>
 
                                     <tr>
                                         <td>Pragathi Scholarship</td>
                                         <td>AICTE, New Delhi</td>
-                                        <td><a href="https://www.aicte-pragati-saksham-gov.in/"></a></td>
+                                        <td><a href="https://www.aicte-pragati-saksham-gov.in/"> Website link</a></td>
                                     </tr>
 
                                     <tr>
                                         <td>Saksham Scholarship</td>
                                         <td>AICTE, New Delhi</td>
-                                        <td><a href="https://www.aicte-pragati-saksham-gov.in/"></a></td>
+                                        <td><a href="https://www.aicte-pragati-saksham-gov.in/"> Website link</a></td>
                                     </tr>
 
 
                                     <tr>
                                         <td>SKarnataka Farmer Child </td>
                                         <td>Karnataka Government</td>
-                                        <td><a href="https://karnatakastateopenuniversity.in/karnataka-farmer-child"></a></td>
+                                        <td><a href="https://karnatakastateopenuniversity.in/karnataka-farmer-child"> Website link</a></td>
                                     </tr>
                                 </table>
-                                <label>For more details click here </label>
-                                <p> MINORITY OFFICE ADDRESS</p>
+                                <br>
+
+                               <center> <a href="minority.pdf" target="_blank">For more details click here </a></center>
+                              
+                                <p><strong> MINORITY OFFICE ADDRESS</strong></p>
                                 <p> Taluk Panchayat Building, Near JC ground</p>
                                 <p> Sullia, D.K </p>
                                 <p> Officer: Kamauluddin</p>

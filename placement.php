@@ -889,19 +889,19 @@
                                                     </div>
                                                 </div>
 
-                                                <div class="col-lg-3 col-md-6">
+                                                <!-- <div class="col-lg-3 col-md-6">
                                                     <div class="member">
                                                         <div class="member-img">
                                                             <img src="admin-kvgce/photos/faculty/jyothimani-mam.jpg" class="img-fluid" alt="">
                                                         </div>
                                                         <div class="member-info">
                                                             <h4>Dr.Jothimani K </h4>
-                                                            <div class="social-links">
+                                                            <div class="social-links"> -->
                                                                 <!-- <a href="profile"><i class="fab fa-creative-commons-by"></i></a> -->
-                                                            </div>
+                                                            <!-- </div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
 
 
                                                 <div class="col-lg-3 col-md-6">

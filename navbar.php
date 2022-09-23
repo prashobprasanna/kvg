@@ -375,7 +375,7 @@
                                             <li><a href="library.php">Library</a></li>
                                             <li><a href="hostel.php">Hostel</a></li>
                                             <li><a href="">Transportation</a></li>
-                                            <li><a href="">EDC</a></li>
+                                            <li><a href="edc.php">EDC</a></li>
                                             <li><a href="scstobc.php">SC/ST/OBC Cell</a></li>
                                             <li><a href="minority.php">Minoroty Cell</a></li>
                                             <li><a href="cicc.php">CICC</a></li>

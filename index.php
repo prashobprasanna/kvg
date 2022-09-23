@@ -1330,9 +1330,11 @@
 
         <center>
             <div class="slider25 owl-carousel">
+            
+
             <div class="card25">
                     <div class="img">
-                        <img src="achivers/nalin.jpeg" alt="">
+                        <img src="achivers/7.jpg" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">
@@ -1348,9 +1350,12 @@
                         </div> -->
                     </div>
             </div>
+
+
+            
             <div class="card25">
                     <div class="img">
-                        <img src="achivers/harisrishna.jfif" alt="">
+                        <img src="achivers/5.jpg" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">
@@ -1368,7 +1373,7 @@
             </div>
             <div class="card25">
                     <div class="img">
-                        <img src="achivers/arpitha.jpg" alt="">
+                        <img src="achivers/6.jpg" alt="">
                     </div>
                     <div class="content25">
                         <div class="title25">

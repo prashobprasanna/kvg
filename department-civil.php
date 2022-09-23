@@ -979,22 +979,7 @@
                                                             </div>
                                                         </div>
                                                     </div> -->
-                                                    <div class="col-lg-3 col-md-6">
-                                                        <div class="member">
-                                                            <div class="member-img">
-                                                                <img src="admin-kvgce/photos/faculty/civil/Vishnu.jpg" class="img-fluid" alt="">
-                                                            </div>
-                                                            <div class="member-info">
-                                                                <h4>Prof. Vishnu Bhat N</h4>
-                                                                <h5 style="color:white">Associate Professor</h5>
-                                                                <h5 style="color:white">B.E., M.Tech.</h5>
-                                                                <!-- <span>Web Designer</span> -->
-                                                                <div class="social-links">
-                                                                    <a href="profile/civil/Mr. Vishnu Bhat N.pdf" target="_blank"><i class="fab fa-creative-commons-by"></i></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                    
 
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">

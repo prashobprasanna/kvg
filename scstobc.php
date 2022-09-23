@@ -15,7 +15,7 @@
     </header>
 
     <section class="inner-banner wow fadeIn" data-wow-delay=".2s" style="padding:0">
-        <div><img src="images/banner/sc.jpg" class="img-responsive"></div>
+        <div><img src="admin-kvgce/photos/dept slider/scst.jpg" class="img-responsive"></div>
     </section>
 
 
@@ -649,55 +649,55 @@
                                     <tr>
                                         <th>Name of the Scholarship</th>
                                         <th>Sanctioned Authority</th>
-                                        <th>Website Link</th>
+                                        <th>Website</th>
 
                                     </tr>
                                     <tr>
                                         <td>SC & ST Scholarship</td>
                                         <td>State Scholarship portal.
                                         </td>
-                                        <td><a href="https://sw.kar.nic.in/index.aspx"></a> </td>
+                                        <td><a href="https://sw.kar.nic.in/index.aspx"> Website link</a> </td>
 
                                     </tr>
                                     <tr>
                                         <td>SC & ST Fee Concession</td>
                                         <td>Director of Technical Education, Bengaluru
                                         </td>
-                                        <td><a href="https://sw.kar.nic.in/index.aspx"></a> </td>
+                                        <td><a href="https://sw.kar.nic.in/index.aspx"> Website link</a> </td>
                                     </tr>
                                     <tr>
                                         <td>2A, 3A & 3B Category Fee Concession</td>
                                         <td>District Officer, BCM Department, Mangaluru
                                         </td>
-                                        <td><a href="https://bcwd.karnataka.gov.in/"></a> </td>
+                                        <td><a href="https://bcwd.karnataka.gov.in/"> Website link</a> </td>
 
                                     </tr>
                                     <tr>
                                         <td>Category I Fee Concession</td>
                                         <td>District Officer, BCM Department, Mangaluru
                                         </td>
-                                        <td><a href="https://bcwd.karnataka.gov.in/"></a> </td>
+                                        <td><a href="https://bcwd.karnataka.gov.in/"> Website link</a> </td>
 
                                     </tr>
                                     <tr>
                                         <td>MHRD Scholarship (Central Sector Scheme)</td>
                                         <td>Director, Dept. of Pre-University Education, Bengaluru.
                                         </td>
-                                        <td><a href="https://www.education.gov.in/en/scholarships"></a> </td>
+                                        <td><a href="https://www.education.gov.in/en/scholarships"> Website link</a> </td>
 
                                     </tr>
                                     <tr>
                                         <td>Beedi Workers /Iron ore Scholarship</td>
                                         <td>National Scholarship portal.
                                         </td>
-                                        <td><a href="https://teachersbadi.in/post-matric-scholarships-students-beedi-cine-iomc-lsdm-workers-welfare-fund/"></a> </td>
+                                        <td><a href="https://teachersbadi.in/post-matric-scholarships-students-beedi-cine-iomc-lsdm-workers-welfare-fund/"> Website link</a> </td>
 
                                     </tr>
                                     <tr>
                                         <td>Ex-defence Scholarship</td>
                                         <td>Dept. of Sainik Welfare, Mangaluru.
                                         </td>
-                                        <td><a href="https://www.desw.gov.in/prime-ministers-scholarship-scheme-pmss"></a> </td>
+                                        <td><a href="https://www.desw.gov.in/prime-ministers-scholarship-scheme-pmss"> Website link</a> </td>
 
                                     </tr>
 
@@ -705,7 +705,7 @@
                                         <td>Kittur Rani Chennamma Scholarship</td>
                                         <td>Dept. of Collegiate Education, Bengaluru.
                                         </td>
-                                        <td><a href="https://www.scholarships.net.in/43945.html"></a> </td>
+                                        <td><a href="https://www.scholarships.net.in/43945.html"> Website link</a> </td>
 
                                     </tr>
 
@@ -713,7 +713,7 @@
                                         <td>Handicapped Scholarship</td>
                                         <td>Women & child development Board, Mangaluru.
                                         </td>
-                                        <td><a href="https://www.getmyuni.com/scholarships/post-matric-scholarship-for-students-with-disabilities#:~:text=The%20Post%2DMatric%20Scholarship%20for,recognized%20by%20AICTE%20or%20UGC"></a> </td>
+                                        <td><a href="https://www.getmyuni.com/scholarships/post-matric-scholarship-for-students-with-disabilities#:~:text=The%20Post%2DMatric%20Scholarship%20for,recognized%20by%20AICTE%20or%20UGC"> Website link</a> </td>
 
                                     </tr>
 
@@ -721,7 +721,7 @@
                                         <td>Jindal Scholarship</td>
                                         <td>S.J.Jindal Trust, Bengaluru
                                         </td>
-                                        <td><a href="https://www.sitaramjindalfoundation.org/scholarships-for-students-in-bangalore.php"></a> </td>
+                                        <td><a href="https://www.sitaramjindalfoundation.org/scholarships-for-students-in-bangalore.php"> Website link</a> </td>
 
                                     </tr>
 
@@ -729,7 +729,7 @@
                                         <td>Defence Scholarship</td>
                                         <td>Director, Technical Education, Bengaluru.
                                         </td>
-                                        <td><a href="https://www.desw.gov.in/prime-ministers-scholarship-scheme-pmss"></a> </td>
+                                        <td><a href="https://www.desw.gov.in/prime-ministers-scholarship-scheme-pmss"> Website link</a> </td>
 
                                     </tr>
 
@@ -737,7 +737,7 @@
                                         <td>Teachers Scholarship</td>
                                         <td>Karnataka Teachers Welfare Fund, ShikshakaraSadana, Bengaluru
                                         </td>
-                                        <td><a href="https://teachersbadi.in/pre-matric-post-matric-merit-scholarships-students/"></a> </td>
+                                        <td><a href="https://teachersbadi.in/pre-matric-post-matric-merit-scholarships-students/"> Website link</a> </td>
 
                                     </tr>
 
@@ -745,7 +745,7 @@
                                         <td>Arivu Loan</td>
                                         <td>BCM Department, Bengaluru
                                         </td>
-                                        <td><a href="https://scholarshipbuddy.in/scholarship/arivu-loan-scheme-kmdc-132/"></a> </td>
+                                        <td><a href="https://scholarshipbuddy.in/scholarship/arivu-loan-scheme-kmdc-132/"> Website link</a> </td>
 
                                     </tr>
 
@@ -753,7 +753,7 @@
                                         <td>PragathiScholarship</td>
                                         <td>AICTE, New Delhi
                                         </td>
-                                        <td><a href="https://www.aicte-pragati-saksham-gov.in/"></a> </td>
+                                        <td><a href="https://www.aicte-pragati-saksham-gov.in/"> Website link</a> </td>
 
                                     </tr>
 
@@ -761,7 +761,7 @@
                                         <td>Saksham Scholarship</td>
                                         <td>AICTE, New Delhi
                                         </td>
-                                        <td><a href="https://www.aicte-pragati-saksham-gov.in/"></a> </td>
+                                        <td><a href="https://www.aicte-pragati-saksham-gov.in/"> Website link</a> </td>
 
                                     </tr>
 
@@ -769,14 +769,15 @@
                                         <td>Karnataka Farmer Child Scholarship</td>
                                         <td>Karnataka Government
                                         </td>
-                                        <td><a href="https://karnatakastateopenuniversity.in/karnataka-farmer-child-scholarship-yojana.html"></a> </td>
+                                        <td><a href="https://karnatakastateopenuniversity.in/karnataka-farmer-child-scholarship-yojana.html"> Website link</a> </td>
 
                                     </tr>
 
 
                                 </table>
-
-
+<br>
+<br>
+                                <center> <a href="NAME OF SCHOLARSHIPS.pdf" target="_blank"><strong>For more details click here </strong></a></center>
 
 
 

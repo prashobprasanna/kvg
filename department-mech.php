@@ -928,7 +928,7 @@
                                                         </div>
                                                     </div>
 
-                                                    <div class="col-lg-3 col-md-6">
+                                                    <!-- <div class="col-lg-3 col-md-6">
                                                         <div class="member">
                                                             <div class="member-img">
                                                                 <img src="admin-kvgce/photos/faculty/mech/yuvaraj.jpg" class="img-fluid" alt="">
@@ -943,7 +943,7 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
 
                                                     <div class="col-lg-3 col-md-6">
                                                         <div class="member">
